@@ -7,7 +7,7 @@
     {
       "id": "survival-plus",
       "name": "Survival+",
-      "version": "1.2.3",
+      "version": "1.3.0",
       "description": "Experiencia survival mejorada con mods de calidad de vida, iluminación y optimización.",
       "minecraft_version": "1.20.1",
       "modloader": "fabric",
@@ -23,7 +23,7 @@
         { "name": "Mod Menu",      "modrinth_id": "mOgUt4GM"      },
         { "name": "Create Fabric", "modrinth_id": "create-fabric" },
         { "name": "Indium",        "modrinth_id": "indium"        },
-        { "name": "Farmer's Delight Refabricated",        "curseforge_id": "7199661"      }
+        { "name": "Farmer's Delight Refabricated", "curseforge_id": 993166 }
       ]
     }
   ]
