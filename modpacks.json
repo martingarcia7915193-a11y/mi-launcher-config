@@ -7,11 +7,11 @@
     {
       "id": "survival-plus",
       "name": "Survival+",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "Experiencia survival mejorada con mods de calidad de vida, iluminación y optimización.",
       "minecraft_version": "1.20.1",
       "modloader": "fabric",
-      "modloader_version": "0.15.9",
+      "modloader_version": "0.16.14",
       "icon": "",
       "background": "",
 
