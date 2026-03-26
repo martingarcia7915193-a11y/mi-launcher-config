@@ -23,7 +23,8 @@
         { "name": "Mod Menu",      "modrinth_id": "mOgUt4GM"      },
         { "name": "Create Fabric", "modrinth_id": "create-fabric" },
         { "name": "Indium",        "modrinth_id": "indium"        },
-        { "name": "Farmer's Delight Refabricated", "curseforge_id": 993166 }
+        { "name": "Farmer's Delight Refabricated", "curseforge_id": 993166 },
+        { "name": "Just Enough Items", "curseforge_id": 238222 }
       ]
     }
   ]
