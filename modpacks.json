@@ -7,7 +7,7 @@
     {
       "id": "survival-plus",
       "name": "Survival+",
-      "version": "1.0.4",
+      "version": "1.0.5",
       "description": "Experiencia survival mejorada con mods de calidad de vida, iluminación y optimización.",
       "minecraft_version": "1.20.1",
       "modloader": "fabric",
@@ -42,28 +42,5 @@
         }
       ]
     },
-
-    {
-      "id": "adventure-pack",
-      "name": "Adventure Pack",
-      "version": "2.1.2",
-      "description": "Un modpack lleno de aventuras, nuevas dimensiones y criaturas épicas.",
-      "minecraft_version": "1.20.1",
-      "modloader": "fabric",
-      "modloader_version": "0.16.14",
-      "icon": "",
-      "background": "",
-
-      "mods": [
-        {
-          "name": "Sodium",
-          "modrinth_id": "AANobbMI"
-        },
-        {
-          "name": "Fabric API",
-          "modrinth_id": "P7dR8mSH"
-        }
-      ]
-    }
   ]
 }
