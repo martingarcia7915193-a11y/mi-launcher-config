@@ -7,7 +7,7 @@
     {
       "id": "survival-plus",
       "name": "Survival+",
-      "version": "1.0.9",
+      "version": "1.1.9",
       "description": "Experiencia survival mejorada con mods de calidad de vida, iluminación y optimización.",
       "minecraft_version": "1.20.1",
       "modloader": "fabric",
@@ -16,13 +16,13 @@
       "background": "",
 
       "mods": [
-        { "name": "Sodium",       "modrinth_id": "AANobbMI" },
-        { "name": "Lithium",      "modrinth_id": "gvQqBUqZ" },
-        { "name": "Iris Shaders", "modrinth_id": "YL57xq9U" },
-        { "name": "Fabric API",   "modrinth_id": "P7dR8mSH" },
-        { "name": "Mod Menu",     "modrinth_id": "mOgUt4GM" },
-        { "name": "Create Fabric","modrinth_id": "Xbc0uyRg" },
-        { "name": "Indium","modrinth_id": "Orvt0mRa" }
+        { "name": "Sodium",        "modrinth_id": "AANobbMI"      },
+        { "name": "Lithium",       "modrinth_id": "gvQqBUqZ"      },
+        { "name": "Iris Shaders",  "modrinth_id": "YL57xq9U"      },
+        { "name": "Fabric API",    "modrinth_id": "P7dR8mSH"      },
+        { "name": "Mod Menu",      "modrinth_id": "mOgUt4GM"      },
+        { "name": "Create Fabric", "modrinth_id": "create-fabric" },
+        { "name": "Indium",        "modrinth_id": "indium"        }
       ]
     }
   ]
