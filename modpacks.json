@@ -98,6 +98,14 @@
         {
           "name": "Just Enough Items",
           "curseforge_id": 238222
+        },
+        {
+          "name": "Xaero's Minimap",
+          "curseforge_id": 263420
+        },
+        {
+          "name": "Xaero's World Map",
+          "curseforge_id": 317780
         }
       ]
     },
