@@ -129,6 +129,18 @@
           "curseforge_id": 328085
         }
       ]
+    },
+    {
+      "id": "forge",
+      "name": "forge",
+      "version": "1.0.0",
+      "description": "",
+      "minecraft_version": "1.21.1",
+      "modloader": "forge",
+      "modloader_version": "52.1.14",
+      "icon": "",
+      "background": "",
+      "mods": []
     }
   ]
 }
