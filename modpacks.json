@@ -160,7 +160,12 @@
       "modloader_version": "0.16.14",
       "icon": "",
       "background": "",
-      "mods": []
+      "mods": [
+        {
+          "name": "Sodium",
+          "modrinth_id": "238222"
+        }
+      ]
     }
   ]
 }
