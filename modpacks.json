@@ -2,7 +2,6 @@
   "launcher_name": "Mi Servidor",
   "description": "Modpacks oficiales del servidor. ¡Siempre actualizados!",
   "config_version": "1.0",
-
   "modpacks": [
     {
       "id": "survival-plus",
@@ -14,18 +13,56 @@
       "modloader_version": "0.16.14",
       "icon": "",
       "background": "",
-
       "mods": [
-        { "name": "Sodium",        "modrinth_id": "AANobbMI"      },
-        { "name": "Lithium",       "modrinth_id": "gvQqBUqZ"      },
-        { "name": "Iris Shaders",  "modrinth_id": "YL57xq9U"      },
-        { "name": "Fabric API",    "modrinth_id": "P7dR8mSH"      },
-        { "name": "Mod Menu",      "modrinth_id": "mOgUt4GM"      },
-        { "name": "Create Fabric", "modrinth_id": "create-fabric" },
-        { "name": "Indium",        "modrinth_id": "indium"        },
-        { "name": "Farmer's Delight Refabricated", "curseforge_id": 993166 },
-        { "name": "Just Enough Items", "curseforge_id": 238222 }
+        {
+          "name": "Sodium",
+          "modrinth_id": "AANobbMI"
+        },
+        {
+          "name": "Lithium",
+          "modrinth_id": "gvQqBUqZ"
+        },
+        {
+          "name": "Iris Shaders",
+          "modrinth_id": "YL57xq9U"
+        },
+        {
+          "name": "Fabric API",
+          "modrinth_id": "P7dR8mSH"
+        },
+        {
+          "name": "Mod Menu",
+          "modrinth_id": "mOgUt4GM"
+        },
+        {
+          "name": "Create Fabric",
+          "modrinth_id": "create-fabric"
+        },
+        {
+          "name": "Indium",
+          "modrinth_id": "indium"
+        },
+        {
+          "name": "Farmer's Delight Refabricated",
+          "curseforge_id": 993166
+        },
+        {
+          "name": "Just Enough Items",
+          "curseforge_id": 238222
+        }
       ]
+    },
+    {
+      "id": "test",
+      "name": "TEST",
+      "version": "1.0.0",
+      "description": "test",
+      "minecraft_version": "1.21.1",
+      "modloader": "fabric",
+      "modloader_version": "0.16.14",
+      "icon": "",
+      "background": "",
+      "mods": []
     }
   ]
 }
