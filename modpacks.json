@@ -112,23 +112,6 @@
           "curseforge_id": 276951
         }
       ]
-    },
-    {
-      "id": "neo",
-      "name": "NEO",
-      "version": "1.0.0",
-      "description": "NEOFORGE PRUEBA",
-      "minecraft_version": "1.21.1",
-      "modloader": "neoforge",
-      "modloader_version": "21.1.221",
-      "icon": "",
-      "background": "",
-      "mods": [
-        {
-          "name": "Create",
-          "curseforge_id": 328085
-        }
-      ]
     }
   ]
 }
