@@ -13,7 +13,12 @@
       "modloader_version": "21.1.222",
       "icon": "",
       "background": "",
-      "mods": []
+      "mods": [
+        {
+          "name": "Create",
+          "curseforge_id": 328085
+        }
+      ]
     },
     {
       "id": "fabric",
