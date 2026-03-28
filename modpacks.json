@@ -102,6 +102,43 @@
         }
       ],
       "extras_url": "https://drive.google.com/file/d/1Tpnepq2DherMgDchH5NjRjvAiPXTQ_lb/view?usp=sharing"
+    },
+    {
+      "id": "f",
+      "name": "FABRIC TEST",
+      "version": "1.0.0",
+      "description": "",
+      "minecraft_version": "1.20.1",
+      "modloader": "fabric",
+      "modloader_version": "0.18.5",
+      "icon": "",
+      "background": "",
+      "mods": [
+        {
+          "name": "Create Fabric",
+          "modrinth_id": "create-fabric",
+          "download_url": "https://cdn.modrinth.com/data/Xbc0uyRg/versions/HAqwA6X1/create-fabric-6.0.8.1%2Bbuild.1744-mc1.20.1.jar",
+          "file_name": "create-fabric-6.0.8.1+build.1744-mc1.20.1.jar",
+          "version_number": "6.0.8.1+build.1744-mc1.20.1",
+          "icon_url": "https://cdn.modrinth.com/data/Xbc0uyRg/bb29eb217b1fd159579409b06ec7b976afd30b14_96.webp",
+          "_depends_on": [
+            "P7dR8mSH"
+          ]
+        },
+        {
+          "name": "Dependencia P7dR8mSH",
+          "modrinth_id": "P7dR8mSH",
+          "_is_dependency": true
+        },
+        {
+          "name": "Sodium",
+          "modrinth_id": "sodium",
+          "download_url": "https://cdn.modrinth.com/data/AANobbMI/versions/OihdIimA/sodium-fabric-0.5.13%2Bmc1.20.1.jar",
+          "file_name": "sodium-fabric-0.5.13+mc1.20.1.jar",
+          "version_number": "mc1.20.1-0.5.13-fabric",
+          "icon_url": "https://cdn.modrinth.com/data/AANobbMI/295862f4724dc3f78df3447ad6072b2dcd3ef0c9_96.webp"
+        }
+      ]
     }
   ]
 }
