@@ -80,6 +80,25 @@
           "file_name": "create-1.21.1-6.0.9.jar",
           "version_number": "Create 6.0.9 for mc1.21.1",
           "_is_dependency": true
+        },
+        {
+          "name": "KubeJS",
+          "curseforge_id": 238086,
+          "download_url": "https://edge.forgecdn.net/files/7278/501/kubejs-neoforge-2101.7.2-build.348.jar",
+          "file_name": "kubejs-neoforge-2101.7.2-build.348.jar",
+          "version_number": "KubeJS NeoForge 2101.7.2-build.348",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1053/159/256/256/638583716122159056.png",
+          "_depends_on": [
+            416294
+          ]
+        },
+        {
+          "name": "Rhino 2101.2.7-build.81",
+          "curseforge_id": 416294,
+          "download_url": "https://edge.forgecdn.net/files/7104/526/rhino-2101.2.7-build.81.jar",
+          "file_name": "rhino-2101.2.7-build.81.jar",
+          "version_number": "Rhino 2101.2.7-build.81",
+          "_is_dependency": true
         }
       ]
     }
