@@ -99,6 +99,14 @@
           "file_name": "rhino-2101.2.7-build.81.jar",
           "version_number": "Rhino 2101.2.7-build.81",
           "_is_dependency": true
+        },
+        {
+          "name": "Curios API (Forge/NeoForge)",
+          "curseforge_id": 309927,
+          "download_url": "https://edge.forgecdn.net/files/6529/130/curios-neoforge-9.5.1%2b1.21.1.jar",
+          "file_name": "curios-neoforge-9.5.1+1.21.1.jar",
+          "version_number": "curios-neoforge-9.5.1+1.21.1.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/195/772/256/256/636881112930494939.png"
         }
       ],
       "extras_url": "https://drive.google.com/file/d/1Tpnepq2DherMgDchH5NjRjvAiPXTQ_lb/view?usp=sharing"
