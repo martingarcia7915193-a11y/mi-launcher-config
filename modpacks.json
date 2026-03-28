@@ -116,41 +116,33 @@
       "mods": [
         {
           "name": "Create Fabric",
-          "modrinth_id": "create-fabric",
-          "download_url": "https://cdn.modrinth.com/data/Xbc0uyRg/versions/HAqwA6X1/create-fabric-6.0.8.1%2Bbuild.1744-mc1.20.1.jar",
+          "curseforge_id": 624165,
+          "download_url": "https://edge.forgecdn.net/files/7286/603/create-fabric-6.0.8.1%2bbuild.1744-mc1.20.1.jar",
           "file_name": "create-fabric-6.0.8.1+build.1744-mc1.20.1.jar",
-          "version_number": "6.0.8.1+build.1744-mc1.20.1",
-          "icon_url": "https://cdn.modrinth.com/data/Xbc0uyRg/bb29eb217b1fd159579409b06ec7b976afd30b14_96.webp",
+          "version_number": "6.0.8.1 for 1.20.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1128/146/256/256/638686305526837132.png",
           "_depends_on": [
-            "P7dR8mSH"
+            306612
           ]
         },
         {
-          "name": "Fabric API",
-          "modrinth_id": "fabric-api",
-          "download_url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/L6LGItxd/fabric-api-0.92.7%2B1.20.1.jar",
+          "name": "[1.20.1] Fabric API 0.92.7+1.20.1",
+          "curseforge_id": 306612,
+          "download_url": "https://edge.forgecdn.net/files/7472/801/fabric-api-0.92.7%2b1.20.1.jar",
           "file_name": "fabric-api-0.92.7+1.20.1.jar",
-          "version_number": "0.92.7+1.20.1",
-          "icon_url": "https://cdn.modrinth.com/data/P7dR8mSH/icon.png"
-        },
-        {
-          "name": "Indium",
-          "curseforge_id": 459496,
-          "download_url": "https://edge.forgecdn.net/files/6237/37/indium-1.0.36%2bmc1.20.1.jar",
-          "file_name": "indium-1.0.36+mc1.20.1.jar",
-          "version_number": "Indium 1.0.36 for Minecraft 1.20.x / Sodium 0.5.11",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/408/469/256/256/637622340354039262.png",
-          "_depends_on": [
-            394468
-          ]
-        },
-        {
-          "name": "Sodium 0.5.13 for Fabric",
-          "curseforge_id": 394468,
-          "download_url": "https://edge.forgecdn.net/files/6260/639/sodium-fabric-0.5.13%2bmc1.20.1.jar",
-          "file_name": "sodium-fabric-0.5.13+mc1.20.1.jar",
-          "version_number": "Sodium 0.5.13 for Fabric",
+          "version_number": "[1.20.1] Fabric API 0.92.7+1.20.1",
           "_is_dependency": true
+        },
+        {
+          "name": "Create Crafts & Additions",
+          "curseforge_id": 439890,
+          "download_url": "https://edge.forgecdn.net/files/7520/732/createaddition-fabric%2b1.20.1-1.3.4.jar",
+          "file_name": "createaddition-fabric+1.20.1-1.3.4.jar",
+          "version_number": "createaddition-fabric-1.20.1-1.3.4",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/405/250/256/256/637616939209778882.png",
+          "_depends_on": [
+            624165
+          ]
         }
       ]
     }
