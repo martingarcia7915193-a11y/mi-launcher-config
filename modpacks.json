@@ -29,18 +29,6 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/375/56/256/256/637549610342642859.png"
         }
       ]
-    },
-    {
-      "id": "fabric",
-      "name": "fabric",
-      "version": "1.0.0",
-      "description": "a",
-      "minecraft_version": "1.20.1",
-      "modloader": "fabric",
-      "modloader_version": "0.18.5",
-      "icon": "",
-      "background": "",
-      "mods": []
     }
   ]
 }
