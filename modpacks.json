@@ -6,7 +6,7 @@
     {
       "id": "createmon",
       "name": "Createmon",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "description": "Pokemon con create :v",
       "minecraft_version": "1.21.1",
       "modloader": "neoforge",
@@ -37,6 +37,14 @@
           "download_url": "https://edge.forgecdn.net/files/7806/398/sophisticatedcore-1.21.1-1.4.11.1559.jar",
           "file_name": "sophisticatedcore-1.21.1-1.4.11.1559.jar",
           "version_number": "sophisticatedcore-1.21.1-1.4.11.1559.jar"
+        },
+        {
+          "name": "Just Enough Items (JEI)",
+          "curseforge_id": 238222,
+          "download_url": "https://edge.forgecdn.net/files/7420/587/jei-1.21.1-neoforge-19.27.0.340.jar",
+          "file_name": "jei-1.21.1-neoforge-19.27.0.340.jar",
+          "version_number": "19.27.0.340 for NeoForge 1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg"
         }
       ]
     }
