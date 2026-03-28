@@ -114,23 +114,6 @@
       ]
     },
     {
-      "id": "NEO",
-      "name": "NEO",
-      "version": "1.0.2",
-      "description": "NEOa",
-      "minecraft_version": "1.21.1",
-      "modloader": "neoforge",
-      "modloader_version": "21.1.219",
-      "icon": "",
-      "background": "",
-      "mods": [
-        {
-          "name": "Create",
-          "curseforge_id": 328085
-        }
-      ]
-    },
-    {
       "id": "test2",
       "name": "test2",
       "version": "1.0.1",
