@@ -126,17 +126,20 @@
           ]
         },
         {
-          "name": "Dependencia P7dR8mSH",
-          "modrinth_id": "P7dR8mSH",
-          "_is_dependency": true
-        },
-        {
           "name": "Sodium",
           "modrinth_id": "sodium",
           "download_url": "https://cdn.modrinth.com/data/AANobbMI/versions/OihdIimA/sodium-fabric-0.5.13%2Bmc1.20.1.jar",
           "file_name": "sodium-fabric-0.5.13+mc1.20.1.jar",
           "version_number": "mc1.20.1-0.5.13-fabric",
           "icon_url": "https://cdn.modrinth.com/data/AANobbMI/295862f4724dc3f78df3447ad6072b2dcd3ef0c9_96.webp"
+        },
+        {
+          "name": "Fabric API",
+          "modrinth_id": "fabric-api",
+          "download_url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/L6LGItxd/fabric-api-0.92.7%2B1.20.1.jar",
+          "file_name": "fabric-api-0.92.7+1.20.1.jar",
+          "version_number": "0.92.7+1.20.1",
+          "icon_url": "https://cdn.modrinth.com/data/P7dR8mSH/icon.png"
         }
       ]
     }
