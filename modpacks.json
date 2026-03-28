@@ -16,12 +16,14 @@
       "mods": [
         {
           "name": "Create",
-          "curseforge_id": 328085
+          "curseforge_id": 328085,
+          "enabled": true
         },
         {
           "name": "Create Crafts & Additions",
           "curseforge_id": 439890,
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/405/250/256/256/637616939209778882.png"
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/405/250/256/256/637616939209778882.png",
+          "enabled": true
         },
         {
           "name": "Sophisticated Backpacks",
@@ -29,7 +31,8 @@
           "download_url": "https://edge.forgecdn.net/files/7801/87/sophisticatedbackpacks-1.21.1-3.25.34.1604.jar",
           "file_name": "sophisticatedbackpacks-1.21.1-3.25.34.1604.jar",
           "version_number": "sophisticatedbackpacks-1.21.1-3.25.34.1604.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/375/56/256/256/637549610342642859.png"
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/375/56/256/256/637549610342642859.png",
+          "enabled": true
         },
         {
           "name": "sophisticatedcore-1.21.1-1.4.11.1559.jar",
