@@ -107,9 +107,46 @@
           "file_name": "curios-neoforge-9.5.1+1.21.1.jar",
           "version_number": "curios-neoforge-9.5.1+1.21.1.jar",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/195/772/256/256/636881112930494939.png"
+        },
+        {
+          "name": "Sodium",
+          "curseforge_id": 394468,
+          "download_url": "https://edge.forgecdn.net/files/6382/651/sodium-neoforge-0.6.13%2bmc1.21.1.jar",
+          "file_name": "sodium-neoforge-0.6.13+mc1.21.1.jar",
+          "version_number": "Sodium 0.6.13 for NeoForge",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/284/773/256/256/637298471098686391.png"
+        },
+        {
+          "name": "Iris Shaders",
+          "curseforge_id": 455508,
+          "download_url": "https://edge.forgecdn.net/files/6661/598/iris-neoforge-1.8.12%2bmc1.21.1.jar",
+          "file_name": "iris-neoforge-1.8.12+mc1.21.1.jar",
+          "version_number": "Iris 1.8.12 for NeoForge 1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1002/450/256/256/638522657871453967.png",
+          "_depends_on": [
+            394468
+          ]
+        },
+        {
+          "name": "Colorwheel",
+          "curseforge_id": 1254143,
+          "download_url": "https://edge.forgecdn.net/files/7824/548/colorwheel-neoforge-1.2.3%2bmc1.21.1.jar",
+          "file_name": "colorwheel-neoforge-1.2.3+mc1.21.1.jar",
+          "version_number": "1.2.3+mc1.21.1-neoforge",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1286/627/256/256/638836764954331397.png",
+          "_depends_on": [
+            455508
+          ]
         }
       ],
-      "extras_url": "https://drive.google.com/file/d/1Tpnepq2DherMgDchH5NjRjvAiPXTQ_lb/view?usp=sharing"
+      "extras_url": "https://drive.google.com/file/d/1Tpnepq2DherMgDchH5NjRjvAiPXTQ_lb/view?usp=sharing",
+      "shaders": [
+        {
+          "name": "Complementary Shaders - Unbound",
+          "curseforge_id": 385587,
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/875/480/256/256/638298072228596362.png"
+        }
+      ]
     },
     {
       "id": "f",
