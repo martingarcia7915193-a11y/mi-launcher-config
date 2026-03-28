@@ -149,18 +149,6 @@
       "icon": "",
       "background": "",
       "mods": []
-    },
-    {
-      "id": "a",
-      "name": "a",
-      "version": "1.0.0",
-      "description": "",
-      "minecraft_version": "1.21.1",
-      "modloader": "quilt",
-      "modloader_version": "0.30.0-beta.3",
-      "icon": "",
-      "background": "",
-      "mods": []
     }
   ]
 }
