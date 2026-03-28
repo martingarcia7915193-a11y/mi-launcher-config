@@ -15,17 +15,6 @@
       "background": "",
       "mods": [
         {
-          "name": "Create",
-          "curseforge_id": 328085,
-          "enabled": true
-        },
-        {
-          "name": "Create Crafts & Additions",
-          "curseforge_id": 439890,
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/405/250/256/256/637616939209778882.png",
-          "enabled": true
-        },
-        {
           "name": "Just Enough Items (JEI)",
           "curseforge_id": 238222,
           "download_url": "https://edge.forgecdn.net/files/7420/587/jei-1.21.1-neoforge-19.27.0.340.jar",
@@ -50,7 +39,8 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/375/56/256/256/637549610342642859.png",
           "_depends_on": [
             618298
-          ]
+          ],
+          "enabled": true
         },
         {
           "name": "sophisticatedcore-1.21.1-1.4.11.1559.jar",
@@ -69,6 +59,26 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/543/206/256/256/637872959580005837.png",
           "_depends_on": [
             618298
+          ],
+          "enabled": true
+        },
+        {
+          "name": "Create",
+          "curseforge_id": 328085,
+          "download_url": "https://edge.forgecdn.net/files/7408/951/create-1.21.1-6.0.9.jar",
+          "file_name": "create-1.21.1-6.0.9.jar",
+          "version_number": "Create 6.0.9 for mc1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1065/184/256/256/638598725500886388.png"
+        },
+        {
+          "name": "Create Crafts & Additions",
+          "curseforge_id": 439890,
+          "download_url": "https://edge.forgecdn.net/files/7518/252/createaddition-1.5.10.jar",
+          "file_name": "createaddition-1.5.10.jar",
+          "version_number": "createaddition-neoforge-1.21.1-1.5.10",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/405/250/256/256/637616939209778882.png",
+          "_depends_on": [
+            328085
           ]
         }
       ]
