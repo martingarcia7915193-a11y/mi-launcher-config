@@ -228,6 +228,17 @@
           "file_name": "jei-1.20.1-fabric-15.20.0.129.jar",
           "version_number": "15.20.0.129 for Fabric 1.20.1",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg"
+        },
+        {
+          "name": "Farmer's Delight Refabricated",
+          "curseforge_id": 993166,
+          "download_url": "https://edge.forgecdn.net/files/7199/661/FarmersDelight-1.20.1-2.4.1%2brefabricated.jar",
+          "file_name": "FarmersDelight-1.20.1-2.4.1+refabricated.jar",
+          "version_number": "Farmer's Delight Refabricated 2.4.1 - 1.20.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/970/706/256/256/638472154113458595.png",
+          "_depends_on": [
+            306612
+          ]
         }
       ]
     },
