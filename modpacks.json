@@ -146,6 +146,19 @@
           "curseforge_id": 385587,
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/875/480/256/256/638298072228596362.png"
         }
+      ],
+      "resourcepacks": [
+        {
+          "name": "Create Style Sophisticated Backpacks",
+          "curseforge_id": 899330,
+          "download_url": "https://mediafilez.forgecdn.net/files/7707/479/CreateSophBackpacks.zip",
+          "file_name": "CreateSophBackpacks.zip",
+          "version_number": "CreateSophBackpacks",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1171/428/256/256/638742753200432139.png",
+          "_depends_on": [
+            422301
+          ]
+        }
       ]
     },
     {
