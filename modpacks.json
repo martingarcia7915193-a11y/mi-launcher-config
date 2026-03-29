@@ -13,148 +13,7 @@
       "modloader_version": "21.1.222",
       "icon": "",
       "background": "",
-      "mods": [
-        {
-          "name": "Artifacts",
-          "modrinth_id": "artifacts",
-          "download_url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/bYbUZqGA/artifacts-neoforge-13.2.0.jar",
-          "file_name": "artifacts-neoforge-13.2.0.jar",
-          "version_number": "13.2.0",
-          "icon_url": "https://cdn.modrinth.com/data/P0Mu4wcQ/icon.png"
-        },
-        {
-          "name": "Sophisticated Backpacks",
-          "curseforge_id": 422301,
-          "download_url": "https://edge.forgecdn.net/files/7801/87/sophisticatedbackpacks-1.21.1-3.25.34.1604.jar",
-          "file_name": "sophisticatedbackpacks-1.21.1-3.25.34.1604.jar",
-          "version_number": "sophisticatedbackpacks-1.21.1-3.25.34.1604.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/375/56/256/256/637549610342642859.png",
-          "_depends_on": [
-            618298
-          ],
-          "enabled": true
-        },
-        {
-          "name": "sophisticatedcore-1.21.1-1.4.11.1559.jar",
-          "curseforge_id": 618298,
-          "download_url": "https://edge.forgecdn.net/files/7806/398/sophisticatedcore-1.21.1-1.4.11.1559.jar",
-          "file_name": "sophisticatedcore-1.21.1-1.4.11.1559.jar",
-          "version_number": "sophisticatedcore-1.21.1-1.4.11.1559.jar",
-          "_is_dependency": true
-        },
-        {
-          "name": "Sophisticated Storage",
-          "curseforge_id": 619320,
-          "download_url": "https://edge.forgecdn.net/files/7801/383/sophisticatedstorage-1.21.1-1.5.30.1535.jar",
-          "file_name": "sophisticatedstorage-1.21.1-1.5.30.1535.jar",
-          "version_number": "sophisticatedstorage-1.21.1-1.5.30.1535.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/543/206/256/256/637872959580005837.png",
-          "_depends_on": [
-            618298
-          ],
-          "enabled": true
-        },
-        {
-          "name": "Create Crafts & Additions",
-          "curseforge_id": 439890,
-          "download_url": "https://edge.forgecdn.net/files/7518/252/createaddition-1.5.10.jar",
-          "file_name": "createaddition-1.5.10.jar",
-          "version_number": "createaddition-neoforge-1.21.1-1.5.10",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/405/250/256/256/637616939209778882.png",
-          "_depends_on": [
-            328085
-          ]
-        },
-        {
-          "name": "Create 6.0.9 for mc1.21.1",
-          "curseforge_id": 328085,
-          "download_url": "https://edge.forgecdn.net/files/7408/951/create-1.21.1-6.0.9.jar",
-          "file_name": "create-1.21.1-6.0.9.jar",
-          "version_number": "Create 6.0.9 for mc1.21.1",
-          "_is_dependency": true
-        },
-        {
-          "name": "KubeJS",
-          "curseforge_id": 238086,
-          "download_url": "https://edge.forgecdn.net/files/7278/501/kubejs-neoforge-2101.7.2-build.348.jar",
-          "file_name": "kubejs-neoforge-2101.7.2-build.348.jar",
-          "version_number": "KubeJS NeoForge 2101.7.2-build.348",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1053/159/256/256/638583716122159056.png",
-          "_depends_on": [
-            416294
-          ]
-        },
-        {
-          "name": "Rhino 2101.2.7-build.81",
-          "curseforge_id": 416294,
-          "download_url": "https://edge.forgecdn.net/files/7104/526/rhino-2101.2.7-build.81.jar",
-          "file_name": "rhino-2101.2.7-build.81.jar",
-          "version_number": "Rhino 2101.2.7-build.81",
-          "_is_dependency": true
-        },
-        {
-          "name": "Curios API (Forge/NeoForge)",
-          "curseforge_id": 309927,
-          "download_url": "https://edge.forgecdn.net/files/6529/130/curios-neoforge-9.5.1%2b1.21.1.jar",
-          "file_name": "curios-neoforge-9.5.1+1.21.1.jar",
-          "version_number": "curios-neoforge-9.5.1+1.21.1.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/195/772/256/256/636881112930494939.png"
-        },
-        {
-          "name": "Sodium",
-          "curseforge_id": 394468,
-          "download_url": "https://edge.forgecdn.net/files/6382/651/sodium-neoforge-0.6.13%2bmc1.21.1.jar",
-          "file_name": "sodium-neoforge-0.6.13+mc1.21.1.jar",
-          "version_number": "Sodium 0.6.13 for NeoForge",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/284/773/256/256/637298471098686391.png"
-        },
-        {
-          "name": "Iris Shaders",
-          "curseforge_id": 455508,
-          "download_url": "https://edge.forgecdn.net/files/6661/598/iris-neoforge-1.8.12%2bmc1.21.1.jar",
-          "file_name": "iris-neoforge-1.8.12+mc1.21.1.jar",
-          "version_number": "Iris 1.8.12 for NeoForge 1.21.1",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1002/450/256/256/638522657871453967.png",
-          "_depends_on": [
-            394468
-          ]
-        },
-        {
-          "name": "Colorwheel",
-          "curseforge_id": 1254143,
-          "download_url": "https://edge.forgecdn.net/files/7824/548/colorwheel-neoforge-1.2.3%2bmc1.21.1.jar",
-          "file_name": "colorwheel-neoforge-1.2.3+mc1.21.1.jar",
-          "version_number": "1.2.3+mc1.21.1-neoforge",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1286/627/256/256/638836764954331397.png",
-          "_depends_on": [
-            455508
-          ]
-        },
-        {
-          "name": "Farmer's Delight",
-          "curseforge_id": 398521,
-          "download_url": "https://edge.forgecdn.net/files/7801/529/FarmersDelight-1.21.1-1.2.11.jar",
-          "file_name": "FarmersDelight-1.21.1-1.2.11.jar",
-          "version_number": "Farmer's Delight 1.2.11 - 1.21.1",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/396/11/256/256/637595005615179370.png"
-        },
-        {
-          "name": "Xaero's World Map",
-          "curseforge_id": 317780,
-          "download_url": "https://edge.forgecdn.net/files/7598/481/xaeroworldmap-neoforge-1.21.1-1.40.11.jar",
-          "file_name": "xaeroworldmap-neoforge-1.21.1-1.40.11.jar",
-          "version_number": "neoforge-1.21.1-1.40.11.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/196/654/256/256/636886857118683130.png"
-        },
-        {
-          "name": "Xaero's Minimap",
-          "curseforge_id": 263420,
-          "download_url": "https://edge.forgecdn.net/files/7598/595/xaerominimap-neoforge-1.21.1-25.3.10.jar",
-          "file_name": "xaerominimap-neoforge-1.21.1-25.3.10.jar",
-          "version_number": "neoforge-1.21.1-25.3.10.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/92/854/256/256/636258666554688823.png"
-        }
-      ],
+      "mods": [],
       "extras_url": "https://drive.google.com/file/d/1Tpnepq2DherMgDchH5NjRjvAiPXTQ_lb/view?usp=sharing",
       "shaders": [
         {
@@ -177,6 +36,29 @@
           "version_number": "Soartex Forever R.1.5",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1460/989/256/256/638948266041239294.png",
           "enabled": true
+        }
+      ],
+      "changelog": [
+        {
+          "date": "2026-03-29T23:24:45.090Z",
+          "author": "Martion000",
+          "changes": [
+            "− Artifacts",
+            "− Sophisticated Backpacks",
+            "− sophisticatedcore-1.21.1-1.4.11.1559.jar",
+            "− Sophisticated Storage",
+            "− Create Crafts & Additions",
+            "− Create 6.0.9 for mc1.21.1",
+            "− KubeJS",
+            "− Rhino 2101.2.7-build.81",
+            "− Curios API (Forge/NeoForge)",
+            "− Sodium",
+            "− Iris Shaders",
+            "− Colorwheel",
+            "− Farmer's Delight",
+            "− Xaero's World Map",
+            "− Xaero's Minimap"
+          ]
         }
       ]
     },
