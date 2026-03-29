@@ -15,14 +15,6 @@
       "background": "",
       "mods": [
         {
-          "name": "Just Enough Items (JEI)",
-          "curseforge_id": 238222,
-          "download_url": "https://edge.forgecdn.net/files/7420/587/jei-1.21.1-neoforge-19.27.0.340.jar",
-          "file_name": "jei-1.21.1-neoforge-19.27.0.340.jar",
-          "version_number": "19.27.0.340 for NeoForge 1.21.1",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg"
-        },
-        {
           "name": "Artifacts",
           "modrinth_id": "artifacts",
           "download_url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/bYbUZqGA/artifacts-neoforge-13.2.0.jar",
