@@ -137,6 +137,14 @@
           "_depends_on": [
             455508
           ]
+        },
+        {
+          "name": "Farmer's Delight",
+          "curseforge_id": 398521,
+          "download_url": "https://edge.forgecdn.net/files/7801/529/FarmersDelight-1.21.1-1.2.11.jar",
+          "file_name": "FarmersDelight-1.21.1-1.2.11.jar",
+          "version_number": "Farmer's Delight 1.2.11 - 1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/396/11/256/256/637595005615179370.png"
         }
       ],
       "extras_url": "https://drive.google.com/file/d/1Tpnepq2DherMgDchH5NjRjvAiPXTQ_lb/view?usp=sharing",
