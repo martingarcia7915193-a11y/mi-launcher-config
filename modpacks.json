@@ -167,7 +167,8 @@
           "download_url": "https://edge.forgecdn.net/files/7050/690/Soartex%20Forever.zip",
           "file_name": "Soartex Forever.zip",
           "version_number": "Soartex Forever R.1.5",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1460/989/256/256/638948266041239294.png"
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1460/989/256/256/638948266041239294.png",
+          "enabled": false
         }
       ]
     },
