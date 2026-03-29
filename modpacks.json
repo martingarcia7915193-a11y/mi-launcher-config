@@ -145,6 +145,22 @@
           "file_name": "FarmersDelight-1.21.1-1.2.11.jar",
           "version_number": "Farmer's Delight 1.2.11 - 1.21.1",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/396/11/256/256/637595005615179370.png"
+        },
+        {
+          "name": "Xaero's World Map",
+          "curseforge_id": 317780,
+          "download_url": "https://edge.forgecdn.net/files/7598/481/xaeroworldmap-neoforge-1.21.1-1.40.11.jar",
+          "file_name": "xaeroworldmap-neoforge-1.21.1-1.40.11.jar",
+          "version_number": "neoforge-1.21.1-1.40.11.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/196/654/256/256/636886857118683130.png"
+        },
+        {
+          "name": "Xaero's Minimap",
+          "curseforge_id": 263420,
+          "download_url": "https://edge.forgecdn.net/files/7598/595/xaerominimap-neoforge-1.21.1-25.3.10.jar",
+          "file_name": "xaerominimap-neoforge-1.21.1-25.3.10.jar",
+          "version_number": "neoforge-1.21.1-25.3.10.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/92/854/256/256/636258666554688823.png"
         }
       ],
       "extras_url": "https://drive.google.com/file/d/1Tpnepq2DherMgDchH5NjRjvAiPXTQ_lb/view?usp=sharing",
@@ -168,7 +184,7 @@
           "file_name": "Soartex Forever.zip",
           "version_number": "Soartex Forever R.1.5",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1460/989/256/256/638948266041239294.png",
-          "enabled": false
+          "enabled": true
         }
       ]
     },
