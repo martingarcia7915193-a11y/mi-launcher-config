@@ -53,6 +53,14 @@
           "file_name": "Mekanism-1.21.1-10.7.18.84.jar",
           "version_number": "Mekanism-1.21.1-10.7.18.84.jar",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/492/672/256/256/637801316302309362.png"
+        },
+        {
+          "name": "Chat Heads",
+          "curseforge_id": 407206,
+          "download_url": "https://edge.forgecdn.net/files/7591/254/chat_heads-0.15.0-neoforge-1.21.jar",
+          "file_name": "chat_heads-0.15.0-neoforge-1.21.jar",
+          "version_number": "[NeoForge 1.21.1] 0.15.0",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/299/225/256/256/637352537610256484.png"
         }
       ],
       "extras_url": "https://drive.google.com/file/d/1Tpnepq2DherMgDchH5NjRjvAiPXTQ_lb/view?usp=sharing",
@@ -80,6 +88,13 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-03-30T02:21:44.701Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Chat Heads"
+          ]
+        },
         {
           "date": "2026-03-29T23:37:10.003Z",
           "author": "Martion000",
