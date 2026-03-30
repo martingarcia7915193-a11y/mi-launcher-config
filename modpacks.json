@@ -383,9 +383,31 @@
           "file_name": "accessories-neoforge-1.1.0-beta.53+1.21.1.jar",
           "version_number": "[1.21.1] Accessories [Neoforge] - 1.1.0",
           "_is_dependency": true
+        },
+        {
+          "name": "Navas ZA Megas",
+          "curseforge_id": 1452045,
+          "download_url": "https://mediafilez.forgecdn.net/files/7708/927/zamega-neoforge-1.6.1.jar",
+          "file_name": "zamega-neoforge-1.6.1.jar",
+          "version_number": "zamega 1.6.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1657/671/256/256/639056305199960736.png",
+          "_depends_on": [
+            419699,
+            532610,
+            1189523,
+            938917,
+            687131
+          ]
         }
       ],
       "changelog": [
+        {
+          "date": "2026-03-30T07:09:02.388Z",
+          "author": "GhoulPhantomZ",
+          "changes": [
+            "+ Navas ZA Megas"
+          ]
+        },
         {
           "date": "2026-03-30T07:07:32.405Z",
           "author": "GhoulPhantomZ",
