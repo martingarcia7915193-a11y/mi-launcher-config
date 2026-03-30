@@ -64,9 +64,33 @@
           "file_name": "FarmersDelight-1.21.1-1.2.11.jar",
           "version_number": "Farmer's Delight 1.2.11 - 1.21.1",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/396/11/256/256/637595005615179370.png"
+        },
+        {
+          "name": "Sophisticated Backpacks",
+          "modrinth_id": "sophisticated-backpacks",
+          "download_url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/h91LKaZD/sophisticatedbackpacks-1.21.1-3.25.34.1604.jar",
+          "file_name": "sophisticatedbackpacks-1.21.1-3.25.34.1604.jar",
+          "version_number": "1.21.1-3.25.34.1604",
+          "icon_url": "https://cdn.modrinth.com/data/TyCTlI4b/e31c7e2f8769d317339e25b2a8d1b40fbf312729_96.webp",
+          "_depends_on": [
+            "nmoqTijg"
+          ]
+        },
+        {
+          "name": "Dependencia nmoqTijg",
+          "modrinth_id": "nmoqTijg",
+          "_is_dependency": true
         }
       ],
       "changelog": [
+        {
+          "date": "2026-03-30T02:40:50.804Z",
+          "author": "GhoulPhantomZ",
+          "changes": [
+            "+ Sophisticated Backpacks",
+            "+ Dependencia nmoqTijg"
+          ]
+        },
         {
           "date": "2026-03-30T02:39:22.343Z",
           "author": "Martion000",
