@@ -220,6 +220,13 @@
       ],
       "changelog": [
         {
+          "date": "2026-03-30T05:59:38.904Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Tom's Create Style Recipes (DP)"
+          ]
+        },
+        {
           "date": "2026-03-30T04:59:03.579Z",
           "author": "Martion000",
           "changes": [
@@ -291,6 +298,16 @@
           "file_name": "Tom's Create Style 1.2 - 1.21.zip",
           "version_number": "Tom's Create Style 1.2 - 1.21.zip",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1273/480/256/256/638828425709420198.png"
+        }
+      ],
+      "datapacks": [
+        {
+          "name": "Tom's Create Style Recipes",
+          "curseforge_id": 1266888,
+          "download_url": "https://edge.forgecdn.net/files/6852/972/Tom%27s%20Create%20Style%20Recipes%201.0%20-%201.21.zip",
+          "file_name": "Tom's Create Style Recipes 1.0 - 1.21.zip",
+          "version_number": "Tom's Create Style Recipes 1.0 - 1.21.zip",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1275/833/256/256/638830037377239809.png"
         }
       ]
     },
