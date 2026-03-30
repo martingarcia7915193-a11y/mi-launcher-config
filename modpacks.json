@@ -83,9 +83,24 @@
           "file_name": "sophisticatedcore-1.21.1-1.4.12.1566.jar",
           "version_number": "sophisticatedcore-1.21.1-1.4.12.1566.jar",
           "_is_dependency": true
+        },
+        {
+          "name": "Artifacts",
+          "curseforge_id": 312353,
+          "download_url": "https://edge.forgecdn.net/files/7468/997/artifacts-neoforge-13.2.0.jar",
+          "file_name": "artifacts-neoforge-13.2.0.jar",
+          "version_number": "artifacts-neoforge-13.2.0.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/444/622/256/256/637699815276651872.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-03-30T02:45:09.582Z",
+          "author": "GhoulPhantomZ",
+          "changes": [
+            "+ Artifacts"
+          ]
+        },
         {
           "date": "2026-03-30T02:42:25.674Z",
           "author": "GhoulPhantomZ",
