@@ -185,9 +185,27 @@
           "file_name": "xaerominimap-neoforge-1.21.1-25.3.10.jar",
           "version_number": "neoforge-1.21.1-25.3.10.jar",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/92/854/256/256/636258666554688823.png"
+        },
+        {
+          "name": "Create Crafts & Additions",
+          "curseforge_id": 439890,
+          "download_url": "https://edge.forgecdn.net/files/7518/252/createaddition-1.5.10.jar",
+          "file_name": "createaddition-1.5.10.jar",
+          "version_number": "createaddition-neoforge-1.21.1-1.5.10",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/405/250/256/256/637616939209778882.png",
+          "_depends_on": [
+            328085
+          ]
         }
       ],
       "changelog": [
+        {
+          "date": "2026-03-30T03:27:34.031Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Create Crafts & Additions"
+          ]
+        },
         {
           "date": "2026-03-30T03:24:02.068Z",
           "author": "GhoulPhantomZ",
