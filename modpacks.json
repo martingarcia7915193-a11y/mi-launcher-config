@@ -345,9 +345,57 @@
             687131,
             289412
           ]
+        },
+        {
+          "name": "Cobblemon: Legendary Monuments",
+          "curseforge_id": 1263645,
+          "download_url": "https://edge.forgecdn.net/files/7095/325/LegendaryMonuments-7.1-NEOFORGE-CONNECTOR.jar",
+          "file_name": "LegendaryMonuments-7.1-NEOFORGE-CONNECTOR.jar",
+          "version_number": "LegendaryMonuments-7.1-NEOFORGE-CONNECTOR.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1337/809/256/256/638869657375636257.jpeg"
+        },
+        {
+          "name": "Cobblemon: Mega Showdown",
+          "curseforge_id": 1189523,
+          "download_url": "https://edge.forgecdn.net/files/7833/504/mega_showdown-neoforge-1.7.2%2b1.7.3%2b1.21.1-hotfix.jar",
+          "file_name": "mega_showdown-neoforge-1.7.2+1.7.3+1.21.1-hotfix.jar",
+          "version_number": "mega_showdown 1.7.2+1.7.3+1.21.1-hotfix",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1184/964/256/256/638758921078315414.png",
+          "_depends_on": [
+            532610,
+            938917,
+            419699,
+            687131
+          ]
+        },
+        {
+          "name": "[1.21.1] oωo - neo - 0.12.15.5-beta.1+1.21",
+          "curseforge_id": 532610,
+          "download_url": "https://edge.forgecdn.net/files/6785/734/owo-lib-neoforge-0.12.15.5-beta.1%2b1.21.jar",
+          "file_name": "owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
+          "version_number": "[1.21.1] oωo - neo - 0.12.15.5-beta.1+1.21",
+          "_is_dependency": true
+        },
+        {
+          "name": "[1.21.1] Accessories [Neoforge] - 1.1.0",
+          "curseforge_id": 938917,
+          "download_url": "https://edge.forgecdn.net/files/7583/320/accessories-neoforge-1.1.0-beta.53%2b1.21.1.jar",
+          "file_name": "accessories-neoforge-1.1.0-beta.53+1.21.1.jar",
+          "version_number": "[1.21.1] Accessories [Neoforge] - 1.1.0",
+          "_is_dependency": true
         }
       ],
       "changelog": [
+        {
+          "date": "2026-03-30T07:07:32.405Z",
+          "author": "GhoulPhantomZ",
+          "changes": [
+            "+ Cobblemon: Legendary Monuments",
+            "+ Cobblemon: Mega Showdown",
+            "+ [1.21.1] oωo - neo - 0.12.15.5-beta.1+1.21",
+            "+ [1.21.1] Accessories [Neoforge] - 1.1.0"
+          ]
+        },
         {
           "date": "2026-03-30T07:05:58.334Z",
           "author": "Martion000",
