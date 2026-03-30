@@ -355,9 +355,24 @@
           "name": "Mod #438496",
           "curseforge_id": 438496,
           "_is_dependency": true
+        },
+        {
+          "name": "Cobblemon: Legendary Monuments",
+          "curseforge_id": 1263645,
+          "download_url": "https://edge.forgecdn.net/files/7095/325/LegendaryMonuments-7.1-NEOFORGE-CONNECTOR.jar",
+          "file_name": "LegendaryMonuments-7.1-NEOFORGE-CONNECTOR.jar",
+          "version_number": "LegendaryMonuments-7.1-NEOFORGE-CONNECTOR.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1337/809/256/256/638869657375636257.jpeg"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-03-30T07:01:29.222Z",
+          "author": "GhoulPhantomZ",
+          "changes": [
+            "+ Cobblemon: Legendary Monuments"
+          ]
+        },
         {
           "date": "2026-03-30T06:57:47.922Z",
           "author": "Martion000",
