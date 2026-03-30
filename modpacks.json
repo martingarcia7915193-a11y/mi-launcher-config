@@ -216,9 +216,36 @@
           "file_name": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
           "version_number": "3.8.2 for neoforge 1.21.1",
           "_is_dependency": true
+        },
+        {
+          "name": "Paxi (NeoForge)",
+          "curseforge_id": 1015157,
+          "download_url": "https://edge.forgecdn.net/files/6485/740/Paxi-1.21.1-NeoForge-5.1.3.jar",
+          "file_name": "Paxi-1.21.1-NeoForge-5.1.3.jar",
+          "version_number": "[1.21.1] Paxi v5.1.3 (NeoForge)",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/992/752/256/256/638507134259656932.png",
+          "_depends_on": [
+            1015100
+          ]
+        },
+        {
+          "name": "[1.21.1] YUNG's API v5.1.6 (NeoForge)",
+          "curseforge_id": 1015100,
+          "download_url": "https://edge.forgecdn.net/files/6715/463/YungsApi-1.21.1-NeoForge-5.1.6.jar",
+          "file_name": "YungsApi-1.21.1-NeoForge-5.1.6.jar",
+          "version_number": "[1.21.1] YUNG's API v5.1.6 (NeoForge)",
+          "_is_dependency": true
         }
       ],
       "changelog": [
+        {
+          "date": "2026-03-30T06:09:34.404Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Paxi (NeoForge)",
+            "+ [1.21.1] YUNG's API v5.1.6 (NeoForge)"
+          ]
+        },
         {
           "date": "2026-03-30T05:59:38.904Z",
           "author": "Martion000",
