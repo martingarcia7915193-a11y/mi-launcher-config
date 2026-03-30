@@ -2,5 +2,27 @@
   "launcher_name": "Arkadia Launcher",
   "description": "Modpacks oficiales del servidor. ¡Siempre actualizados!",
   "config_version": "1.0",
-  "modpacks": []
+  "modpacks": [
+    {
+      "id": "createmon",
+      "name": "Createmon",
+      "version": "1.0.0",
+      "description": "",
+      "minecraft_version": "1.21.1",
+      "modloader": "neoforge",
+      "modloader_version": "21.1.222",
+      "icon": "",
+      "background": "",
+      "mods": [],
+      "changelog": [
+        {
+          "date": "2026-03-30T04:41:24.628Z",
+          "author": "Martion000",
+          "changes": [
+            "✦ Modpack creado"
+          ]
+        }
+      ]
+    }
+  ]
 }
