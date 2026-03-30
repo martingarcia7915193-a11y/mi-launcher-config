@@ -56,9 +56,24 @@
           "file_name": "jei-1.21.1-neoforge-19.27.0.340.jar",
           "version_number": "19.27.0.340 for NeoForge 1.21.1",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg"
+        },
+        {
+          "name": "Farmer's Delight",
+          "curseforge_id": 398521,
+          "download_url": "https://edge.forgecdn.net/files/7801/529/FarmersDelight-1.21.1-1.2.11.jar",
+          "file_name": "FarmersDelight-1.21.1-1.2.11.jar",
+          "version_number": "Farmer's Delight 1.2.11 - 1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/396/11/256/256/637595005615179370.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-03-30T02:39:22.343Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Farmer's Delight"
+          ]
+        },
         {
           "date": "2026-03-30T02:37:49.471Z",
           "author": "Martion000",
