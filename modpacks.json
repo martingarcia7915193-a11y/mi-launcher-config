@@ -204,9 +204,28 @@
           "file_name": "xaeroworldmap-neoforge-1.21.1-1.40.11.jar",
           "version_number": "neoforge-1.21.1-1.40.11.jar",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/196/654/256/256/636886857118683130.png"
+        },
+        {
+          "name": "Create: Cobblemon Manufactory",
+          "curseforge_id": 1399042,
+          "download_url": "https://edge.forgecdn.net/files/7577/404/cobblemon_manufactory-0.3.1.jar",
+          "file_name": "cobblemon_manufactory-0.3.1.jar",
+          "version_number": "v0.3.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1551/761/256/256/639007132412282789.png",
+          "_depends_on": [
+            687131,
+            328085
+          ]
         }
       ],
       "changelog": [
+        {
+          "date": "2026-03-30T03:35:13.104Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Create: Cobblemon Manufactory"
+          ]
+        },
         {
           "date": "2026-03-30T03:34:23.714Z",
           "author": "GhoulPhantomZ",
