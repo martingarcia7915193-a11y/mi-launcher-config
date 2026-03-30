@@ -61,6 +61,14 @@
           "file_name": "chat_heads-0.15.0-neoforge-1.21.jar",
           "version_number": "[NeoForge 1.21.1] 0.15.0",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/299/225/256/256/637352537610256484.png"
+        },
+        {
+          "name": "Farmer's Delight",
+          "curseforge_id": 398521,
+          "download_url": "https://edge.forgecdn.net/files/7801/529/FarmersDelight-1.21.1-1.2.11.jar",
+          "file_name": "FarmersDelight-1.21.1-1.2.11.jar",
+          "version_number": "Farmer's Delight 1.2.11 - 1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/396/11/256/256/637595005615179370.png"
         }
       ],
       "extras_url": "https://drive.google.com/file/d/1Tpnepq2DherMgDchH5NjRjvAiPXTQ_lb/view?usp=sharing",
@@ -88,6 +96,13 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-03-30T02:31:46.472Z",
+          "author": "GhoulPhantomZ",
+          "changes": [
+            "+ Farmer's Delight"
+          ]
+        },
         {
           "date": "2026-03-30T02:21:44.701Z",
           "author": "Martion000",
