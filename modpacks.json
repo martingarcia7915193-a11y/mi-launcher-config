@@ -134,9 +134,24 @@
           "file_name": "EpheroLib-1.21.1-NEO-FORGE-1.2.0.jar",
           "version_number": "EpheroLib-1.21.1-NEO-FORGE-1.2.0.jar",
           "_is_dependency": true
+        },
+        {
+          "name": "Ars Nouveau",
+          "curseforge_id": 401955,
+          "download_url": "https://edge.forgecdn.net/files/7764/18/ars_nouveau-1.21.1-5.11.3.jar",
+          "file_name": "ars_nouveau-1.21.1-5.11.3.jar",
+          "version_number": "ars_nouveau-1.21.1-5.11.3",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/565/915/256/256/637924211543296813.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-03-30T03:00:23.037Z",
+          "author": "GhoulPhantomZ",
+          "changes": [
+            "+ Ars Nouveau"
+          ]
+        },
         {
           "date": "2026-03-30T02:58:02.223Z",
           "author": "GhoulPhantomZ",
