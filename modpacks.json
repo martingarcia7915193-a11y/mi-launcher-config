@@ -46,6 +46,71 @@
           ]
         }
       ]
+    },
+    {
+      "id": "createmon",
+      "name": "Createmon",
+      "version": "1.0.0",
+      "description": "Pokemons mas create",
+      "minecraft_version": "1.21.1",
+      "modloader": "neoforge",
+      "modloader_version": "21.1.222",
+      "icon": "",
+      "background": "",
+      "mods": [
+        {
+          "name": "Create",
+          "curseforge_id": 328085,
+          "download_url": "https://edge.forgecdn.net/files/7408/951/create-1.21.1-6.0.9.jar",
+          "file_name": "create-1.21.1-6.0.9.jar",
+          "version_number": "Create 6.0.9 for mc1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1065/184/256/256/638598725500886388.png"
+        },
+        {
+          "name": "Cobblemon",
+          "curseforge_id": 687131,
+          "download_url": "https://edge.forgecdn.net/files/7553/231/Cobblemon-neoforge-1.7.3%2b1.21.1.jar",
+          "file_name": "Cobblemon-neoforge-1.7.3+1.21.1.jar",
+          "version_number": "Cobblemon v1.7.3 ~ NeoForge",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/620/286/256/256/638008832892634916.png",
+          "_depends_on": [
+            351264
+          ]
+        },
+        {
+          "name": "Kotlin for Forge 5.11.0",
+          "curseforge_id": 351264,
+          "download_url": "https://edge.forgecdn.net/files/7471/280/kotlinforforge-5.11.0-all.jar",
+          "file_name": "kotlinforforge-5.11.0-all.jar",
+          "version_number": "Kotlin for Forge 5.11.0",
+          "_is_dependency": true
+        },
+        {
+          "name": "Sodium",
+          "curseforge_id": 394468,
+          "download_url": "https://edge.forgecdn.net/files/6382/651/sodium-neoforge-0.6.13%2bmc1.21.1.jar",
+          "file_name": "sodium-neoforge-0.6.13+mc1.21.1.jar",
+          "version_number": "Sodium 0.6.13 for NeoForge",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/284/773/256/256/637298471098686391.png"
+        },
+        {
+          "name": "Just Enough Items (JEI)",
+          "curseforge_id": 238222,
+          "download_url": "https://edge.forgecdn.net/files/7420/587/jei-1.21.1-neoforge-19.27.0.340.jar",
+          "file_name": "jei-1.21.1-neoforge-19.27.0.340.jar",
+          "version_number": "19.27.0.340 for NeoForge 1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg"
+        }
+      ],
+      "changelog": [
+        {
+          "date": "2026-03-30T02:36:30.115Z",
+          "author": "Martion000",
+          "changes": [
+            "✦ Modpack creado"
+          ]
+        }
+      ]
     }
   ]
 }
