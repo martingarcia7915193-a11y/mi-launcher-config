@@ -177,25 +177,17 @@
           "file_name": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
           "version_number": "[1.21+ NeoForge] Mouse Tweaks 2.26.1",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/467/691/256/256/637749969243449870.png"
-        },
-        {
-          "name": "Xaero's Minimap",
-          "curseforge_id": 263420,
-          "download_url": "https://edge.forgecdn.net/files/7598/595/xaerominimap-neoforge-1.21.1-25.3.10.jar",
-          "file_name": "xaerominimap-neoforge-1.21.1-25.3.10.jar",
-          "version_number": "neoforge-1.21.1-25.3.10.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/92/854/256/256/636258666554688823.png"
-        },
-        {
-          "name": "Xaero's World Map",
-          "curseforge_id": 317780,
-          "download_url": "https://edge.forgecdn.net/files/7598/481/xaeroworldmap-neoforge-1.21.1-1.40.11.jar",
-          "file_name": "xaeroworldmap-neoforge-1.21.1-1.40.11.jar",
-          "version_number": "neoforge-1.21.1-1.40.11.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/196/654/256/256/636886857118683130.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-03-30T03:32:09.745Z",
+          "author": "Martion000",
+          "changes": [
+            "− Xaero's Minimap",
+            "− Xaero's World Map"
+          ]
+        },
         {
           "date": "2026-03-30T03:28:00.181Z",
           "author": "GhoulPhantomZ",
