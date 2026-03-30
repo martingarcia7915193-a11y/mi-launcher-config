@@ -252,9 +252,24 @@
           "file_name": "carryon-neoforge-1.21.1-2.2.4.4.jar",
           "version_number": "carryon-neoforge-1.21.1-2.2.4.4",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/109/514/256/256/636380307126307812.png"
+        },
+        {
+          "name": "geckolib-neoforge-1.21.1-4.8.4.jar",
+          "curseforge_id": 388172,
+          "download_url": "https://edge.forgecdn.net/files/7707/149/geckolib-neoforge-1.21.1-4.8.4.jar",
+          "file_name": "geckolib-neoforge-1.21.1-4.8.4.jar",
+          "version_number": "geckolib-neoforge-1.21.1-4.8.4.jar",
+          "_is_dependency": true
         }
       ],
       "changelog": [
+        {
+          "date": "2026-03-30T04:35:31.524Z",
+          "author": "GhoulPhantomZ",
+          "changes": [
+            "+ geckolib-neoforge-1.21.1-4.8.4.jar"
+          ]
+        },
         {
           "date": "2026-03-30T03:41:33.201Z",
           "author": "GhoulPhantomZ",
