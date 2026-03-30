@@ -398,9 +398,46 @@
             938917,
             687131
           ]
+        },
+        {
+          "name": "Chipped",
+          "curseforge_id": 456956,
+          "download_url": "https://edge.forgecdn.net/files/5813/117/chipped-neoforge-1.21.1-4.0.2.jar",
+          "file_name": "chipped-neoforge-1.21.1-4.0.2.jar",
+          "version_number": "[NeoForge] Chipped 4.0.2",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/495/254/256/256/637808243655328652_animated.gif",
+          "_depends_on": [
+            570073,
+            841890
+          ]
+        },
+        {
+          "name": "[NeoForge] Resourceful Lib 3.0.12",
+          "curseforge_id": 570073,
+          "download_url": "https://edge.forgecdn.net/files/5973/188/resourcefullib-neoforge-1.21-3.0.12.jar",
+          "file_name": "resourcefullib-neoforge-1.21-3.0.12.jar",
+          "version_number": "[NeoForge] Resourceful Lib 3.0.12",
+          "_is_dependency": true
+        },
+        {
+          "name": "[NeoForge] Athena 4.0.2",
+          "curseforge_id": 841890,
+          "download_url": "https://edge.forgecdn.net/files/6669/522/athena-neoforge-1.21-4.0.2.jar",
+          "file_name": "athena-neoforge-1.21-4.0.2.jar",
+          "version_number": "[NeoForge] Athena 4.0.2",
+          "_is_dependency": true
         }
       ],
       "changelog": [
+        {
+          "date": "2026-03-30T07:09:11.228Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Chipped",
+            "+ [NeoForge] Resourceful Lib 3.0.12",
+            "+ [NeoForge] Athena 4.0.2"
+          ]
+        },
         {
           "date": "2026-03-30T07:09:02.388Z",
           "author": "GhoulPhantomZ",
