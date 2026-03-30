@@ -347,14 +347,6 @@
           ]
         },
         {
-          "name": "Cobblemon: Legendary Monuments",
-          "curseforge_id": 1263645,
-          "download_url": "https://edge.forgecdn.net/files/7095/325/LegendaryMonuments-7.1-NEOFORGE-CONNECTOR.jar",
-          "file_name": "LegendaryMonuments-7.1-NEOFORGE-CONNECTOR.jar",
-          "version_number": "LegendaryMonuments-7.1-NEOFORGE-CONNECTOR.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1337/809/256/256/638869657375636257.jpeg"
-        },
-        {
           "name": "Cobblemon: Mega Showdown",
           "curseforge_id": 1189523,
           "download_url": "https://edge.forgecdn.net/files/7833/504/mega_showdown-neoforge-1.7.2%2b1.7.3%2b1.21.1-hotfix.jar",
@@ -429,6 +421,13 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-03-30T07:14:22.238Z",
+          "author": "Martion000",
+          "changes": [
+            "− Cobblemon: Legendary Monuments"
+          ]
+        },
         {
           "date": "2026-03-30T07:09:11.228Z",
           "author": "Martion000",
