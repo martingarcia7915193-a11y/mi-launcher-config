@@ -142,9 +142,45 @@
           "file_name": "ars_nouveau-1.21.1-5.11.3.jar",
           "version_number": "ars_nouveau-1.21.1-5.11.3",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/565/915/256/256/637924211543296813.png"
+        },
+        {
+          "name": "Waystones",
+          "curseforge_id": 245755,
+          "download_url": "https://edge.forgecdn.net/files/7750/240/waystones-neoforge-1.21.1-21.1.29.jar",
+          "file_name": "waystones-neoforge-1.21.1-21.1.29.jar",
+          "version_number": "waystones-neoforge-1.21.1-21.1.29.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1107/108/256/256/638657104456838765.png",
+          "_depends_on": [
+            531761
+          ]
+        },
+        {
+          "name": "balm-neoforge-1.21.1-21.0.56.jar",
+          "curseforge_id": 531761,
+          "download_url": "https://edge.forgecdn.net/files/7420/963/balm-neoforge-1.21.1-21.0.56.jar",
+          "file_name": "balm-neoforge-1.21.1-21.0.56.jar",
+          "version_number": "balm-neoforge-1.21.1-21.0.56.jar",
+          "_is_dependency": true
+        },
+        {
+          "name": "Tom's Simple Storage Mod",
+          "curseforge_id": 378609,
+          "download_url": "https://edge.forgecdn.net/files/7659/872/toms_storage-1.21-2.3.0.jar",
+          "file_name": "toms_storage-1.21-2.3.0.jar",
+          "version_number": "[NeoForge] Tom's Storage 1.21-2.3.0",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/266/898/256/256/637234057062921445.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-03-30T03:05:21.236Z",
+          "author": "GhoulPhantomZ",
+          "changes": [
+            "+ Waystones",
+            "+ balm-neoforge-1.21.1-21.0.56.jar",
+            "+ Tom's Simple Storage Mod"
+          ]
+        },
         {
           "date": "2026-03-30T03:00:23.037Z",
           "author": "GhoulPhantomZ",
