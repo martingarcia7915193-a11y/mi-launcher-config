@@ -244,9 +244,24 @@
           "file_name": "bookshelf-neoforge-1.21.1-21.1.81.jar",
           "version_number": "bookshelf-neoforge-1.21.1-21.1.81.jar",
           "_is_dependency": true
+        },
+        {
+          "name": "Carry On",
+          "curseforge_id": 274259,
+          "download_url": "https://edge.forgecdn.net/files/7393/892/carryon-neoforge-1.21.1-2.2.4.4.jar",
+          "file_name": "carryon-neoforge-1.21.1-2.2.4.4.jar",
+          "version_number": "carryon-neoforge-1.21.1-2.2.4.4",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/109/514/256/256/636380307126307812.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-03-30T03:41:33.201Z",
+          "author": "GhoulPhantomZ",
+          "changes": [
+            "+ Carry On"
+          ]
+        },
         {
           "date": "2026-03-30T03:35:39.509Z",
           "author": "GhoulPhantomZ",
