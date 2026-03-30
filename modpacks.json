@@ -243,9 +243,28 @@
           "file_name": "sodium-neoforge-0.6.13+mc1.21.1.jar",
           "version_number": "Sodium 0.6.13 for NeoForge",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/284/773/256/256/637298471098686391.png"
+        },
+        {
+          "name": "Mechanical Healing Machine",
+          "curseforge_id": 1364314,
+          "download_url": "https://edge.forgecdn.net/files/7462/649/cobblemonmechanicalhealingmachine-1.2.2.jar",
+          "file_name": "cobblemonmechanicalhealingmachine-1.2.2.jar",
+          "version_number": "cobblemonmechanicalhealingmachine-1.2.2.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1477/422/256/256/638959204100284879.png",
+          "_depends_on": [
+            328085,
+            687131
+          ]
         }
       ],
       "changelog": [
+        {
+          "date": "2026-03-30T06:36:39.313Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Mechanical Healing Machine"
+          ]
+        },
         {
           "date": "2026-03-30T06:11:37.175Z",
           "author": "Martion000",
