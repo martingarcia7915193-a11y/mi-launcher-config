@@ -216,9 +216,46 @@
             687131,
             328085
           ]
+        },
+        {
+          "name": "Enchantment Descriptions",
+          "curseforge_id": 250419,
+          "download_url": "https://edge.forgecdn.net/files/7039/849/enchdesc-neoforge-1.21.1-21.1.9.jar",
+          "file_name": "enchdesc-neoforge-1.21.1-21.1.9.jar",
+          "version_number": "enchdesc-neoforge-1.21.1-21.1.9.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/981/433/256/256/638488257207041172.png",
+          "_depends_on": [
+            1023259,
+            228525
+          ]
+        },
+        {
+          "name": "prickle-neoforge-1.21.1-21.1.11.jar",
+          "curseforge_id": 1023259,
+          "download_url": "https://edge.forgecdn.net/files/6961/457/prickle-neoforge-1.21.1-21.1.11.jar",
+          "file_name": "prickle-neoforge-1.21.1-21.1.11.jar",
+          "version_number": "prickle-neoforge-1.21.1-21.1.11.jar",
+          "_is_dependency": true
+        },
+        {
+          "name": "bookshelf-neoforge-1.21.1-21.1.81.jar",
+          "curseforge_id": 228525,
+          "download_url": "https://edge.forgecdn.net/files/7606/240/bookshelf-neoforge-1.21.1-21.1.81.jar",
+          "file_name": "bookshelf-neoforge-1.21.1-21.1.81.jar",
+          "version_number": "bookshelf-neoforge-1.21.1-21.1.81.jar",
+          "_is_dependency": true
         }
       ],
       "changelog": [
+        {
+          "date": "2026-03-30T03:35:39.509Z",
+          "author": "GhoulPhantomZ",
+          "changes": [
+            "+ Enchantment Descriptions",
+            "+ prickle-neoforge-1.21.1-21.1.11.jar",
+            "+ bookshelf-neoforge-1.21.1-21.1.81.jar"
+          ]
+        },
         {
           "date": "2026-03-30T03:35:13.104Z",
           "author": "Martion000",
