@@ -107,37 +107,18 @@
           "file_name": "comforts-neoforge-9.0.5+1.21.1.jar",
           "version_number": "comforts-neoforge-9.0.5+1.21.1.jar",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/203/105/256/256/636930549407382137.png"
-        },
-        {
-          "name": "FTB Ultimine (Forge)",
-          "curseforge_id": 386134,
-          "download_url": "https://edge.forgecdn.net/files/7570/482/ftb-ultimine-neoforge-2101.1.13.jar",
-          "file_name": "ftb-ultimine-neoforge-2101.1.13.jar",
-          "version_number": "[NEOFORGE][1.21.1] FTB Ultimine 2101.1.13",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/972/578/256/256/638474886453116037.png",
-          "_depends_on": [
-            404465,
-            419699
-          ]
-        },
-        {
-          "name": "[NEOFORGE][1.21.1] FTB Library 2101.1.31",
-          "curseforge_id": 404465,
-          "download_url": "https://edge.forgecdn.net/files/7746/959/ftb-library-neoforge-2101.1.31.jar",
-          "file_name": "ftb-library-neoforge-2101.1.31.jar",
-          "version_number": "[NEOFORGE][1.21.1] FTB Library 2101.1.31",
-          "_is_dependency": true
-        },
-        {
-          "name": "[NeoForge 1.21(.1)] v13.0.8",
-          "curseforge_id": 419699,
-          "download_url": "https://edge.forgecdn.net/files/5786/327/architectury-13.0.8-neoforge.jar",
-          "file_name": "architectury-13.0.8-neoforge.jar",
-          "version_number": "[NeoForge 1.21(.1)] v13.0.8",
-          "_is_dependency": true
         }
       ],
       "changelog": [
+        {
+          "date": "2026-03-30T02:52:18.346Z",
+          "author": "Martion000",
+          "changes": [
+            "− FTB Ultimine (Forge)",
+            "− [NEOFORGE][1.21.1] FTB Library 2101.1.31",
+            "− [NeoForge 1.21(.1)] v13.0.8"
+          ]
+        },
         {
           "date": "2026-03-30T02:50:01.028Z",
           "author": "GhoulPhantomZ",
