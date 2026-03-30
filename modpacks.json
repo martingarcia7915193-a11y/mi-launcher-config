@@ -169,9 +169,24 @@
           "file_name": "toms_storage-1.21-2.3.0.jar",
           "version_number": "[NeoForge] Tom's Storage 1.21-2.3.0",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/266/898/256/256/637234057062921445.png"
+        },
+        {
+          "name": "Mouse Tweaks",
+          "curseforge_id": 60089,
+          "download_url": "https://edge.forgecdn.net/files/5637/846/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+          "file_name": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+          "version_number": "[1.21+ NeoForge] Mouse Tweaks 2.26.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/467/691/256/256/637749969243449870.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-03-30T03:22:07.927Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Mouse Tweaks"
+          ]
+        },
         {
           "date": "2026-03-30T03:05:21.236Z",
           "author": "GhoulPhantomZ",
