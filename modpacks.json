@@ -235,9 +235,24 @@
           "file_name": "YungsApi-1.21.1-NeoForge-5.1.6.jar",
           "version_number": "[1.21.1] YUNG's API v5.1.6 (NeoForge)",
           "_is_dependency": true
+        },
+        {
+          "name": "Sodium",
+          "curseforge_id": 394468,
+          "download_url": "https://edge.forgecdn.net/files/6382/651/sodium-neoforge-0.6.13%2bmc1.21.1.jar",
+          "file_name": "sodium-neoforge-0.6.13+mc1.21.1.jar",
+          "version_number": "Sodium 0.6.13 for NeoForge",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/284/773/256/256/637298471098686391.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-03-30T06:11:37.175Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Sodium"
+          ]
+        },
         {
           "date": "2026-03-30T06:09:34.404Z",
           "author": "Martion000",
