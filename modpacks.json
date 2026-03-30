@@ -156,9 +156,53 @@
           "file_name": "Searchables-neoforge-1.21.1-1.0.2.jar",
           "version_number": "Searchables-neoforge-1.21.1-1.0.2.jar",
           "_is_dependency": true
+        },
+        {
+          "name": "AppleSkin",
+          "curseforge_id": 248787,
+          "download_url": "https://edge.forgecdn.net/files/7517/379/appleskin-neoforge-mc1.21-3.0.8.jar",
+          "file_name": "appleskin-neoforge-mc1.21-3.0.8.jar",
+          "version_number": "appleskin-neoforge-mc1.21-3.0.8.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/47/527/256/256/636066936394500688.png"
+        },
+        {
+          "name": "Mouse Tweaks",
+          "curseforge_id": 60089,
+          "download_url": "https://edge.forgecdn.net/files/5637/846/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+          "file_name": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+          "version_number": "[1.21+ NeoForge] Mouse Tweaks 2.26.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/467/691/256/256/637749969243449870.png"
+        },
+        {
+          "name": "Jade 🔍",
+          "curseforge_id": 324717,
+          "download_url": "https://edge.forgecdn.net/files/7545/219/Jade-1.21.1-NeoForge-15.10.5.jar",
+          "file_name": "Jade-1.21.1-NeoForge-15.10.5.jar",
+          "version_number": "[NeoForge 1.21.1] 15.10.5",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/207/323/256/256/636965628804677340.png"
+        },
+        {
+          "name": "Tom's Simple Storage Mod",
+          "curseforge_id": 378609,
+          "download_url": "https://edge.forgecdn.net/files/7659/872/toms_storage-1.21-2.3.0.jar",
+          "file_name": "toms_storage-1.21-2.3.0.jar",
+          "version_number": "[NeoForge] Tom's Storage 1.21-2.3.0",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/266/898/256/256/637234057062921445.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-03-30T04:52:01.003Z",
+          "author": "Martion000",
+          "changes": [
+            "+ AppleSkin",
+            "+ Mouse Tweaks",
+            "+ Jade 🔍",
+            "+ Tom's Simple Storage Mod",
+            "+ Tom's Create Style (RP)",
+            "+ Tom's Create Style Recipes (DP)"
+          ]
+        },
         {
           "date": "2026-03-30T04:48:05.322Z",
           "author": "Martion000",
@@ -193,6 +237,22 @@
           "changes": [
             "✦ Modpack creado"
           ]
+        }
+      ],
+      "resourcepacks": [
+        {
+          "name": "Tom's Create Style",
+          "curseforge_id": 1265683,
+          "download_url": "https://edge.forgecdn.net/files/6605/498/Tom%27s%20Create%20Style%201.2%20-%201.21.zip",
+          "file_name": "Tom's Create Style 1.2 - 1.21.zip",
+          "version_number": "Tom's Create Style 1.2 - 1.21.zip",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1273/480/256/256/638828425709420198.png"
+        }
+      ],
+      "datapacks": [
+        {
+          "name": "Tom's Create Style Recipes",
+          "curseforge_id": 1266888
         }
       ]
     }
