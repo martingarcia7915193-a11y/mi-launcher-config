@@ -188,9 +188,46 @@
           "file_name": "toms_storage-1.21-2.3.0.jar",
           "version_number": "[NeoForge] Tom's Storage 1.21-2.3.0",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/266/898/256/256/637234057062921445.png"
+        },
+        {
+          "name": "Pokemon Type Table (Cobblemon / Pixelmon)",
+          "curseforge_id": 1354015,
+          "download_url": "https://edge.forgecdn.net/files/7156/734/cobblemontypechart-1.0.2.jar",
+          "file_name": "cobblemontypechart-1.0.2.jar",
+          "version_number": "cobblemontypechart-1.0.2.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1455/891/256/256/638945044588050203.png"
+        },
+        {
+          "name": "Chiselmon - Cobblemon QOL",
+          "curseforge_id": 1475518,
+          "download_url": "https://edge.forgecdn.net/files/7765/943/chiselmon-neoforge-1.2.1-beta-hotfix1.jar",
+          "file_name": "chiselmon-neoforge-1.2.1-beta-hotfix1.jar",
+          "version_number": "chiselmon-neoforge-1.2.1-beta-hotfix1.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1700/928/256/256/639080074708124348.png",
+          "_depends_on": [
+            667299,
+            687131
+          ]
+        },
+        {
+          "name": "3.8.2 for neoforge 1.21.1",
+          "curseforge_id": 667299,
+          "download_url": "https://edge.forgecdn.net/files/7437/845/yet_another_config_lib_v3-3.8.2%2b1.21.1-neoforge.jar",
+          "file_name": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+          "version_number": "3.8.2 for neoforge 1.21.1",
+          "_is_dependency": true
         }
       ],
       "changelog": [
+        {
+          "date": "2026-03-30T04:59:03.579Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Pokemon Type Table (Cobblemon / Pixelmon)",
+            "+ Chiselmon - Cobblemon QOL",
+            "+ 3.8.2 for neoforge 1.21.1"
+          ]
+        },
         {
           "date": "2026-03-30T04:53:07.387Z",
           "author": "Martion000",
