@@ -315,9 +315,59 @@
           "file_name": "architectury-13.0.8-neoforge.jar",
           "version_number": "[NeoForge 1.21(.1)] v13.0.8",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/313/420/256/256/637408811378175814.png"
+        },
+        {
+          "name": "FTB Quests (NeoForge)",
+          "curseforge_id": 289412,
+          "download_url": "https://edge.forgecdn.net/files/7775/452/ftb-quests-neoforge-2101.1.23.jar",
+          "file_name": "ftb-quests-neoforge-2101.1.23.jar",
+          "version_number": "[NEOFORGE][1.21.1] FTB Quests 2101.1.23",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/972/571/256/256/638474884805475097.png",
+          "_depends_on": [
+            419699,
+            404468,
+            404465
+          ]
+        },
+        {
+          "name": "[NEOFORGE][1.21.1] FTB Teams 2101.1.9",
+          "curseforge_id": 404468,
+          "download_url": "https://edge.forgecdn.net/files/7369/21/ftb-teams-neoforge-2101.1.9.jar",
+          "file_name": "ftb-teams-neoforge-2101.1.9.jar",
+          "version_number": "[NEOFORGE][1.21.1] FTB Teams 2101.1.9",
+          "_is_dependency": true
+        },
+        {
+          "name": "Cobblemon Quests",
+          "curseforge_id": 922979,
+          "download_url": "https://edge.forgecdn.net/files/7257/241/cobblemon_quests-%5b1.21.1%5d-neoforge-1.2.0.jar",
+          "file_name": "cobblemon_quests-[1.21.1]-neoforge-1.2.0.jar",
+          "version_number": "Cobblemon Quests [1.2.0 - NeoForge]",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/889/254/256/256/638328752984485977.png",
+          "_depends_on": [
+            419699,
+            438496,
+            687131,
+            289412
+          ]
+        },
+        {
+          "name": "Mod #438496",
+          "curseforge_id": 438496,
+          "_is_dependency": true
         }
       ],
       "changelog": [
+        {
+          "date": "2026-03-30T06:57:47.922Z",
+          "author": "Martion000",
+          "changes": [
+            "+ FTB Quests (NeoForge)",
+            "+ [NEOFORGE][1.21.1] FTB Teams 2101.1.9",
+            "+ Cobblemon Quests",
+            "+ Mod #438496"
+          ]
+        },
         {
           "date": "2026-03-30T06:52:54.322Z",
           "author": "Martion000",
