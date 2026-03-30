@@ -307,9 +307,24 @@
           "file_name": "ftb-library-neoforge-2101.1.31.jar",
           "version_number": "[NEOFORGE][1.21.1] FTB Library 2101.1.31",
           "_is_dependency": true
+        },
+        {
+          "name": "Architectury API",
+          "curseforge_id": 419699,
+          "download_url": "https://edge.forgecdn.net/files/5786/327/architectury-13.0.8-neoforge.jar",
+          "file_name": "architectury-13.0.8-neoforge.jar",
+          "version_number": "[NeoForge 1.21(.1)] v13.0.8",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/313/420/256/256/637408811378175814.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-03-30T06:52:54.322Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Architectury API"
+          ]
+        },
         {
           "date": "2026-03-30T06:50:54.952Z",
           "author": "Martion000",
