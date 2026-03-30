@@ -91,9 +91,24 @@
           "file_name": "artifacts-neoforge-13.2.0.jar",
           "version_number": "artifacts-neoforge-13.2.0.jar",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/444/622/256/256/637699815276651872.png"
+        },
+        {
+          "name": "Curios API (Forge/NeoForge)",
+          "curseforge_id": 309927,
+          "download_url": "https://edge.forgecdn.net/files/6529/130/curios-neoforge-9.5.1%2b1.21.1.jar",
+          "file_name": "curios-neoforge-9.5.1+1.21.1.jar",
+          "version_number": "curios-neoforge-9.5.1+1.21.1.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/195/772/256/256/636881112930494939.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-03-30T02:47:54.016Z",
+          "author": "GhoulPhantomZ",
+          "changes": [
+            "+ Curios API (Forge/NeoForge)"
+          ]
+        },
         {
           "date": "2026-03-30T02:45:09.582Z",
           "author": "GhoulPhantomZ",
