@@ -188,9 +188,24 @@
           "_depends_on": [
             328085
           ]
+        },
+        {
+          "name": "Xaero's Minimap",
+          "curseforge_id": 263420,
+          "download_url": "https://edge.forgecdn.net/files/7598/595/xaerominimap-neoforge-1.21.1-25.3.10.jar",
+          "file_name": "xaerominimap-neoforge-1.21.1-25.3.10.jar",
+          "version_number": "neoforge-1.21.1-25.3.10.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/92/854/256/256/636258666554688823.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-03-30T03:33:35.315Z",
+          "author": "GhoulPhantomZ",
+          "changes": [
+            "+ Xaero's Minimap"
+          ]
+        },
         {
           "date": "2026-03-30T03:33:09.032Z",
           "author": "Martion000",
