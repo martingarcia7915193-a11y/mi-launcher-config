@@ -4,50 +4,6 @@
   "config_version": "1.0",
   "modpacks": [
     {
-      "id": "q",
-      "name": "queos",
-      "version": "1.0.0",
-      "description": "quesovix",
-      "minecraft_version": "1.21.1",
-      "modloader": "neoforge",
-      "modloader_version": "21.1.222",
-      "icon": "",
-      "background": "",
-      "mods": [
-        {
-          "name": "Enchantment Descriptions",
-          "modrinth_id": "enchantment-descriptions",
-          "download_url": "https://cdn.modrinth.com/data/UVtY3ZAC/versions/zfAkJn0r/enchdesc-neoforge-1.21.1-21.1.9.jar",
-          "file_name": "enchdesc-neoforge-1.21.1-21.1.9.jar",
-          "version_number": "21.1.9",
-          "icon_url": "https://cdn.modrinth.com/data/UVtY3ZAC/1f857baf3d1f78e40343925176c084838c91a891_96.webp",
-          "_depends_on": [
-            "aaRl8GiW",
-            "uy4Cnpcm"
-          ]
-        },
-        {
-          "name": "Dependencia aaRl8GiW",
-          "modrinth_id": "aaRl8GiW",
-          "_is_dependency": true
-        },
-        {
-          "name": "Dependencia uy4Cnpcm",
-          "modrinth_id": "uy4Cnpcm",
-          "_is_dependency": true
-        }
-      ],
-      "changelog": [
-        {
-          "date": "2026-03-30T02:34:44.143Z",
-          "author": "GhoulPhantomZ",
-          "changes": [
-            "✦ Modpack creado"
-          ]
-        }
-      ]
-    },
-    {
       "id": "createmon",
       "name": "Createmon",
       "version": "1.0.0",
