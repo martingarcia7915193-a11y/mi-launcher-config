@@ -2163,9 +2163,27 @@
           "file_name": "netprodis-2.0.0+1.21.jar",
           "version_number": "netprodis-2.0.0+1.21.jar",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1081/54/256/256/638620584651603837.png"
+        },
+        {
+          "name": "ShatterLib | OctoLib",
+          "curseforge_id": 916747,
+          "download_url": "https://edge.forgecdn.net/files/7724/6/OctoLib-NEOFORGE-0.6.1%2b1.21.jar",
+          "file_name": "OctoLib-NEOFORGE-0.6.1+1.21.jar",
+          "version_number": "OctoLib-NEOFORGE-0.6.1+1.21.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1040/229/256/256/638566006631831950_animated.gif",
+          "_depends_on": [
+            419699
+          ]
         }
       ],
       "changelog": [
+        {
+          "date": "2026-03-31T23:53:04.578Z",
+          "author": "Martion000",
+          "changes": [
+            "+ ShatterLib | OctoLib"
+          ]
+        },
         {
           "date": "2026-03-31T23:49:42.622Z",
           "author": "Martion000",
