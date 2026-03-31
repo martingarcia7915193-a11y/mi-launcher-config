@@ -633,9 +633,56 @@
           "_depends_on": [
             466792
           ]
+        },
+        {
+          "name": "Rechiseled",
+          "curseforge_id": 558998,
+          "download_url": "https://edge.forgecdn.net/files/7687/594/rechiseled-1.2.4-neoforge-mc1.21.jar",
+          "file_name": "rechiseled-1.2.4-neoforge-mc1.21.jar",
+          "version_number": "Rechiseled 1.2.4 for NeoForge 1.21",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/473/70/256/256/637764150842291454.png",
+          "_depends_on": [
+            438332,
+            854949,
+            454372
+          ]
+        },
+        {
+          "name": "SuperMartijn642's Config Library 1.1.8 for NeoForge 1.21",
+          "curseforge_id": 438332,
+          "download_url": "https://edge.forgecdn.net/files/5546/996/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
+          "file_name": "supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
+          "version_number": "SuperMartijn642's Config Library 1.1.8 for NeoForge 1.21",
+          "_is_dependency": true
+        },
+        {
+          "name": "Fusion 1.2.12 for NeoForge 1.21.1",
+          "curseforge_id": 854949,
+          "download_url": "https://edge.forgecdn.net/files/7471/474/fusion-1.2.12-neoforge-mc1.21.1.jar",
+          "file_name": "fusion-1.2.12-neoforge-mc1.21.1.jar",
+          "version_number": "Fusion 1.2.12 for NeoForge 1.21.1",
+          "_is_dependency": true
+        },
+        {
+          "name": "SuperMartijn642's Core Lib 1.1.21 for NeoForge 1.21",
+          "curseforge_id": 454372,
+          "download_url": "https://edge.forgecdn.net/files/7783/425/supermartijn642corelib-1.1.21-neoforge-mc1.21.jar",
+          "file_name": "supermartijn642corelib-1.1.21-neoforge-mc1.21.jar",
+          "version_number": "SuperMartijn642's Core Lib 1.1.21 for NeoForge 1.21",
+          "_is_dependency": true
         }
       ],
       "changelog": [
+        {
+          "date": "2026-03-31T08:57:42.260Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Rechiseled",
+            "+ SuperMartijn642's Config Library 1.1.8 for NeoForge 1.21",
+            "+ Fusion 1.2.12 for NeoForge 1.21.1",
+            "+ SuperMartijn642's Core Lib 1.1.21 for NeoForge 1.21"
+          ]
+        },
         {
           "date": "2026-03-31T08:52:43.275Z",
           "author": "Martion000",
