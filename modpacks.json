@@ -465,9 +465,28 @@
           "file_name": "create-stuff-additions1.21.1_v2.1.0e.jar",
           "version_number": "Create S&A 1.21.1 V2.1.0e",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1158/714/256/256/638727221391013276.png"
+        },
+        {
+          "name": "Xaero Train Map",
+          "curseforge_id": 1295594,
+          "download_url": "https://edge.forgecdn.net/files/6702/496/xaerotrainmap-1.0.0.jar",
+          "file_name": "xaerotrainmap-1.0.0.jar",
+          "version_number": "xaerotrainmap-1.0.0.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1333/8/256/256/638866490310727212.png",
+          "_depends_on": [
+            317780,
+            328085
+          ]
         }
       ],
       "changelog": [
+        {
+          "date": "2026-03-31T05:18:49.917Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Xaero Train Map"
+          ]
+        },
         {
           "date": "2026-03-31T05:10:10.972Z",
           "author": "Martion000",
