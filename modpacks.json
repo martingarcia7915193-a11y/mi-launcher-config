@@ -720,14 +720,6 @@
           "_is_dependency": true
         },
         {
-          "name": "Polymorph (Fabric/Forge/Quilt)",
-          "curseforge_id": 388800,
-          "download_url": "https://edge.forgecdn.net/files/6794/589/polymorph-neoforge-1.1.0%2b1.21.1.jar",
-          "file_name": "polymorph-neoforge-1.1.0+1.21.1.jar",
-          "version_number": "polymorph-neoforge-1.1.0+1.21.1.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/279/271/256/256/637277042531842540.png"
-        },
-        {
           "name": "Sophisticated Storage Create Integration",
           "curseforge_id": 1226755,
           "download_url": "https://edge.forgecdn.net/files/7168/283/sophisticatedstoragecreateintegration-1.21.1-0.1.13.54.jar",
@@ -979,38 +971,24 @@
           ]
         },
         {
-          "name": "Lootrmon: Lootr & Cobblemon Compatibility",
-          "curseforge_id": 1405644,
-          "download_url": "https://edge.forgecdn.net/files/7652/512/lootrmon-neoforge-1.21.1-0.0.0.3.jar",
-          "file_name": "lootrmon-neoforge-1.21.1-0.0.0.3.jar",
-          "version_number": "lootr-neoforge-1.21.1-0.0.0.3",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1567/392/256/256/639016158515562678.png",
-          "_depends_on": [
-            361276,
-            687131
-          ]
-        },
-        {
           "name": "lootr-neoforge-1.21.1-1.11.37.118",
           "curseforge_id": 361276,
           "download_url": "https://edge.forgecdn.net/files/7769/881/lootr-neoforge-1.21.1-1.11.37.118.jar",
           "file_name": "lootr-neoforge-1.21.1-1.11.37.118.jar",
           "version_number": "lootr-neoforge-1.21.1-1.11.37.118",
           "_is_dependency": true
-        },
-        {
-          "name": "CobbleDon - Cobblemon Addon",
-          "curseforge_id": 1398478,
-          "download_url": "https://edge.forgecdn.net/files/7297/234/cobbledon-1.0.jar",
-          "file_name": "cobbledon-1.0.jar",
-          "version_number": "1.0",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1549/107/256/256/639005449113843864.png",
-          "_depends_on": [
-            687131
-          ]
         }
       ],
       "changelog": [
+        {
+          "date": "2026-03-31T07:02:52.405Z",
+          "author": "Martion000",
+          "changes": [
+            "− Polymorph (Fabric/Forge/Quilt)",
+            "− Lootrmon: Lootr & Cobblemon Compatibility",
+            "− CobbleDon - Cobblemon Addon"
+          ]
+        },
         {
           "date": "2026-03-31T06:54:31.592Z",
           "author": "Martion000",
