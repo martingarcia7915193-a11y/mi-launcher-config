@@ -546,17 +546,6 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/582/250/256/256/637948069905067823.png"
         },
         {
-          "name": "Create: Copycats+",
-          "curseforge_id": 968398,
-          "download_url": "https://edge.forgecdn.net/files/7251/823/copycats-3.0.4%2bmc.1.21.1-neoforge.jar",
-          "file_name": "copycats-3.0.4+mc.1.21.1-neoforge.jar",
-          "version_number": "copycats-3.0.4+mc.1.21.1-neoforge",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1682/115/256/256/639068700185455615.png",
-          "_depends_on": [
-            328085
-          ]
-        },
-        {
           "name": "Create Stuff & Netherite Additions",
           "curseforge_id": 1026647,
           "download_url": "https://edge.forgecdn.net/files/7127/315/create_sna-1.2-neoforge-1.21.1.jar",
@@ -844,6 +833,13 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-03-31T07:28:31.621Z",
+          "author": "Martion000",
+          "changes": [
+            "− Create: Copycats+"
+          ]
+        },
         {
           "date": "2026-03-31T07:20:16.834Z",
           "author": "Martion000",
