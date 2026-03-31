@@ -418,9 +418,58 @@
           "file_name": "athena-neoforge-1.21-4.0.2.jar",
           "version_number": "[NeoForge] Athena 4.0.2",
           "_is_dependency": true
+        },
+        {
+          "name": "Mod Name Tooltip",
+          "curseforge_id": 238747,
+          "download_url": "https://edge.forgecdn.net/files/6593/948/modnametooltip-1.21.1-neoforge-2.3.0.jar",
+          "file_name": "modnametooltip-1.21.1-neoforge-2.3.0.jar",
+          "version_number": "modnametooltip-1.21.1-neoforge-2.3.0.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/29/943/256/256/635853960312359636.png"
+        },
+        {
+          "name": "Create Railways Navigator",
+          "curseforge_id": 935929,
+          "download_url": "https://edge.forgecdn.net/files/7754/979/createrailwaysnavigator-neoforge-1.21.1-alpha-0.9.0-C6%2b2.jar",
+          "file_name": "createrailwaysnavigator-neoforge-1.21.1-alpha-0.9.0-C6+2.jar",
+          "version_number": "createrailwaysnavigator-neoforge-1.21.1-alpha-0.9.0-C6+2",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1066/720/256/256/638600887691727882.png",
+          "_depends_on": [
+            328085,
+            946163
+          ]
+        },
+        {
+          "name": "dragonlib-neoforge-1.21.1-beta-3.0.24",
+          "curseforge_id": 946163,
+          "download_url": "https://edge.forgecdn.net/files/7763/966/dragonlib-neoforge-1.21.1-beta-3.0.24.jar",
+          "file_name": "dragonlib-neoforge-1.21.1-beta-3.0.24.jar",
+          "version_number": "dragonlib-neoforge-1.21.1-beta-3.0.24",
+          "_is_dependency": true
+        },
+        {
+          "name": "Steam 'n' Rails Neoforge",
+          "curseforge_id": 1414670,
+          "download_url": "https://edge.forgecdn.net/files/7478/287/railways-0.1.0%2bneoforge-mc1.21.1.jar",
+          "file_name": "railways-0.1.0+neoforge-mc1.21.1.jar",
+          "version_number": "railways-0.1.0+neoforge-mc1.21.1.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1582/848/256/256/639024674263601857.png",
+          "_depends_on": [
+            328085
+          ]
         }
       ],
       "changelog": [
+        {
+          "date": "2026-03-31T04:57:38.321Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Mod Name Tooltip",
+            "+ Create Railways Navigator",
+            "+ dragonlib-neoforge-1.21.1-beta-3.0.24",
+            "+ Steam 'n' Rails Neoforge"
+          ]
+        },
         {
           "date": "2026-03-30T07:14:22.238Z",
           "author": "Martion000",
