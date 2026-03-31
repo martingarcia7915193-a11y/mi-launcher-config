@@ -841,41 +841,18 @@
             328085,
             351264
           ]
-        },
-        {
-          "name": "Relics",
-          "curseforge_id": 445274,
-          "download_url": "https://edge.forgecdn.net/files/7833/995/relics-1.21.1-0.11.10.jar",
-          "file_name": "relics-1.21.1-0.11.10.jar",
-          "version_number": "relics-1.21.1-0.11.10.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1124/47/256/256/638680710071253437_animated.gif",
-          "_depends_on": [
-            916747,
-            309927
-          ]
-        },
-        {
-          "name": "Artifacts",
-          "curseforge_id": 312353,
-          "download_url": "https://edge.forgecdn.net/files/7468/997/artifacts-neoforge-13.2.0.jar",
-          "file_name": "artifacts-neoforge-13.2.0.jar",
-          "version_number": "artifacts-neoforge-13.2.0.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/444/622/256/256/637699815276651872.png"
-        },
-        {
-          "name": "Reliquified Artifacts",
-          "curseforge_id": 1100379,
-          "download_url": "https://edge.forgecdn.net/files/7834/23/reliquified_artifacts-1.21.1-1.0.1.jar",
-          "file_name": "reliquified_artifacts-1.21.1-1.0.1.jar",
-          "version_number": "reliquified_artifacts-1.21.1-1.0.1.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1083/26/256/256/638623617290403030_animated.gif",
-          "_depends_on": [
-            445274,
-            312353
-          ]
         }
       ],
       "changelog": [
+        {
+          "date": "2026-03-31T07:20:16.834Z",
+          "author": "Martion000",
+          "changes": [
+            "− Relics",
+            "− Artifacts",
+            "− Reliquified Artifacts"
+          ]
+        },
         {
           "date": "2026-03-31T07:19:30.992Z",
           "author": "Martion000",
