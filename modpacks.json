@@ -969,17 +969,16 @@
             445274,
             312353
           ]
-        },
-        {
-          "name": "lootr-neoforge-1.21.1-1.11.37.118",
-          "curseforge_id": 361276,
-          "download_url": "https://edge.forgecdn.net/files/7769/881/lootr-neoforge-1.21.1-1.11.37.118.jar",
-          "file_name": "lootr-neoforge-1.21.1-1.11.37.118.jar",
-          "version_number": "lootr-neoforge-1.21.1-1.11.37.118",
-          "_is_dependency": true
         }
       ],
       "changelog": [
+        {
+          "date": "2026-03-31T07:03:38.036Z",
+          "author": "Martion000",
+          "changes": [
+            "− lootr-neoforge-1.21.1-1.11.37.118"
+          ]
+        },
         {
           "date": "2026-03-31T07:02:52.405Z",
           "author": "Martion000",
