@@ -104,14 +104,6 @@
           ]
         },
         {
-          "name": "baguettelib-1.21.1-NeoForge-1.1.6.jar",
-          "curseforge_id": 1264423,
-          "download_url": "https://edge.forgecdn.net/files/7544/787/baguettelib-1.21.1-NeoForge-1.1.6.jar",
-          "file_name": "baguettelib-1.21.1-NeoForge-1.1.6.jar",
-          "version_number": "baguettelib-1.21.1-NeoForge-1.1.6.jar",
-          "_is_dependency": true
-        },
-        {
           "name": "Curios API (Forge/NeoForge)",
           "curseforge_id": 309927,
           "download_url": "https://edge.forgecdn.net/files/6529/130/curios-neoforge-9.5.1%2b1.21.1.jar",
@@ -485,27 +477,6 @@
           "_is_dependency": true
         },
         {
-          "name": "GraveStone Mod",
-          "curseforge_id": 238551,
-          "download_url": "https://edge.forgecdn.net/files/7099/728/gravestone-neoforge-1.21.1-1.0.35.jar",
-          "file_name": "gravestone-neoforge-1.21.1-1.0.35.jar",
-          "version_number": "[NEOFORGE][1.21.1] Gravestone Mod 1.21.1-1.0.35",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/276/919/256/256/637267971739647681.png"
-        },
-        {
-          "name": "Gravestone x Curios API Compat",
-          "curseforge_id": 1139062,
-          "download_url": "https://edge.forgecdn.net/files/6555/981/gravestonecurioscompat-1.21.1-NeoForge-3.0.1.jar",
-          "file_name": "gravestonecurioscompat-1.21.1-NeoForge-3.0.1.jar",
-          "version_number": "gravestonecurioscompat-1.21.1-NeoForge-3.0.1.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1116/172/256/256/638670437165095856.png",
-          "_depends_on": [
-            309927,
-            238551,
-            1264423
-          ]
-        },
-        {
           "name": "Building Wands",
           "curseforge_id": 363392,
           "download_url": "https://edge.forgecdn.net/files/7696/860/BuildingWands-neoforge-MC1.21.1-3.0.2.jar",
@@ -589,17 +560,6 @@
           "_is_dependency": true
         },
         {
-          "name": "Create: Pattern Schematics",
-          "curseforge_id": 1072349,
-          "download_url": "https://edge.forgecdn.net/files/7155/413/create_pattern_schematics-2.0.10.jar",
-          "file_name": "create_pattern_schematics-2.0.10.jar",
-          "version_number": "Create: Pattern Schematics 2.0.10 NeoForge 1.21.1",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1089/645/256/256/638632784144958497.png",
-          "_depends_on": [
-            328085
-          ]
-        },
-        {
           "name": "Trade Cycling",
           "curseforge_id": 570431,
           "download_url": "https://edge.forgecdn.net/files/6497/876/trade-cycling-neoforge-1.21.1-1.0.18.jar",
@@ -674,19 +634,6 @@
           "_is_dependency": true
         },
         {
-          "name": "Sophisticated Storage Create Integration",
-          "curseforge_id": 1226755,
-          "download_url": "https://edge.forgecdn.net/files/7168/283/sophisticatedstoragecreateintegration-1.21.1-0.1.13.54.jar",
-          "file_name": "sophisticatedstoragecreateintegration-1.21.1-0.1.13.54.jar",
-          "version_number": "sophisticatedstoragecreateintegration-1.21.1-0.1.13.54.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1208/888/256/256/638786233372453864.png",
-          "_depends_on": [
-            619320,
-            618298,
-            328085
-          ]
-        },
-        {
           "name": "Rechiseled: Create",
           "curseforge_id": 888624,
           "download_url": "https://edge.forgecdn.net/files/7522/529/rechiseledcreate-1.1.0-neoforge-mc1.21.jar",
@@ -699,56 +646,12 @@
           ]
         },
         {
-          "name": "Create More: Parallel Pipes",
-          "curseforge_id": 1283321,
-          "download_url": "https://edge.forgecdn.net/files/7377/910/cmparallelpipes-neoforge-2.0.2.jar",
-          "file_name": "cmparallelpipes-neoforge-2.0.2.jar",
-          "version_number": "cmparallelpipes-neoforge-2.0.2.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1308/254/256/256/638850648136943135.png",
-          "_depends_on": [
-            328085
-          ]
-        },
-        {
           "name": "Create: Quality Of Life",
           "curseforge_id": 905508,
           "download_url": "https://edge.forgecdn.net/files/7537/115/Create%20Quality%20of%20Life-1.21.1-1.6.2-fix1.jar",
           "file_name": "Create Quality of Life-1.21.1-1.6.2-fix1.jar",
           "version_number": "Create Quality of Life-1.21.1-1.6.2-fix1.jar",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1071/506/256/256/638607067787353431.png",
-          "_depends_on": [
-            328085
-          ]
-        },
-        {
-          "name": "Create: Connected",
-          "curseforge_id": 947914,
-          "download_url": "https://edge.forgecdn.net/files/7593/837/create_connected-1.1.13-mc1.21.1.jar",
-          "file_name": "create_connected-1.1.13-mc1.21.1.jar",
-          "version_number": "create_connected 1.1.13-mc1.21.1",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/922/162/256/256/638387242479713653.png",
-          "_depends_on": [
-            328085
-          ]
-        },
-        {
-          "name": "Create: Interiors",
-          "curseforge_id": 906239,
-          "download_url": "https://edge.forgecdn.net/files/7544/5/interiors-1.21.1-neoforge-0.6.1.jar",
-          "file_name": "interiors-1.21.1-neoforge-0.6.1.jar",
-          "version_number": "Interiors 0.6.1 for NeoForge 1.21.1",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1068/436/256/256/638602929407669140.png",
-          "_depends_on": [
-            328085
-          ]
-        },
-        {
-          "name": "Create: Design n' Decor",
-          "curseforge_id": 923238,
-          "download_url": "https://mediafilez.forgecdn.net/files/6824/615/Design-n-Decor-1.21.1-2.1.0.jar",
-          "file_name": "Design-n-Decor-1.21.1-2.1.0.jar",
-          "version_number": "Design-n-Decor-1.21.1-2.1.0.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1293/563/256/256/638840765433611351.png",
           "_depends_on": [
             328085
           ]
@@ -825,6 +728,21 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-03-31T08:01:24.505Z",
+          "author": "Martion000",
+          "changes": [
+            "− baguettelib-1.21.1-NeoForge-1.1.6.jar",
+            "− GraveStone Mod",
+            "− Gravestone x Curios API Compat",
+            "− Create: Pattern Schematics",
+            "− Sophisticated Storage Create Integration",
+            "− Create More: Parallel Pipes",
+            "− Create: Connected",
+            "− Create: Interiors",
+            "− Create: Design n' Decor"
+          ]
+        },
         {
           "date": "2026-03-31T07:53:40.711Z",
           "author": "Martion000",
