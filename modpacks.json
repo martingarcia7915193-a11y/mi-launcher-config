@@ -574,9 +574,506 @@
           "_depends_on": [
             466792
           ]
+        },
+        {
+          "name": "Configured",
+          "curseforge_id": 457570,
+          "download_url": "https://edge.forgecdn.net/files/7276/577/configured-neoforge-1.21.1-2.6.3.jar",
+          "file_name": "configured-neoforge-1.21.1-2.6.3.jar",
+          "version_number": "Configured 2.6.3",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/871/317/256/256/638288810833209348.png"
+        },
+        {
+          "name": "Enchantment Descriptions",
+          "curseforge_id": 250419,
+          "download_url": "https://edge.forgecdn.net/files/7039/849/enchdesc-neoforge-1.21.1-21.1.9.jar",
+          "file_name": "enchdesc-neoforge-1.21.1-21.1.9.jar",
+          "version_number": "enchdesc-neoforge-1.21.1-21.1.9.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/981/433/256/256/638488257207041172.png",
+          "_depends_on": [
+            1023259,
+            228525
+          ]
+        },
+        {
+          "name": "prickle-neoforge-1.21.1-21.1.11.jar",
+          "curseforge_id": 1023259,
+          "download_url": "https://edge.forgecdn.net/files/6961/457/prickle-neoforge-1.21.1-21.1.11.jar",
+          "file_name": "prickle-neoforge-1.21.1-21.1.11.jar",
+          "version_number": "prickle-neoforge-1.21.1-21.1.11.jar",
+          "_is_dependency": true
+        },
+        {
+          "name": "bookshelf-neoforge-1.21.1-21.1.81.jar",
+          "curseforge_id": 228525,
+          "download_url": "https://edge.forgecdn.net/files/7606/240/bookshelf-neoforge-1.21.1-21.1.81.jar",
+          "file_name": "bookshelf-neoforge-1.21.1-21.1.81.jar",
+          "version_number": "bookshelf-neoforge-1.21.1-21.1.81.jar",
+          "_is_dependency": true
+        },
+        {
+          "name": "Create Contraption Terminals",
+          "curseforge_id": 1059879,
+          "download_url": "https://edge.forgecdn.net/files/7660/82/createcontraptionterminals-1.21-1.3.0.jar",
+          "file_name": "createcontraptionterminals-1.21-1.3.0.jar",
+          "version_number": "[NeoForge] Create Contraption Terminals 1.21-1.3.0",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1067/696/256/256/638602012472201059.png",
+          "_depends_on": [
+            378609,
+            328085
+          ]
+        },
+        {
+          "name": "Create: Pattern Schematics",
+          "curseforge_id": 1072349,
+          "download_url": "https://edge.forgecdn.net/files/7155/413/create_pattern_schematics-2.0.10.jar",
+          "file_name": "create_pattern_schematics-2.0.10.jar",
+          "version_number": "Create: Pattern Schematics 2.0.10 NeoForge 1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1089/645/256/256/638632784144958497.png",
+          "_depends_on": [
+            328085
+          ]
+        },
+        {
+          "name": "Create: Trading Floor",
+          "curseforge_id": 1102591,
+          "download_url": "https://edge.forgecdn.net/files/7625/579/trading_floor-3.0.16.jar",
+          "file_name": "trading_floor-3.0.16.jar",
+          "version_number": "Create: Trading Floor 3.0.16 Neoforge 1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1080/857/256/256/638620276513777713.png",
+          "_depends_on": [
+            328085
+          ]
+        },
+        {
+          "name": "Trade Cycling",
+          "curseforge_id": 570431,
+          "download_url": "https://edge.forgecdn.net/files/6497/876/trade-cycling-neoforge-1.21.1-1.0.18.jar",
+          "file_name": "trade-cycling-neoforge-1.21.1-1.0.18.jar",
+          "version_number": "[NEOFORGE][1.21.1] Trade Cycling 1.21.1-1.0.18",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/483/234/256/256/637782993021441402.png"
+        },
+        {
+          "name": "Create: Diesel Generators",
+          "curseforge_id": 869316,
+          "download_url": "https://edge.forgecdn.net/files/7330/294/createdieselgenerators-1.21.1-1.3.8.jar",
+          "file_name": "createdieselgenerators-1.21.1-1.3.8.jar",
+          "version_number": "createdieselgenerators-1.21.1-1.3.8.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1065/563/256/256/638599261172976487.png",
+          "_depends_on": [
+            328085
+          ]
+        },
+        {
+          "name": "Create: Hypertubes",
+          "curseforge_id": 1281336,
+          "download_url": "https://edge.forgecdn.net/files/7599/490/create_hypertube-0.4.0-NEOFORGE.jar",
+          "file_name": "create_hypertube-0.4.0-NEOFORGE.jar",
+          "version_number": "Hypertube 0.4.0 NEOFORGE",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1304/374/256/256/638848167351949326.png",
+          "_depends_on": [
+            328085
+          ]
+        },
+        {
+          "name": "Create: Escalated",
+          "curseforge_id": 1260145,
+          "download_url": "https://edge.forgecdn.net/files/7430/7/escalated-1.2.1-create.6.0.8-mc.1.21.1-neoforge.jar",
+          "file_name": "escalated-1.2.1-create.6.0.8-mc.1.21.1-neoforge.jar",
+          "version_number": "Create: Escalated v1.2.1 for NeoForge 1.21.1, Create v6.0.8+",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1261/902/256/256/638821569425963837_animated.gif",
+          "_depends_on": [
+            328085,
+            624165
+          ]
+        },
+        {
+          "name": "Mod #624165",
+          "curseforge_id": 624165,
+          "_is_dependency": true
+        },
+        {
+          "name": "Load My F***ing Tags",
+          "curseforge_id": 656346,
+          "download_url": "https://edge.forgecdn.net/files/7084/444/lmft-1.1.1%2b1.21.9-neoforge.jar",
+          "file_name": "lmft-1.1.1+1.21.9-neoforge.jar",
+          "version_number": "LMFT Neoforge 1.1.1 for Minecraft 1.21.9",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/585/887/256/256/637953337792588709.png"
+        },
+        {
+          "name": "Simple Backups",
+          "curseforge_id": 583228,
+          "download_url": "https://edge.forgecdn.net/files/7801/78/SimpleBackups-1.21-4.0.29.jar",
+          "file_name": "SimpleBackups-1.21-4.0.29.jar",
+          "version_number": "SimpleBackups-1.21-4.0.29.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/504/213/256/256/637821575420954591.png"
+        },
+        {
+          "name": "Create: Enchantment Industry",
+          "curseforge_id": 688768,
+          "download_url": "https://edge.forgecdn.net/files/7656/384/create-enchantment-industry-2.3.0.jar",
+          "file_name": "create-enchantment-industry-2.3.0.jar",
+          "version_number": "Create: Enchantment Industry 2.3.0 for Create 1.21.1-6.0.9",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1224/199/256/256/638802282774958966.png",
+          "_depends_on": [
+            1216624
+          ]
+        },
+        {
+          "name": "Create: Dragons Plus 1.8.7 for Create 1.21.1-6.0.9",
+          "curseforge_id": 1216624,
+          "download_url": "https://edge.forgecdn.net/files/7653/475/create-dragons-plus-1.8.7.jar",
+          "file_name": "create-dragons-plus-1.8.7.jar",
+          "version_number": "Create: Dragons Plus 1.8.7 for Create 1.21.1-6.0.9",
+          "_is_dependency": true
+        },
+        {
+          "name": "Polymorph (Fabric/Forge/Quilt)",
+          "curseforge_id": 388800,
+          "download_url": "https://edge.forgecdn.net/files/6794/589/polymorph-neoforge-1.1.0%2b1.21.1.jar",
+          "file_name": "polymorph-neoforge-1.1.0+1.21.1.jar",
+          "version_number": "polymorph-neoforge-1.1.0+1.21.1.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/279/271/256/256/637277042531842540.png"
+        },
+        {
+          "name": "Sophisticated Storage Create Integration",
+          "curseforge_id": 1226755,
+          "download_url": "https://edge.forgecdn.net/files/7168/283/sophisticatedstoragecreateintegration-1.21.1-0.1.13.54.jar",
+          "file_name": "sophisticatedstoragecreateintegration-1.21.1-0.1.13.54.jar",
+          "version_number": "sophisticatedstoragecreateintegration-1.21.1-0.1.13.54.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1208/888/256/256/638786233372453864.png",
+          "_depends_on": [
+            619320,
+            618298,
+            328085
+          ]
+        },
+        {
+          "name": "Macaw's Bridges",
+          "curseforge_id": 351725,
+          "download_url": "https://edge.forgecdn.net/files/7627/896/mcw-bridges-3.1.2-mc1.21.1neoforge.jar",
+          "file_name": "mcw-bridges-3.1.2-mc1.21.1neoforge.jar",
+          "version_number": "v3.1.2 / mc1.21.1 - NeoForge",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/237/234/256/256/637098539787193844.jpeg"
+        },
+        {
+          "name": "Macaw's Fences and Walls",
+          "curseforge_id": 453925,
+          "download_url": "https://edge.forgecdn.net/files/7308/338/mcw-mcwfences-1.2.1-mc1.21.1neoforge.jar",
+          "file_name": "mcw-mcwfences-1.2.1-mc1.21.1neoforge.jar",
+          "version_number": "v1.2.1 / mc1.21.1 - NeoForge",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/351/704/256/256/637506435866467167.png"
+        },
+        {
+          "name": "Macaw's Doors",
+          "curseforge_id": 378646,
+          "download_url": "https://edge.forgecdn.net/files/7618/651/mcw-doors-1.1.5-mc1.21.1neoforge.jar",
+          "file_name": "mcw-doors-1.1.5-mc1.21.1neoforge.jar",
+          "version_number": "v1.1.5 / mc1.21.1 - NeoForge",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/303/442/256/256/637372493411502504.jpeg"
+        },
+        {
+          "name": "Macaw's Windows",
+          "curseforge_id": 363569,
+          "download_url": "https://edge.forgecdn.net/files/7317/672/mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar",
+          "file_name": "mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar",
+          "version_number": "v2.4.2 / mc1.21.1 - NeoForge",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/877/195/256/256/638302089747019943.png"
+        },
+        {
+          "name": "Macaw's Furniture",
+          "curseforge_id": 359540,
+          "download_url": "https://edge.forgecdn.net/files/7255/584/mcw-furniture-3.4.1-mc1.21.1neoforge.jar",
+          "file_name": "mcw-furniture-3.4.1-mc1.21.1neoforge.jar",
+          "version_number": "v3.4.1 / mc1.21.1 - NeoForge",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1511/553/256/256/638981785016795309.jpg"
+        },
+        {
+          "name": "Macaw's Trapdoors",
+          "curseforge_id": 400933,
+          "download_url": "https://edge.forgecdn.net/files/7256/148/mcw-trapdoors-1.1.5-mc1.21.1neoforge.jar",
+          "file_name": "mcw-trapdoors-1.1.5-mc1.21.1neoforge.jar",
+          "version_number": "v1.1.5 / mc1.21.1 - NeoForge",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/292/157/256/256/637324647329746340.jpeg"
+        },
+        {
+          "name": "Macaw's Lights and Lamps",
+          "curseforge_id": 502372,
+          "download_url": "https://edge.forgecdn.net/files/7304/75/mcw-lights-1.1.5-mc1.21.1neoforge.jar",
+          "file_name": "mcw-lights-1.1.5-mc1.21.1neoforge.jar",
+          "version_number": "v1.1.5 / mc1.21.1 - NeoForge",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1018/353/256/256/638544982594670903.png"
+        },
+        {
+          "name": "Macaw's Roofs",
+          "curseforge_id": 352039,
+          "download_url": "https://edge.forgecdn.net/files/6494/399/mcw-roofs-2.3.2-mc1.21.1neoforge.jar",
+          "file_name": "mcw-roofs-2.3.2-mc1.21.1neoforge.jar",
+          "version_number": "v2.3.2 / mc1.21.1 - NeoForge",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/598/801/256/256/637977355903879047.jpeg"
+        },
+        {
+          "name": "Macaw's Stairs",
+          "curseforge_id": 1119394,
+          "download_url": "https://edge.forgecdn.net/files/7317/479/mcw-mcwstairs-1.0.2-mc1.21.1neoforge.jar",
+          "file_name": "mcw-mcwstairs-1.0.2-mc1.21.1neoforge.jar",
+          "version_number": "v1.0.2 / mc1.21.1 - NeoForge",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1096/608/256/256/638642374680439325.png"
+        },
+        {
+          "name": "Macaw's Paths and Pavings",
+          "curseforge_id": 629153,
+          "download_url": "https://edge.forgecdn.net/files/7029/451/mcw-mcwpaths-1.1.1-mc1.21.1neoforge.jar",
+          "file_name": "mcw-mcwpaths-1.1.1-mc1.21.1neoforge.jar",
+          "version_number": "v1.1.1 / mc1.21.1 - NeoForge",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/937/771/256/256/638416317989163538.png"
+        },
+        {
+          "name": "Rechiseled: Create",
+          "curseforge_id": 888624,
+          "download_url": "https://edge.forgecdn.net/files/7522/529/rechiseledcreate-1.1.0-neoforge-mc1.21.jar",
+          "file_name": "rechiseledcreate-1.1.0-neoforge-mc1.21.jar",
+          "version_number": "Rechiseled: Create 1.1.0 for NeoForge 1.21",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/848/902/256/256/638249353195216679.png",
+          "_depends_on": [
+            558998,
+            328085
+          ]
+        },
+        {
+          "name": "Create More: Parallel Pipes",
+          "curseforge_id": 1283321,
+          "download_url": "https://edge.forgecdn.net/files/7377/910/cmparallelpipes-neoforge-2.0.2.jar",
+          "file_name": "cmparallelpipes-neoforge-2.0.2.jar",
+          "version_number": "cmparallelpipes-neoforge-2.0.2.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1308/254/256/256/638850648136943135.png",
+          "_depends_on": [
+            328085
+          ]
+        },
+        {
+          "name": "Create: Quality Of Life",
+          "curseforge_id": 905508,
+          "download_url": "https://edge.forgecdn.net/files/7537/115/Create%20Quality%20of%20Life-1.21.1-1.6.2-fix1.jar",
+          "file_name": "Create Quality of Life-1.21.1-1.6.2-fix1.jar",
+          "version_number": "Create Quality of Life-1.21.1-1.6.2-fix1.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1071/506/256/256/638607067787353431.png",
+          "_depends_on": [
+            328085
+          ]
+        },
+        {
+          "name": "Create: Connected",
+          "curseforge_id": 947914,
+          "download_url": "https://edge.forgecdn.net/files/7593/837/create_connected-1.1.13-mc1.21.1.jar",
+          "file_name": "create_connected-1.1.13-mc1.21.1.jar",
+          "version_number": "create_connected 1.1.13-mc1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/922/162/256/256/638387242479713653.png",
+          "_depends_on": [
+            328085
+          ]
+        },
+        {
+          "name": "Create: Interiors",
+          "curseforge_id": 906239,
+          "download_url": "https://edge.forgecdn.net/files/7544/5/interiors-1.21.1-neoforge-0.6.1.jar",
+          "file_name": "interiors-1.21.1-neoforge-0.6.1.jar",
+          "version_number": "Interiors 0.6.1 for NeoForge 1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1068/436/256/256/638602929407669140.png",
+          "_depends_on": [
+            328085
+          ]
+        },
+        {
+          "name": "Create Deco",
+          "curseforge_id": 509285,
+          "download_url": "https://edge.forgecdn.net/files/7314/692/createdeco-2.1.2.jar",
+          "file_name": "createdeco-2.1.2.jar",
+          "version_number": "createdeco-2.1.2-1.21.1-neo.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1065/338/256/256/638598933457608969.png"
+        },
+        {
+          "name": "Create: Design n' Decor",
+          "curseforge_id": 923238,
+          "download_url": "https://mediafilez.forgecdn.net/files/6824/615/Design-n-Decor-1.21.1-2.1.0.jar",
+          "file_name": "Design-n-Decor-1.21.1-2.1.0.jar",
+          "version_number": "Design-n-Decor-1.21.1-2.1.0.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1293/563/256/256/638840765433611351.png",
+          "_depends_on": [
+            328085
+          ]
+        },
+        {
+          "name": "Create: Integrated Farming",
+          "curseforge_id": 1249131,
+          "download_url": "https://edge.forgecdn.net/files/7717/252/create-integrated-farming-1.2.1.jar",
+          "file_name": "create-integrated-farming-1.2.1.jar",
+          "version_number": "Create: Integrated Farming 1.2.1 for Create 1.21.1-6.0.9",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1234/923/256/256/638809167037442343.png",
+          "_depends_on": [
+            1216624
+          ]
+        },
+        {
+          "name": "Quark",
+          "curseforge_id": 243121,
+          "download_url": "https://edge.forgecdn.net/files/7848/165/Quark-4.1-476.jar",
+          "file_name": "Quark-4.1-476.jar",
+          "version_number": "Quark-4.1-476.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/588/295/256/256/637958240318838626.png",
+          "_depends_on": [
+            968868
+          ]
+        },
+        {
+          "name": "Zeta-1.1-39.jar",
+          "curseforge_id": 968868,
+          "download_url": "https://edge.forgecdn.net/files/7640/154/Zeta-1.1-39.jar",
+          "file_name": "Zeta-1.1-39.jar",
+          "version_number": "Zeta-1.1-39.jar",
+          "_is_dependency": true
+        },
+        {
+          "name": "Create: Fuel & Water Information",
+          "curseforge_id": 1023209,
+          "download_url": "https://edge.forgecdn.net/files/6977/635/cfwinfo-1.6.0.jar",
+          "file_name": "cfwinfo-1.6.0.jar",
+          "version_number": "Create: Fuel & Water Information 1.21.1 v1.6.0",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1024/657/256/256/638547790122400775.png",
+          "_depends_on": [
+            466792,
+            328085
+          ]
+        },
+        {
+          "name": "Create Slice & Dice",
+          "curseforge_id": 659674,
+          "download_url": "https://edge.forgecdn.net/files/7738/176/sliceanddice-forge-4.2.4.jar",
+          "file_name": "sliceanddice-forge-4.2.4.jar",
+          "version_number": "Neoforge 4.2.4",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1076/930/256/256/638614872387774853.png",
+          "_depends_on": [
+            328085,
+            351264
+          ]
+        },
+        {
+          "name": "Relics",
+          "curseforge_id": 445274,
+          "download_url": "https://edge.forgecdn.net/files/7833/995/relics-1.21.1-0.11.10.jar",
+          "file_name": "relics-1.21.1-0.11.10.jar",
+          "version_number": "relics-1.21.1-0.11.10.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1124/47/256/256/638680710071253437_animated.gif",
+          "_depends_on": [
+            916747,
+            309927
+          ]
+        },
+        {
+          "name": "OctoLib-NEOFORGE-0.6.1+1.21.jar",
+          "curseforge_id": 916747,
+          "download_url": "https://edge.forgecdn.net/files/7724/6/OctoLib-NEOFORGE-0.6.1%2b1.21.jar",
+          "file_name": "OctoLib-NEOFORGE-0.6.1+1.21.jar",
+          "version_number": "OctoLib-NEOFORGE-0.6.1+1.21.jar",
+          "_is_dependency": true
+        },
+        {
+          "name": "Artifacts",
+          "curseforge_id": 312353,
+          "download_url": "https://edge.forgecdn.net/files/7468/997/artifacts-neoforge-13.2.0.jar",
+          "file_name": "artifacts-neoforge-13.2.0.jar",
+          "version_number": "artifacts-neoforge-13.2.0.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/444/622/256/256/637699815276651872.png"
+        },
+        {
+          "name": "Reliquified Artifacts",
+          "curseforge_id": 1100379,
+          "download_url": "https://edge.forgecdn.net/files/7834/23/reliquified_artifacts-1.21.1-1.0.1.jar",
+          "file_name": "reliquified_artifacts-1.21.1-1.0.1.jar",
+          "version_number": "reliquified_artifacts-1.21.1-1.0.1.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1083/26/256/256/638623617290403030_animated.gif",
+          "_depends_on": [
+            445274,
+            312353
+          ]
+        },
+        {
+          "name": "Create Ore Excavation",
+          "curseforge_id": 649832,
+          "download_url": "https://edge.forgecdn.net/files/7199/305/createoreexcavation-1.21-1.6.8.jar",
+          "file_name": "createoreexcavation-1.21-1.6.8.jar",
+          "version_number": "[NeoForge] Create Ore Excavation 1.21-1.6.8",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1067/697/256/256/638602012706611157.png",
+          "_depends_on": [
+            328085
+          ]
+        },
+        {
+          "name": "Create Ore Excavation Plus",
+          "curseforge_id": 730824,
+          "download_url": "https://edge.forgecdn.net/files/7526/768/create_ore_excavation_plus-0.2.5-1.21.1.jar",
+          "file_name": "create_ore_excavation_plus-0.2.5-1.21.1.jar",
+          "version_number": "create_ore_excavation_plus-0.2.5-1.21.1.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1235/586/256/256/638809416498662907.png",
+          "_depends_on": [
+            649832,
+            328085
+          ]
         }
       ],
       "changelog": [
+        {
+          "date": "2026-03-31T06:10:26.470Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Configured",
+            "+ Enchantment Descriptions",
+            "+ prickle-neoforge-1.21.1-21.1.11.jar",
+            "+ bookshelf-neoforge-1.21.1-21.1.81.jar",
+            "+ Create Contraption Terminals",
+            "+ Create: Pattern Schematics",
+            "+ Create: Trading Floor",
+            "+ Trade Cycling",
+            "+ Create: Diesel Generators",
+            "+ Create: Hypertubes",
+            "+ Create: Escalated",
+            "+ Mod #624165",
+            "+ Load My F***ing Tags",
+            "+ Simple Backups",
+            "+ Create: Enchantment Industry",
+            "+ Create: Dragons Plus 1.8.7 for Create 1.21.1-6.0.9",
+            "+ Polymorph (Fabric/Forge/Quilt)",
+            "+ Sophisticated Storage Create Integration",
+            "+ Macaw's Bridges",
+            "+ Macaw's Fences and Walls",
+            "+ Macaw's Doors",
+            "+ Macaw's Windows",
+            "+ Macaw's Furniture",
+            "+ Macaw's Trapdoors",
+            "+ Macaw's Lights and Lamps",
+            "+ Macaw's Roofs",
+            "+ Macaw's Stairs",
+            "+ Macaw's Paths and Pavings",
+            "+ Rechiseled: Create",
+            "+ Create More: Parallel Pipes",
+            "+ Create: Quality Of Life",
+            "+ Create: Connected",
+            "+ Create: Interiors",
+            "+ Create Deco",
+            "+ Create: Design n' Decor",
+            "+ Create: Integrated Farming",
+            "+ Quark",
+            "+ Zeta-1.1-39.jar",
+            "+ Create: Fuel & Water Information",
+            "+ Create Slice & Dice",
+            "+ Relics",
+            "+ OctoLib-NEOFORGE-0.6.1+1.21.jar",
+            "+ Artifacts",
+            "+ Reliquified Artifacts",
+            "+ Create Ore Excavation",
+            "+ Create Ore Excavation Plus"
+          ]
+        },
         {
           "date": "2026-03-31T05:57:34.050Z",
           "author": "Martion000",
