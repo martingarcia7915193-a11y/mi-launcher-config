@@ -1222,8 +1222,342 @@
       "modloader_version": "21.1.222",
       "icon": "",
       "background": "",
-      "mods": [],
+      "mods": [
+        {
+          "name": "Create",
+          "curseforge_id": 328085,
+          "download_url": "https://edge.forgecdn.net/files/7408/951/create-1.21.1-6.0.9.jar",
+          "file_name": "create-1.21.1-6.0.9.jar",
+          "version_number": "Create 6.0.9 for mc1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1065/184/256/256/638598725500886388.png"
+        },
+        {
+          "name": "Cobblemon",
+          "curseforge_id": 687131,
+          "download_url": "https://edge.forgecdn.net/files/7553/231/Cobblemon-neoforge-1.7.3%2b1.21.1.jar",
+          "file_name": "Cobblemon-neoforge-1.7.3+1.21.1.jar",
+          "version_number": "Cobblemon v1.7.3 ~ NeoForge",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/620/286/256/256/638008832892634916.png",
+          "_depends_on": [
+            351264
+          ]
+        },
+        {
+          "name": "Kotlin for Forge 5.11.0",
+          "curseforge_id": 351264,
+          "download_url": "https://edge.forgecdn.net/files/7471/280/kotlinforforge-5.11.0-all.jar",
+          "file_name": "kotlinforforge-5.11.0-all.jar",
+          "version_number": "Kotlin for Forge 5.11.0",
+          "_is_dependency": true
+        },
+        {
+          "name": "Just Enough Items (JEI)",
+          "curseforge_id": 238222,
+          "download_url": "https://edge.forgecdn.net/files/7420/587/jei-1.21.1-neoforge-19.27.0.340.jar",
+          "file_name": "jei-1.21.1-neoforge-19.27.0.340.jar",
+          "version_number": "19.27.0.340 for NeoForge 1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg"
+        },
+        {
+          "name": "Xaero's Minimap",
+          "curseforge_id": 263420,
+          "download_url": "https://edge.forgecdn.net/files/7598/595/xaerominimap-neoforge-1.21.1-25.3.10.jar",
+          "file_name": "xaerominimap-neoforge-1.21.1-25.3.10.jar",
+          "version_number": "neoforge-1.21.1-25.3.10.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/92/854/256/256/636258666554688823.png"
+        },
+        {
+          "name": "Xaero's World Map",
+          "curseforge_id": 317780,
+          "download_url": "https://edge.forgecdn.net/files/7598/481/xaeroworldmap-neoforge-1.21.1-1.40.11.jar",
+          "file_name": "xaeroworldmap-neoforge-1.21.1-1.40.11.jar",
+          "version_number": "neoforge-1.21.1-1.40.11.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/196/654/256/256/636886857118683130.png"
+        },
+        {
+          "name": "Farmer's Delight",
+          "curseforge_id": 398521,
+          "download_url": "https://edge.forgecdn.net/files/7801/529/FarmersDelight-1.21.1-1.2.11.jar",
+          "file_name": "FarmersDelight-1.21.1-1.2.11.jar",
+          "version_number": "Farmer's Delight 1.2.11 - 1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/396/11/256/256/637595005615179370.png"
+        },
+        {
+          "name": "Controlling",
+          "curseforge_id": 250398,
+          "download_url": "https://edge.forgecdn.net/files/6368/976/Controlling-neoforge-1.21.1-19.0.5.jar",
+          "file_name": "Controlling-neoforge-1.21.1-19.0.5.jar",
+          "version_number": "Controlling-neoforge-1.21.1-19.0.5.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/49/603/256/256/636079972364045115.png",
+          "_depends_on": [
+            858542
+          ]
+        },
+        {
+          "name": "Searchables-neoforge-1.21.1-1.0.2.jar",
+          "curseforge_id": 858542,
+          "download_url": "https://edge.forgecdn.net/files/5831/692/Searchables-neoforge-1.21.1-1.0.2.jar",
+          "file_name": "Searchables-neoforge-1.21.1-1.0.2.jar",
+          "version_number": "Searchables-neoforge-1.21.1-1.0.2.jar",
+          "_is_dependency": true
+        },
+        {
+          "name": "Curios API (Forge/NeoForge)",
+          "curseforge_id": 309927,
+          "download_url": "https://edge.forgecdn.net/files/6529/130/curios-neoforge-9.5.1%2b1.21.1.jar",
+          "file_name": "curios-neoforge-9.5.1+1.21.1.jar",
+          "version_number": "curios-neoforge-9.5.1+1.21.1.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/195/772/256/256/636881112930494939.png"
+        },
+        {
+          "name": "Corpse x Curios API Compat",
+          "curseforge_id": 1138130,
+          "download_url": "https://edge.forgecdn.net/files/7088/158/corpsecurioscompat-1.21.1-NeoForge-3.1.3.jar",
+          "file_name": "corpsecurioscompat-1.21.1-NeoForge-3.1.3.jar",
+          "version_number": "corpsecurioscompat-1.21.1-NeoForge-3.1.3.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1115/573/256/256/638669521923748256.png",
+          "_depends_on": [
+            1264423
+          ]
+        },
+        {
+          "name": "baguettelib-1.21.1-NeoForge-1.1.6.jar",
+          "curseforge_id": 1264423,
+          "download_url": "https://edge.forgecdn.net/files/7544/787/baguettelib-1.21.1-NeoForge-1.1.6.jar",
+          "file_name": "baguettelib-1.21.1-NeoForge-1.1.6.jar",
+          "version_number": "baguettelib-1.21.1-NeoForge-1.1.6.jar",
+          "_is_dependency": true
+        },
+        {
+          "name": "Corpse",
+          "curseforge_id": 316582,
+          "download_url": "https://edge.forgecdn.net/files/7018/307/corpse-neoforge-1.21.1-1.1.13.jar",
+          "file_name": "corpse-neoforge-1.21.1-1.1.13.jar",
+          "version_number": "[NEOFORGE][1.21.1] Corpse 1.21.1-1.1.13",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/194/489/256/256/636873305017840968.png"
+        },
+        {
+          "name": "Sophisticated Backpacks",
+          "curseforge_id": 422301,
+          "download_url": "https://edge.forgecdn.net/files/7848/29/sophisticatedbackpacks-1.21.1-3.25.35.1613.jar",
+          "file_name": "sophisticatedbackpacks-1.21.1-3.25.35.1613.jar",
+          "version_number": "sophisticatedbackpacks-1.21.1-3.25.35.1613.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/375/56/256/256/637549610342642859.png",
+          "_depends_on": [
+            618298
+          ]
+        },
+        {
+          "name": "sophisticatedcore-1.21.1-1.4.13.1573.jar",
+          "curseforge_id": 618298,
+          "download_url": "https://edge.forgecdn.net/files/7847/81/sophisticatedcore-1.21.1-1.4.13.1573.jar",
+          "file_name": "sophisticatedcore-1.21.1-1.4.13.1573.jar",
+          "version_number": "sophisticatedcore-1.21.1-1.4.13.1573.jar",
+          "_is_dependency": true
+        },
+        {
+          "name": "Sophisticated Storage",
+          "curseforge_id": 619320,
+          "download_url": "https://edge.forgecdn.net/files/7843/164/sophisticatedstorage-1.21.1-1.5.31.1549.jar",
+          "file_name": "sophisticatedstorage-1.21.1-1.5.31.1549.jar",
+          "version_number": "sophisticatedstorage-1.21.1-1.5.31.1549.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/543/206/256/256/637872959580005837.png",
+          "_depends_on": [
+            618298
+          ]
+        },
+        {
+          "name": "AppleSkin",
+          "curseforge_id": 248787,
+          "download_url": "https://edge.forgecdn.net/files/7517/379/appleskin-neoforge-mc1.21-3.0.8.jar",
+          "file_name": "appleskin-neoforge-mc1.21-3.0.8.jar",
+          "version_number": "appleskin-neoforge-mc1.21-3.0.8.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/47/527/256/256/636066936394500688.png"
+        },
+        {
+          "name": "Mouse Tweaks",
+          "curseforge_id": 60089,
+          "download_url": "https://edge.forgecdn.net/files/5637/846/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+          "file_name": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+          "version_number": "[1.21+ NeoForge] Mouse Tweaks 2.26.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/467/691/256/256/637749969243449870.png"
+        },
+        {
+          "name": "Jade 🔍",
+          "curseforge_id": 324717,
+          "download_url": "https://edge.forgecdn.net/files/7545/219/Jade-1.21.1-NeoForge-15.10.5.jar",
+          "file_name": "Jade-1.21.1-NeoForge-15.10.5.jar",
+          "version_number": "[NeoForge 1.21.1] 15.10.5",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/207/323/256/256/636965628804677340.png"
+        },
+        {
+          "name": "Tom's Simple Storage Mod",
+          "curseforge_id": 378609,
+          "download_url": "https://edge.forgecdn.net/files/7659/872/toms_storage-1.21-2.3.0.jar",
+          "file_name": "toms_storage-1.21-2.3.0.jar",
+          "version_number": "[NeoForge] Tom's Storage 1.21-2.3.0",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/266/898/256/256/637234057062921445.png"
+        },
+        {
+          "name": "Pokemon Type Table (Cobblemon / Pixelmon)",
+          "curseforge_id": 1354015,
+          "download_url": "https://edge.forgecdn.net/files/7156/734/cobblemontypechart-1.0.2.jar",
+          "file_name": "cobblemontypechart-1.0.2.jar",
+          "version_number": "cobblemontypechart-1.0.2.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1455/891/256/256/638945044588050203.png"
+        },
+        {
+          "name": "Chiselmon - Cobblemon QOL",
+          "curseforge_id": 1475518,
+          "download_url": "https://edge.forgecdn.net/files/7765/943/chiselmon-neoforge-1.2.1-beta-hotfix1.jar",
+          "file_name": "chiselmon-neoforge-1.2.1-beta-hotfix1.jar",
+          "version_number": "chiselmon-neoforge-1.2.1-beta-hotfix1.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1700/928/256/256/639080074708124348.png",
+          "_depends_on": [
+            667299,
+            687131
+          ]
+        },
+        {
+          "name": "3.8.2 for neoforge 1.21.1",
+          "curseforge_id": 667299,
+          "download_url": "https://edge.forgecdn.net/files/7437/845/yet_another_config_lib_v3-3.8.2%2b1.21.1-neoforge.jar",
+          "file_name": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+          "version_number": "3.8.2 for neoforge 1.21.1",
+          "_is_dependency": true
+        },
+        {
+          "name": "Paxi (NeoForge)",
+          "curseforge_id": 1015157,
+          "download_url": "https://edge.forgecdn.net/files/6485/740/Paxi-1.21.1-NeoForge-5.1.3.jar",
+          "file_name": "Paxi-1.21.1-NeoForge-5.1.3.jar",
+          "version_number": "[1.21.1] Paxi v5.1.3 (NeoForge)",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/992/752/256/256/638507134259656932.png",
+          "_depends_on": [
+            1015100
+          ]
+        },
+        {
+          "name": "[1.21.1] YUNG's API v5.1.6 (NeoForge)",
+          "curseforge_id": 1015100,
+          "download_url": "https://edge.forgecdn.net/files/6715/463/YungsApi-1.21.1-NeoForge-5.1.6.jar",
+          "file_name": "YungsApi-1.21.1-NeoForge-5.1.6.jar",
+          "version_number": "[1.21.1] YUNG's API v5.1.6 (NeoForge)",
+          "_is_dependency": true
+        },
+        {
+          "name": "Sodium",
+          "curseforge_id": 394468,
+          "download_url": "https://edge.forgecdn.net/files/6382/651/sodium-neoforge-0.6.13%2bmc1.21.1.jar",
+          "file_name": "sodium-neoforge-0.6.13+mc1.21.1.jar",
+          "version_number": "Sodium 0.6.13 for NeoForge",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/284/773/256/256/637298471098686391.png"
+        },
+        {
+          "name": "Mechanical Healing Machine",
+          "curseforge_id": 1364314,
+          "download_url": "https://edge.forgecdn.net/files/7462/649/cobblemonmechanicalhealingmachine-1.2.2.jar",
+          "file_name": "cobblemonmechanicalhealingmachine-1.2.2.jar",
+          "version_number": "cobblemonmechanicalhealingmachine-1.2.2.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1477/422/256/256/638959204100284879.png",
+          "_depends_on": [
+            328085,
+            687131
+          ]
+        },
+        {
+          "name": "SDM Shop [Forge/Fabric]",
+          "curseforge_id": 948942,
+          "download_url": "https://edge.forgecdn.net/files/7173/785/sdmshopa-neoforge-3.3.1.jar",
+          "file_name": "sdmshopa-neoforge-3.3.1.jar",
+          "version_number": "sdmshopa-neoforge-3.3.1.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1584/496/256/256/639025530444976932.png",
+          "_depends_on": [
+            1102542,
+            438495,
+            964997,
+            1095061,
+            404465
+          ]
+        },
+        {
+          "name": "sdmeconomy-neoforge-1.21.1-2.4.0.jar",
+          "curseforge_id": 1102542,
+          "download_url": "https://edge.forgecdn.net/files/6770/946/sdmeconomy-neoforge-1.21.1-2.4.0.jar",
+          "file_name": "sdmeconomy-neoforge-1.21.1-2.4.0.jar",
+          "version_number": "sdmeconomy-neoforge-1.21.1-2.4.0.jar",
+          "_is_dependency": true
+        },
+        {
+          "name": "Mod #438495",
+          "curseforge_id": 438495,
+          "_is_dependency": true
+        },
+        {
+          "name": "sdm-core-neoforge-1.21.1-2.1.2.jar",
+          "curseforge_id": 964997,
+          "download_url": "https://edge.forgecdn.net/files/5968/80/sdm-core-neoforge-1.21.1-2.1.2.jar",
+          "file_name": "sdm-core-neoforge-1.21.1-2.1.2.jar",
+          "version_number": "sdm-core-neoforge-1.21.1-2.1.2.jar",
+          "_is_dependency": true
+        },
+        {
+          "name": "sdmuilibrary-neoforge-1.21-1.9.2.jar",
+          "curseforge_id": 1095061,
+          "download_url": "https://edge.forgecdn.net/files/6515/615/sdmuilibrary-neoforge-1.21-1.9.2.jar",
+          "file_name": "sdmuilibrary-neoforge-1.21-1.9.2.jar",
+          "version_number": "sdmuilibrary-neoforge-1.21-1.9.2.jar",
+          "_is_dependency": true
+        },
+        {
+          "name": "[NEOFORGE][1.21.1] FTB Library 2101.1.31",
+          "curseforge_id": 404465,
+          "download_url": "https://edge.forgecdn.net/files/7746/959/ftb-library-neoforge-2101.1.31.jar",
+          "file_name": "ftb-library-neoforge-2101.1.31.jar",
+          "version_number": "[NEOFORGE][1.21.1] FTB Library 2101.1.31",
+          "_is_dependency": true
+        }
+      ],
       "changelog": [
+        {
+          "date": "2026-03-31T23:22:57.875Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Create",
+            "+ Cobblemon",
+            "+ Kotlin for Forge 5.11.0",
+            "+ Just Enough Items (JEI)",
+            "+ Xaero's Minimap",
+            "+ Xaero's World Map",
+            "+ Farmer's Delight",
+            "+ Controlling",
+            "+ Searchables-neoforge-1.21.1-1.0.2.jar",
+            "+ Curios API (Forge/NeoForge)",
+            "+ Corpse x Curios API Compat",
+            "+ baguettelib-1.21.1-NeoForge-1.1.6.jar",
+            "+ Corpse",
+            "+ Sophisticated Backpacks",
+            "+ sophisticatedcore-1.21.1-1.4.13.1573.jar",
+            "+ Sophisticated Storage",
+            "+ AppleSkin",
+            "+ Mouse Tweaks",
+            "+ Jade 🔍",
+            "+ Tom's Simple Storage Mod",
+            "+ Pokemon Type Table (Cobblemon / Pixelmon)",
+            "+ Chiselmon - Cobblemon QOL",
+            "+ 3.8.2 for neoforge 1.21.1",
+            "+ Paxi (NeoForge)",
+            "+ [1.21.1] YUNG's API v5.1.6 (NeoForge)",
+            "+ Sodium",
+            "+ Mechanical Healing Machine",
+            "+ SDM Shop [Forge/Fabric]",
+            "+ sdmeconomy-neoforge-1.21.1-2.4.0.jar",
+            "+ Mod #438495",
+            "+ sdm-core-neoforge-1.21.1-2.1.2.jar",
+            "+ sdmuilibrary-neoforge-1.21-1.9.2.jar",
+            "+ [NEOFORGE][1.21.1] FTB Library 2101.1.31"
+          ]
+        },
         {
           "date": "2026-03-31T23:14:23.341Z",
           "author": "Martion000",
