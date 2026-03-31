@@ -457,9 +457,24 @@
           "_depends_on": [
             328085
           ]
+        },
+        {
+          "name": "Create Stuff 'N Additions",
+          "curseforge_id": 466792,
+          "download_url": "https://edge.forgecdn.net/files/6448/12/create-stuff-additions1.21.1_v2.1.0e.jar",
+          "file_name": "create-stuff-additions1.21.1_v2.1.0e.jar",
+          "version_number": "Create S&A 1.21.1 V2.1.0e",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1158/714/256/256/638727221391013276.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-03-31T05:10:10.972Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Create Stuff 'N Additions"
+          ]
+        },
         {
           "date": "2026-03-31T04:57:38.321Z",
           "author": "Martion000",
