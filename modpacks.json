@@ -601,18 +601,6 @@
           "_is_dependency": true
         },
         {
-          "name": "Rechiseled: Create",
-          "curseforge_id": 888624,
-          "download_url": "https://edge.forgecdn.net/files/7522/529/rechiseledcreate-1.1.0-neoforge-mc1.21.jar",
-          "file_name": "rechiseledcreate-1.1.0-neoforge-mc1.21.jar",
-          "version_number": "Rechiseled: Create 1.1.0 for NeoForge 1.21",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/848/902/256/256/638249353195216679.png",
-          "_depends_on": [
-            558998,
-            328085
-          ]
-        },
-        {
           "name": "Create: Quality Of Life",
           "curseforge_id": 905508,
           "download_url": "https://edge.forgecdn.net/files/7537/115/Create%20Quality%20of%20Life-1.21.1-1.6.2-fix1.jar",
@@ -637,6 +625,13 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-03-31T08:46:34.701Z",
+          "author": "Martion000",
+          "changes": [
+            "− Rechiseled: Create"
+          ]
+        },
         {
           "date": "2026-03-31T08:45:31.251Z",
           "author": "Martion000",
