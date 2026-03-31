@@ -682,9 +682,24 @@
             558998,
             328085
           ]
+        },
+        {
+          "name": "DragonLib",
+          "curseforge_id": 946163,
+          "download_url": "https://edge.forgecdn.net/files/7763/966/dragonlib-neoforge-1.21.1-beta-3.0.24.jar",
+          "file_name": "dragonlib-neoforge-1.21.1-beta-3.0.24.jar",
+          "version_number": "dragonlib-neoforge-1.21.1-beta-3.0.24",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/914/901/256/256/638372366819318973.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-03-31T09:07:10.308Z",
+          "author": "Martion000",
+          "changes": [
+            "+ DragonLib"
+          ]
+        },
         {
           "date": "2026-03-31T09:02:27.473Z",
           "author": "Martion000",
