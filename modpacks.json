@@ -1824,17 +1824,6 @@
           "_is_dependency": true
         },
         {
-          "name": "Create: Integrated Farming",
-          "curseforge_id": 1249131,
-          "download_url": "https://edge.forgecdn.net/files/7717/252/create-integrated-farming-1.2.1.jar",
-          "file_name": "create-integrated-farming-1.2.1.jar",
-          "version_number": "Create: Integrated Farming 1.2.1 for Create 1.21.1-6.0.9",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1234/923/256/256/638809167037442343.png",
-          "_depends_on": [
-            1216624
-          ]
-        },
-        {
           "name": "Create: Dragons Plus 1.8.7 for Create 1.21.1-6.0.9",
           "curseforge_id": 1216624,
           "download_url": "https://edge.forgecdn.net/files/7653/475/create-dragons-plus-1.8.7.jar",
@@ -2177,6 +2166,13 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-03-31T23:58:51.453Z",
+          "author": "Martion000",
+          "changes": [
+            "− Create: Integrated Farming"
+          ]
+        },
         {
           "date": "2026-03-31T23:53:04.578Z",
           "author": "Martion000",
