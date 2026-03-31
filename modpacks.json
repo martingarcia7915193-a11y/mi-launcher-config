@@ -830,9 +830,45 @@
             328085,
             351264
           ]
+        },
+        {
+          "name": "Connectivity",
+          "curseforge_id": 470193,
+          "download_url": "https://edge.forgecdn.net/files/7367/221/connectivity-1.21.1-7.6.jar",
+          "file_name": "connectivity-1.21.1-7.6.jar",
+          "version_number": "connectivity-1.21.1-7.6.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/532/325/256/256/637855720922086407.png",
+          "_depends_on": [
+            326652
+          ]
+        },
+        {
+          "name": "cupboard-1.21-3.5.jar",
+          "curseforge_id": 326652,
+          "download_url": "https://edge.forgecdn.net/files/7746/488/cupboard-1.21-3.5.jar",
+          "file_name": "cupboard-1.21-3.5.jar",
+          "version_number": "cupboard-1.21-3.5.jar",
+          "_is_dependency": true
+        },
+        {
+          "name": "Network Protocol Disconnect (netprodis)",
+          "curseforge_id": 1103774,
+          "download_url": "https://edge.forgecdn.net/files/7187/897/netprodis-2.0.0%2b1.21.jar",
+          "file_name": "netprodis-2.0.0+1.21.jar",
+          "version_number": "netprodis-2.0.0+1.21.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1081/54/256/256/638620584651603837.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-03-31T07:45:22.960Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Connectivity",
+            "+ cupboard-1.21-3.5.jar",
+            "+ Network Protocol Disconnect (netprodis)"
+          ]
+        },
         {
           "date": "2026-03-31T07:28:31.621Z",
           "author": "Martion000",
