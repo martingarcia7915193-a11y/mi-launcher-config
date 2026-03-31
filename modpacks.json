@@ -904,17 +904,6 @@
           ]
         },
         {
-          "name": "Create: Integrated Farming",
-          "curseforge_id": 1249131,
-          "download_url": "https://edge.forgecdn.net/files/7717/252/create-integrated-farming-1.2.1.jar",
-          "file_name": "create-integrated-farming-1.2.1.jar",
-          "version_number": "Create: Integrated Farming 1.2.1 for Create 1.21.1-6.0.9",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1234/923/256/256/638809167037442343.png",
-          "_depends_on": [
-            1216624
-          ]
-        },
-        {
           "name": "Quark",
           "curseforge_id": 243121,
           "download_url": "https://edge.forgecdn.net/files/7848/165/Quark-4.1-476.jar",
@@ -1039,9 +1028,28 @@
           "file_name": "lootr-neoforge-1.21.1-1.11.37.118.jar",
           "version_number": "lootr-neoforge-1.21.1-1.11.37.118",
           "_is_dependency": true
+        },
+        {
+          "name": "CobbleDon - Cobblemon Addon",
+          "curseforge_id": 1398478,
+          "download_url": "https://edge.forgecdn.net/files/7297/234/cobbledon-1.0.jar",
+          "file_name": "cobbledon-1.0.jar",
+          "version_number": "1.0",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1549/107/256/256/639005449113843864.png",
+          "_depends_on": [
+            687131
+          ]
         }
       ],
       "changelog": [
+        {
+          "date": "2026-03-31T06:23:05.531Z",
+          "author": "Martion000",
+          "changes": [
+            "+ CobbleDon - Cobblemon Addon",
+            "− Create: Integrated Farming"
+          ]
+        },
         {
           "date": "2026-03-31T06:13:20.734Z",
           "author": "Martion000",
