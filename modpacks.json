@@ -1489,11 +1489,6 @@
           "_is_dependency": true
         },
         {
-          "name": "Mod #438495",
-          "curseforge_id": 438495,
-          "_is_dependency": true
-        },
-        {
           "name": "sdm-core-neoforge-1.21.1-2.1.2.jar",
           "curseforge_id": 964997,
           "download_url": "https://edge.forgecdn.net/files/5968/80/sdm-core-neoforge-1.21.1-2.1.2.jar",
@@ -1519,6 +1514,13 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-03-31T23:27:09.734Z",
+          "author": "Martion000",
+          "changes": [
+            "− Mod #438495"
+          ]
+        },
         {
           "date": "2026-03-31T23:22:57.875Z",
           "author": "Martion000",
