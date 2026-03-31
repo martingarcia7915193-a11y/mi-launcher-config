@@ -1019,9 +1019,37 @@
             649832,
             328085
           ]
+        },
+        {
+          "name": "Lootrmon: Lootr & Cobblemon Compatibility",
+          "curseforge_id": 1405644,
+          "download_url": "https://edge.forgecdn.net/files/7652/512/lootrmon-neoforge-1.21.1-0.0.0.3.jar",
+          "file_name": "lootrmon-neoforge-1.21.1-0.0.0.3.jar",
+          "version_number": "lootr-neoforge-1.21.1-0.0.0.3",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1567/392/256/256/639016158515562678.png",
+          "_depends_on": [
+            361276,
+            687131
+          ]
+        },
+        {
+          "name": "lootr-neoforge-1.21.1-1.11.37.118",
+          "curseforge_id": 361276,
+          "download_url": "https://edge.forgecdn.net/files/7769/881/lootr-neoforge-1.21.1-1.11.37.118.jar",
+          "file_name": "lootr-neoforge-1.21.1-1.11.37.118.jar",
+          "version_number": "lootr-neoforge-1.21.1-1.11.37.118",
+          "_is_dependency": true
         }
       ],
       "changelog": [
+        {
+          "date": "2026-03-31T06:13:20.734Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Lootrmon: Lootr & Cobblemon Compatibility",
+            "+ lootr-neoforge-1.21.1-1.11.37.118"
+          ]
+        },
         {
           "date": "2026-03-31T06:10:26.470Z",
           "author": "Martion000",
