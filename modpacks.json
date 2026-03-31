@@ -693,14 +693,6 @@
           "_is_dependency": true
         },
         {
-          "name": "Load My F***ing Tags",
-          "curseforge_id": 656346,
-          "download_url": "https://edge.forgecdn.net/files/7084/444/lmft-1.1.1%2b1.21.9-neoforge.jar",
-          "file_name": "lmft-1.1.1+1.21.9-neoforge.jar",
-          "version_number": "LMFT Neoforge 1.1.1 for Minecraft 1.21.9",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/585/887/256/256/637953337792588709.png"
-        },
-        {
           "name": "Simple Backups",
           "curseforge_id": 583228,
           "download_url": "https://edge.forgecdn.net/files/7801/78/SimpleBackups-1.21-4.0.29.jar",
@@ -987,29 +979,6 @@
           ]
         },
         {
-          "name": "Create Ore Excavation",
-          "curseforge_id": 649832,
-          "download_url": "https://edge.forgecdn.net/files/7199/305/createoreexcavation-1.21-1.6.8.jar",
-          "file_name": "createoreexcavation-1.21-1.6.8.jar",
-          "version_number": "[NeoForge] Create Ore Excavation 1.21-1.6.8",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1067/697/256/256/638602012706611157.png",
-          "_depends_on": [
-            328085
-          ]
-        },
-        {
-          "name": "Create Ore Excavation Plus",
-          "curseforge_id": 730824,
-          "download_url": "https://edge.forgecdn.net/files/7526/768/create_ore_excavation_plus-0.2.5-1.21.1.jar",
-          "file_name": "create_ore_excavation_plus-0.2.5-1.21.1.jar",
-          "version_number": "create_ore_excavation_plus-0.2.5-1.21.1.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1235/586/256/256/638809416498662907.png",
-          "_depends_on": [
-            649832,
-            328085
-          ]
-        },
-        {
           "name": "Lootrmon: Lootr & Cobblemon Compatibility",
           "curseforge_id": 1405644,
           "download_url": "https://edge.forgecdn.net/files/7652/512/lootrmon-neoforge-1.21.1-0.0.0.3.jar",
@@ -1042,6 +1011,15 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-03-31T06:54:31.592Z",
+          "author": "Martion000",
+          "changes": [
+            "− Load My F***ing Tags",
+            "− Create Ore Excavation",
+            "− Create Ore Excavation Plus"
+          ]
+        },
         {
           "date": "2026-03-31T06:23:05.531Z",
           "author": "Martion000",
