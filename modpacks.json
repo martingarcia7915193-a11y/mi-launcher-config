@@ -855,14 +855,6 @@
           ]
         },
         {
-          "name": "OctoLib-NEOFORGE-0.6.1+1.21.jar",
-          "curseforge_id": 916747,
-          "download_url": "https://edge.forgecdn.net/files/7724/6/OctoLib-NEOFORGE-0.6.1%2b1.21.jar",
-          "file_name": "OctoLib-NEOFORGE-0.6.1+1.21.jar",
-          "version_number": "OctoLib-NEOFORGE-0.6.1+1.21.jar",
-          "_is_dependency": true
-        },
-        {
           "name": "Artifacts",
           "curseforge_id": 312353,
           "download_url": "https://edge.forgecdn.net/files/7468/997/artifacts-neoforge-13.2.0.jar",
@@ -884,6 +876,13 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-03-31T07:19:30.992Z",
+          "author": "Martion000",
+          "changes": [
+            "− OctoLib-NEOFORGE-0.6.1+1.21.jar"
+          ]
+        },
         {
           "date": "2026-03-31T07:13:16.429Z",
           "author": "Martion000",
