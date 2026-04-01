@@ -2261,9 +2261,33 @@
           "_depends_on": [
             328085
           ]
+        },
+        {
+          "name": "Concurrent Chunk Management Engine",
+          "curseforge_id": 533097,
+          "download_url": "https://edge.forgecdn.net/files/7694/225/c2me-neoforge-mc1.21.1-0.3.0%2balpha.0.90.jar",
+          "file_name": "c2me-neoforge-mc1.21.1-0.3.0+alpha.0.90.jar",
+          "version_number": "0.3.0+alpha.0.90 devbuild for 1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/439/839/256/256/637687646769698734.png"
+        },
+        {
+          "name": "ScalableLux",
+          "curseforge_id": 1055925,
+          "download_url": "https://edge.forgecdn.net/files/6952/385/ScalableLux-0.1.0.1%2bneoforge.1cb1e91-all.jar",
+          "file_name": "ScalableLux-0.1.0.1+neoforge.1cb1e91-all.jar",
+          "version_number": "0.1.0.1 for neoforge 1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1032/238/256/256/638555277121685758.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-01T02:09:02.366Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Concurrent Chunk Management Engine",
+            "+ ScalableLux"
+          ]
+        },
         {
           "date": "2026-04-01T02:07:59.240Z",
           "author": "Martion000",
