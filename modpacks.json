@@ -2202,9 +2202,27 @@
           "file_name": "modernfix-neoforge-5.26.1+mc1.21.1.jar",
           "version_number": "modernfix-neoforge-5.26.1+mc1.21.1.jar",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/881/436/256/256/638311693460984164.png"
+        },
+        {
+          "name": "Reese's Sodium Options",
+          "curseforge_id": 511319,
+          "download_url": "https://edge.forgecdn.net/files/6091/21/reeses-sodium-options-neoforge-1.8.3%2bmc1.21.4.jar",
+          "file_name": "reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar",
+          "version_number": "[NeoForge] Reese's Sodium Options 1.8.3",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/414/599/256/256/637636962431399112.png",
+          "_depends_on": [
+            394468
+          ]
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-01T00:56:44.068Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Reese's Sodium Options"
+          ]
+        },
         {
           "date": "2026-04-01T00:35:43.829Z",
           "author": "Martion000",
