@@ -2277,9 +2277,36 @@
           "file_name": "ScalableLux-0.1.0.1+neoforge.1cb1e91-all.jar",
           "version_number": "0.1.0.1 for neoforge 1.21.1",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1032/238/256/256/638555277121685758.png"
+        },
+        {
+          "name": "Vanilla Backport",
+          "curseforge_id": 417430,
+          "download_url": "https://edge.forgecdn.net/files/7830/651/VanillaBackport-neoforge-1.21.1-1.1.6.3.jar",
+          "file_name": "VanillaBackport-neoforge-1.21.1-1.1.6.3.jar",
+          "version_number": "VanillaBackport-neoforge-1.21.1-1.1.6.3.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1522/146/256/256/638988477353507370.png",
+          "_depends_on": [
+            997634
+          ]
+        },
+        {
+          "name": "Platform-neoforge-1.21.1-1.3.jar",
+          "curseforge_id": 997634,
+          "download_url": "https://edge.forgecdn.net/files/7811/411/Platform-neoforge-1.21.1-1.3.jar",
+          "file_name": "Platform-neoforge-1.21.1-1.3.jar",
+          "version_number": "Platform-neoforge-1.21.1-1.3.jar",
+          "_is_dependency": true
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-01T02:30:17.847Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Vanilla Backport",
+            "+ Platform-neoforge-1.21.1-1.3.jar"
+          ]
+        },
         {
           "date": "2026-04-01T02:09:02.366Z",
           "author": "Martion000",
