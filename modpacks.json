@@ -2261,17 +2261,16 @@
           "_depends_on": [
             328085
           ]
-        },
-        {
-          "name": "Create More Conveyor",
-          "curseforge_id": 1374892,
-          "download_url": "https://mediafilez.forgecdn.net/files/7164/716/createmoreconveyor-neoforge-1.21.1-1.0.1.jar",
-          "file_name": "createmoreconveyor-neoforge-1.21.1-1.0.1.jar",
-          "version_number": "createmoreconveyor-neoforge-1.21.1-1.0.1.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1498/874/256/256/638973632854175445.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-01T02:07:59.240Z",
+          "author": "Martion000",
+          "changes": [
+            "− Create More Conveyor"
+          ]
+        },
         {
           "date": "2026-04-01T01:34:15.924Z",
           "author": "Martion000",
