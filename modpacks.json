@@ -1156,6 +1156,13 @@
       ],
       "changelog": [
         {
+          "date": "2026-04-01T07:08:07.719Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Mandala's GUI - Dark mode (RP)"
+          ]
+        },
+        {
           "date": "2026-04-01T05:52:29.937Z",
           "author": "Martion000",
           "changes": [
@@ -1416,6 +1423,14 @@
           "file_name": "Tom's Create Style 1.2 - 1.21.zip",
           "version_number": "Tom's Create Style 1.2 - 1.21.zip",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1273/480/256/256/638828425709420198.png"
+        },
+        {
+          "name": "Mandala's GUI - Dark mode",
+          "curseforge_id": 664719,
+          "download_url": "https://mediafilez.forgecdn.net/files/7564/643/MandalasGUI+Dakmode_1.21.8_v2.5.zip",
+          "file_name": "MandalasGUI+Dakmode_1.21.8_v2.5.zip",
+          "version_number": "MandalasGUI Darkmode 1.21.8 [book and fix]",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/595/587/256/256/637970567654390772.png"
         }
       ],
       "datapacks": [
