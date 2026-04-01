@@ -2250,9 +2250,36 @@
           "file_name": "supermartijn642corelib-1.1.21-neoforge-mc1.21.jar",
           "version_number": "SuperMartijn642's Core Lib 1.1.21 for NeoForge 1.21",
           "_is_dependency": true
+        },
+        {
+          "name": "Create More: Vertical Belts",
+          "curseforge_id": 1455587,
+          "download_url": "https://edge.forgecdn.net/files/7584/940/cmverticaladditions-neoforge-1.0.0.jar",
+          "file_name": "cmverticaladditions-neoforge-1.0.0.jar",
+          "version_number": "cmverticaladditions-neoforge-1.0.0.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1664/644/256/256/639059909589577786.png",
+          "_depends_on": [
+            328085
+          ]
+        },
+        {
+          "name": "Create More Conveyor",
+          "curseforge_id": 1374892,
+          "download_url": "https://mediafilez.forgecdn.net/files/7164/716/createmoreconveyor-neoforge-1.21.1-1.0.1.jar",
+          "file_name": "createmoreconveyor-neoforge-1.21.1-1.0.1.jar",
+          "version_number": "createmoreconveyor-neoforge-1.21.1-1.0.1.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1498/874/256/256/638973632854175445.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-01T01:34:15.924Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Create More: Vertical Belts",
+            "+ Create More Conveyor"
+          ]
+        },
         {
           "date": "2026-04-01T01:33:08.716Z",
           "author": "Martion000",
