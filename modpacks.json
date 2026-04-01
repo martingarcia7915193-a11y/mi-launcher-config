@@ -1133,9 +1133,36 @@
           "file_name": "kaleidoscopetavern-1.0.1-neoforge+mc1.21.1.jar",
           "version_number": "kaleidoscopetavern-1.0.1-neoforge+mc1.21.1.jar",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1700/426/256/256/639079818058110307.png"
+        },
+        {
+          "name": "KubeJS",
+          "curseforge_id": 238086,
+          "download_url": "https://edge.forgecdn.net/files/7278/501/kubejs-neoforge-2101.7.2-build.348.jar",
+          "file_name": "kubejs-neoforge-2101.7.2-build.348.jar",
+          "version_number": "KubeJS NeoForge 2101.7.2-build.348",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1053/159/256/256/638583716122159056.png",
+          "_depends_on": [
+            416294
+          ]
+        },
+        {
+          "name": "Rhino 2101.2.7-build.81",
+          "curseforge_id": 416294,
+          "download_url": "https://edge.forgecdn.net/files/7104/526/rhino-2101.2.7-build.81.jar",
+          "file_name": "rhino-2101.2.7-build.81.jar",
+          "version_number": "Rhino 2101.2.7-build.81",
+          "_is_dependency": true
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-01T05:52:29.937Z",
+          "author": "Martion000",
+          "changes": [
+            "+ KubeJS",
+            "+ Rhino 2101.2.7-build.81"
+          ]
+        },
         {
           "date": "2026-04-01T03:25:25.177Z",
           "author": "Martion000",
