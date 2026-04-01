@@ -1125,9 +1125,24 @@
           "file_name": "farmerspizzeria-1.1.0-neoforge-1.21.1.jar",
           "version_number": "Farmer's Pizzeria 1.1.0",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1651/683/256/256/639053766450815037.png"
+        },
+        {
+          "name": "Kaleidoscope Tavern",
+          "curseforge_id": 1475175,
+          "download_url": "https://edge.forgecdn.net/files/7785/542/kaleidoscopetavern-1.0.1-neoforge%2bmc1.21.1.jar",
+          "file_name": "kaleidoscopetavern-1.0.1-neoforge+mc1.21.1.jar",
+          "version_number": "kaleidoscopetavern-1.0.1-neoforge+mc1.21.1.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1700/426/256/256/639079818058110307.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-01T03:25:25.177Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Kaleidoscope Tavern"
+          ]
+        },
         {
           "date": "2026-04-01T02:57:17.646Z",
           "author": "Martion000",
