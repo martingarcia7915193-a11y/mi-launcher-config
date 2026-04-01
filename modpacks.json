@@ -1152,9 +1152,24 @@
           "file_name": "rhino-2101.2.7-build.81.jar",
           "version_number": "Rhino 2101.2.7-build.81",
           "_is_dependency": true
+        },
+        {
+          "name": "Clumps",
+          "curseforge_id": 256717,
+          "download_url": "https://edge.forgecdn.net/files/5623/731/Clumps-neoforge-1.21.1-19.0.0.1.jar",
+          "file_name": "Clumps-neoforge-1.21.1-19.0.0.1.jar",
+          "version_number": "Clumps-neoforge-1.21.1-19.0.0.1.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1289/817/256/256/638838549850518521_animated.gif"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-01T07:09:24.557Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Clumps"
+          ]
+        },
         {
           "date": "2026-04-01T07:08:53.359Z",
           "author": "Martion000",
