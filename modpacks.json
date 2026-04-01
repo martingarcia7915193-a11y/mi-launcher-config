@@ -1556,11 +1556,6 @@
           ]
         },
         {
-          "name": "Mod #438496",
-          "curseforge_id": 438496,
-          "_is_dependency": true
-        },
-        {
           "name": "Cobblemon: Mega Showdown",
           "curseforge_id": 1189523,
           "download_url": "https://edge.forgecdn.net/files/7833/504/mega_showdown-neoforge-1.7.2%2b1.7.3%2b1.21.1-hotfix.jar",
@@ -2166,6 +2161,13 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-01T00:00:17.622Z",
+          "author": "Martion000",
+          "changes": [
+            "− Mod #438496"
+          ]
+        },
         {
           "date": "2026-03-31T23:58:51.453Z",
           "author": "Martion000",
