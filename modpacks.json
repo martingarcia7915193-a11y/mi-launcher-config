@@ -2158,9 +2158,64 @@
           "_depends_on": [
             419699
           ]
+        },
+        {
+          "name": "Lithium (Fabric/NeoForge)",
+          "curseforge_id": 360438,
+          "download_url": "https://edge.forgecdn.net/files/7740/400/lithium-neoforge-0.15.3%2bmc1.21.1.jar",
+          "file_name": "lithium-neoforge-0.15.3+mc1.21.1.jar",
+          "version_number": "Lithium mc1.21.1-0.15.3 for Neoforge",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/246/646/256/256/637158441743060329.png"
+        },
+        {
+          "name": "Sodium/Embeddium Extras",
+          "curseforge_id": 558905,
+          "download_url": "https://edge.forgecdn.net/files/6394/141/sodiumextras-neoforge-1.0.8-1.21.1.jar",
+          "file_name": "sodiumextras-neoforge-1.0.8-1.21.1.jar",
+          "version_number": "SodiumExtras Neoforge 1.0.8 for 1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1066/735/256/256/638600914286319886.png",
+          "_depends_on": [
+            1103431,
+            394468
+          ]
+        },
+        {
+          "name": "SodiumOptionsAPI Neoforge 1.0.10 for 1.21.1",
+          "curseforge_id": 1103431,
+          "download_url": "https://edge.forgecdn.net/files/6100/815/sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
+          "file_name": "sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
+          "version_number": "SodiumOptionsAPI Neoforge 1.0.10 for 1.21.1",
+          "_is_dependency": true
+        },
+        {
+          "name": "FerriteCore ((Neo)Forge)",
+          "curseforge_id": 429235,
+          "download_url": "https://edge.forgecdn.net/files/7524/151/ferritecore-7.0.3-neoforge.jar",
+          "file_name": "ferritecore-7.0.3-neoforge.jar",
+          "version_number": "ferritecore-7.0.3-neoforge",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/323/941/256/256/637438748346113688.jpeg"
+        },
+        {
+          "name": "ModernFix",
+          "curseforge_id": 790626,
+          "download_url": "https://edge.forgecdn.net/files/7509/726/modernfix-neoforge-5.26.1%2bmc1.21.1.jar",
+          "file_name": "modernfix-neoforge-5.26.1+mc1.21.1.jar",
+          "version_number": "modernfix-neoforge-5.26.1+mc1.21.1.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/881/436/256/256/638311693460984164.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-01T00:35:43.829Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Lithium (Fabric/NeoForge)",
+            "+ Sodium/Embeddium Extras",
+            "+ SodiumOptionsAPI Neoforge 1.0.10 for 1.21.1",
+            "+ FerriteCore ((Neo)Forge)",
+            "+ ModernFix"
+          ]
+        },
         {
           "date": "2026-04-01T00:00:17.622Z",
           "author": "Martion000",
