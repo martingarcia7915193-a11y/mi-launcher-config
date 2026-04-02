@@ -1187,9 +1187,24 @@
             404465,
             419699
           ]
+        },
+        {
+          "name": "Easy Auto Cycler",
+          "curseforge_id": 1242344,
+          "download_url": "https://edge.forgecdn.net/files/6949/629/easyautocycler-2.0.0.jar",
+          "file_name": "easyautocycler-2.0.0.jar",
+          "version_number": "Easy Auto Cycler 2.0.0 1.21.1 NeoForge",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1223/564/256/256/638801716533815980.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-02T08:51:05.649Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Easy Auto Cycler"
+          ]
+        },
         {
           "date": "2026-04-02T06:03:59.761Z",
           "author": "Martion000",
