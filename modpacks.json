@@ -1577,9 +1577,36 @@
           "file_name": "create-1.21.1-6.0.9.jar",
           "version_number": "Create 6.0.9 for mc1.21.1",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1065/184/256/256/638598725500886388.png"
+        },
+        {
+          "name": "Cobblemon",
+          "curseforge_id": 687131,
+          "download_url": "https://edge.forgecdn.net/files/7553/231/Cobblemon-neoforge-1.7.3%2b1.21.1.jar",
+          "file_name": "Cobblemon-neoforge-1.7.3+1.21.1.jar",
+          "version_number": "Cobblemon v1.7.3 ~ NeoForge",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/620/286/256/256/638008832892634916.png",
+          "_depends_on": [
+            351264
+          ]
+        },
+        {
+          "name": "Kotlin for Forge 5.11.0",
+          "curseforge_id": 351264,
+          "download_url": "https://edge.forgecdn.net/files/7471/280/kotlinforforge-5.11.0-all.jar",
+          "file_name": "kotlinforforge-5.11.0-all.jar",
+          "version_number": "Kotlin for Forge 5.11.0",
+          "_is_dependency": true
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-02T01:10:26.844Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Cobblemon",
+            "+ Kotlin for Forge 5.11.0"
+          ]
+        },
         {
           "date": "2026-04-02T01:07:02.714Z",
           "author": "Martion000",
