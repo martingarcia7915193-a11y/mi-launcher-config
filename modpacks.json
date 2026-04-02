@@ -1163,9 +1163,41 @@
           "_depends_on": [
             419699
           ]
+        },
+        {
+          "name": "FTB XMod Compat",
+          "curseforge_id": 889915,
+          "download_url": "https://edge.forgecdn.net/files/7715/134/ftb-xmod-compat-neoforge-21.1.8.jar",
+          "file_name": "ftb-xmod-compat-neoforge-21.1.8.jar",
+          "version_number": "[NEOFORGE][1.21.1] FTB XMod Compat 21.1.8",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/850/409/256/256/638251965015898859.png",
+          "_depends_on": [
+            404465,
+            419699
+          ]
+        },
+        {
+          "name": "FTB Essentials (Forge & Fabric)",
+          "curseforge_id": 410811,
+          "download_url": "https://edge.forgecdn.net/files/7608/733/ftb-essentials-neoforge-2101.1.9.jar",
+          "file_name": "ftb-essentials-neoforge-2101.1.9.jar",
+          "version_number": "[NEOFORGE][1.21.1] FTB Essentials 2101.1.9",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/972/569/256/256/638474884133404936.png",
+          "_depends_on": [
+            404465,
+            419699
+          ]
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-02T06:03:59.761Z",
+          "author": "Martion000",
+          "changes": [
+            "+ FTB XMod Compat",
+            "+ FTB Essentials (Forge & Fabric)"
+          ]
+        },
         {
           "date": "2026-04-02T05:41:51.364Z",
           "author": "Martion000",
