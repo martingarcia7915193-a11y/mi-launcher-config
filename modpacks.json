@@ -1614,9 +1614,33 @@
           "file_name": "rhino-2101.2.7-build.81.jar",
           "version_number": "Rhino 2101.2.7-build.81",
           "_is_dependency": true
+        },
+        {
+          "name": "Shoppy - Player Maintained Shops",
+          "curseforge_id": 559983,
+          "download_url": "https://edge.forgecdn.net/files/7693/336/shoppy2-NEOFORGE-1.21.1-2.2.0.jar",
+          "file_name": "shoppy2-NEOFORGE-1.21.1-2.2.0.jar",
+          "version_number": "shoppy2-NEOFORGE-1.21.1-2.2.0.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/471/291/256/256/637759281494661607.png"
+        },
+        {
+          "name": "Spud's Shop (Fork)",
+          "curseforge_id": 1388652,
+          "download_url": "https://edge.forgecdn.net/files/7717/257/spudaciousshops-1.9.9.jar",
+          "file_name": "spudaciousshops-1.9.9.jar",
+          "version_number": "spudaciousshops-1.9.9.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1528/605/256/256/638992723299582209.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-02T04:19:54.977Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Shoppy - Player Maintained Shops",
+            "+ Spud's Shop (Fork)"
+          ]
+        },
         {
           "date": "2026-04-02T02:36:04.591Z",
           "author": "Martion000",
