@@ -1500,18 +1500,10 @@
       "description": "",
       "minecraft_version": "1.21.1",
       "modloader": "neoforge",
-      "modloader_version": "21.1.217",
+      "modloader_version": "21.1.222",
       "icon": "",
       "background": "",
       "mods": [
-        {
-          "name": "Swell's MarketPlace",
-          "curseforge_id": 1431487,
-          "download_url": "https://edge.forgecdn.net/files/7483/407/swells_marketplace-1.3.0.jar",
-          "file_name": "swells_marketplace-1.3.0.jar",
-          "version_number": "Swell's MarketPlace 1.21.1 [Neoforge]",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1622/936/256/256/639043094338025779.png"
-        },
         {
           "name": "FTB Quests (NeoForge)",
           "curseforge_id": 289412,
@@ -1606,6 +1598,13 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-02T02:26:51.701Z",
+          "author": "Martion000",
+          "changes": [
+            "− Swell's MarketPlace"
+          ]
+        },
         {
           "date": "2026-04-02T01:14:30.025Z",
           "author": "Martion000",
