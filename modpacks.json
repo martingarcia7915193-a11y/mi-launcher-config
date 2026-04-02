@@ -1638,9 +1638,24 @@
           "file_name": "EpheroLib-1.21.1-NEO-FORGE-1.2.0.jar",
           "version_number": "EpheroLib-1.21.1-NEO-FORGE-1.2.0.jar",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/858/479/256/256/638263668035212512.png"
+        },
+        {
+          "name": "EightsEconomyP",
+          "curseforge_id": 559967,
+          "download_url": "https://edge.forgecdn.net/files/7692/400/eights_economy_p-neoforge-1.21.1-2.0.0.jar",
+          "file_name": "eights_economy_p-neoforge-1.21.1-2.0.0.jar",
+          "version_number": "eights_economy_p-neoforge-1.21.1-2.0.0.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/471/273/256/256/637759222879433783.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-02T04:32:46.966Z",
+          "author": "Martion000",
+          "changes": [
+            "+ EightsEconomyP"
+          ]
+        },
         {
           "date": "2026-04-02T04:27:33.954Z",
           "author": "Martion000",
