@@ -1152,9 +1152,27 @@
           "file_name": "rhino-2101.2.7-build.81.jar",
           "version_number": "Rhino 2101.2.7-build.81",
           "_is_dependency": true
+        },
+        {
+          "name": "FTB Filter System",
+          "curseforge_id": 943925,
+          "download_url": "https://edge.forgecdn.net/files/7429/11/ftb-filter-system-neoforge-21.1.4.jar",
+          "file_name": "ftb-filter-system-neoforge-21.1.4.jar",
+          "version_number": "[NEOFORGE][1.21.1] FTB Filter System 21.1.4",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/912/316/256/256/638367662386549023.png",
+          "_depends_on": [
+            419699
+          ]
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-02T05:41:51.364Z",
+          "author": "Martion000",
+          "changes": [
+            "+ FTB Filter System"
+          ]
+        },
         {
           "date": "2026-04-02T01:57:33.324Z",
           "author": "Martion000",
