@@ -1595,9 +1595,36 @@
           "file_name": "jei-1.21.1-neoforge-19.27.0.340.jar",
           "version_number": "19.27.0.340 for NeoForge 1.21.1",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg"
+        },
+        {
+          "name": "KubeJS",
+          "curseforge_id": 238086,
+          "download_url": "https://edge.forgecdn.net/files/7278/501/kubejs-neoforge-2101.7.2-build.348.jar",
+          "file_name": "kubejs-neoforge-2101.7.2-build.348.jar",
+          "version_number": "KubeJS NeoForge 2101.7.2-build.348",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1053/159/256/256/638583716122159056.png",
+          "_depends_on": [
+            416294
+          ]
+        },
+        {
+          "name": "Rhino 2101.2.7-build.81",
+          "curseforge_id": 416294,
+          "download_url": "https://edge.forgecdn.net/files/7104/526/rhino-2101.2.7-build.81.jar",
+          "file_name": "rhino-2101.2.7-build.81.jar",
+          "version_number": "Rhino 2101.2.7-build.81",
+          "_is_dependency": true
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-02T02:36:04.591Z",
+          "author": "Martion000",
+          "changes": [
+            "+ KubeJS",
+            "+ Rhino 2101.2.7-build.81"
+          ]
+        },
         {
           "date": "2026-04-02T02:26:51.701Z",
           "author": "Martion000",
