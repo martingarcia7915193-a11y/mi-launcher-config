@@ -1195,9 +1195,37 @@
           "file_name": "easyautocycler-2.0.0.jar",
           "version_number": "Easy Auto Cycler 2.0.0 1.21.1 NeoForge",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1223/564/256/256/638801716533815980.png"
+        },
+        {
+          "name": "Just Enough Resources (JER)",
+          "curseforge_id": 240630,
+          "download_url": "https://edge.forgecdn.net/files/6506/298/JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar",
+          "file_name": "JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar",
+          "version_number": "JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/32/419/256/256/635880199659979425.png"
+        },
+        {
+          "name": "Cobbledex for REI / EMI / JEI",
+          "curseforge_id": 1458447,
+          "download_url": "https://edge.forgecdn.net/files/7737/110/cobbledex-rei-emi-jei-neoforge-1.50.3.jar",
+          "file_name": "cobbledex-rei-emi-jei-neoforge-1.50.3.jar",
+          "version_number": "[NeoForge] v1.50.3",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1670/417/256/256/639062597097005208.png",
+          "_depends_on": [
+            687131,
+            351264
+          ]
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-03T04:16:44.903Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Just Enough Resources (JER)",
+            "+ Cobbledex for REI / EMI / JEI"
+          ]
+        },
         {
           "date": "2026-04-02T08:51:05.649Z",
           "author": "Martion000",
