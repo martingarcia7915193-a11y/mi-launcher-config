@@ -1711,9 +1711,49 @@
           "file_name": "eights_economy_p-neoforge-1.21.1-2.0.0.jar",
           "version_number": "eights_economy_p-neoforge-1.21.1-2.0.0.jar",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/471/273/256/256/637759222879433783.png"
+        },
+        {
+          "name": "Immersive Portals (for Forge)",
+          "curseforge_id": 355440,
+          "download_url": "https://edge.forgecdn.net/files/6667/779/immersive_portals-6.0.7-all.jar",
+          "file_name": "immersive_portals-6.0.7-all.jar",
+          "version_number": "immersive_portals-6.0.7-all.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/243/193/256/256/637138303570287469.png",
+          "_depends_on": [
+            348521
+          ]
+        },
+        {
+          "name": "[NeoForge 1.21] v15.0.140",
+          "curseforge_id": 348521,
+          "download_url": "https://edge.forgecdn.net/files/5729/127/cloth-config-15.0.140-neoforge.jar",
+          "file_name": "cloth-config-15.0.140-neoforge.jar",
+          "version_number": "[NeoForge 1.21] v15.0.140",
+          "_is_dependency": true
+        },
+        {
+          "name": " HIT: Hari Immersive Train (Rework)",
+          "curseforge_id": 1413468,
+          "download_url": "https://mediafilez.forgecdn.net/files/7494/973/HariTrain-1.21.1-1.0.0.jar",
+          "file_name": "HariTrain-1.21.1-1.0.0.jar",
+          "version_number": "HariTrain-1.21.1-1.0.0.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1580/313/256/256/639023166199506252.png",
+          "_depends_on": [
+            355440,
+            328085
+          ]
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-03T03:37:49.728Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Immersive Portals (for Forge)",
+            "+ [NeoForge 1.21] v15.0.140",
+            "+  HIT: Hari Immersive Train (Rework)"
+          ]
+        },
         {
           "date": "2026-04-02T04:32:46.966Z",
           "author": "Martion000",
