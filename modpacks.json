@@ -1214,9 +1214,41 @@
           "_depends_on": [
             238222
           ]
+        },
+        {
+          "name": "FTB Chunks (NeoForge)",
+          "curseforge_id": 314906,
+          "download_url": "https://edge.forgecdn.net/files/7608/681/ftb-chunks-neoforge-2101.1.14.jar",
+          "file_name": "ftb-chunks-neoforge-2101.1.14.jar",
+          "version_number": "[NEOFORGE][1.21.1] FTB Chunks 2101.1.14",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/972/573/256/256/638474885347244172.png",
+          "_depends_on": [
+            404468,
+            404465,
+            419699
+          ]
+        },
+        {
+          "name": "Create: Power Loader",
+          "curseforge_id": 936020,
+          "download_url": "https://edge.forgecdn.net/files/6549/980/create_power_loader-2.0.3-mc1.21.1.jar",
+          "file_name": "create_power_loader-2.0.3-mc1.21.1.jar",
+          "version_number": "create_power_loader 2.0.3-mc1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/903/443/256/256/638352779105838214.png",
+          "_depends_on": [
+            328085
+          ]
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-03T08:49:32.221Z",
+          "author": "Martion000",
+          "changes": [
+            "+ FTB Chunks (NeoForge)",
+            "+ Create: Power Loader"
+          ]
+        },
         {
           "date": "2026-04-03T04:27:54.060Z",
           "author": "Martion000",
