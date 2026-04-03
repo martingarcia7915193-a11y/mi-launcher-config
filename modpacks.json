@@ -1214,9 +1214,24 @@
           "_depends_on": [
             238222
           ]
+        },
+        {
+          "name": "Immersive Aircraft [Fabric/Forge]",
+          "curseforge_id": 666014,
+          "download_url": "https://edge.forgecdn.net/files/7725/795/immersive_aircraft-1.4.3%2b1.21.1-neoforge.jar",
+          "file_name": "immersive_aircraft-1.4.3+1.21.1-neoforge.jar",
+          "version_number": "[NeoForge 1.21.1] Immersive Aircraft - 1.4.3",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/656/842/256/256/638056986831428322.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-03T04:24:52.509Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Immersive Aircraft [Fabric/Forge]"
+          ]
+        },
         {
           "date": "2026-04-03T04:24:22.337Z",
           "author": "Martion000",
