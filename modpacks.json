@@ -1719,9 +1719,65 @@
           "file_name": "simpleplanes-1.21.1-5.3.7.jar",
           "version_number": "simpleplanes-1.21.1-5.3.7.jar",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/307/288/256/256/637387965133429571.png"
+        },
+        {
+          "name": "Camera Mod",
+          "curseforge_id": 289310,
+          "download_url": "https://edge.forgecdn.net/files/6715/623/camera-neoforge-1.21.1-1.0.21.jar",
+          "file_name": "camera-neoforge-1.21.1-1.0.21.jar",
+          "version_number": "[NEOFORGE][1.21.1] Camera Mod 1.21.1-1.0.21",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/144/334/256/256/636555258623630042.png"
+        },
+        {
+          "name": "WATERFrAMES: Multimedia Displays",
+          "curseforge_id": 834607,
+          "download_url": "https://edge.forgecdn.net/files/7129/240/waterframes-NEOFORGE-mc1.21.1-v2.1.22.jar",
+          "file_name": "waterframes-NEOFORGE-mc1.21.1-v2.1.22.jar",
+          "version_number": "WF-NEOFORGE/mc1.21.1/v2.1.22",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/898/661/256/256/638344412974216789_animated.gif",
+          "_depends_on": [
+            257814,
+            869524,
+            1167473
+          ]
+        },
+        {
+          "name": "CreativeCore_NEOFORGE_v2.13.36_mc1.21.1.jar",
+          "curseforge_id": 257814,
+          "download_url": "https://edge.forgecdn.net/files/7804/881/CreativeCore_NEOFORGE_v2.13.36_mc1.21.1.jar",
+          "file_name": "CreativeCore_NEOFORGE_v2.13.36_mc1.21.1.jar",
+          "version_number": "CreativeCore_NEOFORGE_v2.13.36_mc1.21.1.jar",
+          "_is_dependency": true
+        },
+        {
+          "name": "WM/3.0.0-beta.10",
+          "curseforge_id": 869524,
+          "download_url": "https://edge.forgecdn.net/files/7745/818/watermedia-3.0.0-beta.10.jar",
+          "file_name": "watermedia-3.0.0-beta.10.jar",
+          "version_number": "WM/3.0.0-beta.10",
+          "_is_dependency": true
+        },
+        {
+          "name": "WaterVision/NF-mc1.21.1-v0.1.0-alpha",
+          "curseforge_id": 1167473,
+          "download_url": "https://edge.forgecdn.net/files/7043/267/watervision-NF-mc1.21.1-v0.1.0-alpha.jar",
+          "file_name": "watervision-NF-mc1.21.1-v0.1.0-alpha.jar",
+          "version_number": "WaterVision/NF-mc1.21.1-v0.1.0-alpha",
+          "_is_dependency": true
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-03T03:57:51.036Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Camera Mod",
+            "+ WATERFrAMES: Multimedia Displays",
+            "+ CreativeCore_NEOFORGE_v2.13.36_mc1.21.1.jar",
+            "+ WM/3.0.0-beta.10",
+            "+ WaterVision/NF-mc1.21.1-v0.1.0-alpha"
+          ]
+        },
         {
           "date": "2026-04-03T03:44:48.296Z",
           "author": "Martion000",
