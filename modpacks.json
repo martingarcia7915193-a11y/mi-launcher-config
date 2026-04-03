@@ -6,7 +6,7 @@
     {
       "id": "createmon2",
       "name": "Createmon 2.0 ",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "Create + cobblemon 2 intento",
       "minecraft_version": "1.21.1",
       "modloader": "neoforge",
@@ -1217,6 +1217,13 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-03T04:24:22.337Z",
+          "author": "Martion000",
+          "changes": [
+            "⬆ Versión 1.0.0 → 1.0.1"
+          ]
+        },
         {
           "date": "2026-04-03T04:22:28.770Z",
           "author": "Martion000",
