@@ -1205,19 +1205,26 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/32/419/256/256/635880199659979425.png"
         },
         {
-          "name": "Cobbledex for REI / EMI / JEI",
-          "curseforge_id": 1458447,
-          "download_url": "https://edge.forgecdn.net/files/7737/110/cobbledex-rei-emi-jei-neoforge-1.50.3.jar",
-          "file_name": "cobbledex-rei-emi-jei-neoforge-1.50.3.jar",
-          "version_number": "[NeoForge] v1.50.3",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1670/417/256/256/639062597097005208.png",
+          "name": "Just Enough Cobblemon",
+          "curseforge_id": 1459880,
+          "download_url": "https://edge.forgecdn.net/files/7653/849/justenoughcobblemon-neoforge-1.1.0.jar",
+          "file_name": "justenoughcobblemon-neoforge-1.1.0.jar",
+          "version_number": "justenoughcobblemon-neoforge-1.1.0.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1673/414/256/256/639064205224183798.png",
           "_depends_on": [
-            687131,
-            351264
+            238222
           ]
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-03T04:22:28.770Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Just Enough Cobblemon",
+            "− Cobbledex for REI / EMI / JEI"
+          ]
+        },
         {
           "date": "2026-04-03T04:16:44.903Z",
           "author": "Martion000",
