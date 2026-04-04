@@ -1238,9 +1238,50 @@
           "_depends_on": [
             328085
           ]
+        },
+        {
+          "name": "Cobblemon Catch Rate Display",
+          "curseforge_id": 1450604,
+          "download_url": "https://edge.forgecdn.net/files/7859/862/catchrate-display-neoforge-2.8.11.jar",
+          "file_name": "catchrate-display-neoforge-2.8.11.jar",
+          "version_number": "[NeoForge] v2.8.11",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1657/30/256/256/639055898662095390.png",
+          "_depends_on": [
+            351264,
+            687131
+          ]
+        },
+        {
+          "name": "Cobblemon Raid Dens",
+          "curseforge_id": 1349231,
+          "download_url": "https://edge.forgecdn.net/files/7861/165/cobblemonraiddens-neoforge-0.10.0%2b1.21.1.jar",
+          "file_name": "cobblemonraiddens-neoforge-0.10.0+1.21.1.jar",
+          "version_number": "cobblemonraiddens-neoforge-0.10.0+1.21.1.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1445/875/256/256/638937854611471388.png",
+          "_depends_on": [
+            687131,
+            388172
+          ]
+        },
+        {
+          "name": "geckolib-neoforge-1.21.1-4.8.4.jar",
+          "curseforge_id": 388172,
+          "download_url": "https://edge.forgecdn.net/files/7707/149/geckolib-neoforge-1.21.1-4.8.4.jar",
+          "file_name": "geckolib-neoforge-1.21.1-4.8.4.jar",
+          "version_number": "geckolib-neoforge-1.21.1-4.8.4.jar",
+          "_is_dependency": true
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-04T04:35:26.328Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Cobblemon Catch Rate Display",
+            "+ Cobblemon Raid Dens",
+            "+ geckolib-neoforge-1.21.1-4.8.4.jar"
+          ]
+        },
         {
           "date": "2026-04-03T08:49:32.221Z",
           "author": "Martion000",
@@ -1644,7 +1685,9 @@
           "version_number": "Tom's Create Style 1.2 - 1.21.zip",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1273/480/256/256/638828425709420198.png"
         }
-      ]
+      ],
+      "extras_version": 1,
+      "extras_url": "https://drive.google.com/file/d/1AkwlvchQGc91cFaKcFoN79q0kyuV9KBY/view?usp=drivesdk"
     },
     {
       "id": "createmon2-copia",
