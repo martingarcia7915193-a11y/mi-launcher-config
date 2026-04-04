@@ -1281,9 +1281,24 @@
           "_depends_on": [
             328085
           ]
+        },
+        {
+          "name": "Create: Water wheel bearing",
+          "curseforge_id": 1420394,
+          "download_url": "https://edge.forgecdn.net/files/7725/191/waterwheelbearing-2.0.0.jar",
+          "file_name": "waterwheelbearing-2.0.0.jar",
+          "version_number": "waterwheelbearing-2.0.0.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1594/683/256/256/639031084100886662.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-04T06:35:12.997Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Create: Water wheel bearing"
+          ]
+        },
         {
           "date": "2026-04-04T06:33:03.247Z",
           "author": "Martion000",
@@ -1704,7 +1719,7 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1273/480/256/256/638828425709420198.png"
         }
       ],
-      "extras_version": 2,
+      "extras_version": 3,
       "extras_url": "https://drive.google.com/file/d/1AkwlvchQGc91cFaKcFoN79q0kyuV9KBY/view?usp=drivesdk"
     },
     {
