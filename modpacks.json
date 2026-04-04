@@ -1293,6 +1293,14 @@
       ],
       "changelog": [
         {
+          "date": "2026-04-04T08:47:27.901Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Complementary Shaders - Reimagined (Shader)",
+            "+ Complementary Shaders - Unbound (Shader)"
+          ]
+        },
+        {
           "date": "2026-04-04T08:10:26.893Z",
           "author": "Martion000",
           "changes": [
@@ -1728,7 +1736,7 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1273/480/256/256/638828425709420198.png"
         }
       ],
-      "extras_version": 5,
+      "extras_version": 6,
       "extras_url": "https://drive.google.com/file/d/1AkwlvchQGc91cFaKcFoN79q0kyuV9KBY/view?usp=drivesdk",
       "optional_mods": [
         {
@@ -1760,6 +1768,24 @@
           "file_name": "EuphoriaPatcher-1.8.6-r5.7.1-neoforge.jar",
           "version_number": "Euphoria Patcher 1.8.6-r5.7.1-neoforge",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1198/673/256/256/638774916393051591.png"
+        }
+      ],
+      "shaders": [
+        {
+          "name": "Complementary Shaders - Reimagined",
+          "curseforge_id": 627557,
+          "download_url": "https://edge.forgecdn.net/files/7574/259/ComplementaryReimagined_r5.7.1.zip",
+          "file_name": "ComplementaryReimagined_r5.7.1.zip",
+          "version_number": "Complementary Reimagined r5.7.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/875/481/256/256/638298072734336144.png"
+        },
+        {
+          "name": "Complementary Shaders - Unbound",
+          "curseforge_id": 385587,
+          "download_url": "https://edge.forgecdn.net/files/7574/260/ComplementaryUnbound_r5.7.1.zip",
+          "file_name": "ComplementaryUnbound_r5.7.1.zip",
+          "version_number": "Complementary Unbound r5.7.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/875/480/256/256/638298072228596362.png"
         }
       ]
     },
