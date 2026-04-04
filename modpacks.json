@@ -1270,9 +1270,27 @@
           "file_name": "geckolib-neoforge-1.21.1-4.8.4.jar",
           "version_number": "geckolib-neoforge-1.21.1-4.8.4.jar",
           "_is_dependency": true
+        },
+        {
+          "name": "Create: Trading Floor",
+          "curseforge_id": 1102591,
+          "download_url": "https://edge.forgecdn.net/files/7625/579/trading_floor-3.0.16.jar",
+          "file_name": "trading_floor-3.0.16.jar",
+          "version_number": "Create: Trading Floor 3.0.16 Neoforge 1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1080/857/256/256/638620276513777713.png",
+          "_depends_on": [
+            328085
+          ]
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-04T06:33:03.247Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Create: Trading Floor"
+          ]
+        },
         {
           "date": "2026-04-04T04:35:26.328Z",
           "author": "Martion000",
@@ -1686,7 +1704,7 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1273/480/256/256/638828425709420198.png"
         }
       ],
-      "extras_version": 1,
+      "extras_version": 2,
       "extras_url": "https://drive.google.com/file/d/1AkwlvchQGc91cFaKcFoN79q0kyuV9KBY/view?usp=drivesdk"
     },
     {
