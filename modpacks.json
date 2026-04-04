@@ -1062,14 +1062,6 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/439/839/256/256/637687646769698734.png"
         },
         {
-          "name": "ScalableLux",
-          "curseforge_id": 1055925,
-          "download_url": "https://edge.forgecdn.net/files/6952/385/ScalableLux-0.1.0.1%2bneoforge.1cb1e91-all.jar",
-          "file_name": "ScalableLux-0.1.0.1+neoforge.1cb1e91-all.jar",
-          "version_number": "0.1.0.1 for neoforge 1.21.1",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1032/238/256/256/638555277121685758.png"
-        },
-        {
           "name": "Vanilla Backport",
           "curseforge_id": 417430,
           "download_url": "https://edge.forgecdn.net/files/7830/651/VanillaBackport-neoforge-1.21.1-1.1.6.3.jar",
@@ -1292,6 +1284,13 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-04T08:53:17.254Z",
+          "author": "Martion000",
+          "changes": [
+            "− ScalableLux"
+          ]
+        },
         {
           "date": "2026-04-04T08:47:27.901Z",
           "author": "Martion000",
@@ -1736,7 +1735,7 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1273/480/256/256/638828425709420198.png"
         }
       ],
-      "extras_version": 6,
+      "extras_version": 7,
       "extras_url": "https://drive.google.com/file/d/1AkwlvchQGc91cFaKcFoN79q0kyuV9KBY/view?usp=drivesdk",
       "optional_mods": [
         {
