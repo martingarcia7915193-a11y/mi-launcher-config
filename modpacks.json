@@ -1277,9 +1277,28 @@
           "file_name": "Ping-Wheel-1.12.1-neoforge-1.21.1.jar",
           "version_number": "v1.12.1 for NeoForge 1.21.1",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/673/24/256/256/638064653740334486.png"
+        },
+        {
+          "name": "Chiselmon - Cobblemon QOL",
+          "curseforge_id": 1475518,
+          "download_url": "https://edge.forgecdn.net/files/7853/595/chiselmon-neoforge-1.2.2-beta.jar",
+          "file_name": "chiselmon-neoforge-1.2.2-beta.jar",
+          "version_number": "chiselmon-neoforge-1.2.2-beta.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1700/928/256/256/639080074708124348.png",
+          "_depends_on": [
+            667299,
+            687131
+          ]
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-05T21:38:34.565Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Chiselmon - Cobblemon QOL"
+          ]
+        },
         {
           "date": "2026-04-05T21:38:16.117Z",
           "author": "Martion000",
@@ -1754,7 +1773,7 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1273/480/256/256/638828425709420198.png"
         }
       ],
-      "extras_version": 11,
+      "extras_version": 12,
       "extras_url": "https://drive.google.com/file/d/1AkwlvchQGc91cFaKcFoN79q0kyuV9KBY/view?usp=drivesdk",
       "optional_mods": [
         {
