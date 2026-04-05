@@ -198,18 +198,6 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1455/891/256/256/638945044588050203.png"
         },
         {
-          "name": "Chiselmon - Cobblemon QOL",
-          "curseforge_id": 1475518,
-          "download_url": "https://edge.forgecdn.net/files/7765/943/chiselmon-neoforge-1.2.1-beta-hotfix1.jar",
-          "file_name": "chiselmon-neoforge-1.2.1-beta-hotfix1.jar",
-          "version_number": "chiselmon-neoforge-1.2.1-beta-hotfix1.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1700/928/256/256/639080074708124348.png",
-          "_depends_on": [
-            667299,
-            687131
-          ]
-        },
-        {
           "name": "3.8.2 for neoforge 1.21.1",
           "curseforge_id": 667299,
           "download_url": "https://edge.forgecdn.net/files/7437/845/yet_another_config_lib_v3-3.8.2%2b1.21.1-neoforge.jar",
@@ -1293,6 +1281,13 @@
       ],
       "changelog": [
         {
+          "date": "2026-04-05T21:38:16.117Z",
+          "author": "Martion000",
+          "changes": [
+            "− Chiselmon - Cobblemon QOL"
+          ]
+        },
+        {
           "date": "2026-04-05T09:55:04.555Z",
           "author": "Martion000",
           "changes": [
@@ -1759,7 +1754,7 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1273/480/256/256/638828425709420198.png"
         }
       ],
-      "extras_version": 10,
+      "extras_version": 11,
       "extras_url": "https://drive.google.com/file/d/1AkwlvchQGc91cFaKcFoN79q0kyuV9KBY/view?usp=drivesdk",
       "optional_mods": [
         {
