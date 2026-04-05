@@ -190,14 +190,6 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/266/898/256/256/637234057062921445.png"
         },
         {
-          "name": "Pokemon Type Table (Cobblemon / Pixelmon)",
-          "curseforge_id": 1354015,
-          "download_url": "https://edge.forgecdn.net/files/7156/734/cobblemontypechart-1.0.2.jar",
-          "file_name": "cobblemontypechart-1.0.2.jar",
-          "version_number": "cobblemontypechart-1.0.2.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1455/891/256/256/638945044588050203.png"
-        },
-        {
           "name": "3.8.2 for neoforge 1.21.1",
           "curseforge_id": 667299,
           "download_url": "https://edge.forgecdn.net/files/7437/845/yet_another_config_lib_v3-3.8.2%2b1.21.1-neoforge.jar",
@@ -1293,6 +1285,13 @@
       ],
       "changelog": [
         {
+          "date": "2026-04-05T23:39:25.008Z",
+          "author": "Martion000",
+          "changes": [
+            "− Pokemon Type Table (Cobblemon / Pixelmon)"
+          ]
+        },
+        {
           "date": "2026-04-05T21:38:34.565Z",
           "author": "Martion000",
           "changes": [
@@ -1773,7 +1772,7 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1273/480/256/256/638828425709420198.png"
         }
       ],
-      "extras_version": 12,
+      "extras_version": 13,
       "extras_url": "https://drive.google.com/file/d/1AkwlvchQGc91cFaKcFoN79q0kyuV9KBY/view?usp=drivesdk",
       "optional_mods": [
         {
