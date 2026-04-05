@@ -1772,7 +1772,7 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1273/480/256/256/638828425709420198.png"
         }
       ],
-      "extras_version": 13,
+      "extras_version": 14,
       "extras_url": "https://drive.google.com/file/d/1AkwlvchQGc91cFaKcFoN79q0kyuV9KBY/view?usp=drivesdk",
       "optional_mods": [
         {
@@ -1784,7 +1784,8 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1002/450/256/256/638522657871453967.png",
           "_depends_on": [
             394468
-          ]
+          ],
+          "client_only": true
         },
         {
           "name": "Euphoria Patches",
@@ -1792,7 +1793,8 @@
           "download_url": "https://edge.forgecdn.net/files/7624/100/EuphoriaPatcher-1.8.6-r5.7.1-neoforge.jar",
           "file_name": "EuphoriaPatcher-1.8.6-r5.7.1-neoforge.jar",
           "version_number": "Euphoria Patcher 1.8.6-r5.7.1-neoforge",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1198/673/256/256/638774916393051591.png"
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1198/673/256/256/638774916393051591.png",
+          "client_only": true
         },
         {
           "name": "Colorwheel",
@@ -1803,7 +1805,8 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1286/627/256/256/638836764954331397.png",
           "_depends_on": [
             455508
-          ]
+          ],
+          "client_only": true
         },
         {
           "name": "Colorwheel Patcher",
@@ -1811,7 +1814,8 @@
           "download_url": "https://edge.forgecdn.net/files/7397/587/colorwheel_patcher-neoforge-1.0.4%2bmc1.21.1.jar",
           "file_name": "colorwheel_patcher-neoforge-1.0.4+mc1.21.1.jar",
           "version_number": "1.0.4+mc1.21.1-neoforge",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1312/571/256/256/638853489185581299.png"
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1312/571/256/256/638853489185581299.png",
+          "client_only": true
         }
       ],
       "shaders": [
