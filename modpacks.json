@@ -1281,9 +1281,24 @@
           "file_name": "waterwheelbearing-2.0.0.jar",
           "version_number": "waterwheelbearing-2.0.0.jar",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1594/683/256/256/639031084100886662.png"
+        },
+        {
+          "name": "Ping Wheel",
+          "curseforge_id": 734339,
+          "download_url": "https://edge.forgecdn.net/files/7409/935/Ping-Wheel-1.12.1-neoforge-1.21.1.jar",
+          "file_name": "Ping-Wheel-1.12.1-neoforge-1.21.1.jar",
+          "version_number": "v1.12.1 for NeoForge 1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/673/24/256/256/638064653740334486.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-05T09:55:04.555Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Ping Wheel"
+          ]
+        },
         {
           "date": "2026-04-05T00:05:37.774Z",
           "author": "Martion000",
@@ -1744,7 +1759,7 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1273/480/256/256/638828425709420198.png"
         }
       ],
-      "extras_version": 8,
+      "extras_version": 9,
       "extras_url": "https://drive.google.com/file/d/1AkwlvchQGc91cFaKcFoN79q0kyuV9KBY/view?usp=drivesdk",
       "optional_mods": [
         {
