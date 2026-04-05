@@ -3101,6 +3101,576 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1273/480/256/256/638828425709420198.png"
         }
       ]
+    },
+    {
+      "id": "cobbleverse-cobblemon",
+      "name": "COBBLEVERSE",
+      "version": "1.7.30-CF",
+      "description": "Start a true Pokémon adventure in Minecraft: Cobblemon 1.7.3 | ALL 1025 Pokémon! | ALL 93 Mega Evolutions | Gyms & Badges | Starter Kit | Unique Structures | Custom Music | Shaders | Optimized | So much more! [1.21.1]",
+      "minecraft_version": "1.21.1",
+      "modloader": "fabric",
+      "modloader_version": "0.18.4",
+      "icon": "https://media.forgecdn.net/avatars/1189/349/638764246107108450.png",
+      "background": "",
+      "mods": [
+        {
+          "name": "Sophisticated Storage (Unofficial Fabric port)",
+          "curseforge_id": 979326
+        },
+        {
+          "name": "Lucky's Cozy Home: Stone & Waterworks Update",
+          "curseforge_id": 825733
+        },
+        {
+          "name": "COBBLEVERSE: Badges & Trophies",
+          "curseforge_id": 1258911
+        },
+        {
+          "name": "MoreCulling",
+          "curseforge_id": 630104
+        },
+        {
+          "name": "Comforts Modernized",
+          "curseforge_id": 990594
+        },
+        {
+          "name": "Default Options",
+          "curseforge_id": 232131
+        },
+        {
+          "name": "Comforts",
+          "curseforge_id": 276951
+        },
+        {
+          "name": "Complete Cobblemon Collection",
+          "curseforge_id": 1258311
+        },
+        {
+          "name": "Cobblemon Battle Extras",
+          "curseforge_id": 1396525
+        },
+        {
+          "name": "Mouse Tweaks",
+          "curseforge_id": 60089
+        },
+        {
+          "name": "Advancement Plaques [Fabric]",
+          "curseforge_id": 514882
+        },
+        {
+          "name": "Particular ✨ Reforged",
+          "curseforge_id": 1219053
+        },
+        {
+          "name": "LumyMon",
+          "curseforge_id": 1301989
+        },
+        {
+          "name": "[ETF] Entity Texture Features - [Fabric & Forge]",
+          "curseforge_id": 568563
+        },
+        {
+          "name": "Fresh Animations",
+          "curseforge_id": 453763
+        },
+        {
+          "name": "Fabric API",
+          "curseforge_id": 306612
+        },
+        {
+          "name": "Konkrete [Fabric] [MOVED TO NEW PAGE]",
+          "curseforge_id": 416797
+        },
+        {
+          "name": "Reese's Sodium Options",
+          "curseforge_id": 511319
+        },
+        {
+          "name": "Pokeblocks",
+          "curseforge_id": 1078431
+        },
+        {
+          "name": "Huge Structure Blocks [Fabric & Forge]",
+          "curseforge_id": 474114
+        },
+        {
+          "name": "Global Packs",
+          "curseforge_id": 317134
+        },
+        {
+          "name": "Controlling",
+          "curseforge_id": 250398
+        },
+        {
+          "name": "Cobblemon Fight or Flight Reborn",
+          "curseforge_id": 1168140
+        },
+        {
+          "name": "Xaero's World Map",
+          "curseforge_id": 317780
+        },
+        {
+          "name": "Sophisticated Backpacks (Unofficial Fabric port)",
+          "curseforge_id": 979322
+        },
+        {
+          "name": "Trinkets (Fabric)",
+          "curseforge_id": 341284
+        },
+        {
+          "name": "Accessories",
+          "curseforge_id": 938917
+        },
+        {
+          "name": "Searchables",
+          "curseforge_id": 858542
+        },
+        {
+          "name": "YetAnotherConfigLib",
+          "curseforge_id": 667299
+        },
+        {
+          "name": "Zoomify",
+          "curseforge_id": 574741
+        },
+        {
+          "name": "Carved Wood",
+          "curseforge_id": 1335174
+        },
+        {
+          "name": "Roughly Enough Items Fabric/Forge/NeoForge (REI)",
+          "curseforge_id": 310111
+        },
+        {
+          "name": "FancyMenu",
+          "curseforge_id": 367706
+        },
+        {
+          "name": "Cobblemon Capture XP",
+          "curseforge_id": 901059
+        },
+        {
+          "name": "CobbleDollars [Cobblemon Addon]",
+          "curseforge_id": 859232
+        },
+        {
+          "name": "Beautify: Refabricated",
+          "curseforge_id": 809311
+        },
+        {
+          "name": "Cobblemon Classic Grass Pack",
+          "curseforge_id": 1024881
+        },
+        {
+          "name": "Accessories Compatibility Layer",
+          "curseforge_id": 1315611
+        },
+        {
+          "name": "Rechiseled",
+          "curseforge_id": 558998
+        },
+        {
+          "name": "LibJF",
+          "curseforge_id": 482600
+        },
+        {
+          "name": "Balm (Fabric Edition)",
+          "curseforge_id": 500525
+        },
+        {
+          "name": "Tom's Simple Storage Mod (Fabric)",
+          "curseforge_id": 396826
+        },
+        {
+          "name": "Iceberg [Fabric]",
+          "curseforge_id": 539382
+        },
+        {
+          "name": "Catch Indicator [Cobblemon Addon]",
+          "curseforge_id": 1431831
+        },
+        {
+          "name": "Cobblemon: Legendary Monuments",
+          "curseforge_id": 1263645
+        },
+        {
+          "name": "Continuity",
+          "curseforge_id": 531351
+        },
+        {
+          "name": "Iris Shaders",
+          "curseforge_id": 455508
+        },
+        {
+          "name": "Packet Fixer",
+          "curseforge_id": 689467
+        },
+        {
+          "name": "NetherPortalFix",
+          "curseforge_id": 241160
+        },
+        {
+          "name": "SuperMartijn642's Core Lib",
+          "curseforge_id": 454372
+        },
+        {
+          "name": "StackDeobfuscator",
+          "curseforge_id": 840896
+        },
+        {
+          "name": "Interactic",
+          "curseforge_id": 510974
+        },
+        {
+          "name": "Cloth Config API (Fabric/Forge/NeoForge)",
+          "curseforge_id": 348521
+        },
+        {
+          "name": "Icon Xaero's X FreshAnimations",
+          "curseforge_id": 1159273
+        },
+        {
+          "name": "Fresh Moves",
+          "curseforge_id": 990406
+        },
+        {
+          "name": "GeckoLib",
+          "curseforge_id": 388172
+        },
+        {
+          "name": "Euphoria Patches",
+          "curseforge_id": 915902
+        },
+        {
+          "name": "Better Beds",
+          "curseforge_id": 443782
+        },
+        {
+          "name": "Not Enough Animations",
+          "curseforge_id": 433760
+        },
+        {
+          "name": "Vanilla Backport",
+          "curseforge_id": 417430
+        },
+        {
+          "name": "Resource Pack Overrides",
+          "curseforge_id": 832644
+        },
+        {
+          "name": "Mod Menu",
+          "curseforge_id": 308702
+        },
+        {
+          "name": "FerriteCore (Fabric)",
+          "curseforge_id": 459857
+        },
+        {
+          "name": "Better Recipe Books (+ Smithing Tables, Brewing Stands)",
+          "curseforge_id": 486485
+        },
+        {
+          "name": "Fully Hisuian Starters (Cobblemon)",
+          "curseforge_id": 1017383
+        },
+        {
+          "name": "Navas ZA Megas",
+          "curseforge_id": 1452045
+        },
+        {
+          "name": "Sodium",
+          "curseforge_id": 394468
+        },
+        {
+          "name": "ImmediatelyFast",
+          "curseforge_id": 686911
+        },
+        {
+          "name": "Platform",
+          "curseforge_id": 997634
+        },
+        {
+          "name": "MobsBeGone",
+          "curseforge_id": 1302442
+        },
+        {
+          "name": "Debugify",
+          "curseforge_id": 596224
+        },
+        {
+          "name": "Sound Physics Remastered",
+          "curseforge_id": 535489
+        },
+        {
+          "name": "VillagerConfig",
+          "curseforge_id": 400741
+        },
+        {
+          "name": "Cobblemon: SafePastures",
+          "curseforge_id": 1248185
+        },
+        {
+          "name": "Cobblemon Raid Dens",
+          "curseforge_id": 1349231
+        },
+        {
+          "name": "oωo (owo-lib)",
+          "curseforge_id": 532610
+        },
+        {
+          "name": "Cobblemon Interface: Modded",
+          "curseforge_id": 989454
+        },
+        {
+          "name": "Cobblemon Interface",
+          "curseforge_id": 860898
+        },
+        {
+          "name": "Not Enough Crashes (Fabric)",
+          "curseforge_id": 353890
+        },
+        {
+          "name": "Cobblemon",
+          "curseforge_id": 687131
+        },
+        {
+          "name": "Melody",
+          "curseforge_id": 938643
+        },
+        {
+          "name": "Biome Replacer",
+          "curseforge_id": 910274
+        },
+        {
+          "name": "Sounds Be Gone!",
+          "curseforge_id": 874633
+        },
+        {
+          "name": "Architectury API",
+          "curseforge_id": 419699
+        },
+        {
+          "name": "Fabric Language Kotlin",
+          "curseforge_id": 308769
+        },
+        {
+          "name": "ModernFix",
+          "curseforge_id": 790626
+        },
+        {
+          "name": "Radical Cobblemon Trainers",
+          "curseforge_id": 1009534
+        },
+        {
+          "name": "Particle Rain",
+          "curseforge_id": 421897
+        },
+        {
+          "name": "E19 - Cobblemon Minimap Icons",
+          "curseforge_id": 958737
+        },
+        {
+          "name": "Smart Particles",
+          "curseforge_id": 1420751
+        },
+        {
+          "name": "Cobblemon: PlayerXP",
+          "curseforge_id": 1261726
+        },
+        {
+          "name": "Cobblemon: Mega Showdown",
+          "curseforge_id": 1189523
+        },
+        {
+          "name": "[EMF] Entity Model Features [Fabric & Forge]",
+          "curseforge_id": 844662
+        },
+        {
+          "name": "Highlight",
+          "curseforge_id": 667245
+        },
+        {
+          "name": "Lithium (Fabric/NeoForge)",
+          "curseforge_id": 360438
+        },
+        {
+          "name": "Better F1 Reborn",
+          "curseforge_id": 959591
+        },
+        {
+          "name": "Resourceful Lib",
+          "curseforge_id": 570073
+        },
+        {
+          "name": "Sodium/Embeddium Options API",
+          "curseforge_id": 1103431
+        },
+        {
+          "name": "Music Notification",
+          "curseforge_id": 817206
+        },
+        {
+          "name": "Ping Wheel",
+          "curseforge_id": 734339
+        },
+        {
+          "name": "Repurposed Structures (Fabric)",
+          "curseforge_id": 391366
+        },
+        {
+          "name": "Cobblemon Catch Rate Display",
+          "curseforge_id": 1450604
+        },
+        {
+          "name": "Athena",
+          "curseforge_id": 841890
+        },
+        {
+          "name": "Xaero's Minimap",
+          "curseforge_id": 263420
+        },
+        {
+          "name": "Sodium Extra",
+          "curseforge_id": 447673
+        },
+        {
+          "name": "Only Bottle Caps",
+          "curseforge_id": 1299655
+        },
+        {
+          "name": "SuperMartijn642's Config Lib",
+          "curseforge_id": 438332
+        },
+        {
+          "name": "CobbleCuisine",
+          "curseforge_id": 1254643
+        },
+        {
+          "name": "MidnightLib",
+          "curseforge_id": 488090
+        },
+        {
+          "name": "Radical Cobblemon Trainers API",
+          "curseforge_id": 1152792
+        },
+        {
+          "name": "Complementary Shaders - Unbound",
+          "curseforge_id": 385587
+        },
+        {
+          "name": "MoreCobblemonTweaks",
+          "curseforge_id": 1082538
+        },
+        {
+          "name": "Handcrafted",
+          "curseforge_id": 538214
+        },
+        {
+          "name": "Krypton",
+          "curseforge_id": 428912
+        },
+        {
+          "name": "BetterF3",
+          "curseforge_id": 401648
+        },
+        {
+          "name": "Waystones",
+          "curseforge_id": 245755
+        },
+        {
+          "name": "LumyREI",
+          "curseforge_id": 1399760
+        },
+        {
+          "name": "Entity Culling Fabric/Forge",
+          "curseforge_id": 448233
+        },
+        {
+          "name": "Forgiving Void",
+          "curseforge_id": 271009
+        },
+        {
+          "name": "Better Third Person",
+          "curseforge_id": 435044
+        },
+        {
+          "name": "Fusion (Connected Textures)",
+          "curseforge_id": 854949
+        },
+        {
+          "name": "Lenient Death",
+          "curseforge_id": 506536
+        },
+        {
+          "name": "Respackopts",
+          "curseforge_id": 430090
+        },
+        {
+          "name": "AdvancementDisable",
+          "curseforge_id": 1055905
+        },
+        {
+          "name": "Cobblemon Pokenav",
+          "curseforge_id": 976014
+        },
+        {
+          "name": "CobbleFurnies",
+          "curseforge_id": 1188698
+        },
+        {
+          "name": "Custom Splash Screen",
+          "curseforge_id": 438252
+        },
+        {
+          "name": "Forge Config API Port",
+          "curseforge_id": 547434
+        },
+        {
+          "name": "Sophisticated Core (Unofficial Fabric port)",
+          "curseforge_id": 979317
+        },
+        {
+          "name": "Paginated Advancements & Custom Frames",
+          "curseforge_id": 618770
+        },
+        {
+          "name": "Cobblemon Tim Core",
+          "curseforge_id": 1295910
+        },
+        {
+          "name": "ToolTipFix",
+          "curseforge_id": 411557
+        },
+        {
+          "name": "Cobblemon 3D Poke Rods",
+          "curseforge_id": 1173260
+        },
+        {
+          "name": "Terralith",
+          "curseforge_id": 513688,
+          "download_url": "https://edge.forgecdn.net/files/6090/387/Terralith_1.21.x_v2.5.8.jar",
+          "file_name": "Terralith_1.21.x_v2.5.8.jar",
+          "version_number": "v2.5.8 ~ Mod 1.21.x",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/554/659/256/256/637897033487568646.png"
+        },
+        {
+          "name": "Cobblemon Journey Mounts",
+          "curseforge_id": 1401442,
+          "download_url": "https://edge.forgecdn.net/files/7516/317/cobblemon-journey-mounts-1.7.2.jar",
+          "file_name": "cobblemon-journey-mounts-1.7.2.jar",
+          "version_number": "cobblemon-journey-mounts-1.7.2.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1556/532/256/256/639009997525197415.png"
+        }
+      ],
+      "changelog": [
+        {
+          "date": "2026-04-05T11:27:02.124Z",
+          "author": "Martion000",
+          "changes": [
+            "✦ Modpack creado"
+          ]
+        }
+      ]
     }
   ]
 }
