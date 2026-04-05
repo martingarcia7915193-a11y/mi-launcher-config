@@ -1912,7 +1912,8 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/49/603/256/256/636079972364045115.png",
           "_depends_on": [
             858542
-          ]
+          ],
+          "client_only": true
         },
         {
           "name": "Searchables-neoforge-1.21.1-1.0.2.jar",
@@ -1920,7 +1921,8 @@
           "download_url": "https://edge.forgecdn.net/files/5831/692/Searchables-neoforge-1.21.1-1.0.2.jar",
           "file_name": "Searchables-neoforge-1.21.1-1.0.2.jar",
           "version_number": "Searchables-neoforge-1.21.1-1.0.2.jar",
-          "_is_dependency": true
+          "_is_dependency": true,
+          "client_only": true
         },
         {
           "name": "Curios API (Forge/NeoForge)",
@@ -2001,7 +2003,8 @@
           "download_url": "https://edge.forgecdn.net/files/5637/846/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
           "file_name": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
           "version_number": "[1.21+ NeoForge] Mouse Tweaks 2.26.1",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/467/691/256/256/637749969243449870.png"
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/467/691/256/256/637749969243449870.png",
+          "client_only": true
         },
         {
           "name": "Jade 🔍",
@@ -2052,7 +2055,8 @@
           "download_url": "https://edge.forgecdn.net/files/6382/651/sodium-neoforge-0.6.13%2bmc1.21.1.jar",
           "file_name": "sodium-neoforge-0.6.13+mc1.21.1.jar",
           "version_number": "Sodium 0.6.13 for NeoForge",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/284/773/256/256/637298471098686391.png"
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/284/773/256/256/637298471098686391.png",
+          "client_only": true
         },
         {
           "name": "Mechanical Healing Machine",
@@ -2257,7 +2261,8 @@
           "download_url": "https://edge.forgecdn.net/files/6593/948/modnametooltip-1.21.1-neoforge-2.3.0.jar",
           "file_name": "modnametooltip-1.21.1-neoforge-2.3.0.jar",
           "version_number": "modnametooltip-1.21.1-neoforge-2.3.0.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/29/943/256/256/635853960312359636.png"
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/29/943/256/256/635853960312359636.png",
+          "client_only": true
         },
         {
           "name": "Create Stuff 'N Additions",
@@ -2685,7 +2690,8 @@
           "download_url": "https://edge.forgecdn.net/files/7276/577/configured-neoforge-1.21.1-2.6.3.jar",
           "file_name": "configured-neoforge-1.21.1-2.6.3.jar",
           "version_number": "Configured 2.6.3",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/871/317/256/256/638288810833209348.png"
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/871/317/256/256/638288810833209348.png",
+          "client_only": true
         },
         {
           "name": "Lootr (Forge & NeoForge)",
@@ -2712,7 +2718,8 @@
           "download_url": "https://edge.forgecdn.net/files/7825/625/CrashAssistant-neoforge-1.20.6-1.21.4-1.11.6.jar",
           "file_name": "CrashAssistant-neoforge-1.20.6-1.21.4-1.11.6.jar",
           "version_number": "CrashAssistant-neoforge-1.20.6-1.21.4-1.11.6.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1482/227/256/256/638963404721998907.png"
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1482/227/256/256/638963404721998907.png",
+          "client_only": true
         },
         {
           "name": "Connectivity",
@@ -2778,7 +2785,8 @@
           "_depends_on": [
             1103431,
             394468
-          ]
+          ],
+          "client_only": true
         },
         {
           "name": "SodiumOptionsAPI Neoforge 1.0.10 for 1.21.1",
@@ -2786,7 +2794,8 @@
           "download_url": "https://edge.forgecdn.net/files/6100/815/sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
           "file_name": "sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
           "version_number": "SodiumOptionsAPI Neoforge 1.0.10 for 1.21.1",
-          "_is_dependency": true
+          "_is_dependency": true,
+          "client_only": true
         },
         {
           "name": "FerriteCore ((Neo)Forge)",
@@ -2813,7 +2822,8 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/414/599/256/256/637636962431399112.png",
           "_depends_on": [
             394468
-          ]
+          ],
+          "client_only": true
         },
         {
           "name": "Rechiseled",
@@ -2996,7 +3006,8 @@
           "download_url": "https://edge.forgecdn.net/files/6949/629/easyautocycler-2.0.0.jar",
           "file_name": "easyautocycler-2.0.0.jar",
           "version_number": "Easy Auto Cycler 2.0.0 1.21.1 NeoForge",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1223/564/256/256/638801716533815980.png"
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1223/564/256/256/638801716533815980.png",
+          "client_only": true
         },
         {
           "name": "Just Enough Resources (JER)",
@@ -3110,7 +3121,8 @@
           "_depends_on": [
             667299,
             687131
-          ]
+          ],
+          "client_only": true
         },
         {
           "name": "Clumps",
