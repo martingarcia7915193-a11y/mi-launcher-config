@@ -1285,6 +1285,15 @@
       ],
       "changelog": [
         {
+          "date": "2026-04-05T00:05:37.774Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Colorwheel (Opcional)",
+            "+ Colorwheel Patcher (Opcional)",
+            "− Iris & Oculus Flywheel Compat (Opcional)"
+          ]
+        },
+        {
           "date": "2026-04-04T08:53:17.254Z",
           "author": "Martion000",
           "changes": [
@@ -1735,7 +1744,7 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1273/480/256/256/638828425709420198.png"
         }
       ],
-      "extras_version": 7,
+      "extras_version": 8,
       "extras_url": "https://drive.google.com/file/d/1AkwlvchQGc91cFaKcFoN79q0kyuV9KBY/view?usp=drivesdk",
       "optional_mods": [
         {
@@ -1750,23 +1759,31 @@
           ]
         },
         {
-          "name": "Iris & Oculus Flywheel Compat",
-          "curseforge_id": 659897,
-          "download_url": "https://edge.forgecdn.net/files/7701/220/iris-flywheel-compat-NeoForge-2.2.0.jar",
-          "file_name": "iris-flywheel-compat-NeoForge-2.2.0.jar",
-          "version_number": "NeoForge 1.21.1+2.2.0-beta",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/589/941/256/256/637961404920221254.png",
-          "_depends_on": [
-            455508
-          ]
-        },
-        {
           "name": "Euphoria Patches",
           "curseforge_id": 915902,
           "download_url": "https://edge.forgecdn.net/files/7624/100/EuphoriaPatcher-1.8.6-r5.7.1-neoforge.jar",
           "file_name": "EuphoriaPatcher-1.8.6-r5.7.1-neoforge.jar",
           "version_number": "Euphoria Patcher 1.8.6-r5.7.1-neoforge",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1198/673/256/256/638774916393051591.png"
+        },
+        {
+          "name": "Colorwheel",
+          "curseforge_id": 1254143,
+          "download_url": "https://edge.forgecdn.net/files/7824/548/colorwheel-neoforge-1.2.3%2bmc1.21.1.jar",
+          "file_name": "colorwheel-neoforge-1.2.3+mc1.21.1.jar",
+          "version_number": "1.2.3+mc1.21.1-neoforge",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1286/627/256/256/638836764954331397.png",
+          "_depends_on": [
+            455508
+          ]
+        },
+        {
+          "name": "Colorwheel Patcher",
+          "curseforge_id": 1285475,
+          "download_url": "https://edge.forgecdn.net/files/7397/587/colorwheel_patcher-neoforge-1.0.4%2bmc1.21.1.jar",
+          "file_name": "colorwheel_patcher-neoforge-1.0.4+mc1.21.1.jar",
+          "version_number": "1.0.4+mc1.21.1-neoforge",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1312/571/256/256/638853489185581299.png"
         }
       ],
       "shaders": [
