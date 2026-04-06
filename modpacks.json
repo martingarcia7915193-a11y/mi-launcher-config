@@ -1784,7 +1784,7 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1273/480/256/256/638828425709420198.png"
         }
       ],
-      "extras_version": 18,
+      "extras_version": 19,
       "extras_url": "https://drive.google.com/file/d/1AkwlvchQGc91cFaKcFoN79q0kyuV9KBY/view?usp=drivesdk",
       "optional_mods": [
         {
@@ -1847,7 +1847,8 @@
           "version_number": "Complementary Unbound r5.7.1",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/875/480/256/256/638298072228596362.png"
         }
-      ]
+      ],
+      "server_ip": "200.24.254.146:25565"
     },
     {
       "id": "1",
