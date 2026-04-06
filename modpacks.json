@@ -3281,9 +3281,24 @@
           "file_name": "Jade-1.21.1-NeoForge-15.10.5.jar",
           "version_number": "[NeoForge 1.21.1] 15.10.5",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/207/323/256/256/636965628804677340.png"
+        },
+        {
+          "name": "Just Enough Items (JEI)",
+          "curseforge_id": 238222,
+          "download_url": "https://edge.forgecdn.net/files/7416/540/jei-1.21.1-neoforge-19.27.0.339.jar",
+          "file_name": "jei-1.21.1-neoforge-19.27.0.339.jar",
+          "version_number": "19.27.0.339 for NeoForge 1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-06T00:32:51.527Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Just Enough Items (JEI)"
+          ]
+        },
         {
           "date": "2026-04-06T00:17:37.629Z",
           "author": "Martion000",
