@@ -3164,9 +3164,24 @@
           "file_name": "create_oxidized-0.1.3.jar",
           "version_number": "Create: Oxidized-1.21.1-0.1.3",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/923/484/256/256/638390204260502314.png"
+        },
+        {
+          "name": "FramedBlocks",
+          "curseforge_id": 441647,
+          "download_url": "https://edge.forgecdn.net/files/7584/453/FramedBlocks-10.5.3.jar",
+          "file_name": "FramedBlocks-10.5.3.jar",
+          "version_number": "FramedBlocks-10.5.3.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/337/942/256/256/637476252137998899.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-07T03:26:31.854Z",
+          "author": "Martion000",
+          "changes": [
+            "+ FramedBlocks"
+          ]
+        },
         {
           "date": "2026-04-07T03:25:56.505Z",
           "author": "Martion000",
