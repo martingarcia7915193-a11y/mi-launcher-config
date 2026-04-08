@@ -3713,10 +3713,6 @@
           "curseforge_id": 361276
         },
         {
-          "name": "Mantle",
-          "curseforge_id": 74924
-        },
-        {
           "name": "Melody",
           "curseforge_id": 938643
         },
@@ -4012,6 +4008,13 @@
       ],
       "changelog": [
         {
+          "date": "2026-04-08T22:25:55.839Z",
+          "author": "Martion000",
+          "changes": [
+            "− Mantle"
+          ]
+        },
+        {
           "date": "2026-04-08T00:38:35.278Z",
           "author": "Martion000",
           "changes": [
@@ -4019,7 +4022,7 @@
           ]
         }
       ],
-      "extras_version": 4,
+      "extras_version": 5,
       "extras_url": "https://drive.google.com/file/d/1yyCAZIkXs47jUc01qK_U0VeXMf8Qx0hH/view?usp=drivesdk"
     }
   ]
