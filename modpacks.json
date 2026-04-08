@@ -3296,7 +3296,7 @@
       "icon": "",
       "banner": "",
       "background": "",
-      "server_ip": "",
+      "server_ip": "200.24.254.146:25565",
       "mods": [
         {
           "name": "AE2 Meteor Mixin",
@@ -4011,7 +4011,9 @@
             "✦ Modpack creado"
           ]
         }
-      ]
+      ],
+      "extras_version": 1,
+      "extras_url": "https://drive.google.com/file/d/1yyCAZIkXs47jUc01qK_U0VeXMf8Qx0hH/view?usp=drivesdk"
     }
   ]
 }
