@@ -3296,7 +3296,7 @@
       "icon": "",
       "banner": "",
       "background": "",
-      "server_ip": "200.24.254.146:25565",
+      "server_ip": "",
       "mods": [
         {
           "name": "AE2 Meteor Mixin",
@@ -4037,7 +4037,7 @@
           ]
         }
       ],
-      "extras_version": 6,
+      "extras_version": 7,
       "extras_url": "https://drive.google.com/file/d/1yyCAZIkXs47jUc01qK_U0VeXMf8Qx0hH/view?usp=drivesdk"
     }
   ]
