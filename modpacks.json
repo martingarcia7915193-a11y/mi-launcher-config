@@ -3504,7 +3504,8 @@
         },
         {
           "name": "Embeddium",
-          "curseforge_id": 908741
+          "curseforge_id": 908741,
+          "client_only": true
         },
         {
           "name": "Ender Storage 1.8.+",
@@ -3692,7 +3693,8 @@
         },
         {
           "name": "Legendary Tooltips [Neo/Forge]",
-          "curseforge_id": 532127
+          "curseforge_id": 532127,
+          "client_only": true
         },
         {
           "name": "Lithostitched",
@@ -3768,7 +3770,8 @@
         },
         {
           "name": "Oculus",
-          "curseforge_id": 581495
+          "curseforge_id": 581495,
+          "client_only": true
         },
         {
           "name": "Placebo",
@@ -4012,7 +4015,7 @@
           ]
         }
       ],
-      "extras_version": 1,
+      "extras_version": 2,
       "extras_url": "https://drive.google.com/file/d/1yyCAZIkXs47jUc01qK_U0VeXMf8Qx0hH/view?usp=drivesdk"
     }
   ]
