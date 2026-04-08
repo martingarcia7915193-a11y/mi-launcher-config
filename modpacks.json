@@ -4004,9 +4004,24 @@
         {
           "name": "moromoro's create style Pretty Pipes",
           "curseforge_id": 967378
+        },
+        {
+          "name": "Mantle",
+          "curseforge_id": 74924,
+          "download_url": "https://edge.forgecdn.net/files/7414/488/Mantle-1.20.1-1.11.97.jar",
+          "file_name": "Mantle-1.20.1-1.11.97.jar",
+          "version_number": "Mantle 1.11.97 for 1.20.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/488/103/256/256/637791963715589901.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-08T22:26:12.218Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Mantle"
+          ]
+        },
         {
           "date": "2026-04-08T22:25:55.839Z",
           "author": "Martion000",
@@ -4022,7 +4037,7 @@
           ]
         }
       ],
-      "extras_version": 5,
+      "extras_version": 6,
       "extras_url": "https://drive.google.com/file/d/1yyCAZIkXs47jUc01qK_U0VeXMf8Qx0hH/view?usp=drivesdk"
     }
   ]
