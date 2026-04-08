@@ -3569,7 +3569,11 @@
         },
         {
           "name": "Farmer's Delight",
-          "curseforge_id": 398521
+          "curseforge_id": 398521,
+          "download_url": "https://edge.forgecdn.net/files/6917/255/FarmersDelight-1.20.1-1.2.9.jar",
+          "file_name": "FarmersDelight-1.20.1-1.2.9.jar",
+          "version_number": "Farmer's Delight 1.2.9 - 1.20.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/396/11/256/256/637595005615179370.png"
         },
         {
           "name": "Farsight [Forge/Neo]",
@@ -4015,7 +4019,7 @@
           ]
         }
       ],
-      "extras_version": 2,
+      "extras_version": 3,
       "extras_url": "https://drive.google.com/file/d/1yyCAZIkXs47jUc01qK_U0VeXMf8Qx0hH/view?usp=drivesdk"
     }
   ]
