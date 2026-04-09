@@ -4141,9 +4141,36 @@
           "file_name": "EuphoriaPatcher-1.8.6-r5.7.1-forge.jar",
           "version_number": "Euphoria Patcher 1.8.6-r5.7.1-forge",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1198/673/256/256/638774916393051591.png"
+        },
+        {
+          "name": "Colorwheel",
+          "curseforge_id": 1254143,
+          "download_url": "https://edge.forgecdn.net/files/7824/541/colorwheel-forge-1.2.3%2bmc1.20.1.jar",
+          "file_name": "colorwheel-forge-1.2.3+mc1.20.1.jar",
+          "version_number": "1.2.3+mc1.20.1-forge",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1286/627/256/256/638836764954331397.png",
+          "_depends_on": [
+            581495
+          ]
+        },
+        {
+          "name": "Colorwheel Patcher",
+          "curseforge_id": 1285475,
+          "download_url": "https://edge.forgecdn.net/files/7397/574/colorwheel_patcher-forge-1.0.4%2bmc1.20.1.jar",
+          "file_name": "colorwheel_patcher-forge-1.0.4+mc1.20.1.jar",
+          "version_number": "1.0.4+mc1.20.1-forge",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1312/571/256/256/638853489185581299.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-09T02:52:51.193Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Colorwheel",
+            "+ Colorwheel Patcher"
+          ]
+        },
         {
           "date": "2026-04-09T02:51:57.672Z",
           "author": "Martion000",
@@ -4213,7 +4240,7 @@
           ]
         }
       ],
-      "extras_version": 11,
+      "extras_version": 12,
       "extras_url": "https://drive.google.com/file/d/1yyCAZIkXs47jUc01qK_U0VeXMf8Qx0hH/view?usp=drivesdk",
       "shaders": [
         {
