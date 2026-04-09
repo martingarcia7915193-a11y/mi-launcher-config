@@ -4012,9 +4012,139 @@
           "file_name": "Mantle-1.20.1-1.11.97.jar",
           "version_number": "Mantle 1.11.97 for 1.20.1",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/488/103/256/256/637791963715589901.png"
+        },
+        {
+          "name": "Create: Power Loader",
+          "curseforge_id": 936020,
+          "download_url": "https://edge.forgecdn.net/files/6549/987/create_power_loader-2.0.3-mc1.20.1.jar",
+          "file_name": "create_power_loader-2.0.3-mc1.20.1.jar",
+          "version_number": "create_power_loader 2.0.3-mc1.20.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/903/443/256/256/638352779105838214.png",
+          "_depends_on": [
+            328085
+          ]
+        },
+        {
+          "name": "Create: Connected",
+          "curseforge_id": 947914,
+          "download_url": "https://edge.forgecdn.net/files/7593/867/create_connected-1.1.13-mc1.20.1-all.jar",
+          "file_name": "create_connected-1.1.13-mc1.20.1-all.jar",
+          "version_number": "create_connected 1.1.13-mc1.20.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/922/162/256/256/638387242479713653.png",
+          "_depends_on": [
+            328085
+          ]
+        },
+        {
+          "name": "Create: Enchantment Industry",
+          "curseforge_id": 688768,
+          "download_url": "https://edge.forgecdn.net/files/6652/836/create_enchantment_industry-1.3.3-for-create-6.0.6.jar",
+          "file_name": "create_enchantment_industry-1.3.3-for-create-6.0.6.jar",
+          "version_number": "CEI 1.3.3 for Create 1.20.1-6.0.6",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1224/199/256/256/638802282774958966.png"
+        },
+        {
+          "name": "Create: Hypertubes",
+          "curseforge_id": 1281336,
+          "download_url": "https://edge.forgecdn.net/files/7599/486/create_hypertube-0.4.0-FORGE.jar",
+          "file_name": "create_hypertube-0.4.0-FORGE.jar",
+          "version_number": "Hypertube 0.4.0 FORGE",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1304/374/256/256/638848167351949326.png",
+          "_depends_on": [
+            328085
+          ]
+        },
+        {
+          "name": "Create Encased",
+          "curseforge_id": 829380,
+          "download_url": "https://edge.forgecdn.net/files/7459/743/Create%20Encased-1.20.1-1.8-ht2.jar",
+          "file_name": "Create Encased-1.20.1-1.8-ht2.jar",
+          "version_number": "Create Encased-1.20.1-1.8-ht2.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1071/505/256/256/638607067577017369.png",
+          "_depends_on": [
+            328085
+          ]
+        },
+        {
+          "name": "Create: Mobile Packages",
+          "curseforge_id": 1232978,
+          "download_url": "https://edge.forgecdn.net/files/7654/463/create_mobile_packages-1.20.1-0.6.1.jar",
+          "file_name": "create_mobile_packages-1.20.1-0.6.1.jar",
+          "version_number": "Create: Mobile Packages 1.20.1-0.6.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1243/148/256/256/638812853709049141.png",
+          "_depends_on": [
+            328085
+          ]
+        },
+        {
+          "name": "Create Factory Logistics",
+          "curseforge_id": 1218807,
+          "download_url": "https://mediafilez.forgecdn.net/files/7159/834/create_factory_logistics-1.20.1-1.4.7.jar",
+          "file_name": "create_factory_logistics-1.20.1-1.4.7.jar",
+          "version_number": "Create Factory Logistics 1.4.7",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1197/721/256/256/638773860944599487.png"
+        },
+        {
+          "name": "Create: Steam 'n' Rails",
+          "curseforge_id": 688231,
+          "download_url": "https://edge.forgecdn.net/files/7758/640/Steam_Rails-1.7.2%2bforge-mc1.20.1.jar",
+          "file_name": "Steam_Rails-1.7.2+forge-mc1.20.1.jar",
+          "version_number": "Steam 'n' Rails 1.7.2 Forge 1.20.1 C6",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1065/609/256/256/638599304770885171.webp",
+          "_depends_on": [
+            328085
+          ]
+        },
+        {
+          "name": "Create: Extra Gauges",
+          "curseforge_id": 1263228,
+          "download_url": "https://edge.forgecdn.net/files/7058/464/extra_gauges-2.0.7.jar",
+          "file_name": "extra_gauges-2.0.7.jar",
+          "version_number": "Extra Gauges 2.0.7 [1.20.1]",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1268/238/256/256/638825219545997693.png",
+          "_depends_on": [
+            328085
+          ]
+        },
+        {
+          "name": "Create Railways Navigator",
+          "curseforge_id": 935929,
+          "download_url": "https://edge.forgecdn.net/files/7654/971/createrailwaysnavigator-forge-1.20.1-alpha-0.9.0-C6%2b2.jar",
+          "file_name": "createrailwaysnavigator-forge-1.20.1-alpha-0.9.0-C6+2.jar",
+          "version_number": "createrailwaysnavigator-forge-1.20.1-alpha-0.9.0-C6+2",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1066/720/256/256/638600887691727882.png",
+          "_depends_on": [
+            946163,
+            328085
+          ]
+        },
+        {
+          "name": "dragonlib-forge-1.20.1-beta-3.0.24",
+          "curseforge_id": 946163,
+          "download_url": "https://edge.forgecdn.net/files/7763/911/dragonlib-forge-1.20.1-beta-3.0.24.jar",
+          "file_name": "dragonlib-forge-1.20.1-beta-3.0.24.jar",
+          "version_number": "dragonlib-forge-1.20.1-beta-3.0.24",
+          "_is_dependency": true
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-09T02:10:44.091Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Create: Power Loader",
+            "+ Create: Connected",
+            "+ Create: Enchantment Industry",
+            "+ Create: Hypertubes",
+            "+ Create Encased",
+            "+ Create: Mobile Packages",
+            "+ Create Factory Logistics",
+            "+ Create: Steam 'n' Rails",
+            "+ Create: Extra Gauges",
+            "+ Create Railways Navigator",
+            "+ dragonlib-forge-1.20.1-beta-3.0.24"
+          ]
+        },
         {
           "date": "2026-04-08T22:26:12.218Z",
           "author": "Martion000",
@@ -4037,7 +4167,7 @@
           ]
         }
       ],
-      "extras_version": 7,
+      "extras_version": 8,
       "extras_url": "https://drive.google.com/file/d/1yyCAZIkXs47jUc01qK_U0VeXMf8Qx0hH/view?usp=drivesdk"
     }
   ]
