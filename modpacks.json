@@ -4125,9 +4125,61 @@
           "file_name": "dragonlib-forge-1.20.1-beta-3.0.24.jar",
           "version_number": "dragonlib-forge-1.20.1-beta-3.0.24",
           "_is_dependency": true
+        },
+        {
+          "name": "Valkyrien Skies (Forge/Fabric)",
+          "curseforge_id": 258371,
+          "download_url": "https://edge.forgecdn.net/files/7568/34/valkyrienskies-120-2.4.10.jar",
+          "file_name": "valkyrienskies-120-2.4.10.jar",
+          "version_number": "[Forge 1.20.1] v2.4.10",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1577/890/256/256/639022288329121414.png",
+          "_depends_on": [
+            351264
+          ]
+        },
+        {
+          "name": "VS: Clockwork",
+          "curseforge_id": 807792,
+          "download_url": "https://edge.forgecdn.net/files/7779/858/clockwork-0.5.5.2.jar",
+          "file_name": "clockwork-0.5.5.2.jar",
+          "version_number": "Clockwork v0.5.5.2 [Forge 1.20.1] - MELTING POINT",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1567/413/256/256/639016174484940334.png",
+          "_depends_on": [
+            328085,
+            258371
+          ]
+        },
+        {
+          "name": "Eureka! Ships! for Valkyrien Skies (Forge/Fabric)",
+          "curseforge_id": 654384,
+          "download_url": "https://edge.forgecdn.net/files/7419/758/eureka-1201-1.6.1.jar",
+          "file_name": "eureka-1201-1.6.1.jar",
+          "version_number": "[Forge 1.20.1] v1.6.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/583/775/256/256/637950952655885798.png",
+          "_depends_on": [
+            258371
+          ]
+        },
+        {
+          "name": "Create: Propulsion",
+          "curseforge_id": 1253819,
+          "download_url": "https://edge.forgecdn.net/files/7712/527/createpropulsion-0.3.2.jar",
+          "file_name": "createpropulsion-0.3.2.jar",
+          "version_number": "Create: Propulsion 0.3.2 for mc1.20.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1246/664/256/256/638814211890660380.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-09T02:36:14.382Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Valkyrien Skies (Forge/Fabric)",
+            "+ VS: Clockwork",
+            "+ Eureka! Ships! for Valkyrien Skies (Forge/Fabric)",
+            "+ Create: Propulsion"
+          ]
+        },
         {
           "date": "2026-04-09T02:10:44.091Z",
           "author": "Martion000",
@@ -4167,7 +4219,7 @@
           ]
         }
       ],
-      "extras_version": 8,
+      "extras_version": 9,
       "extras_url": "https://drive.google.com/file/d/1yyCAZIkXs47jUc01qK_U0VeXMf8Qx0hH/view?usp=drivesdk"
     }
   ]
