@@ -1309,9 +1309,27 @@
           "file_name": "FramedBlocks-10.5.3.jar",
           "version_number": "FramedBlocks-10.5.3.jar",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/337/942/256/256/637476252137998899.png"
+        },
+        {
+          "name": "Cobblemon Pasture Loot NeoForged",
+          "curseforge_id": 1488760,
+          "download_url": "https://edge.forgecdn.net/files/7772/551/pasturelootnf-0.1.0%2b1.21.1.jar",
+          "file_name": "pasturelootnf-0.1.0+1.21.1.jar",
+          "version_number": "pasturelootnf-0.1.0+1.21.1.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1719/739/256/256/639093660374509838.png",
+          "_depends_on": [
+            687131
+          ]
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-10T05:07:44.003Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Cobblemon Pasture Loot NeoForged"
+          ]
+        },
         {
           "date": "2026-04-07T03:38:55.503Z",
           "author": "Martion000",
@@ -1746,45 +1764,6 @@
           "changes": [
             "− Mod #438495"
           ]
-        },
-        {
-          "date": "2026-03-31T23:22:57.875Z",
-          "author": "Martion000",
-          "changes": [
-            "+ Create",
-            "+ Cobblemon",
-            "+ Kotlin for Forge 5.11.0",
-            "+ Just Enough Items (JEI)",
-            "+ Xaero's Minimap",
-            "+ Xaero's World Map",
-            "+ Farmer's Delight",
-            "+ Controlling",
-            "+ Searchables-neoforge-1.21.1-1.0.2.jar",
-            "+ Curios API (Forge/NeoForge)",
-            "+ Corpse x Curios API Compat",
-            "+ baguettelib-1.21.1-NeoForge-1.1.6.jar",
-            "+ Corpse",
-            "+ Sophisticated Backpacks",
-            "+ sophisticatedcore-1.21.1-1.4.13.1573.jar",
-            "+ Sophisticated Storage",
-            "+ AppleSkin",
-            "+ Mouse Tweaks",
-            "+ Jade 🔍",
-            "+ Tom's Simple Storage Mod",
-            "+ Pokemon Type Table (Cobblemon / Pixelmon)",
-            "+ Chiselmon - Cobblemon QOL",
-            "+ 3.8.2 for neoforge 1.21.1",
-            "+ Paxi (NeoForge)",
-            "+ [1.21.1] YUNG's API v5.1.6 (NeoForge)",
-            "+ Sodium",
-            "+ Mechanical Healing Machine",
-            "+ SDM Shop [Forge/Fabric]",
-            "+ sdmeconomy-neoforge-1.21.1-2.4.0.jar",
-            "+ Mod #438495",
-            "+ sdm-core-neoforge-1.21.1-2.1.2.jar",
-            "+ sdmuilibrary-neoforge-1.21-1.9.2.jar",
-            "+ [NEOFORGE][1.21.1] FTB Library 2101.1.31"
-          ]
         }
       ],
       "datapacks": [
@@ -1807,7 +1786,7 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1273/480/256/256/638828425709420198.png"
         }
       ],
-      "extras_version": 34,
+      "extras_version": 35,
       "extras_url": "https://drive.google.com/file/d/1AkwlvchQGc91cFaKcFoN79q0kyuV9KBY/view?usp=drivesdk",
       "optional_mods": [
         {
