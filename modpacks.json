@@ -1340,9 +1340,38 @@
             237307,
             316582
           ]
+        },
+        {
+          "name": "Cobblemon Brendon's Bottlecaps (IV Boosters) (Cobblemon 1.6)",
+          "curseforge_id": 1203694,
+          "download_url": "https://edge.forgecdn.net/files/6282/584/Brendon%27s%20Bottlecaps-neoforge-1.2.2.jar",
+          "file_name": "Brendon's Bottlecaps-neoforge-1.2.2.jar",
+          "version_number": "Brendon's Bottlecaps-neoforge-1.2.2.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1183/498/256/256/638757192305953403.png"
+        },
+        {
+          "name": "Myths and Legends [Cobblemon Sidemod]",
+          "curseforge_id": 1037337,
+          "download_url": "https://mediafilez.forgecdn.net/files/7255/754/MythsAndLegends-neoforge-1.9.0.jar",
+          "file_name": "MythsAndLegends-neoforge-1.9.0.jar",
+          "version_number": "Myths_and_Legends-1.9.0-NeoForge",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1014/881/256/256/638540404053842952.png",
+          "_depends_on": [
+            687131,
+            419699
+          ]
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-12T03:00:17.927Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Cobblemon Brendon's Bottlecaps (IV Boosters) (Cobblemon 1.6)",
+            "+ Myths and Legends [Cobblemon Sidemod]",
+            "+ Myths And Legends (DP)"
+          ]
+        },
         {
           "date": "2026-04-10T05:51:44.485Z",
           "author": "Martion000",
@@ -1778,13 +1807,6 @@
             "+ Packet Fixer",
             "+ Network Protocol Disconnect (netprodis)"
           ]
-        },
-        {
-          "date": "2026-03-31T23:28:17.004Z",
-          "author": "Martion000",
-          "changes": [
-            "+ Architectury API"
-          ]
         }
       ],
       "datapacks": [
@@ -1795,6 +1817,14 @@
           "file_name": "Tom's Create Style Recipes 1.0 - 1.21.zip",
           "version_number": "Tom's Create Style Recipes 1.0 - 1.21.zip",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1275/833/256/256/638830037377239809.png"
+        },
+        {
+          "name": "Myths And Legends",
+          "curseforge_id": 1052805,
+          "download_url": "https://mediafilez.forgecdn.net/files/6560/676/MythsAndLegends-Datapack-v1.0.5.zip",
+          "file_name": "MythsAndLegends-Datapack-v1.0.5.zip",
+          "version_number": "MythsAndLegends-Datapack-v1.0.5",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1030/204/256/256/638552550207346135.png"
         }
       ],
       "resourcepacks": [
@@ -1807,7 +1837,7 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1273/480/256/256/638828425709420198.png"
         }
       ],
-      "extras_version": 40,
+      "extras_version": 41,
       "extras_url": "https://drive.google.com/file/d/1AkwlvchQGc91cFaKcFoN79q0kyuV9KBY/view?usp=drivesdk",
       "optional_mods": [
         {
