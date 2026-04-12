@@ -2955,15 +2955,22 @@
       "name": "INFANCIA",
       "version": "1.0.0",
       "description": "",
-      "minecraft_version": "1.7.10",
+      "minecraft_version": "1.16.5",
       "modloader": "forge",
-      "modloader_version": "10.13.0.1150",
+      "modloader_version": "36.0.0",
       "icon": "",
       "banner": "",
       "background": "",
       "server_ip": "",
       "mods": [],
       "changelog": [
+        {
+          "date": "2026-04-12T23:34:54.100Z",
+          "author": "Martion000",
+          "changes": [
+            "⬆ MC 1.7.10 → 1.16.5"
+          ]
+        },
         {
           "date": "2026-04-12T23:33:45.237Z",
           "author": "Martion000",
