@@ -2928,52 +2928,6 @@
       ]
     },
     {
-      "id": "t",
-      "name": "test",
-      "version": "1.0.0",
-      "description": "test",
-      "minecraft_version": "26.1.2",
-      "modloader": "vanilla",
-      "modloader_version": "",
-      "icon": "",
-      "banner": "",
-      "background": "",
-      "server_ip": "",
-      "mods": [],
-      "changelog": [
-        {
-          "date": "2026-04-12T23:26:17.764Z",
-          "author": "Martion000",
-          "changes": [
-            "✦ Modpack creado"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "t",
-      "name": "test1",
-      "version": "1.0.0",
-      "description": "",
-      "minecraft_version": "26.1.2",
-      "modloader": "fabric",
-      "modloader_version": "0.19.1",
-      "icon": "",
-      "banner": "",
-      "background": "",
-      "server_ip": "",
-      "mods": [],
-      "changelog": [
-        {
-          "date": "2026-04-12T23:31:18.865Z",
-          "author": "Martion000",
-          "changes": [
-            "✦ Modpack creado"
-          ]
-        }
-      ]
-    },
-    {
       "id": "tt",
       "name": "test1",
       "version": "1.0.0",
