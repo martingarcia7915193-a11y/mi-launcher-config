@@ -2926,6 +2926,29 @@
           ]
         }
       ]
+    },
+    {
+      "id": "t",
+      "name": "test",
+      "version": "1.0.0",
+      "description": "test",
+      "minecraft_version": "26.1.2",
+      "modloader": "vanilla",
+      "modloader_version": "",
+      "icon": "",
+      "banner": "",
+      "background": "",
+      "server_ip": "",
+      "mods": [],
+      "changelog": [
+        {
+          "date": "2026-04-12T23:26:17.764Z",
+          "author": "Martion000",
+          "changes": [
+            "✦ Modpack creado"
+          ]
+        }
+      ]
     }
   ]
 }
