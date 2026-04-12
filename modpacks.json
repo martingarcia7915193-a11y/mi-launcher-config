@@ -2979,6 +2979,29 @@
           ]
         }
       ]
+    },
+    {
+      "id": "infancia1",
+      "name": "1.7.10",
+      "version": "1.0.0",
+      "description": "",
+      "minecraft_version": "1.7.10",
+      "modloader": "forge",
+      "modloader_version": "10.13.0.1150",
+      "icon": "",
+      "banner": "",
+      "background": "",
+      "server_ip": "",
+      "mods": [],
+      "changelog": [
+        {
+          "date": "2026-04-12T23:44:13.032Z",
+          "author": "Martion000",
+          "changes": [
+            "✦ Modpack creado"
+          ]
+        }
+      ]
     }
   ]
 }
