@@ -2954,9 +2954,24 @@
           "name": "Dependencia eXts2L7r",
           "modrinth_id": "eXts2L7r",
           "_is_dependency": true
+        },
+        {
+          "name": "Simple Voice Chat",
+          "modrinth_id": "simple-voice-chat",
+          "download_url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/eGxtLv6D/voicechat-fabric-2.6.16%2B26.1.2.jar",
+          "file_name": "voicechat-fabric-2.6.16+26.1.2.jar",
+          "version_number": "fabric-2.6.16+26.1.2",
+          "icon_url": "https://cdn.modrinth.com/data/9eGKb6K1/icon.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-13T00:16:00.766Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Simple Voice Chat"
+          ]
+        },
         {
           "date": "2026-04-13T00:14:51.050Z",
           "author": "Martion000",
