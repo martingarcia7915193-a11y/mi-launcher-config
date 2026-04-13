@@ -2932,9 +2932,40 @@
           "file_name": "lithium-fabric-0.24.1+mc26.1.2.jar",
           "version_number": "mc26.1.2-0.24.1-fabric",
           "icon_url": "https://cdn.modrinth.com/data/gvQqBUqZ/bcc8686c13af0143adf4285d741256af824f70b7_96.webp"
+        },
+        {
+          "name": "Mod Menu",
+          "modrinth_id": "modmenu",
+          "download_url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/jvjwXH6l/modmenu-18.0.0-alpha.8.jar",
+          "file_name": "modmenu-18.0.0-alpha.8.jar",
+          "version_number": "18.0.0-alpha.8",
+          "icon_url": "https://cdn.modrinth.com/data/mOgUt4GM/5a20ed1450a0e1e79a1fe04e61bb4e5878bf1d20.png",
+          "_depends_on": [
+            "P7dR8mSH",
+            "eXts2L7r"
+          ]
+        },
+        {
+          "name": "Dependencia P7dR8mSH",
+          "modrinth_id": "P7dR8mSH",
+          "_is_dependency": true
+        },
+        {
+          "name": "Dependencia eXts2L7r",
+          "modrinth_id": "eXts2L7r",
+          "_is_dependency": true
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-13T00:14:51.050Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Mod Menu",
+            "+ Dependencia P7dR8mSH",
+            "+ Dependencia eXts2L7r"
+          ]
+        },
         {
           "date": "2026-04-13T00:14:11.639Z",
           "author": "Martion000",
