@@ -3014,51 +3014,40 @@
         {
           "name": "Sodium",
           "modrinth_id": "sodium",
-          "download_url": "https://cdn.modrinth.com/data/AANobbMI/versions/uGvVQBnw/sodium-fabric-0.8.9%2Bmc26.1.1.jar",
-          "file_name": "sodium-fabric-0.8.9+mc26.1.1.jar",
-          "version_number": "mc26.1.1-0.8.9-fabric",
+          "download_url": "https://cdn.modrinth.com/data/AANobbMI/versions/UddlN6L4/sodium-fabric-0.8.7%2Bmc1.21.11.jar",
+          "file_name": "sodium-fabric-0.8.7+mc1.21.11.jar",
+          "version_number": "mc1.21.11-0.8.7-fabric",
           "icon_url": "https://cdn.modrinth.com/data/AANobbMI/295862f4724dc3f78df3447ad6072b2dcd3ef0c9_96.webp"
         },
         {
-          "name": "Lithium",
-          "modrinth_id": "lithium",
-          "download_url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/v2xoRvRP/lithium-fabric-0.24.1%2Bmc26.1.2.jar",
-          "file_name": "lithium-fabric-0.24.1+mc26.1.2.jar",
-          "version_number": "mc26.1.2-0.24.1-fabric",
-          "icon_url": "https://cdn.modrinth.com/data/gvQqBUqZ/bcc8686c13af0143adf4285d741256af824f70b7_96.webp"
-        },
-        {
-          "name": "Mod Menu",
-          "modrinth_id": "modmenu",
-          "download_url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/jvjwXH6l/modmenu-18.0.0-alpha.8.jar",
-          "file_name": "modmenu-18.0.0-alpha.8.jar",
-          "version_number": "18.0.0-alpha.8",
-          "icon_url": "https://cdn.modrinth.com/data/mOgUt4GM/5a20ed1450a0e1e79a1fe04e61bb4e5878bf1d20.png",
-          "_depends_on": [
-            "P7dR8mSH",
-            "eXts2L7r"
-          ]
-        },
-        {
-          "name": "Dependencia P7dR8mSH",
-          "modrinth_id": "P7dR8mSH",
-          "_is_dependency": true
-        },
-        {
-          "name": "Dependencia eXts2L7r",
-          "modrinth_id": "eXts2L7r",
-          "_is_dependency": true
+          "name": "Lithium (Fabric/NeoForge)",
+          "curseforge_id": 360438,
+          "download_url": "https://edge.forgecdn.net/files/7740/897/lithium-fabric-0.21.4%2bmc1.21.11.jar",
+          "file_name": "lithium-fabric-0.21.4+mc1.21.11.jar",
+          "version_number": "Lithium mc1.21.11-0.21.4 for Fabric",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/246/646/256/256/637158441743060329.png"
         },
         {
           "name": "Simple Voice Chat",
-          "modrinth_id": "simple-voice-chat",
-          "download_url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/eGxtLv6D/voicechat-fabric-2.6.16%2B26.1.2.jar",
-          "file_name": "voicechat-fabric-2.6.16+26.1.2.jar",
-          "version_number": "fabric-2.6.16+26.1.2",
-          "icon_url": "https://cdn.modrinth.com/data/9eGKb6K1/icon.png"
+          "curseforge_id": 416089,
+          "download_url": "https://edge.forgecdn.net/files/7905/254/voicechat-fabric-1.21.11-2.6.16.jar",
+          "file_name": "voicechat-fabric-1.21.11-2.6.16.jar",
+          "version_number": "[FABRIC][1.21.11] Simple Voice Chat 1.21.11-2.6.16",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/391/367/256/256/637584172062782791.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-13T01:22:24.792Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Lithium (Fabric/NeoForge)",
+            "− Lithium",
+            "− Mod Menu",
+            "− Dependencia P7dR8mSH",
+            "− Dependencia eXts2L7r"
+          ]
+        },
         {
           "date": "2026-04-13T01:21:24.493Z",
           "author": "Martion000",
