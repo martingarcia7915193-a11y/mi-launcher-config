@@ -2916,8 +2916,33 @@
       "banner": "",
       "background": "",
       "server_ip": "",
-      "mods": [],
+      "mods": [
+        {
+          "name": "Sodium",
+          "modrinth_id": "sodium",
+          "download_url": "https://cdn.modrinth.com/data/AANobbMI/versions/uGvVQBnw/sodium-fabric-0.8.9%2Bmc26.1.1.jar",
+          "file_name": "sodium-fabric-0.8.9+mc26.1.1.jar",
+          "version_number": "mc26.1.1-0.8.9-fabric",
+          "icon_url": "https://cdn.modrinth.com/data/AANobbMI/295862f4724dc3f78df3447ad6072b2dcd3ef0c9_96.webp"
+        },
+        {
+          "name": "Lithium",
+          "modrinth_id": "lithium",
+          "download_url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/v2xoRvRP/lithium-fabric-0.24.1%2Bmc26.1.2.jar",
+          "file_name": "lithium-fabric-0.24.1+mc26.1.2.jar",
+          "version_number": "mc26.1.2-0.24.1-fabric",
+          "icon_url": "https://cdn.modrinth.com/data/gvQqBUqZ/bcc8686c13af0143adf4285d741256af824f70b7_96.webp"
+        }
+      ],
       "changelog": [
+        {
+          "date": "2026-04-13T00:14:11.639Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Sodium",
+            "+ Lithium"
+          ]
+        },
         {
           "date": "2026-04-13T00:12:09.612Z",
           "author": "Martion000",
