@@ -3061,8 +3061,45 @@
       "banner": "",
       "background": "",
       "server_ip": "",
-      "mods": [],
+      "mods": [
+        {
+          "name": "Buildcraft",
+          "curseforge_id": 61811,
+          "download_url": "https://edge.forgecdn.net/files/6240/755/buildcraft-7.1.27.jar",
+          "file_name": "buildcraft-7.1.27.jar",
+          "version_number": "7.1.27",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/5/621/256/256/635351431641884479.png"
+        },
+        {
+          "name": "NotEnoughItems",
+          "curseforge_id": 222211,
+          "download_url": "https://edge.forgecdn.net/files/2302/312/NotEnoughItems-1.7.10-1.0.5.120-universal.jar",
+          "file_name": "NotEnoughItems-1.7.10-1.0.5.120-universal.jar",
+          "version_number": "NotEnoughItems-1.7.10-1.0.5.120-universal.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/8/473/256/256/635404785886717614.jpeg",
+          "_depends_on": [
+            222213
+          ]
+        },
+        {
+          "name": "CodeChickenCore-1.7.10-1.0.7.48-universal.jar",
+          "curseforge_id": 222213,
+          "download_url": "https://edge.forgecdn.net/files/3293/859/CodeChickenCore-1.7.10-1.0.7.48-universal.jar",
+          "file_name": "CodeChickenCore-1.7.10-1.0.7.48-universal.jar",
+          "version_number": "CodeChickenCore-1.7.10-1.0.7.48-universal.jar",
+          "_is_dependency": true
+        }
+      ],
       "changelog": [
+        {
+          "date": "2026-04-14T20:35:04.296Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Buildcraft",
+            "+ NotEnoughItems",
+            "+ CodeChickenCore-1.7.10-1.0.7.48-universal.jar"
+          ]
+        },
         {
           "date": "2026-04-14T00:48:06.805Z",
           "author": "Martion000",
