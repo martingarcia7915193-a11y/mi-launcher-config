@@ -3108,6 +3108,29 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1.7",
+      "name": "1.7",
+      "version": "1.0.0",
+      "description": "",
+      "minecraft_version": "1.7.2",
+      "modloader": "forge",
+      "modloader_version": "10.12.2.1147",
+      "icon": "",
+      "banner": "",
+      "background": "",
+      "server_ip": "",
+      "mods": [],
+      "changelog": [
+        {
+          "date": "2026-04-14T20:50:50.992Z",
+          "author": "Martion000",
+          "changes": [
+            "✦ Modpack creado"
+          ]
+        }
+      ]
     }
   ]
 }
