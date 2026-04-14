@@ -1364,6 +1364,13 @@
       ],
       "changelog": [
         {
+          "date": "2026-04-14T03:15:37.441Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Bliss Shaders (Shader)"
+          ]
+        },
+        {
           "date": "2026-04-14T03:13:09.973Z",
           "author": "Martion000",
           "changes": [
@@ -1733,14 +1740,6 @@
           "changes": [
             "+ ShatterLib | OctoLib"
           ]
-        },
-        {
-          "date": "2026-03-31T23:49:42.622Z",
-          "author": "Martion000",
-          "changes": [
-            "+ Tom's Create Style (RP)",
-            "+ Tom's Create Style Recipes (DP)"
-          ]
         }
       ],
       "datapacks": [
@@ -1771,7 +1770,7 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1273/480/256/256/638828425709420198.png"
         }
       ],
-      "extras_version": 51,
+      "extras_version": 52,
       "extras_url": "https://drive.google.com/file/d/1CLpnYi15QjDT4pzisPPD-4iw8XN4PRaF/view?usp=drivesdk",
       "optional_mods": [
         {
@@ -1841,6 +1840,14 @@
           "file_name": "ComplementaryUnbound_r5.7.1.zip",
           "version_number": "Complementary Unbound r5.7.1",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/875/480/256/256/638298072228596362.png"
+        },
+        {
+          "name": "Bliss Shaders",
+          "curseforge_id": 610844,
+          "download_url": "https://edge.forgecdn.net/files/7251/787/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
+          "file_name": "Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
+          "version_number": "Bliss v2.1.2",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/848/186/256/256/638248048963999686.png"
         }
       ],
       "server_ip": "200.24.254.146:25565",
