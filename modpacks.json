@@ -1360,9 +1360,36 @@
             687131,
             419699
           ]
+        },
+        {
+          "name": "Just Zoom",
+          "curseforge_id": 561885,
+          "download_url": "https://edge.forgecdn.net/files/6290/230/justzoom_neoforge_2.1.0_MC_1.21.1.jar",
+          "file_name": "justzoom_neoforge_2.1.0_MC_1.21.1.jar",
+          "version_number": "[NeoForge] v2.1.0 MC 1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1324/771/256/256/638861240221497743.png",
+          "_depends_on": [
+            410295
+          ]
+        },
+        {
+          "name": "[NeoForge] v1.9.9 MC 1.21",
+          "curseforge_id": 410295,
+          "download_url": "https://edge.forgecdn.net/files/5453/385/konkrete_neoforge_1.9.9_MC_1.21.jar",
+          "file_name": "konkrete_neoforge_1.9.9_MC_1.21.jar",
+          "version_number": "[NeoForge] v1.9.9 MC 1.21",
+          "_is_dependency": true
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-14T03:34:29.158Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Just Zoom",
+            "+ [NeoForge] v1.9.9 MC 1.21"
+          ]
+        },
         {
           "date": "2026-04-14T03:15:37.441Z",
           "author": "Martion000",
@@ -1733,13 +1760,6 @@
           "changes": [
             "− Create: Integrated Farming"
           ]
-        },
-        {
-          "date": "2026-03-31T23:53:04.578Z",
-          "author": "Martion000",
-          "changes": [
-            "+ ShatterLib | OctoLib"
-          ]
         }
       ],
       "datapacks": [
@@ -1770,7 +1790,7 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1273/480/256/256/638828425709420198.png"
         }
       ],
-      "extras_version": 52,
+      "extras_version": 53,
       "extras_url": "https://drive.google.com/file/d/1CLpnYi15QjDT4pzisPPD-4iw8XN4PRaF/view?usp=drivesdk",
       "optional_mods": [
         {
