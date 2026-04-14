@@ -1364,6 +1364,13 @@
       ],
       "changelog": [
         {
+          "date": "2026-04-14T03:13:09.973Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Distant Horizons: A Level of Detail mod (Opcional)"
+          ]
+        },
+        {
           "date": "2026-04-12T03:00:17.927Z",
           "author": "Martion000",
           "changes": [
@@ -1734,79 +1741,6 @@
             "+ Tom's Create Style (RP)",
             "+ Tom's Create Style Recipes (DP)"
           ]
-        },
-        {
-          "date": "2026-03-31T23:46:57.838Z",
-          "author": "Martion000",
-          "changes": [
-            "+ FTB Quests (NeoForge)",
-            "+ [NEOFORGE][1.21.1] FTB Teams 2101.1.9",
-            "+ Cobblemon Quests",
-            "+ Mod #438496",
-            "+ Cobblemon: Mega Showdown",
-            "+ [1.21.1] oωo - neo - 0.12.15.5-beta.1+1.21",
-            "+ [1.21.1] Accessories [Neoforge] - 1.1.0",
-            "+ Navas ZA Megas",
-            "+ Chipped",
-            "+ [NeoForge] Resourceful Lib 3.0.12",
-            "+ [NeoForge] Athena 4.0.2",
-            "+ Steam 'n' Rails Neoforge",
-            "+ Create Railways Navigator",
-            "+ Mod Name Tooltip",
-            "+ Create Stuff 'N Additions",
-            "+ Building Wands",
-            "+ [NeoForge 1.21] v15.0.140",
-            "+ Create Stuff & Netherite Additions",
-            "+ Create: Stuff 'N Additions - Tank Fix (Spout, Curios & Upgrade)",
-            "+ Dramatic Doors",
-            "+ Create: Copycats+",
-            "+ Create Ore Excavation",
-            "+ Create Ore Excavation Plus",
-            "+ Artifacts",
-            "+ Reliquified Artifacts",
-            "+ relics-1.21.1-0.11.10.jar",
-            "+ Create Slice & Dice",
-            "+ Create: Fuel & Water Information",
-            "+ Quark",
-            "+ Zeta-1.1-39.jar",
-            "+ Create: Integrated Farming",
-            "+ Create: Dragons Plus 1.8.7 for Create 1.21.1-6.0.9",
-            "+ Create: Design n' Decor",
-            "+ Create Deco",
-            "+ Create: Interiors",
-            "+ Create: Connected",
-            "+ Create: Quality Of Life",
-            "+ Create More: Parallel Pipes",
-            "+ Macaw's Bridges",
-            "+ Macaw's Fences and Walls",
-            "+ Macaw's Doors",
-            "+ Macaw's Windows",
-            "+ Macaw's Furniture",
-            "+ Macaw's Trapdoors",
-            "+ Macaw's Lights and Lamps",
-            "+ Macaw's Roofs",
-            "+ Macaw's Paths and Pavings",
-            "+ Macaw's Stairs",
-            "+ Macaw's Holidays",
-            "+ Macaw's Paintings",
-            "+ Sophisticated Storage Create Integration",
-            "+ Create: Enchantment Industry",
-            "+ Simple Backups",
-            "+ Create: Escalated",
-            "+ Create: Hypertubes",
-            "+ Create: Diesel Generators",
-            "+ Trade Cycling",
-            "+ Create: Pattern Schematics",
-            "+ Create Contraption Terminals",
-            "+ Configured",
-            "+ Lootr (Forge & NeoForge)",
-            "+ CobbleDon - Cobblemon Addon",
-            "+ Crash Assistant",
-            "+ Connectivity",
-            "+ cupboard-1.21-3.5.jar",
-            "+ Packet Fixer",
-            "+ Network Protocol Disconnect (netprodis)"
-          ]
         }
       ],
       "datapacks": [
@@ -1837,7 +1771,7 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1273/480/256/256/638828425709420198.png"
         }
       ],
-      "extras_version": 50,
+      "extras_version": 51,
       "extras_url": "https://drive.google.com/file/d/1CLpnYi15QjDT4pzisPPD-4iw8XN4PRaF/view?usp=drivesdk",
       "optional_mods": [
         {
@@ -1881,6 +1815,14 @@
           "version_number": "1.0.4+mc1.21.1-neoforge",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1312/571/256/256/638853489185581299.png",
           "client_only": true
+        },
+        {
+          "name": "Distant Horizons: A Level of Detail mod",
+          "curseforge_id": 508933,
+          "download_url": "https://edge.forgecdn.net/files/7375/285/DistantHorizons-2.4.5-b-1.21.1-fabric-neoforge.jar",
+          "file_name": "DistantHorizons-2.4.5-b-1.21.1-fabric-neoforge.jar",
+          "version_number": "2.4.5-b - 1.21.1 neo/fabric",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1189/514/256/256/638764417521176751.png"
         }
       ],
       "shaders": [
