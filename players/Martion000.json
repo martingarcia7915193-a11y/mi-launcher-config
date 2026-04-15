@@ -7,11 +7,12 @@
   ],
   "playtime": {
     "vanilla_fabric": 40684,
-    "vanilla_fabric-copia": 77496
+    "vanilla_fabric-copia": 77496,
+    "1.16.5": 93767
   },
   "online": true,
-  "playing": "1.16.5",
-  "last_seen": 1776241425394,
+  "playing": null,
+  "last_seen": 1776241519424,
   "playing_name": "1.16.5",
   "playing_since": 1776241424769
 }
