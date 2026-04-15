@@ -3,10 +3,12 @@
   "friends": [
     "Martion000"
   ],
-  "playtime": {},
+  "playtime": {
+    "vanilla_fabric": 132703
+  },
   "online": true,
-  "playing": "vanilla_fabric",
-  "last_seen": 1776241645156,
+  "playing": null,
+  "last_seen": 1776241777114,
   "playing_name": "Vanilla Fabric",
   "playing_since": 1776241643854
 }
