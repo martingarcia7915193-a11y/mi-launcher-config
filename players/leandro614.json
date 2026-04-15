@@ -3,10 +3,12 @@
   "friends": [
     "Martion000"
   ],
-  "playtime": {},
+  "playtime": {
+    "vanilla_fabric-copia": 156605
+  },
   "online": true,
-  "playing": "vanilla_fabric-copia",
-  "last_seen": 1776241340725,
+  "playing": null,
+  "last_seen": 1776241497558,
   "playing_name": "Vanilla Fabric 1.21.11",
   "playing_since": 1776241340170
 }
