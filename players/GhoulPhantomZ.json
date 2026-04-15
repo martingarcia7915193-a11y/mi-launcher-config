@@ -5,6 +5,8 @@
   ],
   "playtime": {},
   "online": true,
-  "playing": null,
-  "last_seen": 1776241156724
+  "playing": "vanilla_fabric",
+  "last_seen": 1776241459385,
+  "playing_name": "Vanilla Fabric",
+  "playing_since": 1776241458798
 }
