@@ -5,10 +5,12 @@
     "LavozGamer",
     "leandro614"
   ],
-  "playtime": {},
+  "playtime": {
+    "vanilla_fabric": 40684
+  },
   "online": true,
-  "playing": "vanilla_fabric",
-  "last_seen": 1776238548308,
+  "playing": null,
+  "last_seen": 1776238588788,
   "playing_name": "Vanilla Fabric",
   "playing_since": 1776238547084
 }
