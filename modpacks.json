@@ -2931,9 +2931,24 @@
           "file_name": "voicechat-fabric-2.6.16+26.1.2.jar",
           "version_number": "fabric-2.6.16+26.1.2",
           "icon_url": "https://cdn.modrinth.com/data/9eGKb6K1/icon.png"
+        },
+        {
+          "name": "Just Enough Items (JEI)",
+          "curseforge_id": 238222,
+          "download_url": "https://edge.forgecdn.net/files/7920/925/jei-26.1.2-fabric-29.5.0.26.jar",
+          "file_name": "jei-26.1.2-fabric-29.5.0.26.jar",
+          "version_number": "29.5.0.26 for Fabric 26.1.2",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-15T03:29:57.536Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Just Enough Items (JEI)"
+          ]
+        },
         {
           "date": "2026-04-13T00:16:00.766Z",
           "author": "Martion000",
