@@ -1383,6 +1383,13 @@
       ],
       "changelog": [
         {
+          "date": "2026-04-17T04:46:57.975Z",
+          "author": "Martion000",
+          "changes": [
+            "− Distant Horizons: A Level of Detail mod (Opcional)"
+          ]
+        },
+        {
           "date": "2026-04-14T03:34:29.158Z",
           "author": "Martion000",
           "changes": [
@@ -1753,13 +1760,6 @@
           "changes": [
             "− Mod #438496"
           ]
-        },
-        {
-          "date": "2026-03-31T23:58:51.453Z",
-          "author": "Martion000",
-          "changes": [
-            "− Create: Integrated Farming"
-          ]
         }
       ],
       "datapacks": [
@@ -1790,7 +1790,7 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1273/480/256/256/638828425709420198.png"
         }
       ],
-      "extras_version": 55,
+      "extras_version": 56,
       "extras_url": "https://drive.google.com/file/d/1CLpnYi15QjDT4pzisPPD-4iw8XN4PRaF/view?usp=drivesdk",
       "optional_mods": [
         {
@@ -1834,14 +1834,6 @@
           "version_number": "1.0.4+mc1.21.1-neoforge",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1312/571/256/256/638853489185581299.png",
           "client_only": true
-        },
-        {
-          "name": "Distant Horizons: A Level of Detail mod",
-          "curseforge_id": 508933,
-          "download_url": "https://edge.forgecdn.net/files/7375/285/DistantHorizons-2.4.5-b-1.21.1-fabric-neoforge.jar",
-          "file_name": "DistantHorizons-2.4.5-b-1.21.1-fabric-neoforge.jar",
-          "version_number": "2.4.5-b - 1.21.1 neo/fabric",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1189/514/256/256/638764417521176751.png"
         }
       ],
       "shaders": [
