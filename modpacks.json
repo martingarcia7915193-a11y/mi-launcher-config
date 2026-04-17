@@ -2779,9 +2779,27 @@
           "_depends_on": [
             286703
           ]
+        },
+        {
+          "name": "Immersive Vehicles (MTS/IV) - Official Content Pack - [OCP] - Planes, Cars, Helicopters & More!",
+          "curseforge_id": 292217,
+          "download_url": "https://edge.forgecdn.net/files/7933/733/MTS%20Official%20Pack-1.20.1-V29.jar",
+          "file_name": "MTS Official Pack-1.20.1-V29.jar",
+          "version_number": "MTS Official Pack-1.20.1-V29",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1049/6/256/256/638577974272837364.png",
+          "_depends_on": [
+            286703
+          ]
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-17T09:16:24.169Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Immersive Vehicles (MTS/IV) - Official Content Pack - [OCP] - Planes, Cars, Helicopters & More!"
+          ]
+        },
         {
           "date": "2026-04-17T08:37:49.489Z",
           "author": "Martion000",
@@ -2875,7 +2893,7 @@
           ]
         }
       ],
-      "extras_version": 14,
+      "extras_version": 15,
       "extras_url": "https://drive.google.com/file/d/1yyCAZIkXs47jUc01qK_U0VeXMf8Qx0hH/view?usp=drivesdk",
       "shaders": [
         {
