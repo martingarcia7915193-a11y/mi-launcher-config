@@ -1,10 +1,12 @@
 {
   "username": "LavozGamer",
   "friends": [],
-  "playtime": {},
+  "playtime": {
+    "createmon2": 8267144
+  },
   "online": true,
-  "playing": "createmon2",
+  "playing": null,
   "playing_name": "Createmon 2.0 ",
   "playing_since": 1776400786663,
-  "last_seen": 1776400787224
+  "last_seen": 1776409054660
 }
