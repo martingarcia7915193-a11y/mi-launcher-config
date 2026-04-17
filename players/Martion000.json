@@ -12,9 +12,9 @@
     "createmon2": 246130,
     "cabin": 155180
   },
-  "online": false,
-  "playing": null,
-  "last_seen": 1776400510641,
+  "online": true,
+  "playing": "createmon2",
+  "last_seen": 1776400523553,
   "playing_name": "Createmon 2.0 ",
-  "playing_since": 1776392106810
+  "playing_since": 1776400522969
 }
