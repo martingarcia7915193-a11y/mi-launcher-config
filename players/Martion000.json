@@ -9,11 +9,12 @@
     "vanilla_fabric": 40684,
     "vanilla_fabric-copia": 77496,
     "1.16.5": 93767,
-    "createmon2": 243995
+    "createmon2": 243995,
+    "cabin": 155180
   },
   "online": true,
-  "playing": "cabin",
-  "last_seen": 1776388500858,
+  "playing": null,
+  "last_seen": 1776388656845,
   "playing_name": "CABIN",
   "playing_since": 1776388500279
 }
