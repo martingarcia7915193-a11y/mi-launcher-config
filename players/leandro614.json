@@ -6,9 +6,9 @@
   "playtime": {
     "vanilla_fabric-copia": 156605
   },
-  "online": false,
-  "playing": null,
-  "last_seen": 1776400433372,
-  "playing_name": "Vanilla Fabric 1.21.11",
-  "playing_since": 1776241340170
+  "online": true,
+  "playing": "createmon2",
+  "last_seen": 1776400493300,
+  "playing_name": "Createmon 2.0 ",
+  "playing_since": 1776400492745
 }
