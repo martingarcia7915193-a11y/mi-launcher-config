@@ -6,9 +6,9 @@
   "playtime": {
     "vanilla_fabric": 132703
   },
-  "online": false,
-  "playing": null,
-  "last_seen": 1776400572990,
-  "playing_name": "Vanilla Fabric",
-  "playing_since": 1776241643854
+  "online": true,
+  "playing": "createmon2",
+  "last_seen": 1776400632000,
+  "playing_name": "Createmon 2.0 ",
+  "playing_since": 1776400631599
 }
