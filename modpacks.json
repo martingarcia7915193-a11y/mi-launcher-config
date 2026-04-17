@@ -7,7 +7,7 @@
       "id": "createmon2",
       "name": "Createmon 2.0 ",
       "version": "1.0.1",
-      "description": "Create + cobblemon 2 intento",
+      "description": "Create + cobblemon 2 intento\n\nhttps://lh3.googleusercontent.com/gg-dl/AFfU-fJNZSaBlsPsDcVxC3qX0E7fcAr69DTs39gpLJvicxuZlHfFVm21VfWLu3sK12fg6jc3RLFUaF2xAq_ycTbCAwO4Re7tE3vqpe3FvgEdPDZFtzKHrvNuSsOr-onfZ-kOduyLjcSR_SKlnyieI9fOn3RkvacK59qwVEJF4RwFx1BUvFk_Qg=s1024-rj",
       "minecraft_version": "1.21.1",
       "modloader": "neoforge",
       "modloader_version": "21.1.222",
@@ -1790,7 +1790,7 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1273/480/256/256/638828425709420198.png"
         }
       ],
-      "extras_version": 56,
+      "extras_version": 57,
       "extras_url": "https://drive.google.com/file/d/1CLpnYi15QjDT4pzisPPD-4iw8XN4PRaF/view?usp=drivesdk",
       "optional_mods": [
         {
