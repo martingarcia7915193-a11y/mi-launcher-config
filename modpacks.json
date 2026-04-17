@@ -2760,9 +2760,36 @@
           "file_name": "xaeroworldmap-forge-1.20.1-1.40.11.jar",
           "version_number": "forge-1.20.1-1.40.11.jar",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/196/654/256/256/636886857118683130.png"
+        },
+        {
+          "name": "Immersive Vehicles",
+          "curseforge_id": 286703,
+          "download_url": "https://edge.forgecdn.net/files/7926/604/Immersive%20Vehicles-1.20.1-24.0.0.jar",
+          "file_name": "Immersive Vehicles-1.20.1-24.0.0.jar",
+          "version_number": "Immersive Vehicles-1.20.1-24.0.0",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/189/295/256/256/636849774861032826.png"
+        },
+        {
+          "name": "Create: Automotives",
+          "curseforge_id": 1439308,
+          "download_url": "https://edge.forgecdn.net/files/7644/268/create-automotives-1.20.1-V1.jar",
+          "file_name": "create-automotives-1.20.1-V1.jar",
+          "version_number": "Create: Automotives - 1.20.1 - V1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1631/533/256/256/639045687292133944.png",
+          "_depends_on": [
+            286703
+          ]
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-17T08:37:49.489Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Immersive Vehicles",
+            "+ Create: Automotives"
+          ]
+        },
         {
           "date": "2026-04-09T03:07:44.223Z",
           "author": "Martion000",
@@ -2848,7 +2875,7 @@
           ]
         }
       ],
-      "extras_version": 13,
+      "extras_version": 14,
       "extras_url": "https://drive.google.com/file/d/1yyCAZIkXs47jUc01qK_U0VeXMf8Qx0hH/view?usp=drivesdk",
       "shaders": [
         {
