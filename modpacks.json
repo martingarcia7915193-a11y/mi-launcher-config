@@ -7,7 +7,7 @@
       "id": "createmon2",
       "name": "Createmon 2.0 ",
       "version": "1.0.1",
-      "description": "Createmon 2.0 \n\n[img:0]",
+      "description": "Createmon 2.0 \n\n[img:0]\ntest\n[img:1]\ntest",
       "minecraft_version": "1.21.1",
       "modloader": "neoforge",
       "modloader_version": "21.1.222",
@@ -1790,7 +1790,7 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1273/480/256/256/638828425709420198.png"
         }
       ],
-      "extras_version": 65,
+      "extras_version": 66,
       "extras_url": "https://drive.google.com/file/d/1CLpnYi15QjDT4pzisPPD-4iw8XN4PRaF/view?usp=drivesdk",
       "optional_mods": [
         {
