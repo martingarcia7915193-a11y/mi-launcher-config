@@ -4607,12 +4607,20 @@
           ]
         },
         {
-          "name": "Dependencia T9PomCSv",
+          "name": "Dependencia Sable",
           "modrinth_id": "T9PomCSv",
           "_is_dependency": true
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-18T21:56:49.521Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Dependencia Sable",
+            "− Dependencia T9PomCSv"
+          ]
+        },
         {
           "date": "2026-04-18T21:56:38.698Z",
           "author": "Martion000",
