@@ -3564,17 +3564,6 @@
           ]
         },
         {
-          "name": "Create Railways Navigator",
-          "curseforge_id": 935929,
-          "download_url": "https://edge.forgecdn.net/files/7754/979/createrailwaysnavigator-neoforge-1.21.1-alpha-0.9.0-C6%2b2.jar",
-          "file_name": "createrailwaysnavigator-neoforge-1.21.1-alpha-0.9.0-C6+2.jar",
-          "version_number": "createrailwaysnavigator-neoforge-1.21.1-alpha-0.9.0-C6+2",
-          "icon_url": "https://media.forgecdn.net/avatars/1066/720/638600887691727882.png",
-          "_depends_on": [
-            328085
-          ]
-        },
-        {
           "name": "Mod Name Tooltip",
           "curseforge_id": 238747,
           "download_url": "https://edge.forgecdn.net/files/6593/948/modnametooltip-1.21.1-neoforge-2.3.0.jar",
@@ -4465,6 +4454,13 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-18T23:15:57.236Z",
+          "author": "Martion000",
+          "changes": [
+            "− Create Railways Navigator"
+          ]
+        },
         {
           "date": "2026-04-18T23:14:59.549Z",
           "author": "Martion000",
