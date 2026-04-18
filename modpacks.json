@@ -3048,65 +3048,6 @@
       ]
     },
     {
-      "id": "vanilla_fabric-copia",
-      "name": "Vanilla Fabric 1.21.11",
-      "version": "1.0.0",
-      "description": "",
-      "minecraft_version": "1.21.11",
-      "modloader": "fabric",
-      "modloader_version": "0.19.1",
-      "icon": "",
-      "banner": "",
-      "background": "",
-      "server_ip": "",
-      "mods": [
-        {
-          "name": "Sodium",
-          "modrinth_id": "sodium",
-          "download_url": "https://cdn.modrinth.com/data/AANobbMI/versions/UddlN6L4/sodium-fabric-0.8.7%2Bmc1.21.11.jar",
-          "file_name": "sodium-fabric-0.8.7+mc1.21.11.jar",
-          "version_number": "mc1.21.11-0.8.7-fabric",
-          "icon_url": "https://cdn.modrinth.com/data/AANobbMI/295862f4724dc3f78df3447ad6072b2dcd3ef0c9_96.webp"
-        },
-        {
-          "name": "Lithium (Fabric/NeoForge)",
-          "curseforge_id": 360438,
-          "download_url": "https://edge.forgecdn.net/files/7740/897/lithium-fabric-0.21.4%2bmc1.21.11.jar",
-          "file_name": "lithium-fabric-0.21.4+mc1.21.11.jar",
-          "version_number": "Lithium mc1.21.11-0.21.4 for Fabric",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/246/646/256/256/637158441743060329.png"
-        },
-        {
-          "name": "Simple Voice Chat",
-          "curseforge_id": 416089,
-          "download_url": "https://edge.forgecdn.net/files/7905/254/voicechat-fabric-1.21.11-2.6.16.jar",
-          "file_name": "voicechat-fabric-1.21.11-2.6.16.jar",
-          "version_number": "[FABRIC][1.21.11] Simple Voice Chat 1.21.11-2.6.16",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/391/367/256/256/637584172062782791.png"
-        }
-      ],
-      "changelog": [
-        {
-          "date": "2026-04-13T01:22:24.792Z",
-          "author": "Martion000",
-          "changes": [
-            "+ Lithium (Fabric/NeoForge)",
-            "− Lithium",
-            "− Mod Menu",
-            "− Dependencia P7dR8mSH",
-            "− Dependencia eXts2L7r"
-          ]
-        },
-        {
-          "date": "2026-04-13T01:21:24.493Z",
-          "author": "Martion000",
-          "changes": [
-            "✦ Modpack creado"
-          ]
-        }
-      ]
-    },
-    {
       "id": "createmon2-copiacopiacopia",
       "name": "Createmon 2.0  copiacopiacopia",
       "version": "1.0.0",
