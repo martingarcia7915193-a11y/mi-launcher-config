@@ -3745,14 +3745,6 @@
           "_is_dependency": true
         },
         {
-          "name": "Create: Dragons Plus 1.8.7 for Create 1.21.1-6.0.9",
-          "curseforge_id": 1216624,
-          "download_url": "https://edge.forgecdn.net/files/7653/475/create-dragons-plus-1.8.7.jar",
-          "file_name": "create-dragons-plus-1.8.7.jar",
-          "version_number": "Create: Dragons Plus 1.8.7 for Create 1.21.1-6.0.9",
-          "_is_dependency": true
-        },
-        {
           "name": "Create: Design n' Decor",
           "curseforge_id": 923238,
           "download_url": "https://mediafilez.forgecdn.net/files/6824/615/Design-n-Decor-1.21.1-2.1.0.jar",
@@ -3922,17 +3914,6 @@
             619320,
             618298,
             328085
-          ]
-        },
-        {
-          "name": "Create: Enchantment Industry",
-          "curseforge_id": 688768,
-          "download_url": "https://edge.forgecdn.net/files/7656/384/create-enchantment-industry-2.3.0.jar",
-          "file_name": "create-enchantment-industry-2.3.0.jar",
-          "version_number": "Create: Enchantment Industry 2.3.0 for Create 1.21.1-6.0.9",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1224/199/256/256/638802282774958966.png",
-          "_depends_on": [
-            1216624
           ]
         },
         {
@@ -4500,6 +4481,14 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-18T23:08:38.025Z",
+          "author": "Martion000",
+          "changes": [
+            "− Create: Dragons Plus 1.8.7 for Create 1.21.1-6.0.9",
+            "− Create: Enchantment Industry"
+          ]
+        },
         {
           "date": "2026-04-18T23:04:47.686Z",
           "author": "Martion000",
