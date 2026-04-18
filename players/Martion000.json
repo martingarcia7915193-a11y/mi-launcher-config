@@ -10,11 +10,12 @@
     "vanilla_fabric-copia": 77496,
     "1.16.5": 93767,
     "createmon2": 23803096,
-    "cabin": 2042963
+    "cabin": 2042963,
+    "aviones": 29860
   },
   "online": true,
-  "playing": "aviones",
-  "last_seen": 1776549456200,
+  "playing": null,
+  "last_seen": 1776549486097,
   "playing_name": "Create + aviones :v",
   "playing_since": 1776549455762
 }
