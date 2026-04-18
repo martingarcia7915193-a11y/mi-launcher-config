@@ -3205,22 +3205,6 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg"
         },
         {
-          "name": "Xaero's Minimap",
-          "curseforge_id": 263420,
-          "download_url": "https://edge.forgecdn.net/files/7598/595/xaerominimap-neoforge-1.21.1-25.3.10.jar",
-          "file_name": "xaerominimap-neoforge-1.21.1-25.3.10.jar",
-          "version_number": "neoforge-1.21.1-25.3.10.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/92/854/256/256/636258666554688823.png"
-        },
-        {
-          "name": "Xaero's World Map",
-          "curseforge_id": 317780,
-          "download_url": "https://edge.forgecdn.net/files/7598/481/xaeroworldmap-neoforge-1.21.1-1.40.11.jar",
-          "file_name": "xaeroworldmap-neoforge-1.21.1-1.40.11.jar",
-          "version_number": "neoforge-1.21.1-1.40.11.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/196/654/256/256/636886857118683130.png"
-        },
-        {
           "name": "Farmer's Delight",
           "curseforge_id": 398521,
           "download_url": "https://edge.forgecdn.net/files/7801/529/FarmersDelight-1.21.1-1.2.11.jar",
@@ -3492,22 +3476,6 @@
             419699,
             687131
           ]
-        },
-        {
-          "name": "[1.21.1] oωo - neo - 0.12.15.5-beta.1+1.21",
-          "curseforge_id": 532610,
-          "download_url": "https://edge.forgecdn.net/files/6785/734/owo-lib-neoforge-0.12.15.5-beta.1%2b1.21.jar",
-          "file_name": "owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
-          "version_number": "[1.21.1] oωo - neo - 0.12.15.5-beta.1+1.21",
-          "_is_dependency": true
-        },
-        {
-          "name": "[1.21.1] Accessories [Neoforge] - 1.1.0",
-          "curseforge_id": 938917,
-          "download_url": "https://edge.forgecdn.net/files/7583/320/accessories-neoforge-1.1.0-beta.53%2b1.21.1.jar",
-          "file_name": "accessories-neoforge-1.1.0-beta.53+1.21.1.jar",
-          "version_number": "[1.21.1] Accessories [Neoforge] - 1.1.0",
-          "_is_dependency": true
         },
         {
           "name": "Navas ZA Megas",
@@ -4416,6 +4384,16 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-18T23:33:37.778Z",
+          "author": "Martion000",
+          "changes": [
+            "− Xaero's Minimap",
+            "− Xaero's World Map",
+            "− [1.21.1] oωo - neo - 0.12.15.5-beta.1+1.21",
+            "− [1.21.1] Accessories [Neoforge] - 1.1.0"
+          ]
+        },
         {
           "date": "2026-04-18T23:31:11.654Z",
           "author": "Martion000",
