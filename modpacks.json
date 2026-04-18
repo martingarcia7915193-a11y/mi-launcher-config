@@ -3464,35 +3464,6 @@
           ]
         },
         {
-          "name": "Cobblemon: Mega Showdown",
-          "curseforge_id": 1189523,
-          "download_url": "https://edge.forgecdn.net/files/7855/964/mega_showdown-neoforge-1.7.3%2b1.7.3%2b1.21.1.jar",
-          "file_name": "mega_showdown-neoforge-1.7.3+1.7.3+1.21.1.jar",
-          "version_number": "mega_showdown 1.7.3+1.7.3+1.21.1",
-          "icon_url": "https://media.forgecdn.net/avatars/1184/964/638758921078315414.png",
-          "_depends_on": [
-            532610,
-            938917,
-            419699,
-            687131
-          ]
-        },
-        {
-          "name": "Navas ZA Megas",
-          "curseforge_id": 1452045,
-          "download_url": "https://mediafilez.forgecdn.net/files/7893/358/zamega-neoforge-1.7.2.jar",
-          "file_name": "zamega-neoforge-1.7.2.jar",
-          "version_number": "zamega 1.7.2",
-          "icon_url": "https://media.forgecdn.net/avatars/1657/671/639056305199960736.png",
-          "_depends_on": [
-            419699,
-            532610,
-            1189523,
-            938917,
-            687131
-          ]
-        },
-        {
           "name": "Chipped",
           "curseforge_id": 456956,
           "download_url": "https://edge.forgecdn.net/files/5813/117/chipped-neoforge-1.21.1-4.0.2.jar",
@@ -4384,6 +4355,14 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-18T23:34:50.856Z",
+          "author": "Martion000",
+          "changes": [
+            "− Cobblemon: Mega Showdown",
+            "− Navas ZA Megas"
+          ]
+        },
         {
           "date": "2026-04-18T23:33:37.778Z",
           "author": "Martion000",
