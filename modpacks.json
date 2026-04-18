@@ -4538,9 +4538,24 @@
           "file_name": "konkrete_neoforge_1.9.9_MC_1.21.jar",
           "version_number": "[NeoForge] v1.9.9 MC 1.21",
           "_is_dependency": true
+        },
+        {
+          "name": "DragonLib",
+          "curseforge_id": 946163,
+          "download_url": "https://edge.forgecdn.net/files/7763/966/dragonlib-neoforge-1.21.1-beta-3.0.24.jar",
+          "file_name": "dragonlib-neoforge-1.21.1-beta-3.0.24.jar",
+          "version_number": "dragonlib-neoforge-1.21.1-beta-3.0.24",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/914/901/256/256/638372366819318973.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-18T22:29:38.377Z",
+          "author": "Martion000",
+          "changes": [
+            "+ DragonLib"
+          ]
+        },
         {
           "date": "2026-04-18T22:26:56.956Z",
           "author": "Martion000",
