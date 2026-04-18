@@ -12,11 +12,11 @@
     "createmon2": 23803096,
     "cabin": 2042963,
     "aviones": 962920,
-    "createmon2-copia": 621364
+    "createmon2-copia": 639374
   },
   "online": true,
-  "playing": "createmon2-copia",
-  "last_seen": 1776555257564,
+  "playing": null,
+  "last_seen": 1776555275656,
   "playing_name": "Createmon 2.0  (copia)",
   "playing_since": 1776555257140
 }
