@@ -4066,14 +4066,6 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/323/941/256/256/637438748346113688.jpeg"
         },
         {
-          "name": "ModernFix",
-          "curseforge_id": 790626,
-          "download_url": "https://edge.forgecdn.net/files/7917/721/modernfix-neoforge-5.27.2%2bmc1.21.1.jar",
-          "file_name": "modernfix-neoforge-5.27.2+mc1.21.1.jar",
-          "version_number": "modernfix-neoforge-5.27.2+mc1.21.1.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/881/436/638311693460984164.png"
-        },
-        {
           "name": "Rechiseled",
           "curseforge_id": 558998,
           "download_url": "https://edge.forgecdn.net/files/7687/594/rechiseled-1.2.4-neoforge-mc1.21.jar",
@@ -4481,6 +4473,13 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-18T23:12:16.831Z",
+          "author": "Martion000",
+          "changes": [
+            "− ModernFix"
+          ]
+        },
         {
           "date": "2026-04-18T23:08:38.025Z",
           "author": "Martion000",
