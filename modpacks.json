@@ -4610,9 +4610,27 @@
           "name": "Dependencia Sable",
           "modrinth_id": "T9PomCSv",
           "_is_dependency": true
+        },
+        {
+          "name": "Steam 'n' Rails Neoforge",
+          "curseforge_id": 1414670,
+          "download_url": "https://edge.forgecdn.net/files/7919/366/railways-0.2.0-beta.2%2bneoforge-mc1.21.1.jar",
+          "file_name": "railways-0.2.0-beta.2+neoforge-mc1.21.1.jar",
+          "version_number": "railways-0.2.0-beta.2+neoforge-mc1.21.1.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1582/848/256/256/639024674263601857.png",
+          "_depends_on": [
+            328085
+          ]
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-18T22:02:54.436Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Steam 'n' Rails Neoforge"
+          ]
+        },
         {
           "date": "2026-04-18T21:56:49.521Z",
           "author": "Martion000",
