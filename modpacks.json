@@ -3952,17 +3952,6 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1261/902/256/256/638821569425963837_animated.gif"
         },
         {
-          "name": "Create: Hypertubes",
-          "curseforge_id": 1281336,
-          "download_url": "https://edge.forgecdn.net/files/7947/354/create_hypertube-0.4.1-NEOFORGE.jar",
-          "file_name": "create_hypertube-0.4.1-NEOFORGE.jar",
-          "version_number": "Hypertube 0.4.1 NEOFORGE",
-          "icon_url": "https://media.forgecdn.net/avatars/1304/374/638848167351949326.png",
-          "_depends_on": [
-            328085
-          ]
-        },
-        {
           "name": "Create: Diesel Generators",
           "curseforge_id": 869316,
           "download_url": "https://edge.forgecdn.net/files/7869/591/createdieselgenerators-1.21.1-1.3.11.jar",
@@ -4511,6 +4500,13 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-18T23:04:47.686Z",
+          "author": "Martion000",
+          "changes": [
+            "− Create: Hypertubes"
+          ]
+        },
         {
           "date": "2026-04-18T22:59:23.538Z",
           "author": "Martion000",
