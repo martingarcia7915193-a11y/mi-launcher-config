@@ -4440,14 +4440,6 @@
           "_is_dependency": true
         },
         {
-          "name": "DragonLib",
-          "curseforge_id": 946163,
-          "download_url": "https://edge.forgecdn.net/files/7763/966/dragonlib-neoforge-1.21.1-beta-3.0.24.jar",
-          "file_name": "dragonlib-neoforge-1.21.1-beta-3.0.24.jar",
-          "version_number": "dragonlib-neoforge-1.21.1-beta-3.0.24",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/914/901/256/256/638372366819318973.png"
-        },
-        {
           "name": "Create Aeronautics",
           "modrinth_id": "create-aeronautics",
           "download_url": "https://cdn.modrinth.com/data/oWaK0Q19/versions/HY8u0JqC/create-aeronautics-bundled-1.21.1-1.0.2.jar",
@@ -4473,6 +4465,13 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-18T23:14:59.549Z",
+          "author": "Martion000",
+          "changes": [
+            "− DragonLib"
+          ]
+        },
         {
           "date": "2026-04-18T23:12:16.831Z",
           "author": "Martion000",
