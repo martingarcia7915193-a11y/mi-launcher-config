@@ -4192,18 +4192,6 @@
           ]
         },
         {
-          "name": "Cobblemon Raid Dens",
-          "curseforge_id": 1349231,
-          "download_url": "https://edge.forgecdn.net/files/7938/530/cobblemonraiddens-neoforge-0.10.1%2b1.21.1.jar",
-          "file_name": "cobblemonraiddens-neoforge-0.10.1+1.21.1.jar",
-          "version_number": "cobblemonraiddens-neoforge-0.10.1+1.21.1.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/1445/875/638937854611471388.png",
-          "_depends_on": [
-            687131,
-            388172
-          ]
-        },
-        {
           "name": "geckolib-neoforge-1.21.1-4.8.4.jar",
           "curseforge_id": 388172,
           "download_url": "https://edge.forgecdn.net/files/7707/149/geckolib-neoforge-1.21.1-4.8.4.jar",
@@ -4355,6 +4343,13 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-18T23:35:53.074Z",
+          "author": "Martion000",
+          "changes": [
+            "− Cobblemon Raid Dens"
+          ]
+        },
         {
           "date": "2026-04-18T23:34:50.856Z",
           "author": "Martion000",
