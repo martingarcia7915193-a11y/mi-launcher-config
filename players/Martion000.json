@@ -12,9 +12,9 @@
     "createmon2": 12263556,
     "cabin": 2042963
   },
-  "online": false,
-  "playing": null,
-  "last_seen": 1776417392208,
-  "playing_name": "CABIN",
-  "playing_since": 1776415795910
+  "online": true,
+  "playing": "vanilla_fabric",
+  "last_seen": 1776481176342,
+  "playing_name": "Vanilla Fabric",
+  "playing_since": 1776481174308
 }
