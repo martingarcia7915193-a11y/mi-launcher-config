@@ -4562,9 +4562,24 @@
           "name": "Dependencia sable",
           "modrinth_id": "T9PomCSv",
           "_is_dependency": true
+        },
+        {
+          "name": "Sable",
+          "modrinth_id": "sable",
+          "download_url": "https://cdn.modrinth.com/data/T9PomCSv/versions/2e8wmM3Q/sable-neoforge-1.21.1-1.0.5.jar",
+          "file_name": "sable-neoforge-1.21.1-1.0.5.jar",
+          "version_number": "1.0.5+mc1.21.1",
+          "icon_url": "https://cdn.modrinth.com/data/T9PomCSv/8c0a8c64c9a5a8d446d0aa23d244cb9b52314a1d.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-18T22:44:52.544Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Sable"
+          ]
+        },
         {
           "date": "2026-04-18T22:43:07.899Z",
           "author": "Martion000",
