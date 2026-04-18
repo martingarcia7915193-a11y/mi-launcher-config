@@ -3107,29 +3107,6 @@
       ]
     },
     {
-      "id": "1.16.5",
-      "name": "1.16.5",
-      "version": "1.0.0",
-      "description": "",
-      "minecraft_version": "1.16.5",
-      "modloader": "forge",
-      "modloader_version": "36.2.42",
-      "icon": "",
-      "banner": "",
-      "background": "",
-      "server_ip": "",
-      "mods": [],
-      "changelog": [
-        {
-          "date": "2026-04-14T00:47:17.353Z",
-          "author": "Martion000",
-          "changes": [
-            "✦ Modpack creado"
-          ]
-        }
-      ]
-    },
-    {
       "id": "createmon2-copiacopiacopia",
       "name": "Createmon 2.0  copiacopiacopia",
       "version": "1.0.0",
