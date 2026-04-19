@@ -3326,45 +3326,6 @@
           "_is_dependency": true
         },
         {
-          "name": "SDM Shop [Forge/Fabric]",
-          "curseforge_id": 948942,
-          "download_url": "https://edge.forgecdn.net/files/7173/785/sdmshopa-neoforge-3.3.1.jar",
-          "file_name": "sdmshopa-neoforge-3.3.1.jar",
-          "version_number": "sdmshopa-neoforge-3.3.1.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1584/496/256/256/639025530444976932.png",
-          "_depends_on": [
-            1102542,
-            438495,
-            964997,
-            1095061,
-            404465
-          ]
-        },
-        {
-          "name": "sdmeconomy-neoforge-1.21.1-2.4.0.jar",
-          "curseforge_id": 1102542,
-          "download_url": "https://edge.forgecdn.net/files/6770/946/sdmeconomy-neoforge-1.21.1-2.4.0.jar",
-          "file_name": "sdmeconomy-neoforge-1.21.1-2.4.0.jar",
-          "version_number": "sdmeconomy-neoforge-1.21.1-2.4.0.jar",
-          "_is_dependency": true
-        },
-        {
-          "name": "sdm-core-neoforge-1.21.1-2.1.2.jar",
-          "curseforge_id": 964997,
-          "download_url": "https://edge.forgecdn.net/files/5968/80/sdm-core-neoforge-1.21.1-2.1.2.jar",
-          "file_name": "sdm-core-neoforge-1.21.1-2.1.2.jar",
-          "version_number": "sdm-core-neoforge-1.21.1-2.1.2.jar",
-          "_is_dependency": true
-        },
-        {
-          "name": "sdmuilibrary-neoforge-1.21-1.9.2.jar",
-          "curseforge_id": 1095061,
-          "download_url": "https://edge.forgecdn.net/files/6515/615/sdmuilibrary-neoforge-1.21-1.9.2.jar",
-          "file_name": "sdmuilibrary-neoforge-1.21-1.9.2.jar",
-          "version_number": "sdmuilibrary-neoforge-1.21-1.9.2.jar",
-          "_is_dependency": true
-        },
-        {
           "name": "[NEOFORGE][1.21.1] FTB Library 2101.1.31",
           "curseforge_id": 404465,
           "download_url": "https://edge.forgecdn.net/files/7746/959/ftb-library-neoforge-2101.1.31.jar",
@@ -4060,6 +4021,16 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-19T01:16:58.395Z",
+          "author": "Martion000",
+          "changes": [
+            "− SDM Shop [Forge/Fabric]",
+            "− sdmeconomy-neoforge-1.21.1-2.4.0.jar",
+            "− sdm-core-neoforge-1.21.1-2.1.2.jar",
+            "− sdmuilibrary-neoforge-1.21-1.9.2.jar"
+          ]
+        },
         {
           "date": "2026-04-19T01:13:08.476Z",
           "author": "Martion000",
