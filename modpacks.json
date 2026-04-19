@@ -3570,29 +3570,6 @@
           ]
         },
         {
-          "name": "Create Ore Excavation",
-          "curseforge_id": 649832,
-          "download_url": "https://edge.forgecdn.net/files/7199/305/createoreexcavation-1.21-1.6.8.jar",
-          "file_name": "createoreexcavation-1.21-1.6.8.jar",
-          "version_number": "[NeoForge] Create Ore Excavation 1.21-1.6.8",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1067/697/256/256/638602012706611157.png",
-          "_depends_on": [
-            328085
-          ]
-        },
-        {
-          "name": "Create Ore Excavation Plus",
-          "curseforge_id": 730824,
-          "download_url": "https://edge.forgecdn.net/files/7526/768/create_ore_excavation_plus-0.2.5-1.21.1.jar",
-          "file_name": "create_ore_excavation_plus-0.2.5-1.21.1.jar",
-          "version_number": "create_ore_excavation_plus-0.2.5-1.21.1.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1235/586/256/256/638809416498662907.png",
-          "_depends_on": [
-            649832,
-            328085
-          ]
-        },
-        {
           "name": "Artifacts",
           "curseforge_id": 312353,
           "download_url": "https://edge.forgecdn.net/files/7875/426/artifacts-neoforge-13.2.1.jar",
@@ -4294,6 +4271,14 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-19T00:40:12.062Z",
+          "author": "Martion000",
+          "changes": [
+            "− Create Ore Excavation",
+            "− Create Ore Excavation Plus"
+          ]
+        },
         {
           "date": "2026-04-19T00:39:05.419Z",
           "author": "Martion000",
