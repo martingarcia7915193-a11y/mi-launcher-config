@@ -3178,25 +3178,6 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1065/184/256/256/638598725500886388.png"
         },
         {
-          "name": "Cobblemon",
-          "curseforge_id": 687131,
-          "download_url": "https://edge.forgecdn.net/files/7553/231/Cobblemon-neoforge-1.7.3%2b1.21.1.jar",
-          "file_name": "Cobblemon-neoforge-1.7.3+1.21.1.jar",
-          "version_number": "Cobblemon v1.7.3 ~ NeoForge",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/620/286/256/256/638008832892634916.png",
-          "_depends_on": [
-            351264
-          ]
-        },
-        {
-          "name": "Kotlin for Forge 5.11.0",
-          "curseforge_id": 351264,
-          "download_url": "https://edge.forgecdn.net/files/7471/280/kotlinforforge-5.11.0-all.jar",
-          "file_name": "kotlinforforge-5.11.0-all.jar",
-          "version_number": "Kotlin for Forge 5.11.0",
-          "_is_dependency": true
-        },
-        {
           "name": "Just Enough Items (JEI)",
           "curseforge_id": 238222,
           "download_url": "https://edge.forgecdn.net/files/7420/587/jei-1.21.1-neoforge-19.27.0.340.jar",
@@ -3440,20 +3421,6 @@
           "version_number": "[NEOFORGE][1.21.1] FTB Teams 2101.1.10",
           "_is_dependency": true,
           "icon_url": "https://media.forgecdn.net/avatars/972/581/638474887222710106.png"
-        },
-        {
-          "name": "Cobblemon Quests",
-          "curseforge_id": 922979,
-          "download_url": "https://edge.forgecdn.net/files/7257/241/cobblemon_quests-%5b1.21.1%5d-neoforge-1.2.0.jar",
-          "file_name": "cobblemon_quests-[1.21.1]-neoforge-1.2.0.jar",
-          "version_number": "Cobblemon Quests [1.2.0 - NeoForge]",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/889/254/256/256/638328752984485977.png",
-          "_depends_on": [
-            419699,
-            438496,
-            687131,
-            289412
-          ]
         },
         {
           "name": "Chipped",
@@ -3797,17 +3764,6 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1131/830/256/256/638691606432990450.png"
         },
         {
-          "name": "CobbleDon - Cobblemon Addon",
-          "curseforge_id": 1398478,
-          "download_url": "https://edge.forgecdn.net/files/7297/234/cobbledon-1.0.jar",
-          "file_name": "cobbledon-1.0.jar",
-          "version_number": "1.0",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1549/107/256/256/639005449113843864.png",
-          "_depends_on": [
-            687131
-          ]
-        },
-        {
           "name": "Crash Assistant",
           "curseforge_id": 1154099,
           "download_url": "https://edge.forgecdn.net/files/7913/44/CrashAssistant-neoforge-1.20.6-1.21.4-1.11.8.jar",
@@ -4052,18 +4008,6 @@
           ]
         },
         {
-          "name": "Cobblemon Catch Rate Display",
-          "curseforge_id": 1450604,
-          "download_url": "https://edge.forgecdn.net/files/7885/200/catchrate-display-neoforge-2.8.14.jar",
-          "file_name": "catchrate-display-neoforge-2.8.14.jar",
-          "version_number": "[NeoForge] v2.8.14",
-          "icon_url": "https://media.forgecdn.net/avatars/1657/30/639055898662095390.png",
-          "_depends_on": [
-            351264,
-            687131
-          ]
-        },
-        {
           "name": "geckolib-neoforge-1.21.1-4.8.4.jar",
           "curseforge_id": 388172,
           "download_url": "https://edge.forgecdn.net/files/7707/149/geckolib-neoforge-1.21.1-4.8.4.jar",
@@ -4115,17 +4059,6 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/337/942/256/256/637476252137998899.png"
         },
         {
-          "name": "Cobblemon Pasture Loot NeoForged",
-          "curseforge_id": 1488760,
-          "download_url": "https://edge.forgecdn.net/files/7772/551/pasturelootnf-0.1.0%2b1.21.1.jar",
-          "file_name": "pasturelootnf-0.1.0+1.21.1.jar",
-          "version_number": "pasturelootnf-0.1.0+1.21.1.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1719/739/256/256/639093660374509838.png",
-          "_depends_on": [
-            687131
-          ]
-        },
-        {
           "name": "Cosmetic Armor Reworked",
           "curseforge_id": 237307,
           "download_url": "https://edge.forgecdn.net/files/5610/814/cosmeticarmorreworked-1.21.1-v1-neoforge.jar",
@@ -4152,18 +4085,6 @@
           "file_name": "Brendon's Bottlecaps-neoforge-1.2.2.jar",
           "version_number": "Brendon's Bottlecaps-neoforge-1.2.2.jar",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1183/498/256/256/638757192305953403.png"
-        },
-        {
-          "name": "Myths and Legends [Cobblemon Sidemod]",
-          "curseforge_id": 1037337,
-          "download_url": "https://mediafilez.forgecdn.net/files/7255/754/MythsAndLegends-neoforge-1.9.0.jar",
-          "file_name": "MythsAndLegends-neoforge-1.9.0.jar",
-          "version_number": "Myths_and_Legends-1.9.0-NeoForge",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1014/881/256/256/638540404053842952.png",
-          "_depends_on": [
-            687131,
-            419699
-          ]
         },
         {
           "name": "Just Zoom",
@@ -4210,6 +4131,19 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-19T00:56:29.153Z",
+          "author": "Martion000",
+          "changes": [
+            "− Cobblemon",
+            "− Kotlin for Forge 5.11.0",
+            "− Cobblemon Quests",
+            "− CobbleDon - Cobblemon Addon",
+            "− Cobblemon Catch Rate Display",
+            "− Cobblemon Pasture Loot NeoForged",
+            "− Myths and Legends [Cobblemon Sidemod]"
+          ]
+        },
         {
           "date": "2026-04-19T00:48:54.538Z",
           "author": "Martion000",
