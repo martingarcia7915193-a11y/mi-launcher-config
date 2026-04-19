@@ -3570,35 +3570,6 @@
           ]
         },
         {
-          "name": "Artifacts",
-          "curseforge_id": 312353,
-          "download_url": "https://edge.forgecdn.net/files/7875/426/artifacts-neoforge-13.2.1.jar",
-          "file_name": "artifacts-neoforge-13.2.1.jar",
-          "version_number": "artifacts-neoforge-13.2.1.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/444/622/637699815276651872.png"
-        },
-        {
-          "name": "Reliquified Artifacts",
-          "curseforge_id": 1100379,
-          "download_url": "https://edge.forgecdn.net/files/7881/396/reliquified_artifacts-1.21.1-1.0.4.jar",
-          "file_name": "reliquified_artifacts-1.21.1-1.0.4.jar",
-          "version_number": "reliquified_artifacts-1.21.1-1.0.4.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/1083/26/638623617290403030.gif",
-          "_depends_on": [
-            445274,
-            312353
-          ]
-        },
-        {
-          "name": "relics-1.21.1-0.11.10.jar",
-          "curseforge_id": 445274,
-          "download_url": "https://edge.forgecdn.net/files/7902/749/relics-1.21.1-0.11.15.jar",
-          "file_name": "relics-1.21.1-0.11.15.jar",
-          "version_number": "relics-1.21.1-0.11.15.jar",
-          "_is_dependency": true,
-          "icon_url": "https://media.forgecdn.net/avatars/1124/47/638680710071253437.gif"
-        },
-        {
           "name": "Create Slice & Dice",
           "curseforge_id": 659674,
           "download_url": "https://edge.forgecdn.net/files/7738/176/sliceanddice-forge-4.2.4.jar",
@@ -4271,6 +4242,15 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-19T00:43:10.044Z",
+          "author": "Martion000",
+          "changes": [
+            "− Artifacts",
+            "− Reliquified Artifacts",
+            "− relics-1.21.1-0.11.10.jar"
+          ]
+        },
         {
           "date": "2026-04-19T00:40:12.062Z",
           "author": "Martion000",
