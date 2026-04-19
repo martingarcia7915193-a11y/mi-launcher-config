@@ -15,9 +15,9 @@
     "createmon2-copia": 1314681,
     "createmon2-otracopiacopia": 2462898
   },
-  "online": false,
-  "playing": null,
-  "last_seen": 1776564747874,
-  "playing_name": "Createmon 2.0  otra copia",
-  "playing_since": 1776562052997
+  "online": true,
+  "playing": "createmon2",
+  "last_seen": 1776565519598,
+  "playing_name": "Createmon 2.0 ",
+  "playing_since": 1776565519153
 }
