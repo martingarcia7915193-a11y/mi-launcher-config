@@ -3794,19 +3794,6 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1735/390/256/256/639104639630438236.png"
         },
         {
-          "name": "Sophisticated Storage Create Integration",
-          "curseforge_id": 1226755,
-          "download_url": "https://edge.forgecdn.net/files/7941/924/sophisticatedstoragecreateintegration-1.21.1-0.1.16.122.jar",
-          "file_name": "sophisticatedstoragecreateintegration-1.21.1-0.1.16.122.jar",
-          "version_number": "sophisticatedstoragecreateintegration-1.21.1-0.1.16.122.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/1208/888/638786233372453864.png",
-          "_depends_on": [
-            619320,
-            618298,
-            328085
-          ]
-        },
-        {
           "name": "Simple Backups",
           "curseforge_id": 583228,
           "download_url": "https://edge.forgecdn.net/files/7801/78/SimpleBackups-1.21-4.0.29.jar",
@@ -3936,14 +3923,6 @@
           ]
         },
         {
-          "name": "FerriteCore ((Neo)Forge)",
-          "curseforge_id": 429235,
-          "download_url": "https://edge.forgecdn.net/files/7524/151/ferritecore-7.0.3-neoforge.jar",
-          "file_name": "ferritecore-7.0.3-neoforge.jar",
-          "version_number": "ferritecore-7.0.3-neoforge",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/323/941/256/256/637438748346113688.jpeg"
-        },
-        {
           "name": "Rechiseled",
           "curseforge_id": 558998,
           "download_url": "https://edge.forgecdn.net/files/7687/594/rechiseled-1.2.4-neoforge-mc1.21.jar",
@@ -3990,14 +3969,6 @@
           "_depends_on": [
             328085
           ]
-        },
-        {
-          "name": "Platform-neoforge-1.21.1-1.3.jar",
-          "curseforge_id": 997634,
-          "download_url": "https://edge.forgecdn.net/files/7811/411/Platform-neoforge-1.21.1-1.3.jar",
-          "file_name": "Platform-neoforge-1.21.1-1.3.jar",
-          "version_number": "Platform-neoforge-1.21.1-1.3.jar",
-          "_is_dependency": true
         },
         {
           "name": "Create: Bits 'n' Bobs",
@@ -4323,6 +4294,15 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-19T00:39:05.419Z",
+          "author": "Martion000",
+          "changes": [
+            "− Sophisticated Storage Create Integration",
+            "− FerriteCore ((Neo)Forge)",
+            "− Platform-neoforge-1.21.1-1.3.jar"
+          ]
+        },
         {
           "date": "2026-04-19T00:34:06.414Z",
           "author": "Martion000",
