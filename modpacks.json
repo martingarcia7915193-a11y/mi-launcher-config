@@ -4688,45 +4688,6 @@
           ]
         },
         {
-          "name": "SDM Shop [Forge/Fabric]",
-          "curseforge_id": 948942,
-          "download_url": "https://edge.forgecdn.net/files/7173/785/sdmshopa-neoforge-3.3.1.jar",
-          "file_name": "sdmshopa-neoforge-3.3.1.jar",
-          "version_number": "sdmshopa-neoforge-3.3.1.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1584/496/256/256/639025530444976932.png",
-          "_depends_on": [
-            1102542,
-            438495,
-            964997,
-            1095061,
-            404465
-          ]
-        },
-        {
-          "name": "sdmeconomy-neoforge-1.21.1-2.4.0.jar",
-          "curseforge_id": 1102542,
-          "download_url": "https://edge.forgecdn.net/files/6770/946/sdmeconomy-neoforge-1.21.1-2.4.0.jar",
-          "file_name": "sdmeconomy-neoforge-1.21.1-2.4.0.jar",
-          "version_number": "sdmeconomy-neoforge-1.21.1-2.4.0.jar",
-          "_is_dependency": true
-        },
-        {
-          "name": "sdm-core-neoforge-1.21.1-2.1.2.jar",
-          "curseforge_id": 964997,
-          "download_url": "https://edge.forgecdn.net/files/5968/80/sdm-core-neoforge-1.21.1-2.1.2.jar",
-          "file_name": "sdm-core-neoforge-1.21.1-2.1.2.jar",
-          "version_number": "sdm-core-neoforge-1.21.1-2.1.2.jar",
-          "_is_dependency": true
-        },
-        {
-          "name": "sdmuilibrary-neoforge-1.21-1.9.2.jar",
-          "curseforge_id": 1095061,
-          "download_url": "https://edge.forgecdn.net/files/6515/615/sdmuilibrary-neoforge-1.21-1.9.2.jar",
-          "file_name": "sdmuilibrary-neoforge-1.21-1.9.2.jar",
-          "version_number": "sdmuilibrary-neoforge-1.21-1.9.2.jar",
-          "_is_dependency": true
-        },
-        {
           "name": "[NEOFORGE][1.21.1] FTB Library 2101.1.31",
           "curseforge_id": 404465,
           "download_url": "https://edge.forgecdn.net/files/7746/959/ftb-library-neoforge-2101.1.31.jar",
@@ -5828,9 +5789,37 @@
           "file_name": "konkrete_neoforge_1.9.9_MC_1.21.jar",
           "version_number": "[NeoForge] v1.9.9 MC 1.21",
           "_is_dependency": true
+        },
+        {
+          "name": "Create Aeronautics",
+          "modrinth_id": "create-aeronautics",
+          "download_url": "https://cdn.modrinth.com/data/oWaK0Q19/versions/HY8u0JqC/create-aeronautics-bundled-1.21.1-1.0.2.jar",
+          "file_name": "create-aeronautics-bundled-1.21.1-1.0.2.jar",
+          "version_number": "1.0.2+mc1.21.1",
+          "icon_url": "https://cdn.modrinth.com/data/oWaK0Q19/f66b5589924884ffd81acb27f3ccb775867a962e_96.webp",
+          "_depends_on": [
+            "T9PomCSv"
+          ]
+        },
+        {
+          "name": "Dependencia T9PomCSv",
+          "modrinth_id": "T9PomCSv",
+          "_is_dependency": true
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-19T01:26:35.881Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Create Aeronautics",
+            "+ Dependencia T9PomCSv",
+            "− SDM Shop [Forge/Fabric]",
+            "− sdmeconomy-neoforge-1.21.1-2.4.0.jar",
+            "− sdm-core-neoforge-1.21.1-2.1.2.jar",
+            "− sdmuilibrary-neoforge-1.21-1.9.2.jar"
+          ]
+        },
         {
           "date": "2026-04-19T01:25:22.807Z",
           "author": "Martion000",
