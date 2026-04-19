@@ -105,10 +105,10 @@
         {
           "name": "Corpse x Curios API Compat",
           "curseforge_id": 1138130,
-          "download_url": "https://edge.forgecdn.net/files/7088/158/corpsecurioscompat-1.21.1-NeoForge-3.1.3.jar",
-          "file_name": "corpsecurioscompat-1.21.1-NeoForge-3.1.3.jar",
-          "version_number": "corpsecurioscompat-1.21.1-NeoForge-3.1.3.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1115/573/256/256/638669521923748256.png",
+          "download_url": "https://edge.forgecdn.net/files/7891/800/corpsecurioscompat-1.21.1-NeoForge-4.0.1.jar",
+          "file_name": "corpsecurioscompat-1.21.1-NeoForge-4.0.1.jar",
+          "version_number": "corpsecurioscompat-1.21.1-NeoForge-4.0.1.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/1115/573/638669521923748256.png",
           "_depends_on": [
             1264423
           ]
@@ -116,10 +116,11 @@
         {
           "name": "baguettelib-1.21.1-NeoForge-1.1.6.jar",
           "curseforge_id": 1264423,
-          "download_url": "https://edge.forgecdn.net/files/7544/787/baguettelib-1.21.1-NeoForge-1.1.6.jar",
-          "file_name": "baguettelib-1.21.1-NeoForge-1.1.6.jar",
-          "version_number": "baguettelib-1.21.1-NeoForge-1.1.6.jar",
-          "_is_dependency": true
+          "download_url": "https://edge.forgecdn.net/files/7880/467/baguettelib-1.21.1-NeoForge-2.0.3.jar",
+          "file_name": "baguettelib-1.21.1-NeoForge-2.0.3.jar",
+          "version_number": "baguettelib-1.21.1-NeoForge-2.0.3.jar",
+          "_is_dependency": true,
+          "icon_url": "https://media.forgecdn.net/avatars/1312/883/638853653640016923.png"
         },
         {
           "name": "Corpse",
@@ -132,10 +133,10 @@
         {
           "name": "Sophisticated Backpacks",
           "curseforge_id": 422301,
-          "download_url": "https://edge.forgecdn.net/files/7848/29/sophisticatedbackpacks-1.21.1-3.25.35.1613.jar",
-          "file_name": "sophisticatedbackpacks-1.21.1-3.25.35.1613.jar",
-          "version_number": "sophisticatedbackpacks-1.21.1-3.25.35.1613.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/375/56/256/256/637549610342642859.png",
+          "download_url": "https://edge.forgecdn.net/files/7916/628/sophisticatedbackpacks-1.21.1-3.25.40.1677.jar",
+          "file_name": "sophisticatedbackpacks-1.21.1-3.25.40.1677.jar",
+          "version_number": "sophisticatedbackpacks-1.21.1-3.25.40.1677.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/375/56/637549610342642859.png",
           "_depends_on": [
             618298
           ]
@@ -143,18 +144,19 @@
         {
           "name": "sophisticatedcore-1.21.1-1.4.13.1573.jar",
           "curseforge_id": 618298,
-          "download_url": "https://edge.forgecdn.net/files/7847/81/sophisticatedcore-1.21.1-1.4.13.1573.jar",
-          "file_name": "sophisticatedcore-1.21.1-1.4.13.1573.jar",
-          "version_number": "sophisticatedcore-1.21.1-1.4.13.1573.jar",
-          "_is_dependency": true
+          "download_url": "https://edge.forgecdn.net/files/7916/600/sophisticatedcore-1.21.1-1.4.24.1680.jar",
+          "file_name": "sophisticatedcore-1.21.1-1.4.24.1680.jar",
+          "version_number": "sophisticatedcore-1.21.1-1.4.24.1680.jar",
+          "_is_dependency": true,
+          "icon_url": "https://media.forgecdn.net/avatars/540/438/637866039314801108.png"
         },
         {
           "name": "Sophisticated Storage",
           "curseforge_id": 619320,
-          "download_url": "https://edge.forgecdn.net/files/7843/164/sophisticatedstorage-1.21.1-1.5.31.1549.jar",
-          "file_name": "sophisticatedstorage-1.21.1-1.5.31.1549.jar",
-          "version_number": "sophisticatedstorage-1.21.1-1.5.31.1549.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/543/206/256/256/637872959580005837.png",
+          "download_url": "https://edge.forgecdn.net/files/7916/647/sophisticatedstorage-1.21.1-1.5.37.1622.jar",
+          "file_name": "sophisticatedstorage-1.21.1-1.5.37.1622.jar",
+          "version_number": "sophisticatedstorage-1.21.1-1.5.37.1622.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/543/206/637872959580005837.png",
           "_depends_on": [
             618298
           ]
@@ -162,10 +164,10 @@
         {
           "name": "AppleSkin",
           "curseforge_id": 248787,
-          "download_url": "https://edge.forgecdn.net/files/7517/379/appleskin-neoforge-mc1.21-3.0.8.jar",
-          "file_name": "appleskin-neoforge-mc1.21-3.0.8.jar",
-          "version_number": "appleskin-neoforge-mc1.21-3.0.8.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/47/527/256/256/636066936394500688.png"
+          "download_url": "https://edge.forgecdn.net/files/7854/442/appleskin-neoforge-mc1.21-3.0.9.jar",
+          "file_name": "appleskin-neoforge-mc1.21-3.0.9.jar",
+          "version_number": "appleskin-neoforge-mc1.21-3.0.9.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/47/527/636066936394500688.png"
         },
         {
           "name": "Mouse Tweaks",
@@ -187,10 +189,10 @@
         {
           "name": "Tom's Simple Storage Mod",
           "curseforge_id": 378609,
-          "download_url": "https://edge.forgecdn.net/files/7659/872/toms_storage-1.21-2.3.0.jar",
-          "file_name": "toms_storage-1.21-2.3.0.jar",
-          "version_number": "[NeoForge] Tom's Storage 1.21-2.3.0",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/266/898/256/256/637234057062921445.png"
+          "download_url": "https://edge.forgecdn.net/files/7917/7/toms_storage-1.21-2.3.2.jar",
+          "file_name": "toms_storage-1.21-2.3.2.jar",
+          "version_number": "[NeoForge] Tom's Storage 1.21-2.3.2",
+          "icon_url": "https://media.forgecdn.net/avatars/266/898/637234057062921445.png"
         },
         {
           "name": "3.8.2 for neoforge 1.21.1",
@@ -298,10 +300,10 @@
         {
           "name": "FTB Quests (NeoForge)",
           "curseforge_id": 289412,
-          "download_url": "https://edge.forgecdn.net/files/7775/452/ftb-quests-neoforge-2101.1.23.jar",
-          "file_name": "ftb-quests-neoforge-2101.1.23.jar",
-          "version_number": "[NEOFORGE][1.21.1] FTB Quests 2101.1.23",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/972/571/256/256/638474884805475097.png",
+          "download_url": "https://edge.forgecdn.net/files/7878/289/ftb-quests-neoforge-2101.1.24.jar",
+          "file_name": "ftb-quests-neoforge-2101.1.24.jar",
+          "version_number": "[NEOFORGE][1.21.1] FTB Quests 2101.1.24",
+          "icon_url": "https://media.forgecdn.net/avatars/972/571/638474884805475097.png",
           "_depends_on": [
             419699,
             404468,
@@ -311,10 +313,11 @@
         {
           "name": "[NEOFORGE][1.21.1] FTB Teams 2101.1.9",
           "curseforge_id": 404468,
-          "download_url": "https://edge.forgecdn.net/files/7369/21/ftb-teams-neoforge-2101.1.9.jar",
-          "file_name": "ftb-teams-neoforge-2101.1.9.jar",
-          "version_number": "[NEOFORGE][1.21.1] FTB Teams 2101.1.9",
-          "_is_dependency": true
+          "download_url": "https://edge.forgecdn.net/files/7878/281/ftb-teams-neoforge-2101.1.10.jar",
+          "file_name": "ftb-teams-neoforge-2101.1.10.jar",
+          "version_number": "[NEOFORGE][1.21.1] FTB Teams 2101.1.10",
+          "_is_dependency": true,
+          "icon_url": "https://media.forgecdn.net/avatars/972/581/638474887222710106.png"
         },
         {
           "name": "Cobblemon Quests",
@@ -333,10 +336,10 @@
         {
           "name": "Cobblemon: Mega Showdown",
           "curseforge_id": 1189523,
-          "download_url": "https://edge.forgecdn.net/files/7833/504/mega_showdown-neoforge-1.7.2%2b1.7.3%2b1.21.1-hotfix.jar",
-          "file_name": "mega_showdown-neoforge-1.7.2+1.7.3+1.21.1-hotfix.jar",
-          "version_number": "mega_showdown 1.7.2+1.7.3+1.21.1-hotfix",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1184/964/256/256/638758921078315414.png",
+          "download_url": "https://edge.forgecdn.net/files/7855/964/mega_showdown-neoforge-1.7.3%2b1.7.3%2b1.21.1.jar",
+          "file_name": "mega_showdown-neoforge-1.7.3+1.7.3+1.21.1.jar",
+          "version_number": "mega_showdown 1.7.3+1.7.3+1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/1184/964/638758921078315414.png",
           "_depends_on": [
             532610,
             938917,
@@ -363,10 +366,10 @@
         {
           "name": "Navas ZA Megas",
           "curseforge_id": 1452045,
-          "download_url": "https://mediafilez.forgecdn.net/files/7708/927/zamega-neoforge-1.6.1.jar",
-          "file_name": "zamega-neoforge-1.6.1.jar",
-          "version_number": "zamega 1.6.1",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1657/671/256/256/639056305199960736.png",
+          "download_url": "https://mediafilez.forgecdn.net/files/7893/358/zamega-neoforge-1.7.2.jar",
+          "file_name": "zamega-neoforge-1.7.2.jar",
+          "version_number": "zamega 1.7.2",
+          "icon_url": "https://media.forgecdn.net/avatars/1657/671/639056305199960736.png",
           "_depends_on": [
             419699,
             532610,
@@ -406,10 +409,10 @@
         {
           "name": "Steam 'n' Rails Neoforge",
           "curseforge_id": 1414670,
-          "download_url": "https://edge.forgecdn.net/files/7478/287/railways-0.1.0%2bneoforge-mc1.21.1.jar",
-          "file_name": "railways-0.1.0+neoforge-mc1.21.1.jar",
-          "version_number": "railways-0.1.0+neoforge-mc1.21.1.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1582/848/256/256/639024674263601857.png",
+          "download_url": "https://edge.forgecdn.net/files/7919/366/railways-0.2.0-beta.2%2bneoforge-mc1.21.1.jar",
+          "file_name": "railways-0.2.0-beta.2+neoforge-mc1.21.1.jar",
+          "version_number": "railways-0.2.0-beta.2+neoforge-mc1.21.1.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/1582/848/639024674263601857.png",
           "_depends_on": [
             328085
           ]
@@ -417,10 +420,10 @@
         {
           "name": "Create Railways Navigator",
           "curseforge_id": 935929,
-          "download_url": "https://edge.forgecdn.net/files/7227/739/createrailwaysnavigator-neoforge-1.21.1-beta-0.8.5.jar",
-          "file_name": "createrailwaysnavigator-neoforge-1.21.1-beta-0.8.5.jar",
-          "version_number": "createrailwaysnavigator-neoforge-1.21.1-beta-0.8.5",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1066/720/256/256/638600887691727882.png",
+          "download_url": "https://edge.forgecdn.net/files/7754/979/createrailwaysnavigator-neoforge-1.21.1-alpha-0.9.0-C6%2b2.jar",
+          "file_name": "createrailwaysnavigator-neoforge-1.21.1-alpha-0.9.0-C6+2.jar",
+          "version_number": "createrailwaysnavigator-neoforge-1.21.1-alpha-0.9.0-C6+2",
+          "icon_url": "https://media.forgecdn.net/avatars/1066/720/638600887691727882.png",
           "_depends_on": [
             328085
           ]
@@ -445,10 +448,10 @@
         {
           "name": "Building Wands",
           "curseforge_id": 363392,
-          "download_url": "https://edge.forgecdn.net/files/7696/860/BuildingWands-neoforge-MC1.21.1-3.0.2.jar",
-          "file_name": "BuildingWands-neoforge-MC1.21.1-3.0.2.jar",
-          "version_number": "Building Wands 3.0.2 - beta - neoforge - 1.21.1",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/249/945/256/256/637176059718454738.png",
+          "download_url": "https://edge.forgecdn.net/files/7892/748/BuildingWands-neoforge-MC1.21.1-3.0.4.jar",
+          "file_name": "BuildingWands-neoforge-MC1.21.1-3.0.4.jar",
+          "version_number": "Building Wands 3.0.4 - beta - neoforge - 1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/249/945/637176059718454738.png",
           "_depends_on": [
             348521,
             419699
@@ -526,18 +529,18 @@
         {
           "name": "Artifacts",
           "curseforge_id": 312353,
-          "download_url": "https://edge.forgecdn.net/files/7468/997/artifacts-neoforge-13.2.0.jar",
-          "file_name": "artifacts-neoforge-13.2.0.jar",
-          "version_number": "artifacts-neoforge-13.2.0.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/444/622/256/256/637699815276651872.png"
+          "download_url": "https://edge.forgecdn.net/files/7875/426/artifacts-neoforge-13.2.1.jar",
+          "file_name": "artifacts-neoforge-13.2.1.jar",
+          "version_number": "artifacts-neoforge-13.2.1.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/444/622/637699815276651872.png"
         },
         {
           "name": "Reliquified Artifacts",
           "curseforge_id": 1100379,
-          "download_url": "https://edge.forgecdn.net/files/7834/23/reliquified_artifacts-1.21.1-1.0.1.jar",
-          "file_name": "reliquified_artifacts-1.21.1-1.0.1.jar",
-          "version_number": "reliquified_artifacts-1.21.1-1.0.1.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1083/26/256/256/638623617290403030_animated.gif",
+          "download_url": "https://edge.forgecdn.net/files/7881/396/reliquified_artifacts-1.21.1-1.0.4.jar",
+          "file_name": "reliquified_artifacts-1.21.1-1.0.4.jar",
+          "version_number": "reliquified_artifacts-1.21.1-1.0.4.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/1083/26/638623617290403030.gif",
           "_depends_on": [
             445274,
             312353
@@ -546,10 +549,11 @@
         {
           "name": "relics-1.21.1-0.11.10.jar",
           "curseforge_id": 445274,
-          "download_url": "https://edge.forgecdn.net/files/7833/995/relics-1.21.1-0.11.10.jar",
-          "file_name": "relics-1.21.1-0.11.10.jar",
-          "version_number": "relics-1.21.1-0.11.10.jar",
-          "_is_dependency": true
+          "download_url": "https://edge.forgecdn.net/files/7902/749/relics-1.21.1-0.11.15.jar",
+          "file_name": "relics-1.21.1-0.11.15.jar",
+          "version_number": "relics-1.21.1-0.11.15.jar",
+          "_is_dependency": true,
+          "icon_url": "https://media.forgecdn.net/avatars/1124/47/638680710071253437.gif"
         },
         {
           "name": "Create Slice & Dice",
@@ -616,10 +620,10 @@
         {
           "name": "Create Deco",
           "curseforge_id": 509285,
-          "download_url": "https://edge.forgecdn.net/files/7314/692/createdeco-2.1.2.jar",
-          "file_name": "createdeco-2.1.2.jar",
-          "version_number": "createdeco-2.1.2-1.21.1-neo.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1065/338/256/256/638598933457608969.png"
+          "download_url": "https://edge.forgecdn.net/files/7943/181/createdeco-2.1.3.jar",
+          "file_name": "createdeco-2.1.3.jar",
+          "version_number": "createdeco-2.1.3.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/1065/338/638598933457608969.png"
         },
         {
           "name": "Create: Interiors",
@@ -764,10 +768,10 @@
         {
           "name": "Sophisticated Storage Create Integration",
           "curseforge_id": 1226755,
-          "download_url": "https://edge.forgecdn.net/files/7168/283/sophisticatedstoragecreateintegration-1.21.1-0.1.13.54.jar",
-          "file_name": "sophisticatedstoragecreateintegration-1.21.1-0.1.13.54.jar",
-          "version_number": "sophisticatedstoragecreateintegration-1.21.1-0.1.13.54.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1208/888/256/256/638786233372453864.png",
+          "download_url": "https://edge.forgecdn.net/files/7941/924/sophisticatedstoragecreateintegration-1.21.1-0.1.16.122.jar",
+          "file_name": "sophisticatedstoragecreateintegration-1.21.1-0.1.16.122.jar",
+          "version_number": "sophisticatedstoragecreateintegration-1.21.1-0.1.16.122.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/1208/888/638786233372453864.png",
           "_depends_on": [
             619320,
             618298,
@@ -804,10 +808,10 @@
         {
           "name": "Create: Hypertubes",
           "curseforge_id": 1281336,
-          "download_url": "https://edge.forgecdn.net/files/7599/490/create_hypertube-0.4.0-NEOFORGE.jar",
-          "file_name": "create_hypertube-0.4.0-NEOFORGE.jar",
-          "version_number": "Hypertube 0.4.0 NEOFORGE",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1304/374/256/256/638848167351949326.png",
+          "download_url": "https://edge.forgecdn.net/files/7947/354/create_hypertube-0.4.1-NEOFORGE.jar",
+          "file_name": "create_hypertube-0.4.1-NEOFORGE.jar",
+          "version_number": "Hypertube 0.4.1 NEOFORGE",
+          "icon_url": "https://media.forgecdn.net/avatars/1304/374/638848167351949326.png",
           "_depends_on": [
             328085
           ]
@@ -815,10 +819,10 @@
         {
           "name": "Create: Diesel Generators",
           "curseforge_id": 869316,
-          "download_url": "https://edge.forgecdn.net/files/7330/294/createdieselgenerators-1.21.1-1.3.8.jar",
-          "file_name": "createdieselgenerators-1.21.1-1.3.8.jar",
-          "version_number": "createdieselgenerators-1.21.1-1.3.8.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1065/563/256/256/638599261172976487.png",
+          "download_url": "https://edge.forgecdn.net/files/7869/591/createdieselgenerators-1.21.1-1.3.11.jar",
+          "file_name": "createdieselgenerators-1.21.1-1.3.11.jar",
+          "version_number": "createdieselgenerators-1.21.1-1.3.11.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/1065/563/638599261172976487.png",
           "_depends_on": [
             328085
           ]
@@ -885,10 +889,10 @@
         {
           "name": "Crash Assistant",
           "curseforge_id": 1154099,
-          "download_url": "https://edge.forgecdn.net/files/7825/625/CrashAssistant-neoforge-1.20.6-1.21.4-1.11.6.jar",
-          "file_name": "CrashAssistant-neoforge-1.20.6-1.21.4-1.11.6.jar",
-          "version_number": "CrashAssistant-neoforge-1.20.6-1.21.4-1.11.6.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1482/227/256/256/638963404721998907.png",
+          "download_url": "https://edge.forgecdn.net/files/7913/44/CrashAssistant-neoforge-1.20.6-1.21.4-1.11.8.jar",
+          "file_name": "CrashAssistant-neoforge-1.20.6-1.21.4-1.11.8.jar",
+          "version_number": "CrashAssistant-neoforge-1.20.6-1.21.4-1.11.8.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/1482/227/638963404721998907.png",
           "client_only": true
         },
         {
@@ -978,10 +982,10 @@
         {
           "name": "ModernFix",
           "curseforge_id": 790626,
-          "download_url": "https://edge.forgecdn.net/files/7509/726/modernfix-neoforge-5.26.1%2bmc1.21.1.jar",
-          "file_name": "modernfix-neoforge-5.26.1+mc1.21.1.jar",
-          "version_number": "modernfix-neoforge-5.26.1+mc1.21.1.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/881/436/256/256/638311693460984164.png"
+          "download_url": "https://edge.forgecdn.net/files/7917/721/modernfix-neoforge-5.27.2%2bmc1.21.1.jar",
+          "file_name": "modernfix-neoforge-5.27.2+mc1.21.1.jar",
+          "version_number": "modernfix-neoforge-5.27.2+mc1.21.1.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/881/436/638311693460984164.png"
         },
         {
           "name": "Reese's Sodium Options",
@@ -1173,10 +1177,10 @@
         {
           "name": "Easy Auto Cycler",
           "curseforge_id": 1242344,
-          "download_url": "https://edge.forgecdn.net/files/6949/629/easyautocycler-2.0.0.jar",
-          "file_name": "easyautocycler-2.0.0.jar",
-          "version_number": "Easy Auto Cycler 2.0.0 1.21.1 NeoForge",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1223/564/256/256/638801716533815980.png",
+          "download_url": "https://edge.forgecdn.net/files/7935/763/easyautocycler-neoforge-1.21.1-2.2.0.jar",
+          "file_name": "easyautocycler-neoforge-1.21.1-2.2.0.jar",
+          "version_number": "Easy Auto Cycler 2.2.0 1.21.1 NeoForge",
+          "icon_url": "https://media.forgecdn.net/avatars/1223/564/638801716533815980.png",
           "client_only": true
         },
         {
@@ -1225,10 +1229,10 @@
         {
           "name": "Cobblemon Catch Rate Display",
           "curseforge_id": 1450604,
-          "download_url": "https://edge.forgecdn.net/files/7859/862/catchrate-display-neoforge-2.8.11.jar",
-          "file_name": "catchrate-display-neoforge-2.8.11.jar",
-          "version_number": "[NeoForge] v2.8.11",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1657/30/256/256/639055898662095390.png",
+          "download_url": "https://edge.forgecdn.net/files/7885/200/catchrate-display-neoforge-2.8.14.jar",
+          "file_name": "catchrate-display-neoforge-2.8.14.jar",
+          "version_number": "[NeoForge] v2.8.14",
+          "icon_url": "https://media.forgecdn.net/avatars/1657/30/639055898662095390.png",
           "_depends_on": [
             351264,
             687131
@@ -1237,10 +1241,10 @@
         {
           "name": "Cobblemon Raid Dens",
           "curseforge_id": 1349231,
-          "download_url": "https://edge.forgecdn.net/files/7861/165/cobblemonraiddens-neoforge-0.10.0%2b1.21.1.jar",
-          "file_name": "cobblemonraiddens-neoforge-0.10.0+1.21.1.jar",
-          "version_number": "cobblemonraiddens-neoforge-0.10.0+1.21.1.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1445/875/256/256/638937854611471388.png",
+          "download_url": "https://edge.forgecdn.net/files/7938/530/cobblemonraiddens-neoforge-0.10.1%2b1.21.1.jar",
+          "file_name": "cobblemonraiddens-neoforge-0.10.1+1.21.1.jar",
+          "version_number": "cobblemonraiddens-neoforge-0.10.1+1.21.1.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/1445/875/638937854611471388.png",
           "_depends_on": [
             687131,
             388172
@@ -1268,10 +1272,10 @@
         {
           "name": "Create: Water wheel bearing",
           "curseforge_id": 1420394,
-          "download_url": "https://edge.forgecdn.net/files/7725/191/waterwheelbearing-2.0.0.jar",
-          "file_name": "waterwheelbearing-2.0.0.jar",
-          "version_number": "waterwheelbearing-2.0.0.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1594/683/256/256/639031084100886662.png"
+          "download_url": "https://edge.forgecdn.net/files/7933/274/waterwheelbearing-2.0.3.jar",
+          "file_name": "waterwheelbearing-2.0.3.jar",
+          "version_number": "waterwheelbearing-2.0.3.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/1594/683/639031084100886662.png"
         },
         {
           "name": "Ping Wheel",
@@ -1382,6 +1386,39 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-19T02:13:43.795Z",
+          "author": "Martion000",
+          "changes": [
+            "⬆ Corpse x Curios API Compat: corpsecurioscompat-1.21.1-NeoForge-3.1.3.jar → corpsecurioscompat-1.21.1-NeoForge-4.0.1.jar",
+            "⬆ baguettelib-1.21.1-NeoForge-1.1.6.jar: baguettelib-1.21.1-NeoForge-1.1.6.jar → baguettelib-1.21.1-NeoForge-2.0.3.jar",
+            "⬆ Sophisticated Backpacks: sophisticatedbackpacks-1.21.1-3.25.35.1613.jar → sophisticatedbackpacks-1.21.1-3.25.40.1677.jar",
+            "⬆ sophisticatedcore-1.21.1-1.4.13.1573.jar: sophisticatedcore-1.21.1-1.4.13.1573.jar → sophisticatedcore-1.21.1-1.4.24.1680.jar",
+            "⬆ Sophisticated Storage: sophisticatedstorage-1.21.1-1.5.31.1549.jar → sophisticatedstorage-1.21.1-1.5.37.1622.jar",
+            "⬆ AppleSkin: appleskin-neoforge-mc1.21-3.0.8.jar → appleskin-neoforge-mc1.21-3.0.9.jar",
+            "⬆ Tom's Simple Storage Mod: [NeoForge] Tom's Storage 1.21-2.3.0 → [NeoForge] Tom's Storage 1.21-2.3.2",
+            "⬆ FTB Quests (NeoForge): [NEOFORGE][1.21.1] FTB Quests 2101.1.23 → [NEOFORGE][1.21.1] FTB Quests 2101.1.24",
+            "⬆ [NEOFORGE][1.21.1] FTB Teams 2101.1.9: [NEOFORGE][1.21.1] FTB Teams 2101.1.9 → [NEOFORGE][1.21.1] FTB Teams 2101.1.10",
+            "⬆ Cobblemon: Mega Showdown: mega_showdown 1.7.2+1.7.3+1.21.1-hotfix → mega_showdown 1.7.3+1.7.3+1.21.1",
+            "⬆ Navas ZA Megas: zamega 1.6.1 → zamega 1.7.2",
+            "⬆ Steam 'n' Rails Neoforge: railways-0.1.0+neoforge-mc1.21.1.jar → railways-0.2.0-beta.2+neoforge-mc1.21.1.jar",
+            "⬆ Create Railways Navigator: createrailwaysnavigator-neoforge-1.21.1-beta-0.8.5 → createrailwaysnavigator-neoforge-1.21.1-alpha-0.9.0-C6+2",
+            "⬆ Building Wands: Building Wands 3.0.2 - beta - neoforge - 1.21.1 → Building Wands 3.0.4 - beta - neoforge - 1.21.1",
+            "⬆ Artifacts: artifacts-neoforge-13.2.0.jar → artifacts-neoforge-13.2.1.jar",
+            "⬆ Reliquified Artifacts: reliquified_artifacts-1.21.1-1.0.1.jar → reliquified_artifacts-1.21.1-1.0.4.jar",
+            "⬆ relics-1.21.1-0.11.10.jar: relics-1.21.1-0.11.10.jar → relics-1.21.1-0.11.15.jar",
+            "⬆ Create Deco: createdeco-2.1.2-1.21.1-neo.jar → createdeco-2.1.3.jar",
+            "⬆ Sophisticated Storage Create Integration: sophisticatedstoragecreateintegration-1.21.1-0.1.13.54.jar → sophisticatedstoragecreateintegration-1.21.1-0.1.16.122.jar",
+            "⬆ Create: Hypertubes: Hypertube 0.4.0 NEOFORGE → Hypertube 0.4.1 NEOFORGE",
+            "⬆ Create: Diesel Generators: createdieselgenerators-1.21.1-1.3.8.jar → createdieselgenerators-1.21.1-1.3.11.jar",
+            "⬆ Crash Assistant: CrashAssistant-neoforge-1.20.6-1.21.4-1.11.6.jar → CrashAssistant-neoforge-1.20.6-1.21.4-1.11.8.jar",
+            "⬆ ModernFix: modernfix-neoforge-5.26.1+mc1.21.1.jar → modernfix-neoforge-5.27.2+mc1.21.1.jar",
+            "⬆ Easy Auto Cycler: Easy Auto Cycler 2.0.0 1.21.1 NeoForge → Easy Auto Cycler 2.2.0 1.21.1 NeoForge",
+            "⬆ Cobblemon Catch Rate Display: [NeoForge] v2.8.11 → [NeoForge] v2.8.14",
+            "⬆ Cobblemon Raid Dens: cobblemonraiddens-neoforge-0.10.0+1.21.1.jar → cobblemonraiddens-neoforge-0.10.1+1.21.1.jar",
+            "⬆ Create: Water wheel bearing: waterwheelbearing-2.0.0.jar → waterwheelbearing-2.0.3.jar"
+          ]
+        },
         {
           "date": "2026-04-18T09:21:10.177Z",
           "author": "Martion000",
@@ -1792,7 +1829,7 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1273/480/256/256/638828425709420198.png"
         }
       ],
-      "extras_version": 71,
+      "extras_version": 72,
       "extras_url": "https://drive.google.com/file/d/1CLpnYi15QjDT4pzisPPD-4iw8XN4PRaF/view?usp=drivesdk",
       "optional_mods": [
         {
