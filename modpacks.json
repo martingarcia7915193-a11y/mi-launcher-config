@@ -3796,19 +3796,6 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1081/54/256/256/638620584651603837.png"
         },
         {
-          "name": "Rechiseled",
-          "curseforge_id": 558998,
-          "download_url": "https://edge.forgecdn.net/files/7687/594/rechiseled-1.2.4-neoforge-mc1.21.jar",
-          "file_name": "rechiseled-1.2.4-neoforge-mc1.21.jar",
-          "version_number": "Rechiseled 1.2.4 for NeoForge 1.21",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/473/70/256/256/637764150842291454.png",
-          "_depends_on": [
-            438332,
-            854949,
-            454372
-          ]
-        },
-        {
           "name": "SuperMartijn642's Config Library 1.1.8 for NeoForge 1.21",
           "curseforge_id": 438332,
           "download_url": "https://edge.forgecdn.net/files/5546/996/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
@@ -4108,6 +4095,13 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-19T01:02:23.944Z",
+          "author": "Martion000",
+          "changes": [
+            "− Rechiseled"
+          ]
+        },
         {
           "date": "2026-04-19T00:58:16.656Z",
           "author": "Martion000",
