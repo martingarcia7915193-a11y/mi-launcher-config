@@ -1352,9 +1352,33 @@
           "file_name": "dragonlib-neoforge-1.21.1-beta-3.0.24.jar",
           "version_number": "dragonlib-neoforge-1.21.1-beta-3.0.24",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/914/901/256/256/638372366819318973.png"
+        },
+        {
+          "name": "Create Aeronautics",
+          "modrinth_id": "create-aeronautics",
+          "download_url": "https://cdn.modrinth.com/data/oWaK0Q19/versions/HY8u0JqC/create-aeronautics-bundled-1.21.1-1.0.2.jar",
+          "file_name": "create-aeronautics-bundled-1.21.1-1.0.2.jar",
+          "version_number": "1.0.2+mc1.21.1",
+          "icon_url": "https://cdn.modrinth.com/data/oWaK0Q19/f66b5589924884ffd81acb27f3ccb775867a962e_96.webp",
+          "_depends_on": [
+            "T9PomCSv"
+          ]
+        },
+        {
+          "name": "Dependencia T9PomCSv",
+          "modrinth_id": "T9PomCSv",
+          "_is_dependency": true
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-19T05:03:34.136Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Create Aeronautics",
+            "+ Dependencia T9PomCSv"
+          ]
+        },
         {
           "date": "2026-04-19T05:03:07.423Z",
           "author": "Martion000",
@@ -1815,7 +1839,7 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1273/480/256/256/638828425709420198.png"
         }
       ],
-      "extras_version": 74,
+      "extras_version": 75,
       "extras_url": "https://drive.google.com/file/d/1CLpnYi15QjDT4pzisPPD-4iw8XN4PRaF/view?usp=drivesdk",
       "optional_mods": [
         {
