@@ -3334,18 +3334,6 @@
           "_is_dependency": true
         },
         {
-          "name": "Mechanical Healing Machine",
-          "curseforge_id": 1364314,
-          "download_url": "https://edge.forgecdn.net/files/7462/649/cobblemonmechanicalhealingmachine-1.2.2.jar",
-          "file_name": "cobblemonmechanicalhealingmachine-1.2.2.jar",
-          "version_number": "cobblemonmechanicalhealingmachine-1.2.2.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1477/422/256/256/638959204100284879.png",
-          "_depends_on": [
-            328085,
-            687131
-          ]
-        },
-        {
           "name": "SDM Shop [Forge/Fabric]",
           "curseforge_id": 948942,
           "download_url": "https://edge.forgecdn.net/files/7173/785/sdmshopa-neoforge-3.3.1.jar",
@@ -4120,6 +4108,13 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-19T00:58:16.656Z",
+          "author": "Martion000",
+          "changes": [
+            "− Mechanical Healing Machine"
+          ]
+        },
         {
           "date": "2026-04-19T00:57:35.499Z",
           "author": "Martion000",
