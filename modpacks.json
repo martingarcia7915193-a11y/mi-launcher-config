@@ -3853,18 +3853,6 @@
           ]
         },
         {
-          "name": "Create Contraption Terminals",
-          "curseforge_id": 1059879,
-          "download_url": "https://edge.forgecdn.net/files/7660/82/createcontraptionterminals-1.21-1.3.0.jar",
-          "file_name": "createcontraptionterminals-1.21-1.3.0.jar",
-          "version_number": "[NeoForge] Create Contraption Terminals 1.21-1.3.0",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1067/696/256/256/638602012472201059.png",
-          "_depends_on": [
-            378609,
-            328085
-          ]
-        },
-        {
           "name": "Configured",
           "curseforge_id": 457570,
           "download_url": "https://edge.forgecdn.net/files/7276/577/configured-neoforge-1.21.1-2.6.3.jar",
@@ -4335,6 +4323,13 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-19T00:34:06.414Z",
+          "author": "Martion000",
+          "changes": [
+            "− Create Contraption Terminals"
+          ]
+        },
         {
           "date": "2026-04-19T00:13:03.613Z",
           "author": "Martion000",
