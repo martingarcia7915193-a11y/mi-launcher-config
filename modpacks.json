@@ -3326,14 +3326,6 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/207/323/256/256/636965628804677340.png"
         },
         {
-          "name": "Tom's Simple Storage Mod",
-          "curseforge_id": 378609,
-          "download_url": "https://edge.forgecdn.net/files/7917/7/toms_storage-1.21-2.3.2.jar",
-          "file_name": "toms_storage-1.21-2.3.2.jar",
-          "version_number": "[NeoForge] Tom's Storage 1.21-2.3.2",
-          "icon_url": "https://media.forgecdn.net/avatars/266/898/637234057062921445.png"
-        },
-        {
           "name": "3.8.2 for neoforge 1.21.1",
           "curseforge_id": 667299,
           "download_url": "https://edge.forgecdn.net/files/7437/845/yet_another_config_lib_v3-3.8.2%2b1.21.1-neoforge.jar",
@@ -4218,6 +4210,13 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-19T00:48:54.538Z",
+          "author": "Martion000",
+          "changes": [
+            "− Tom's Simple Storage Mod"
+          ]
+        },
         {
           "date": "2026-04-19T00:47:31.949Z",
           "author": "Martion000",
