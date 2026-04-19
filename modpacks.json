@@ -3860,17 +3860,6 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1081/54/256/256/638620584651603837.png"
         },
         {
-          "name": "ShatterLib | OctoLib",
-          "curseforge_id": 916747,
-          "download_url": "https://edge.forgecdn.net/files/7724/6/OctoLib-NEOFORGE-0.6.1%2b1.21.jar",
-          "file_name": "OctoLib-NEOFORGE-0.6.1+1.21.jar",
-          "version_number": "OctoLib-NEOFORGE-0.6.1+1.21.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1040/229/256/256/638566006631831950_animated.gif",
-          "_depends_on": [
-            419699
-          ]
-        },
-        {
           "name": "Rechiseled",
           "curseforge_id": 558998,
           "download_url": "https://edge.forgecdn.net/files/7687/594/rechiseled-1.2.4-neoforge-mc1.21.jar",
@@ -4242,6 +4231,13 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-19T00:46:25.130Z",
+          "author": "Martion000",
+          "changes": [
+            "− ShatterLib | OctoLib"
+          ]
+        },
         {
           "date": "2026-04-19T00:43:10.044Z",
           "author": "Martion000",
