@@ -3559,14 +3559,6 @@
           ]
         },
         {
-          "name": "Dramatic Doors",
-          "curseforge_id": 380617,
-          "download_url": "https://edge.forgecdn.net/files/6479/44/DramaticDoors-NeoQuiFab-1.21.1-3.3.2.jar",
-          "file_name": "DramaticDoors-NeoQuiFab-1.21.1-3.3.2.jar",
-          "version_number": "DramaticDoors-NeoQuiFab-1.21.1-3.3.2.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/582/250/256/256/637948069905067823.png"
-        },
-        {
           "name": "Create: Copycats+",
           "curseforge_id": 968398,
           "download_url": "https://edge.forgecdn.net/files/7251/823/copycats-3.0.4%2bmc.1.21.1-neoforge.jar",
@@ -4343,6 +4335,13 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-19T00:13:03.613Z",
+          "author": "Martion000",
+          "changes": [
+            "− Dramatic Doors"
+          ]
+        },
         {
           "date": "2026-04-18T23:42:17.396Z",
           "author": "Martion000",
