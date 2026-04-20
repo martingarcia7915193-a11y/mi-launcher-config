@@ -9,9 +9,9 @@
     "vanilla_fabric-copia": 156605,
     "createmon2": 39110544
   },
-  "online": false,
-  "playing": null,
-  "last_seen": 1776661166768,
+  "online": true,
+  "playing": "createmon2",
+  "last_seen": 1776662076352,
   "playing_name": "Createmon 2.0 ",
-  "playing_since": 1776575038420
+  "playing_since": 1776662075764
 }
