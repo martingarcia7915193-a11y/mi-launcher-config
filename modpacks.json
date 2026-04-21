@@ -2078,9 +2078,24 @@
           "file_name": "cloth-config-15.0.140-neoforge.jar",
           "version_number": "[NeoForge 1.21] v15.0.140",
           "_is_dependency": true
+        },
+        {
+          "name": "Creative Tabs Organizer",
+          "curseforge_id": 1409328,
+          "download_url": "https://mediafilez.forgecdn.net/files/7951/229/tabs_organizer-1.0.0.jar",
+          "file_name": "tabs_organizer-1.0.0.jar",
+          "version_number": "Tabs_Organizer-1.0.0",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1764/956/256/256/639122100388695400.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-21T00:27:42.522Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Creative Tabs Organizer"
+          ]
+        },
         {
           "date": "2026-04-21T00:27:24.048Z",
           "author": "Martion000",
