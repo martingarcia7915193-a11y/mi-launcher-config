@@ -2024,10 +2024,10 @@
         {
           "name": "Create Aeronautics",
           "modrinth_id": "create-aeronautics",
-          "download_url": "https://cdn.modrinth.com/data/oWaK0Q19/versions/HY8u0JqC/create-aeronautics-bundled-1.21.1-1.0.2.jar",
-          "file_name": "create-aeronautics-bundled-1.21.1-1.0.2.jar",
-          "version_number": "1.0.2+mc1.21.1",
-          "icon_url": "https://cdn.modrinth.com/data/oWaK0Q19/f66b5589924884ffd81acb27f3ccb775867a962e_96.webp",
+          "download_url": "https://cdn.modrinth.com/data/oWaK0Q19/versions/FIeWE7UC/create-aeronautics-bundled-1.21.1-1.0.3.jar",
+          "file_name": "create-aeronautics-bundled-1.21.1-1.0.3.jar",
+          "version_number": "1.0.3+mc1.21.1",
+          "icon_url": "",
           "_depends_on": [
             "T9PomCSv",
             "LNytGWDc"
@@ -2051,6 +2051,13 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-21T00:04:19.058Z",
+          "author": "Martion000",
+          "changes": [
+            "⬆ Create Aeronautics: 1.0.2+mc1.21.1 → 1.0.3+mc1.21.1"
+          ]
+        },
         {
           "date": "2026-04-18T22:02:54.436Z",
           "author": "Martion000",
