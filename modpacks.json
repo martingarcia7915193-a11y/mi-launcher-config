@@ -2086,9 +2086,45 @@
           "file_name": "tabs_organizer-1.0.0.jar",
           "version_number": "Tabs_Organizer-1.0.0",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1764/956/256/256/639122100388695400.png"
+        },
+        {
+          "name": "Create: Auction House",
+          "curseforge_id": 1514693,
+          "download_url": "https://mediafilez.forgecdn.net/files/7953/355/create_auction_house-1.5.jar",
+          "file_name": "create_auction_house-1.5.jar",
+          "version_number": "CAH Release 1.5.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1757/861/256/256/639118378677769732.png",
+          "_depends_on": [
+            889722
+          ]
+        },
+        {
+          "name": "Numismatics 1.0.20 NeoForge 1.21.1",
+          "curseforge_id": 889722,
+          "download_url": "https://edge.forgecdn.net/files/7948/18/CreateNumismatics-1.0.20%2bneoforge-mc1.21.1.jar",
+          "file_name": "CreateNumismatics-1.0.20+neoforge-mc1.21.1.jar",
+          "version_number": "Numismatics 1.0.20 NeoForge 1.21.1",
+          "_is_dependency": true
+        },
+        {
+          "name": "Create: Just Enough Time",
+          "curseforge_id": 1508862,
+          "download_url": "https://edge.forgecdn.net/files/7914/23/createjustenoughtime-1.21.1-1.0.3.jar",
+          "file_name": "createjustenoughtime-1.21.1-1.0.3.jar",
+          "version_number": "createjustenoughtime-1.21.1-1.0.3.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1749/56/256/256/639113117374160543.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-21T00:39:12.991Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Create: Auction House",
+            "+ Numismatics 1.0.20 NeoForge 1.21.1",
+            "+ Create: Just Enough Time"
+          ]
+        },
         {
           "date": "2026-04-21T00:27:42.522Z",
           "author": "Martion000",
