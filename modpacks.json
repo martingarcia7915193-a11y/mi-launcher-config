@@ -2059,9 +2059,36 @@
           "file_name": "rebind_narrator-1.21.1-neoforge-2025.12.23.jar",
           "version_number": "rebind_narrator-1.21.1-neoforge-2025.12.23.jar",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1410/749/256/256/638914190534801237.png"
+        },
+        {
+          "name": "BetterF3",
+          "curseforge_id": 401648,
+          "download_url": "https://edge.forgecdn.net/files/5873/258/BetterF3-11.0.3-NeoForge-1.21.1.jar",
+          "file_name": "BetterF3-11.0.3-NeoForge-1.21.1.jar",
+          "version_number": "BetterF3 NeoForge v11.0.3 (1.21.1)",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/293/27/256/256/637327750859254377.png",
+          "_depends_on": [
+            348521
+          ]
+        },
+        {
+          "name": "[NeoForge 1.21] v15.0.140",
+          "curseforge_id": 348521,
+          "download_url": "https://edge.forgecdn.net/files/5729/127/cloth-config-15.0.140-neoforge.jar",
+          "file_name": "cloth-config-15.0.140-neoforge.jar",
+          "version_number": "[NeoForge 1.21] v15.0.140",
+          "_is_dependency": true
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-21T00:27:24.048Z",
+          "author": "Martion000",
+          "changes": [
+            "+ BetterF3",
+            "+ [NeoForge 1.21] v15.0.140"
+          ]
+        },
         {
           "date": "2026-04-21T00:08:29.008Z",
           "author": "Martion000",
