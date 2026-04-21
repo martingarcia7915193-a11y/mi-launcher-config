@@ -2113,9 +2113,24 @@
           "file_name": "createjustenoughtime-1.21.1-1.0.3.jar",
           "version_number": "createjustenoughtime-1.21.1-1.0.3.jar",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1749/56/256/256/639113117374160543.png"
+        },
+        {
+          "name": "Junkyard",
+          "curseforge_id": 1511521,
+          "download_url": "https://mediafilez.forgecdn.net/files/7950/345/cugmod-0.0.1 (1).jar",
+          "file_name": "cugmod-0.0.1 (1).jar",
+          "version_number": "cugmod-0.0.1 (1).jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1752/842/256/256/639115562270795249.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-21T02:47:05.792Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Junkyard"
+          ]
+        },
         {
           "date": "2026-04-21T00:39:12.991Z",
           "author": "Martion000",
