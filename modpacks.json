@@ -2022,23 +2022,6 @@
           "_is_dependency": true
         },
         {
-          "name": "Create Aeronautics",
-          "modrinth_id": "create-aeronautics",
-          "download_url": "https://cdn.modrinth.com/data/oWaK0Q19/versions/FIeWE7UC/create-aeronautics-bundled-1.21.1-1.0.3.jar",
-          "file_name": "create-aeronautics-bundled-1.21.1-1.0.3.jar",
-          "version_number": "1.0.3+mc1.21.1",
-          "icon_url": "",
-          "_depends_on": [
-            "T9PomCSv",
-            "LNytGWDc"
-          ]
-        },
-        {
-          "name": "Dependencia Sable",
-          "modrinth_id": "T9PomCSv",
-          "_is_dependency": true
-        },
-        {
           "name": "Steam 'n' Rails Neoforge",
           "curseforge_id": 1414670,
           "download_url": "https://edge.forgecdn.net/files/7919/366/railways-0.2.0-beta.2%2bneoforge-mc1.21.1.jar",
@@ -2048,9 +2031,37 @@
           "_depends_on": [
             328085
           ]
+        },
+        {
+          "name": "Create Aeronautics",
+          "curseforge_id": 676721,
+          "download_url": "https://mediafilez.forgecdn.net/files/7948/836/create-aeronautics-bundled-1.21.1-1.0.3.jar",
+          "file_name": "create-aeronautics-bundled-1.21.1-1.0.3.jar",
+          "version_number": "Create Aeronautics 1.0.3 for mc1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1761/312/256/256/639120354691921005.png",
+          "_depends_on": [
+            328085,
+            1312371
+          ]
+        },
+        {
+          "name": "Sable NeoForge 1.0.6 for mc1.21.1",
+          "curseforge_id": 1312371,
+          "download_url": "https://edge.forgecdn.net/files/7948/753/sable-neoforge-1.21.1-1.0.6.jar",
+          "file_name": "sable-neoforge-1.21.1-1.0.6.jar",
+          "version_number": "Sable NeoForge 1.0.6 for mc1.21.1",
+          "_is_dependency": true
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-21T00:05:40.741Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Sable NeoForge 1.0.6 for mc1.21.1",
+            "− Dependencia Sable"
+          ]
+        },
         {
           "date": "2026-04-21T00:04:19.058Z",
           "author": "Martion000",
