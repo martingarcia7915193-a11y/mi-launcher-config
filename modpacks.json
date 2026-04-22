@@ -17,10 +17,10 @@
         {
           "name": "Create",
           "curseforge_id": 328085,
-          "download_url": "https://edge.forgecdn.net/files/7963/363/create-1.21.1-6.0.10.jar",
-          "file_name": "create-1.21.1-6.0.10.jar",
-          "version_number": "Create 6.0.10 for mc1.21.1",
-          "icon_url": "https://media.forgecdn.net/avatars/1065/184/638598725500886388.png"
+          "download_url": "https://edge.forgecdn.net/files/7408/951/create-1.21.1-6.0.9.jar",
+          "file_name": "create-1.21.1-6.0.9.jar",
+          "version_number": "Create 6.0.9 for mc1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1065/184/256/256/638598725500886388.png"
         },
         {
           "name": "Cobblemon",
@@ -1388,6 +1388,13 @@
       ],
       "changelog": [
         {
+          "date": "2026-04-22T03:00:17.855Z",
+          "author": "Martion000",
+          "changes": [
+            "⬆ Create: Create 6.0.10 for mc1.21.1 → Create 6.0.9 for mc1.21.1"
+          ]
+        },
+        {
           "date": "2026-04-22T02:58:35.920Z",
           "author": "Martion000",
           "changes": [
@@ -1913,7 +1920,7 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1273/480/256/256/638828425709420198.png"
         }
       ],
-      "extras_version": 87,
+      "extras_version": 88,
       "extras_url": "https://drive.google.com/file/d/1CLpnYi15QjDT4pzisPPD-4iw8XN4PRaF/view?usp=drivesdk",
       "optional_mods": [
         {
