@@ -1366,14 +1366,6 @@
           ]
         },
         {
-          "name": "Sable NeoForge 1.0.6 for mc1.21.1",
-          "curseforge_id": 1312371,
-          "download_url": "https://edge.forgecdn.net/files/7948/753/sable-neoforge-1.21.1-1.0.6.jar",
-          "file_name": "sable-neoforge-1.21.1-1.0.6.jar",
-          "version_number": "Sable NeoForge 1.0.6 for mc1.21.1",
-          "_is_dependency": true
-        },
-        {
           "name": "Create Aeronautics",
           "curseforge_id": 676721,
           "download_url": "https://mediafilez.forgecdn.net/files/7964/085/create-aeronautics-bundled-1.21.1-1.1.0.jar",
@@ -1384,9 +1376,25 @@
             328085,
             1312371
           ]
+        },
+        {
+          "name": "Sable",
+          "modrinth_id": "sable",
+          "download_url": "https://cdn.modrinth.com/data/T9PomCSv/versions/mXmIPopR/sable-neoforge-1.21.1-1.1.1.jar",
+          "file_name": "sable-neoforge-1.21.1-1.1.1.jar",
+          "version_number": "1.1.1+mc1.21.1",
+          "icon_url": "https://cdn.modrinth.com/data/T9PomCSv/8c0a8c64c9a5a8d446d0aa23d244cb9b52314a1d.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-22T02:58:35.920Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Sable",
+            "− Sable NeoForge 1.0.6 for mc1.21.1"
+          ]
+        },
         {
           "date": "2026-04-22T02:57:34.492Z",
           "author": "Martion000",
@@ -1905,7 +1913,7 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1273/480/256/256/638828425709420198.png"
         }
       ],
-      "extras_version": 86,
+      "extras_version": 87,
       "extras_url": "https://drive.google.com/file/d/1CLpnYi15QjDT4pzisPPD-4iw8XN4PRaF/view?usp=drivesdk",
       "optional_mods": [
         {
