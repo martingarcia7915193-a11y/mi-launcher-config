@@ -16,9 +16,9 @@
     "createmon2-otracopiacopia": 2462898,
     "v": 191460
   },
-  "online": true,
-  "playing": "v",
-  "last_seen": 1776835099402,
+  "online": false,
+  "playing": null,
+  "last_seen": 1776847532363,
   "playing_name": "Vanilla",
   "playing_since": 1776835098979
 }
