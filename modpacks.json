@@ -2220,6 +2220,30 @@
       ],
       "extras_version": 5,
       "extras_url": "https://drive.google.com/file/d/19rZF1DifWCKZMJTtrjxA_toenO2KBWHa/view?usp=sharing"
+    },
+    {
+      "id": "v",
+      "name": "Vanilla",
+      "version": "1.0.0",
+      "description": "",
+      "description_images": [],
+      "minecraft_version": "26.1",
+      "modloader": "fabric",
+      "modloader_version": "0.19.2",
+      "icon": "",
+      "banner": "",
+      "background": "",
+      "server_ip": "",
+      "mods": [],
+      "changelog": [
+        {
+          "date": "2026-04-22T05:14:39.654Z",
+          "author": "Martion000",
+          "changes": [
+            "✦ Modpack creado"
+          ]
+        }
+      ]
     }
   ]
 }
