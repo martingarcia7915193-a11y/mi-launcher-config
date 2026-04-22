@@ -1355,26 +1355,6 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/914/901/256/256/638372366819318973.png"
         },
         {
-          "name": "Create Aeronautics",
-          "modrinth_id": "create-aeronautics",
-          "download_url": "https://cdn.modrinth.com/data/oWaK0Q19/versions/trnVk44s/create-aeronautics-bundled-1.21.1-1.1.0.jar",
-          "file_name": "create-aeronautics-bundled-1.21.1-1.1.0.jar",
-          "version_number": "1.1.0+mc1.21.1",
-          "icon_url": "",
-          "_depends_on": [
-            "T9PomCSv"
-          ]
-        },
-        {
-          "name": "Dependencia T9PomCSv",
-          "modrinth_id": "T9PomCSv",
-          "_is_dependency": true,
-          "file_name": "sable-neoforge-1.21.1-1.1.1.jar",
-          "download_url": "https://cdn.modrinth.com/data/T9PomCSv/versions/mXmIPopR/sable-neoforge-1.21.1-1.1.1.jar",
-          "version_number": "1.1.1+mc1.21.1",
-          "icon_url": "https://cdn.modrinth.com/data/T9PomCSv/8c0a8c64c9a5a8d446d0aa23d244cb9b52314a1d.png"
-        },
-        {
           "name": "Sable Schematics",
           "curseforge_id": 1519112,
           "download_url": "https://edge.forgecdn.net/files/7955/239/sableschem-neoforge-1.21.1-0.1.1.jar",
@@ -1392,9 +1372,28 @@
           "file_name": "sable-neoforge-1.21.1-1.0.6.jar",
           "version_number": "Sable NeoForge 1.0.6 for mc1.21.1",
           "_is_dependency": true
+        },
+        {
+          "name": "Create Aeronautics",
+          "curseforge_id": 676721,
+          "download_url": "https://mediafilez.forgecdn.net/files/7964/085/create-aeronautics-bundled-1.21.1-1.1.0.jar",
+          "file_name": "create-aeronautics-bundled-1.21.1-1.1.0.jar",
+          "version_number": "Create Aeronautics 1.1.0 for mc1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1761/312/256/256/639120354691921005.png",
+          "_depends_on": [
+            328085,
+            1312371
+          ]
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-22T02:57:34.492Z",
+          "author": "Martion000",
+          "changes": [
+            "− Dependencia T9PomCSv"
+          ]
+        },
         {
           "date": "2026-04-22T02:51:03.951Z",
           "author": "Martion000",
@@ -1906,7 +1905,7 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1273/480/256/256/638828425709420198.png"
         }
       ],
-      "extras_version": 85,
+      "extras_version": 86,
       "extras_url": "https://drive.google.com/file/d/1CLpnYi15QjDT4pzisPPD-4iw8XN4PRaF/view?usp=drivesdk",
       "optional_mods": [
         {
