@@ -7,9 +7,9 @@
   "playtime": {
     "createmon2": 31503255
   },
-  "online": true,
-  "playing": "v",
+  "online": false,
+  "playing": null,
   "playing_name": "Vanilla",
   "playing_since": 1776835161028,
-  "last_seen": 1776835162668
+  "last_seen": 1776835179231
 }
