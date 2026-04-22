@@ -1368,9 +1368,9 @@
         {
           "name": "Create Aeronautics",
           "curseforge_id": 676721,
-          "download_url": "https://mediafilez.forgecdn.net/files/7964/085/create-aeronautics-bundled-1.21.1-1.1.0.jar",
-          "file_name": "create-aeronautics-bundled-1.21.1-1.1.0.jar",
-          "version_number": "Create Aeronautics 1.1.0 for mc1.21.1",
+          "download_url": "https://mediafilez.forgecdn.net/files/7948/836/create-aeronautics-bundled-1.21.1-1.0.3.jar",
+          "file_name": "create-aeronautics-bundled-1.21.1-1.0.3.jar",
+          "version_number": "Create Aeronautics 1.0.3 for mc1.21.1",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1761/312/256/256/639120354691921005.png",
           "_depends_on": [
             328085,
@@ -1378,15 +1378,24 @@
           ]
         },
         {
-          "name": "Sable",
-          "modrinth_id": "sable",
-          "download_url": "https://cdn.modrinth.com/data/T9PomCSv/versions/mXmIPopR/sable-neoforge-1.21.1-1.1.1.jar",
-          "file_name": "sable-neoforge-1.21.1-1.1.1.jar",
-          "version_number": "1.1.1+mc1.21.1",
-          "icon_url": "https://cdn.modrinth.com/data/T9PomCSv/8c0a8c64c9a5a8d446d0aa23d244cb9b52314a1d.png"
+          "name": "Sable NeoForge 1.0.6 for mc1.21.1",
+          "curseforge_id": 1312371,
+          "download_url": "https://edge.forgecdn.net/files/7948/753/sable-neoforge-1.21.1-1.0.6.jar",
+          "file_name": "sable-neoforge-1.21.1-1.0.6.jar",
+          "version_number": "Sable NeoForge 1.0.6 for mc1.21.1",
+          "_is_dependency": true
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-22T03:01:26.468Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Sable NeoForge 1.0.6 for mc1.21.1",
+            "− Sable",
+            "⬆ Create Aeronautics: Create Aeronautics 1.1.0 for mc1.21.1 → Create Aeronautics 1.0.3 for mc1.21.1"
+          ]
+        },
         {
           "date": "2026-04-22T03:00:17.855Z",
           "author": "Martion000",
@@ -1920,7 +1929,7 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1273/480/256/256/638828425709420198.png"
         }
       ],
-      "extras_version": 88,
+      "extras_version": 89,
       "extras_url": "https://drive.google.com/file/d/1CLpnYi15QjDT4pzisPPD-4iw8XN4PRaF/view?usp=drivesdk",
       "optional_mods": [
         {
