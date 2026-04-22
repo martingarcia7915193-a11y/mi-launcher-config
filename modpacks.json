@@ -17,10 +17,10 @@
         {
           "name": "Create",
           "curseforge_id": 328085,
-          "download_url": "https://edge.forgecdn.net/files/7408/951/create-1.21.1-6.0.9.jar",
-          "file_name": "create-1.21.1-6.0.9.jar",
-          "version_number": "Create 6.0.9 for mc1.21.1",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1065/184/256/256/638598725500886388.png"
+          "download_url": "https://edge.forgecdn.net/files/7963/363/create-1.21.1-6.0.10.jar",
+          "file_name": "create-1.21.1-6.0.10.jar",
+          "version_number": "Create 6.0.10 for mc1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/1065/184/638598725500886388.png"
         },
         {
           "name": "Cobblemon",
@@ -153,9 +153,9 @@
         {
           "name": "Sophisticated Storage",
           "curseforge_id": 619320,
-          "download_url": "https://edge.forgecdn.net/files/7954/402/sophisticatedstorage-1.21.1-1.5.38.1637.jar",
-          "file_name": "sophisticatedstorage-1.21.1-1.5.38.1637.jar",
-          "version_number": "sophisticatedstorage-1.21.1-1.5.38.1637.jar",
+          "download_url": "https://edge.forgecdn.net/files/7962/603/sophisticatedstorage-1.21.1-1.5.39.1644.jar",
+          "file_name": "sophisticatedstorage-1.21.1-1.5.39.1644.jar",
+          "version_number": "sophisticatedstorage-1.21.1-1.5.39.1644.jar",
           "icon_url": "https://media.forgecdn.net/avatars/543/206/637872959580005837.png",
           "_depends_on": [
             618298
@@ -297,9 +297,9 @@
         {
           "name": "Cobblemon: Mega Showdown",
           "curseforge_id": 1189523,
-          "download_url": "https://edge.forgecdn.net/files/7956/158/mega_showdown-neoforge-1.8.2%2b1.7.3%2b1.21.1.jar",
-          "file_name": "mega_showdown-neoforge-1.8.2+1.7.3+1.21.1.jar",
-          "version_number": "mega_showdown 1.8.2+1.7.3+1.21.1",
+          "download_url": "https://edge.forgecdn.net/files/7961/214/mega_showdown-neoforge-1.8.2%2b1.7.3%2b1.21.1-hotfix.jar",
+          "file_name": "mega_showdown-neoforge-1.8.2+1.7.3+1.21.1-hotfix.jar",
+          "version_number": "mega_showdown 1.8.2+1.7.3+1.21.1-hotfix",
           "icon_url": "https://media.forgecdn.net/avatars/1184/964/638758921078315414.png",
           "_depends_on": [
             532610,
@@ -327,9 +327,9 @@
         {
           "name": "Navas ZA Megas",
           "curseforge_id": 1452045,
-          "download_url": "https://mediafilez.forgecdn.net/files/7893/358/zamega-neoforge-1.7.2.jar",
-          "file_name": "zamega-neoforge-1.7.2.jar",
-          "version_number": "zamega 1.7.2",
+          "download_url": "https://mediafilez.forgecdn.net/files/7961/237/zamega-neoforge-1.7.3.jar",
+          "file_name": "zamega-neoforge-1.7.3.jar",
+          "version_number": "zamega 1.7.3",
           "icon_url": "https://media.forgecdn.net/avatars/1657/671/639056305199960736.png",
           "_depends_on": [
             419699,
@@ -562,9 +562,9 @@
         {
           "name": "Create: Dragons Plus 1.8.7 for Create 1.21.1-6.0.9",
           "curseforge_id": 1216624,
-          "download_url": "https://edge.forgecdn.net/files/7957/81/CreateDragonsPlus-1.9.1.jar",
-          "file_name": "CreateDragonsPlus-1.9.1.jar",
-          "version_number": "Create: Dragons Plus 1.9.1 for Create 1.21.1-6.0.9",
+          "download_url": "https://edge.forgecdn.net/files/7964/409/CreateDragonsPlus-1.9.2.jar",
+          "file_name": "CreateDragonsPlus-1.9.2.jar",
+          "version_number": "Create: Dragons Plus 1.9.2 for Create 1.21.1-6.0.9",
           "_is_dependency": true,
           "icon_url": "https://media.forgecdn.net/avatars/1195/420/638771027943462603.png"
         },
@@ -1357,9 +1357,9 @@
         {
           "name": "Create Aeronautics",
           "modrinth_id": "create-aeronautics",
-          "download_url": "https://cdn.modrinth.com/data/oWaK0Q19/versions/FIeWE7UC/create-aeronautics-bundled-1.21.1-1.0.3.jar",
-          "file_name": "create-aeronautics-bundled-1.21.1-1.0.3.jar",
-          "version_number": "1.0.3+mc1.21.1",
+          "download_url": "https://cdn.modrinth.com/data/oWaK0Q19/versions/trnVk44s/create-aeronautics-bundled-1.21.1-1.1.0.jar",
+          "file_name": "create-aeronautics-bundled-1.21.1-1.1.0.jar",
+          "version_number": "1.1.0+mc1.21.1",
           "icon_url": "",
           "_depends_on": [
             "T9PomCSv"
@@ -1369,9 +1369,9 @@
           "name": "Dependencia T9PomCSv",
           "modrinth_id": "T9PomCSv",
           "_is_dependency": true,
-          "file_name": "sable-neoforge-1.21.1-1.0.6.jar",
-          "download_url": "https://cdn.modrinth.com/data/T9PomCSv/versions/ZYLSN31S/sable-neoforge-1.21.1-1.0.6.jar",
-          "version_number": "1.0.6+mc1.21.1",
+          "file_name": "sable-neoforge-1.21.1-1.1.1.jar",
+          "download_url": "https://cdn.modrinth.com/data/T9PomCSv/versions/mXmIPopR/sable-neoforge-1.21.1-1.1.1.jar",
+          "version_number": "1.1.1+mc1.21.1",
           "icon_url": "https://cdn.modrinth.com/data/T9PomCSv/8c0a8c64c9a5a8d446d0aa23d244cb9b52314a1d.png"
         },
         {
@@ -1395,6 +1395,19 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-22T02:51:03.951Z",
+          "author": "Martion000",
+          "changes": [
+            "⬆ Create: Create 6.0.9 for mc1.21.1 → Create 6.0.10 for mc1.21.1",
+            "⬆ Sophisticated Storage: sophisticatedstorage-1.21.1-1.5.38.1637.jar → sophisticatedstorage-1.21.1-1.5.39.1644.jar",
+            "⬆ Cobblemon: Mega Showdown: mega_showdown 1.8.2+1.7.3+1.21.1 → mega_showdown 1.8.2+1.7.3+1.21.1-hotfix",
+            "⬆ Navas ZA Megas: zamega 1.7.2 → zamega 1.7.3",
+            "⬆ Create: Dragons Plus 1.8.7 for Create 1.21.1-6.0.9: Create: Dragons Plus 1.9.1 for Create 1.21.1-6.0.9 → Create: Dragons Plus 1.9.2 for Create 1.21.1-6.0.9",
+            "⬆ Create Aeronautics: 1.0.3+mc1.21.1 → 1.1.0+mc1.21.1",
+            "⬆ Dependencia T9PomCSv: 1.0.6+mc1.21.1 → 1.1.1+mc1.21.1"
+          ]
+        },
         {
           "date": "2026-04-20T19:57:00.570Z",
           "author": "Martion000",
@@ -1893,7 +1906,7 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1273/480/256/256/638828425709420198.png"
         }
       ],
-      "extras_version": 84,
+      "extras_version": 85,
       "extras_url": "https://drive.google.com/file/d/1CLpnYi15QjDT4pzisPPD-4iw8XN4PRaF/view?usp=drivesdk",
       "optional_mods": [
         {
