@@ -2227,7 +2227,7 @@
       "version": "1.0.0",
       "description": "",
       "description_images": [],
-      "minecraft_version": "26.1",
+      "minecraft_version": "26.1.2",
       "modloader": "fabric",
       "modloader_version": "0.19.2",
       "icon": "",
@@ -2236,6 +2236,13 @@
       "server_ip": "",
       "mods": [],
       "changelog": [
+        {
+          "date": "2026-04-22T05:18:05.795Z",
+          "author": "Martion000",
+          "changes": [
+            "⬆ MC 26.1 → 26.1.2"
+          ]
+        },
         {
           "date": "2026-04-22T05:14:39.654Z",
           "author": "Martion000",
