@@ -8,9 +8,9 @@
     "createmon2": 31503255,
     "v": 12261591
   },
-  "online": false,
-  "playing": null,
+  "online": true,
+  "playing": "v",
   "playing_name": "Vanilla",
-  "playing_since": 1776835218567,
-  "last_seen": 1776847489221
+  "playing_since": 1776917061173,
+  "last_seen": 1776917063978
 }
