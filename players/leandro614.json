@@ -7,11 +7,12 @@
   ],
   "playtime": {
     "vanilla_fabric-copia": 156605,
-    "createmon2": 48723524
+    "createmon2": 48723524,
+    "v": 8053777
   },
   "online": true,
-  "playing": "v",
-  "last_seen": 1776917019825,
+  "playing": null,
+  "last_seen": 1776925072711,
   "playing_name": "Vanilla",
   "playing_since": 1776917018401
 }
