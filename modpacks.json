@@ -2017,10 +2017,10 @@
         {
           "name": "Create",
           "curseforge_id": 328085,
-          "download_url": "https://edge.forgecdn.net/files/7408/951/create-1.21.1-6.0.9.jar",
-          "file_name": "create-1.21.1-6.0.9.jar",
-          "version_number": "Create 6.0.9 for mc1.21.1",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1065/184/256/256/638598725500886388.png"
+          "download_url": "https://edge.forgecdn.net/files/7963/363/create-1.21.1-6.0.10.jar",
+          "file_name": "create-1.21.1-6.0.10.jar",
+          "version_number": "Create 6.0.10 for mc1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/1065/184/638598725500886388.png"
         },
         {
           "name": "Sodium",
@@ -2071,10 +2071,10 @@
         {
           "name": "Create Aeronautics",
           "curseforge_id": 676721,
-          "download_url": "https://mediafilez.forgecdn.net/files/7948/836/create-aeronautics-bundled-1.21.1-1.0.3.jar",
-          "file_name": "create-aeronautics-bundled-1.21.1-1.0.3.jar",
-          "version_number": "Create Aeronautics 1.0.3 for mc1.21.1",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1761/312/256/256/639120354691921005.png",
+          "download_url": "https://mediafilez.forgecdn.net/files/7964/998/create-aeronautics-bundled-1.21.1-1.1.3.jar",
+          "file_name": "create-aeronautics-bundled-1.21.1-1.1.3.jar",
+          "version_number": "Create Aeronautics 1.1.3 for mc1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/1761/312/639120354691921005.png",
           "_depends_on": [
             328085,
             1312371
@@ -2133,6 +2133,14 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-23T03:24:06.227Z",
+          "author": "Martion000",
+          "changes": [
+            "⬆ Create: Create 6.0.9 for mc1.21.1 → Create 6.0.10 for mc1.21.1",
+            "⬆ Create Aeronautics: Create Aeronautics 1.0.3 for mc1.21.1 → Create Aeronautics 1.1.3 for mc1.21.1"
+          ]
+        },
         {
           "date": "2026-04-21T03:12:34.658Z",
           "author": "Martion000",
@@ -2218,7 +2226,7 @@
           ]
         }
       ],
-      "extras_version": 5,
+      "extras_version": 6,
       "extras_url": "https://drive.google.com/file/d/19rZF1DifWCKZMJTtrjxA_toenO2KBWHa/view?usp=sharing"
     },
     {
