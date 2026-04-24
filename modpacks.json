@@ -2426,9 +2426,9 @@
         {
           "name": "sophisticatedcore-1.21.1-1.4.13.1573.jar",
           "curseforge_id": 618298,
-          "download_url": "https://edge.forgecdn.net/files/7954/316/sophisticatedcore-1.21.1-1.4.25.1696.jar",
-          "file_name": "sophisticatedcore-1.21.1-1.4.25.1696.jar",
-          "version_number": "sophisticatedcore-1.21.1-1.4.25.1696.jar",
+          "download_url": "https://edge.forgecdn.net/files/7979/933/sophisticatedcore-1.21.1-1.4.26.1720.jar",
+          "file_name": "sophisticatedcore-1.21.1-1.4.26.1720.jar",
+          "version_number": "sophisticatedcore-1.21.1-1.4.26.1720.jar",
           "_is_dependency": true,
           "icon_url": "https://media.forgecdn.net/avatars/540/438/637866039314801108.png"
         },
@@ -3693,6 +3693,13 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-24T23:59:24.703Z",
+          "author": "Martion000",
+          "changes": [
+            "⬆ sophisticatedcore-1.21.1-1.4.13.1573.jar: sophisticatedcore-1.21.1-1.4.25.1696.jar → sophisticatedcore-1.21.1-1.4.26.1720.jar"
+          ]
+        },
         {
           "date": "2026-04-24T23:12:55.915Z",
           "author": "Martion000",
