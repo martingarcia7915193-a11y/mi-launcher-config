@@ -21,9 +21,9 @@
     "custom_fabulously_optimized_1777134644873": 24585,
     "custom_fabulously_optimized_1777135124768": 24384
   },
-  "online": false,
-  "playing": null,
-  "last_seen": 1777135258977,
+  "online": true,
+  "playing": "custom_fabulously_optimized_1777135124768",
+  "last_seen": 1777135403579,
   "playing_name": "Fabulously Optimized",
-  "playing_since": 1777135205045
+  "playing_since": 1777135402868
 }
