@@ -2175,25 +2175,6 @@
           ]
         },
         {
-          "name": "Zero Point Systems",
-          "curseforge_id": 1283072,
-          "download_url": "https://edge.forgecdn.net/files/7948/991/zps-1.21.1-2.4.2.jar",
-          "file_name": "zps-1.21.1-2.4.2.jar",
-          "version_number": "zps-1.21.1-2.4.2.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1307/744/256/256/638850224036967446.png",
-          "_depends_on": [
-            854949
-          ]
-        },
-        {
-          "name": "Fusion 1.2.12 for NeoForge 1.21.1",
-          "curseforge_id": 854949,
-          "download_url": "https://edge.forgecdn.net/files/7471/474/fusion-1.2.12-neoforge-mc1.21.1.jar",
-          "file_name": "fusion-1.2.12-neoforge-mc1.21.1.jar",
-          "version_number": "Fusion 1.2.12 for NeoForge 1.21.1",
-          "_is_dependency": true
-        },
-        {
           "name": "Create: Stats & Additions",
           "curseforge_id": 1511282,
           "download_url": "https://edge.forgecdn.net/files/7979/133/create_stats-0.10.33.jar",
@@ -2206,6 +2187,14 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-25T01:57:05.740Z",
+          "author": "Martion000",
+          "changes": [
+            "− Zero Point Systems",
+            "− Fusion 1.2.12 for NeoForge 1.21.1"
+          ]
+        },
         {
           "date": "2026-04-25T01:54:14.360Z",
           "author": "Martion000",
