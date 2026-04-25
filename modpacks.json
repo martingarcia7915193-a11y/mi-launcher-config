@@ -1396,9 +1396,51 @@
           "file_name": "sable-neoforge-1.21.1-1.1.3.jar",
           "version_number": "1.1.3+mc1.21.1",
           "icon_url": "https://cdn.modrinth.com/data/T9PomCSv/8c0a8c64c9a5a8d446d0aa23d244cb9b52314a1d.png"
+        },
+        {
+          "name": "Creative Tabs Organizer",
+          "curseforge_id": 1409328,
+          "download_url": "https://edge.forgecdn.net/files/7975/772/tabs_organizer-1.1.0.jar",
+          "file_name": "tabs_organizer-1.1.0.jar",
+          "version_number": "Tabs_Organizer-1.1.0",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1764/956/256/256/639122100388695400.png"
+        },
+        {
+          "name": "Create: Tracks",
+          "curseforge_id": 1519765,
+          "download_url": "https://edge.forgecdn.net/files/7968/280/tracks-neoforge-1.21.1-1.0.1.jar",
+          "file_name": "tracks-neoforge-1.21.1-1.0.1.jar",
+          "version_number": "tracks-neoforge-1.21.1-1.0.1.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1766/428/256/256/639122837744390439.png"
+        },
+        {
+          "name": "Sable: Mass view (Create Aeronautics)",
+          "curseforge_id": 1518454,
+          "download_url": "https://edge.forgecdn.net/files/7948/985/sablemassview-1.0.0.jar",
+          "file_name": "sablemassview-1.0.0.jar",
+          "version_number": "sablemassview-1.0.0.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1764/275/256/256/639121821587630246.png"
+        },
+        {
+          "name": "Create Aeronautics: Portable Engine Liquid Fuel",
+          "curseforge_id": 1521213,
+          "download_url": "https://edge.forgecdn.net/files/7979/321/portable_engine_liquid_fuel-1.0.1-neoforge-1.21.1.jar",
+          "file_name": "portable_engine_liquid_fuel-1.0.1-neoforge-1.21.1.jar",
+          "version_number": "portable_engine_liquid_fuel-1.0.1-neoforge-1.21.1.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1769/35/256/256/639124146941209494.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-25T04:28:00.386Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Creative Tabs Organizer",
+            "+ Create: Tracks",
+            "+ Sable: Mass view (Create Aeronautics)",
+            "+ Create Aeronautics: Portable Engine Liquid Fuel"
+          ]
+        },
         {
           "date": "2026-04-25T04:25:26.237Z",
           "author": "Martion000",
@@ -1964,7 +2006,7 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1273/480/256/256/638828425709420198.png"
         }
       ],
-      "extras_version": 90,
+      "extras_version": 91,
       "extras_url": "https://drive.google.com/file/d/1CLpnYi15QjDT4pzisPPD-4iw8XN4PRaF/view?usp=drivesdk",
       "optional_mods": [
         {
