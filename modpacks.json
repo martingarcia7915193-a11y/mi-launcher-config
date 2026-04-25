@@ -17,10 +17,10 @@
         {
           "name": "Create",
           "curseforge_id": 328085,
-          "download_url": "https://edge.forgecdn.net/files/7408/951/create-1.21.1-6.0.9.jar",
-          "file_name": "create-1.21.1-6.0.9.jar",
-          "version_number": "Create 6.0.9 for mc1.21.1",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1065/184/256/256/638598725500886388.png"
+          "download_url": "https://edge.forgecdn.net/files/7963/363/create-1.21.1-6.0.10.jar",
+          "file_name": "create-1.21.1-6.0.10.jar",
+          "version_number": "Create 6.0.10 for mc1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/1065/184/638598725500886388.png"
         },
         {
           "name": "Cobblemon",
@@ -144,18 +144,18 @@
         {
           "name": "sophisticatedcore-1.21.1-1.4.13.1573.jar",
           "curseforge_id": 618298,
-          "download_url": "https://edge.forgecdn.net/files/7954/316/sophisticatedcore-1.21.1-1.4.25.1696.jar",
-          "file_name": "sophisticatedcore-1.21.1-1.4.25.1696.jar",
-          "version_number": "sophisticatedcore-1.21.1-1.4.25.1696.jar",
+          "download_url": "https://edge.forgecdn.net/files/7979/933/sophisticatedcore-1.21.1-1.4.26.1720.jar",
+          "file_name": "sophisticatedcore-1.21.1-1.4.26.1720.jar",
+          "version_number": "sophisticatedcore-1.21.1-1.4.26.1720.jar",
           "_is_dependency": true,
           "icon_url": "https://media.forgecdn.net/avatars/540/438/637866039314801108.png"
         },
         {
           "name": "Sophisticated Storage",
           "curseforge_id": 619320,
-          "download_url": "https://edge.forgecdn.net/files/7962/603/sophisticatedstorage-1.21.1-1.5.39.1644.jar",
-          "file_name": "sophisticatedstorage-1.21.1-1.5.39.1644.jar",
-          "version_number": "sophisticatedstorage-1.21.1-1.5.39.1644.jar",
+          "download_url": "https://edge.forgecdn.net/files/7978/579/sophisticatedstorage-1.21.1-1.5.44.1680.jar",
+          "file_name": "sophisticatedstorage-1.21.1-1.5.44.1680.jar",
+          "version_number": "sophisticatedstorage-1.21.1-1.5.44.1680.jar",
           "icon_url": "https://media.forgecdn.net/avatars/543/206/637872959580005837.png",
           "_depends_on": [
             618298
@@ -543,10 +543,10 @@
         {
           "name": "Quark",
           "curseforge_id": 243121,
-          "download_url": "https://edge.forgecdn.net/files/7848/165/Quark-4.1-476.jar",
-          "file_name": "Quark-4.1-476.jar",
-          "version_number": "Quark-4.1-476.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/588/295/256/256/637958240318838626.png",
+          "download_url": "https://edge.forgecdn.net/files/7980/26/Quark-4.1-477.jar",
+          "file_name": "Quark-4.1-477.jar",
+          "version_number": "Quark-4.1-477.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/588/295/637958240318838626.png",
           "_depends_on": [
             968868
           ]
@@ -554,17 +554,18 @@
         {
           "name": "Zeta-1.1-39.jar",
           "curseforge_id": 968868,
-          "download_url": "https://edge.forgecdn.net/files/7640/154/Zeta-1.1-39.jar",
-          "file_name": "Zeta-1.1-39.jar",
-          "version_number": "Zeta-1.1-39.jar",
-          "_is_dependency": true
+          "download_url": "https://edge.forgecdn.net/files/7980/10/Zeta-1.1-40.jar",
+          "file_name": "Zeta-1.1-40.jar",
+          "version_number": "Zeta-1.1-40.jar",
+          "_is_dependency": true,
+          "icon_url": "https://media.forgecdn.net/avatars/941/302/638422437053245782.png"
         },
         {
           "name": "Create: Dragons Plus 1.8.7 for Create 1.21.1-6.0.9",
           "curseforge_id": 1216624,
-          "download_url": "https://edge.forgecdn.net/files/7964/409/CreateDragonsPlus-1.9.2.jar",
-          "file_name": "CreateDragonsPlus-1.9.2.jar",
-          "version_number": "Create: Dragons Plus 1.9.2 for Create 1.21.1-6.0.9",
+          "download_url": "https://edge.forgecdn.net/files/7970/93/CreateDragonsPlus-1.10.0b.jar",
+          "file_name": "CreateDragonsPlus-1.10.0b.jar",
+          "version_number": "Create: Dragons Plus 1.10.0b for Create 1.21.1-6.0.10",
           "_is_dependency": true,
           "icon_url": "https://media.forgecdn.net/avatars/1195/420/638771027943462603.png"
         },
@@ -612,10 +613,10 @@
         {
           "name": "Create: Quality Of Life",
           "curseforge_id": 905508,
-          "download_url": "https://edge.forgecdn.net/files/7537/115/Create%20Quality%20of%20Life-1.21.1-1.6.2-fix1.jar",
-          "file_name": "Create Quality of Life-1.21.1-1.6.2-fix1.jar",
-          "version_number": "Create Quality of Life-1.21.1-1.6.2-fix1.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1071/506/256/256/638607067787353431.png",
+          "download_url": "https://edge.forgecdn.net/files/7967/344/Create%20Quality%20of%20Life-1.21.1-1.6.2-fix2.jar",
+          "file_name": "Create Quality of Life-1.21.1-1.6.2-fix2.jar",
+          "version_number": "Create Quality of Life-1.21.1-1.6.2-fix2.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/1071/506/638607067787353431.png",
           "_depends_on": [
             328085
           ]
@@ -730,9 +731,9 @@
         {
           "name": "Sophisticated Storage Create Integration",
           "curseforge_id": 1226755,
-          "download_url": "https://edge.forgecdn.net/files/7941/924/sophisticatedstoragecreateintegration-1.21.1-0.1.16.122.jar",
-          "file_name": "sophisticatedstoragecreateintegration-1.21.1-0.1.16.122.jar",
-          "version_number": "sophisticatedstoragecreateintegration-1.21.1-0.1.16.122.jar",
+          "download_url": "https://edge.forgecdn.net/files/7974/820/sophisticatedstoragecreateintegration-1.21.1-0.1.17.132.jar",
+          "file_name": "sophisticatedstoragecreateintegration-1.21.1-0.1.17.132.jar",
+          "version_number": "sophisticatedstoragecreateintegration-1.21.1-0.1.17.132.jar",
           "icon_url": "https://media.forgecdn.net/avatars/1208/888/638786233372453864.png",
           "_depends_on": [
             619320,
@@ -743,10 +744,10 @@
         {
           "name": "Create: Enchantment Industry",
           "curseforge_id": 688768,
-          "download_url": "https://edge.forgecdn.net/files/7656/384/create-enchantment-industry-2.3.0.jar",
-          "file_name": "create-enchantment-industry-2.3.0.jar",
-          "version_number": "Create: Enchantment Industry 2.3.0 for Create 1.21.1-6.0.9",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1224/199/256/256/638802282774958966.png",
+          "download_url": "https://edge.forgecdn.net/files/7970/748/create-enchantment-industry-2.3.1.jar",
+          "file_name": "create-enchantment-industry-2.3.1.jar",
+          "version_number": "Create: Enchantment Industry 2.3.1 for Create 1.21.1-6.0.10",
+          "icon_url": "https://media.forgecdn.net/avatars/1224/199/638802282774958966.png",
           "_depends_on": [
             1216624
           ]
@@ -754,10 +755,10 @@
         {
           "name": "Simple Backups",
           "curseforge_id": 583228,
-          "download_url": "https://edge.forgecdn.net/files/7801/78/SimpleBackups-1.21-4.0.29.jar",
-          "file_name": "SimpleBackups-1.21-4.0.29.jar",
-          "version_number": "SimpleBackups-1.21-4.0.29.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/504/213/256/256/637821575420954591.png"
+          "download_url": "https://edge.forgecdn.net/files/7965/880/SimpleBackups-1.21-4.0.30.jar",
+          "file_name": "SimpleBackups-1.21-4.0.30.jar",
+          "version_number": "SimpleBackups-1.21-4.0.30.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/504/213/637821575420954591.png"
         },
         {
           "name": "Create: Escalated",
@@ -944,9 +945,9 @@
         {
           "name": "ModernFix",
           "curseforge_id": 790626,
-          "download_url": "https://edge.forgecdn.net/files/7917/721/modernfix-neoforge-5.27.2%2bmc1.21.1.jar",
-          "file_name": "modernfix-neoforge-5.27.2+mc1.21.1.jar",
-          "version_number": "modernfix-neoforge-5.27.2+mc1.21.1.jar",
+          "download_url": "https://edge.forgecdn.net/files/7969/602/modernfix-neoforge-5.27.3%2bmc1.21.1.jar",
+          "file_name": "modernfix-neoforge-5.27.3+mc1.21.1.jar",
+          "version_number": "modernfix-neoforge-5.27.3+mc1.21.1.jar",
           "icon_url": "https://media.forgecdn.net/avatars/881/436/638311693460984164.png"
         },
         {
@@ -1012,10 +1013,10 @@
         {
           "name": "Concurrent Chunk Management Engine",
           "curseforge_id": 533097,
-          "download_url": "https://edge.forgecdn.net/files/7694/225/c2me-neoforge-mc1.21.1-0.3.0%2balpha.0.90.jar",
-          "file_name": "c2me-neoforge-mc1.21.1-0.3.0+alpha.0.90.jar",
-          "version_number": "0.3.0+alpha.0.90 devbuild for 1.21.1",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/439/839/256/256/637687646769698734.png"
+          "download_url": "https://edge.forgecdn.net/files/7967/514/c2me-neoforge-mc1.21.1-0.3.0%2balpha.0.91.jar",
+          "file_name": "c2me-neoforge-mc1.21.1-0.3.0+alpha.0.91.jar",
+          "version_number": "0.3.0+alpha.0.91 devbuild for 1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/439/839/637687646769698734.png"
         },
         {
           "name": "Vanilla Backport",
@@ -1191,9 +1192,9 @@
         {
           "name": "Cobblemon Catch Rate Display",
           "curseforge_id": 1450604,
-          "download_url": "https://edge.forgecdn.net/files/7885/200/catchrate-display-neoforge-2.8.14.jar",
-          "file_name": "catchrate-display-neoforge-2.8.14.jar",
-          "version_number": "[NeoForge] v2.8.14",
+          "download_url": "https://edge.forgecdn.net/files/7970/636/catchrate-display-neoforge-2.8.20.jar",
+          "file_name": "catchrate-display-neoforge-2.8.20.jar",
+          "version_number": "[NeoForge] v2.8.20",
           "icon_url": "https://media.forgecdn.net/avatars/1657/30/639055898662095390.png",
           "_depends_on": [
             351264,
@@ -1368,25 +1369,59 @@
         {
           "name": "Create Aeronautics",
           "curseforge_id": 676721,
-          "download_url": "https://mediafilez.forgecdn.net/files/7948/836/create-aeronautics-bundled-1.21.1-1.0.3.jar",
-          "file_name": "create-aeronautics-bundled-1.21.1-1.0.3.jar",
-          "version_number": "Create Aeronautics 1.0.3 for mc1.21.1",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1761/312/256/256/639120354691921005.png",
+          "download_url": "https://mediafilez.forgecdn.net/files/7964/998/create-aeronautics-bundled-1.21.1-1.1.3.jar",
+          "file_name": "create-aeronautics-bundled-1.21.1-1.1.3.jar",
+          "version_number": "Create Aeronautics 1.1.3 for mc1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/1761/312/639120354691921005.png",
           "_depends_on": [
             328085,
             1312371
           ]
         },
         {
-          "name": "Sable NeoForge 1.0.6 for mc1.21.1",
-          "curseforge_id": 1312371,
-          "download_url": "https://edge.forgecdn.net/files/7948/753/sable-neoforge-1.21.1-1.0.6.jar",
-          "file_name": "sable-neoforge-1.21.1-1.0.6.jar",
-          "version_number": "Sable NeoForge 1.0.6 for mc1.21.1",
-          "_is_dependency": true
+          "name": "Create Propulsion: Simulated",
+          "curseforge_id": 1522736,
+          "download_url": "https://edge.forgecdn.net/files/7976/819/createpropulsionsimulated-1.0.2.jar",
+          "file_name": "createpropulsionsimulated-1.0.2.jar",
+          "version_number": "createpropulsionsimulated-1.0.2.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1771/537/256/256/639125539987938424.png",
+          "_depends_on": [
+            676721
+          ]
+        },
+        {
+          "name": "Sable",
+          "modrinth_id": "sable",
+          "download_url": "https://cdn.modrinth.com/data/T9PomCSv/versions/g8CObHcP/sable-neoforge-1.21.1-1.1.3.jar",
+          "file_name": "sable-neoforge-1.21.1-1.1.3.jar",
+          "version_number": "1.1.3+mc1.21.1",
+          "icon_url": "https://cdn.modrinth.com/data/T9PomCSv/8c0a8c64c9a5a8d446d0aa23d244cb9b52314a1d.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-25T04:25:26.237Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Create Propulsion: Simulated",
+            "+ Sable",
+            "− Sable NeoForge 1.0.6 for mc1.21.1",
+            "⬆ Create: Create 6.0.9 for mc1.21.1 → Create 6.0.10 for mc1.21.1",
+            "⬆ sophisticatedcore-1.21.1-1.4.13.1573.jar: sophisticatedcore-1.21.1-1.4.25.1696.jar → sophisticatedcore-1.21.1-1.4.26.1720.jar",
+            "⬆ Sophisticated Storage: sophisticatedstorage-1.21.1-1.5.39.1644.jar → sophisticatedstorage-1.21.1-1.5.44.1680.jar",
+            "⬆ Quark: Quark-4.1-476.jar → Quark-4.1-477.jar",
+            "⬆ Zeta-1.1-39.jar: Zeta-1.1-39.jar → Zeta-1.1-40.jar",
+            "⬆ Create: Dragons Plus 1.8.7 for Create 1.21.1-6.0.9: Create: Dragons Plus 1.9.2 for Create 1.21.1-6.0.9 → Create: Dragons Plus 1.10.0b for Create 1.21.1-6.0.10",
+            "⬆ Create: Quality Of Life: Create Quality of Life-1.21.1-1.6.2-fix1.jar → Create Quality of Life-1.21.1-1.6.2-fix2.jar",
+            "⬆ Sophisticated Storage Create Integration: sophisticatedstoragecreateintegration-1.21.1-0.1.16.122.jar → sophisticatedstoragecreateintegration-1.21.1-0.1.17.132.jar",
+            "⬆ Create: Enchantment Industry: Create: Enchantment Industry 2.3.0 for Create 1.21.1-6.0.9 → Create: Enchantment Industry 2.3.1 for Create 1.21.1-6.0.10",
+            "⬆ Simple Backups: SimpleBackups-1.21-4.0.29.jar → SimpleBackups-1.21-4.0.30.jar",
+            "⬆ ModernFix: modernfix-neoforge-5.27.2+mc1.21.1.jar → modernfix-neoforge-5.27.3+mc1.21.1.jar",
+            "⬆ Concurrent Chunk Management Engine: 0.3.0+alpha.0.90 devbuild for 1.21.1 → 0.3.0+alpha.0.91 devbuild for 1.21.1",
+            "⬆ Cobblemon Catch Rate Display: [NeoForge] v2.8.14 → [NeoForge] v2.8.20",
+            "⬆ Create Aeronautics: Create Aeronautics 1.0.3 for mc1.21.1 → Create Aeronautics 1.1.3 for mc1.21.1"
+          ]
+        },
         {
           "date": "2026-04-22T03:01:26.468Z",
           "author": "Martion000",
@@ -1929,7 +1964,7 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1273/480/256/256/638828425709420198.png"
         }
       ],
-      "extras_version": 89,
+      "extras_version": 90,
       "extras_url": "https://drive.google.com/file/d/1CLpnYi15QjDT4pzisPPD-4iw8XN4PRaF/view?usp=drivesdk",
       "optional_mods": [
         {
