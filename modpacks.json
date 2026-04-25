@@ -2110,10 +2110,10 @@
         {
           "name": "Creative Tabs Organizer",
           "curseforge_id": 1409328,
-          "download_url": "https://mediafilez.forgecdn.net/files/7951/229/tabs_organizer-1.0.0.jar",
-          "file_name": "tabs_organizer-1.0.0.jar",
-          "version_number": "Tabs_Organizer-1.0.0",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1764/956/256/256/639122100388695400.png"
+          "download_url": "https://edge.forgecdn.net/files/7975/772/tabs_organizer-1.1.0.jar",
+          "file_name": "tabs_organizer-1.1.0.jar",
+          "version_number": "Tabs_Organizer-1.1.0",
+          "icon_url": "https://media.forgecdn.net/avatars/1764/956/639122100388695400.png"
         },
         {
           "name": "Create: Just Enough Time",
@@ -2142,10 +2142,10 @@
         {
           "name": "Create Aeronautics: Portable Engine Liquid Fuel",
           "curseforge_id": 1521213,
-          "download_url": "https://edge.forgecdn.net/files/7964/41/portable_engine_liquid_fuel-1.0.0-neoforge-1.21.1.jar",
-          "file_name": "portable_engine_liquid_fuel-1.0.0-neoforge-1.21.1.jar",
-          "version_number": "portable_engine_liquid_fuel-1.0.0-neoforge-1.21.1.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1769/35/256/256/639124146941209494.png"
+          "download_url": "https://edge.forgecdn.net/files/7979/321/portable_engine_liquid_fuel-1.0.1-neoforge-1.21.1.jar",
+          "file_name": "portable_engine_liquid_fuel-1.0.1-neoforge-1.21.1.jar",
+          "version_number": "portable_engine_liquid_fuel-1.0.1-neoforge-1.21.1.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/1769/35/639124146941209494.png"
         },
         {
           "name": "Sable: Mass view (Create Aeronautics)",
@@ -2173,17 +2173,18 @@
           "_depends_on": [
             328085
           ]
-        },
-        {
-          "name": "Chemica",
-          "curseforge_id": 1351412,
-          "download_url": "https://mediafilez.forgecdn.net/files/7553/576/Chemica-0.5.1.jar",
-          "file_name": "Chemica-0.5.1.jar",
-          "version_number": "Chemica-0.5.1-1.21.1.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1629/965/256/256/639045186090923026.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-25T01:33:20.396Z",
+          "author": "Martion000",
+          "changes": [
+            "− Chemica",
+            "⬆ Creative Tabs Organizer: Tabs_Organizer-1.0.0 → Tabs_Organizer-1.1.0",
+            "⬆ Create Aeronautics: Portable Engine Liquid Fuel: portable_engine_liquid_fuel-1.0.0-neoforge-1.21.1.jar → portable_engine_liquid_fuel-1.0.1-neoforge-1.21.1.jar"
+          ]
+        },
         {
           "date": "2026-04-25T00:00:43.680Z",
           "author": "Martion000",
@@ -2309,7 +2310,7 @@
           ]
         }
       ],
-      "extras_version": 10,
+      "extras_version": 11,
       "extras_url": "https://drive.google.com/file/d/19rZF1DifWCKZMJTtrjxA_toenO2KBWHa/view?usp=sharing"
     },
     {
