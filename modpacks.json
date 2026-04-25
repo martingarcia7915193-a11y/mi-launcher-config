@@ -2162,9 +2162,36 @@
           "file_name": "Jade-1.21.1-NeoForge-15.10.5.jar",
           "version_number": "[NeoForge 1.21.1] 15.10.5",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/207/323/256/256/636965628804677340.png"
+        },
+        {
+          "name": "Create: The Factory Must Grow",
+          "curseforge_id": 693815,
+          "download_url": "https://edge.forgecdn.net/files/7430/73/tfmg-1.2.0.jar",
+          "file_name": "tfmg-1.2.0.jar",
+          "version_number": "tfmg-1.2.0-1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1065/188/256/256/638598728302487390.png",
+          "_depends_on": [
+            328085
+          ]
+        },
+        {
+          "name": "Chemica",
+          "curseforge_id": 1351412,
+          "download_url": "https://mediafilez.forgecdn.net/files/7553/576/Chemica-0.5.1.jar",
+          "file_name": "Chemica-0.5.1.jar",
+          "version_number": "Chemica-0.5.1-1.21.1.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1629/965/256/256/639045186090923026.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-25T00:00:43.680Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Create: The Factory Must Grow",
+            "+ Chemica"
+          ]
+        },
         {
           "date": "2026-04-23T03:46:26.318Z",
           "author": "Martion000",
@@ -2282,7 +2309,7 @@
           ]
         }
       ],
-      "extras_version": 9,
+      "extras_version": 10,
       "extras_url": "https://drive.google.com/file/d/19rZF1DifWCKZMJTtrjxA_toenO2KBWHa/view?usp=sharing"
     },
     {
