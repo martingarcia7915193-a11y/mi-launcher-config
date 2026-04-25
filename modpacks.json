@@ -1414,14 +1414,6 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1766/428/256/256/639122837744390439.png"
         },
         {
-          "name": "Sable: Mass view (Create Aeronautics)",
-          "curseforge_id": 1518454,
-          "download_url": "https://edge.forgecdn.net/files/7948/985/sablemassview-1.0.0.jar",
-          "file_name": "sablemassview-1.0.0.jar",
-          "version_number": "sablemassview-1.0.0.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1764/275/256/256/639121821587630246.png"
-        },
-        {
           "name": "Create Aeronautics: Portable Engine Liquid Fuel",
           "curseforge_id": 1521213,
           "download_url": "https://edge.forgecdn.net/files/7979/321/portable_engine_liquid_fuel-1.0.1-neoforge-1.21.1.jar",
@@ -1431,6 +1423,13 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-25T04:28:46.318Z",
+          "author": "Martion000",
+          "changes": [
+            "− Sable: Mass view (Create Aeronautics)"
+          ]
+        },
         {
           "date": "2026-04-25T04:28:00.386Z",
           "author": "Martion000",
@@ -2006,7 +2005,7 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1273/480/256/256/638828425709420198.png"
         }
       ],
-      "extras_version": 91,
+      "extras_version": 92,
       "extras_url": "https://drive.google.com/file/d/1CLpnYi15QjDT4pzisPPD-4iw8XN4PRaF/view?usp=drivesdk",
       "optional_mods": [
         {
