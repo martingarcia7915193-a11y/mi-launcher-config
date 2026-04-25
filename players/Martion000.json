@@ -17,9 +17,9 @@
     "v": 8283596,
     "createmon2-ACTUALIZACIONES": 1522103
   },
-  "online": false,
-  "playing": null,
-  "last_seen": 1777105018276,
-  "playing_name": "Createmon 2.0 ",
-  "playing_since": 1777091333054
+  "online": true,
+  "playing": "custom_test_1777105505954",
+  "last_seen": 1777105627667,
+  "playing_name": "TEST",
+  "playing_since": 1777105627226
 }
