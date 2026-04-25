@@ -9,7 +9,7 @@
     "vanilla_fabric": 92320,
     "vanilla_fabric-copia": 77496,
     "1.16.5": 93767,
-    "createmon2": 80482727,
+    "createmon2": 80505665,
     "cabin": 2042963,
     "aviones": 21335867,
     "createmon2-copia": 1314681,
@@ -18,8 +18,8 @@
     "createmon2-ACTUALIZACIONES": 1522103
   },
   "online": true,
-  "playing": "createmon2",
-  "last_seen": 1777091289752,
+  "playing": null,
+  "last_seen": 1777091312697,
   "playing_name": "Createmon 2.0 ",
   "playing_since": 1777091289269
 }
