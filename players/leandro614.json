@@ -10,9 +10,9 @@
     "createmon2": 48723524,
     "v": 8053777
   },
-  "online": false,
-  "playing": null,
-  "last_seen": 1777091018784,
-  "playing_name": "Vanilla",
-  "playing_since": 1776917018401
+  "online": true,
+  "playing": "createmon2",
+  "last_seen": 1777091219398,
+  "playing_name": "Createmon 2.0 ",
+  "playing_since": 1777091218957
 }
