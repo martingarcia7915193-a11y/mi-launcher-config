@@ -18,9 +18,9 @@
     "createmon2-ACTUALIZACIONES": 1522103,
     "custom_test_1777105505954": 45109
   },
-  "online": false,
-  "playing": null,
-  "last_seen": 1777132730534,
-  "playing_name": "TEST",
-  "playing_since": 1777105627226
+  "online": true,
+  "playing": "custom_fabulously_optimized_1777134008754",
+  "last_seen": 1777134077204,
+  "playing_name": "Fabulously Optimized",
+  "playing_since": 1777134076722
 }
