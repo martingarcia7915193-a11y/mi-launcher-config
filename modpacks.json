@@ -2173,20 +2173,16 @@
           "_depends_on": [
             328085
           ]
-        },
-        {
-          "name": "Create: Stats & Additions",
-          "curseforge_id": 1511282,
-          "download_url": "https://edge.forgecdn.net/files/7979/133/create_stats-0.10.33.jar",
-          "file_name": "create_stats-0.10.33.jar",
-          "version_number": "create_stats-0.10.33.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1773/834/256/256/639126669284645181.webp",
-          "_depends_on": [
-            328085
-          ]
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-25T02:00:48.716Z",
+          "author": "Martion000",
+          "changes": [
+            "− Create: Stats & Additions"
+          ]
+        },
         {
           "date": "2026-04-25T01:57:05.740Z",
           "author": "Martion000",
@@ -2338,7 +2334,7 @@
           ]
         }
       ],
-      "extras_version": 12,
+      "extras_version": 13,
       "extras_url": "https://drive.google.com/file/d/19rZF1DifWCKZMJTtrjxA_toenO2KBWHa/view?usp=sharing"
     },
     {
