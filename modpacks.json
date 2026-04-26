@@ -2577,9 +2577,45 @@
           "_depends_on": [
             328085
           ]
+        },
+        {
+          "name": "Create Aeronautics: Dyeable Components",
+          "curseforge_id": 1518023,
+          "download_url": "https://edge.forgecdn.net/files/7997/80/dyeable-components-1.0.3%2Bmc1.21.1.jar",
+          "file_name": "dyeable-components-1.0.3+mc1.21.1.jar",
+          "version_number": "dyeable-components-1.0.3+mc1.21.1.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1763/463/256/256/639121401338968937.png"
+        },
+        {
+          "name": "Backpacked",
+          "curseforge_id": 352835,
+          "download_url": "https://edge.forgecdn.net/files/7866/688/backpacked-neoforge-1.21.1-3.0.5.jar",
+          "file_name": "backpacked-neoforge-1.21.1-3.0.5.jar",
+          "version_number": "Backpacked 3.0.5",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1623/383/256/256/639043293014076242.png",
+          "_depends_on": [
+            549225
+          ]
+        },
+        {
+          "name": "Framework 0.13.11",
+          "curseforge_id": 549225,
+          "download_url": "https://edge.forgecdn.net/files/7530/361/framework-neoforge-1.21.1-0.13.11.jar",
+          "file_name": "framework-neoforge-1.21.1-0.13.11.jar",
+          "version_number": "Framework 0.13.11",
+          "_is_dependency": true
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-26T23:53:05.856Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Create Aeronautics: Dyeable Components",
+            "+ Backpacked",
+            "+ Framework 0.13.11"
+          ]
+        },
         {
           "date": "2026-04-26T22:59:37.621Z",
           "author": "Martion000",
@@ -2796,7 +2832,7 @@
           ]
         }
       ],
-      "extras_version": 20,
+      "extras_version": 21,
       "extras_url": "https://drive.google.com/file/d/19rZF1DifWCKZMJTtrjxA_toenO2KBWHa/view?usp=sharing"
     },
     {
