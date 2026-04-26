@@ -19,11 +19,12 @@
     "custom_test_1777105505954": 67680,
     "custom_fabulously_optimized_1777134008754": 33606,
     "custom_fabulously_optimized_1777134644873": 24585,
-    "custom_fabulously_optimized_1777135124768": 62145
+    "custom_fabulously_optimized_1777135124768": 62145,
+    "custom_rlcraft_1777190766200": 41088
   },
   "online": true,
-  "playing": "custom_rlcraft_1777190766200",
-  "last_seen": 1777191033174,
+  "playing": null,
+  "last_seen": 1777191074362,
   "playing_name": "RLCraft",
   "playing_since": 1777191032713
 }
