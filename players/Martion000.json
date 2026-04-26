@@ -34,9 +34,9 @@
     "custom_distant_horizons_iris_shaders_distant_horizons_iris_shaders_0_4_1_26_1_2_fabric_1777236645523": 228787,
     "aoc_aeronautics": 3603671
   },
-  "online": true,
-  "playing": "aviones",
-  "last_seen": 1777242818954,
+  "online": false,
+  "playing": null,
+  "last_seen": 1777243807283,
   "playing_name": "Create + aviones :v",
   "playing_since": 1777242818478
 }
