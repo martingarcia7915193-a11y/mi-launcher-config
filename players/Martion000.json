@@ -24,9 +24,9 @@
     "custom_cobbleverse_1777194630148": 28615,
     "custom_rlcraft_1777205332333": 147027
   },
-  "online": false,
-  "playing": null,
-  "last_seen": 1777208744397,
+  "online": true,
+  "playing": "custom_rlcraft_1777210049751",
+  "last_seen": 1777210299106,
   "playing_name": "RLCraft",
-  "playing_since": 1777206534379
+  "playing_since": 1777210298652
 }
