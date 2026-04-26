@@ -5386,6 +5386,17 @@
           "download_url": "https://edge.forgecdn.net/files/7963/768/createfood-neoforge-1.21.1-2.3.0.jar",
           "file_name": "createfood-neoforge-1.21.1-2.3.0.jar",
           "version_number": "createfood-neoforge-1.21.1-2.3.0.jar"
+        },
+        {
+          "name": "Colorwheel",
+          "curseforge_id": 1254143,
+          "download_url": "https://edge.forgecdn.net/files/7965/647/colorwheel-neoforge-1.2.4%2Bmc1.21.1.jar",
+          "file_name": "colorwheel-neoforge-1.2.4+mc1.21.1.jar",
+          "version_number": "1.2.4+mc1.21.1-neoforge",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1286/627/256/256/638836764954331397.png",
+          "_depends_on": [
+            455508
+          ]
         }
       ],
       "resourcepacks": [
@@ -5652,6 +5663,13 @@
       "id": "aoc_aeronautics",
       "icon": null,
       "changelog": [
+        {
+          "date": "2026-04-26T21:53:37.933Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Colorwheel"
+          ]
+        },
         {
           "date": "2026-04-26T21:26:24.912Z",
           "author": "Martion000",
