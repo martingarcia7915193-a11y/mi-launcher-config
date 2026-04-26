@@ -5386,25 +5386,8 @@
           "download_url": "https://edge.forgecdn.net/files/7963/768/createfood-neoforge-1.21.1-2.3.0.jar",
           "file_name": "createfood-neoforge-1.21.1-2.3.0.jar",
           "version_number": "createfood-neoforge-1.21.1-2.3.0.jar"
-        },
-        {
-          "name": "Farmer's Delight Refabricated",
-          "curseforge_id": 993166,
-          "download_url": "https://edge.forgecdn.net/files/7919/3/FarmersDelight-1.21.1-3.2.8%2Brefabricated.jar",
-          "file_name": "FarmersDelight-1.21.1-3.2.8+refabricated.jar",
-          "version_number": "Farmer's Delight Refabricated 3.2.8 - 1.21.1",
-          "_isDep": true
-        },
-        {
-          "name": "Fabric API",
-          "curseforge_id": 306612,
-          "download_url": "https://edge.forgecdn.net/files/7929/986/fabric-api-0.116.11%2B1.21.1.jar",
-          "file_name": "fabric-api-0.116.11+1.21.1.jar",
-          "version_number": "[1.21.1] Fabric API 0.116.11+1.21.1",
-          "_isDep": true
         }
       ],
-      "optional_mods": [],
       "resourcepacks": [
         {
           "name": "Create: Chocolate Fountain ZH_HK Translation",
@@ -5667,7 +5650,17 @@
       "curseforge_id": 1518930,
       "version": "v1.2",
       "id": "aoc_aeronautics",
-      "icon": null
+      "icon": null,
+      "changelog": [
+        {
+          "date": "2026-04-26T21:26:24.912Z",
+          "author": "Martion000",
+          "changes": [
+            "− Farmer's Delight Refabricated",
+            "− Fabric API"
+          ]
+        }
+      ]
     }
   ]
 }
