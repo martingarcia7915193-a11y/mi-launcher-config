@@ -2260,9 +2260,116 @@
           "_depends_on": [
             676721
           ]
+        },
+        {
+          "name": "Create: Gravity Gun",
+          "curseforge_id": 1525722,
+          "download_url": "https://edge.forgecdn.net/files/7996/483/create_gravity_gun-1.21.1-NeoForge-1.0.1.jar",
+          "file_name": "create_gravity_gun-1.21.1-NeoForge-1.0.1.jar",
+          "version_number": "create_gravity_gun-1.21.1-NeoForge-1.0.1.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1776/957/256/256/639128064807111649.png",
+          "_depends_on": [
+            676721
+          ]
+        },
+        {
+          "name": "Create: Aeroworks",
+          "curseforge_id": 1522473,
+          "download_url": "https://edge.forgecdn.net/files/7986/716/aeroworks-1.2.2.jar",
+          "file_name": "aeroworks-1.2.2.jar",
+          "version_number": "aeroworks-1.2.2.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1774/605/256/256/639127090492821570.png",
+          "_depends_on": [
+            1312371,
+            676721,
+            328085
+          ]
+        },
+        {
+          "name": "Sable NeoForge 1.1.3 for mc1.21.1",
+          "curseforge_id": 1312371,
+          "download_url": "https://edge.forgecdn.net/files/7965/90/sable-neoforge-1.21.1-1.1.3.jar",
+          "file_name": "sable-neoforge-1.21.1-1.1.3.jar",
+          "version_number": "Sable NeoForge 1.1.3 for mc1.21.1",
+          "_is_dependency": true
+        },
+        {
+          "name": "Floating Purpur (Sable Addon)",
+          "curseforge_id": 1522908,
+          "download_url": "https://mediafilez.forgecdn.net/files/7973/600/Floaty_Purpur_neoforge_1.21.1_v1.jar",
+          "file_name": "Floaty_Purpur_neoforge_1.21.1_v1.jar",
+          "version_number": "Floaty_Purpur_neoforge_1.21.1_v1.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1771/816/256/256/639125654672621790.png",
+          "_depends_on": [
+            1312371
+          ]
+        },
+        {
+          "name": "Jade VS",
+          "curseforge_id": 1209806,
+          "download_url": "https://edge.forgecdn.net/files/7947/689/Jade-VS-neoforge-1.21.1-2.0.0.jar",
+          "file_name": "Jade-VS-neoforge-1.21.1-2.0.0.jar",
+          "version_number": "Jade-VS-neoforge-1.21.1-2.0.0.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1188/458/256/256/638763017594708404.png",
+          "_depends_on": [
+            324717
+          ]
+        },
+        {
+          "name": "Create Aeronautics: Kinetic Grip",
+          "curseforge_id": 1523676,
+          "download_url": "https://edge.forgecdn.net/files/7977/927/KineticGrip-1.21.1-1.0.0.jar",
+          "file_name": "KineticGrip-1.21.1-1.0.0.jar",
+          "version_number": "KineticGrip-1.21.1-1.0.0.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1773/295/256/256/639126412176822834.png",
+          "_depends_on": [
+            676721
+          ]
+        },
+        {
+          "name": "Waystones: Sable (Create Aeronautics Addon)",
+          "curseforge_id": 1524471,
+          "download_url": "https://edge.forgecdn.net/files/7982/67/waystonessable-1.0.0.jar",
+          "file_name": "waystonessable-1.0.0.jar",
+          "version_number": "waystonessable-1.0.0",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1774/736/256/256/639127152190309266.png"
+        },
+        {
+          "name": "Waystones",
+          "curseforge_id": 245755,
+          "download_url": "https://edge.forgecdn.net/files/7966/157/waystones-neoforge-1.21.1-21.1.30.jar",
+          "file_name": "waystones-neoforge-1.21.1-21.1.30.jar",
+          "version_number": "waystones-neoforge-1.21.1-21.1.30.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1107/108/256/256/638657104456838765.png",
+          "_depends_on": [
+            531761
+          ]
+        },
+        {
+          "name": "balm-neoforge-1.21.1-21.0.56.jar",
+          "curseforge_id": 531761,
+          "download_url": "https://edge.forgecdn.net/files/7420/963/balm-neoforge-1.21.1-21.0.56.jar",
+          "file_name": "balm-neoforge-1.21.1-21.0.56.jar",
+          "version_number": "balm-neoforge-1.21.1-21.0.56.jar",
+          "_is_dependency": true
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-26T22:33:19.788Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Create: Gravity Gun",
+            "+ Create: Aeroworks",
+            "+ Sable NeoForge 1.1.3 for mc1.21.1",
+            "+ Floating Purpur (Sable Addon)",
+            "+ Jade VS",
+            "+ Create Aeronautics: Kinetic Grip",
+            "+ Waystones: Sable (Create Aeronautics Addon)",
+            "+ Waystones",
+            "+ balm-neoforge-1.21.1-21.0.56.jar"
+          ]
+        },
         {
           "date": "2026-04-25T02:16:09.247Z",
           "author": "Martion000",
@@ -2428,7 +2535,7 @@
           ]
         }
       ],
-      "extras_version": 14,
+      "extras_version": 15,
       "extras_url": "https://drive.google.com/file/d/19rZF1DifWCKZMJTtrjxA_toenO2KBWHa/view?usp=sharing"
     },
     {
