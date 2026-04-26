@@ -2507,14 +2507,6 @@
           ]
         },
         {
-          "name": "6.0.8.1 for 1.20.1",
-          "curseforge_id": 624165,
-          "download_url": "https://edge.forgecdn.net/files/7286/603/create-fabric-6.0.8.1%2Bbuild.1744-mc1.20.1.jar",
-          "file_name": "create-fabric-6.0.8.1+build.1744-mc1.20.1.jar",
-          "version_number": "6.0.8.1 for 1.20.1",
-          "_is_dependency": true
-        },
-        {
           "name": "Create: Connected",
           "curseforge_id": 947914,
           "download_url": "https://edge.forgecdn.net/files/7593/837/create_connected-1.1.13-mc1.21.1.jar",
@@ -2588,6 +2580,13 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-26T22:59:37.621Z",
+          "author": "Martion000",
+          "changes": [
+            "− 6.0.8.1 for 1.20.1"
+          ]
+        },
         {
           "date": "2026-04-26T22:56:26.372Z",
           "author": "Martion000",
@@ -2797,7 +2796,7 @@
           ]
         }
       ],
-      "extras_version": 16,
+      "extras_version": 17,
       "extras_url": "https://drive.google.com/file/d/19rZF1DifWCKZMJTtrjxA_toenO2KBWHa/view?usp=sharing"
     },
     {
