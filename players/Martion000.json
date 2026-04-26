@@ -31,11 +31,12 @@
     "diosesmc_official": 87342,
     "vann": 37240,
     "custom_diosesmc_official_1777236386056": 163288,
-    "custom_distant_horizons_iris_shaders_distant_horizons_iris_shaders_0_4_1_26_1_2_fabric_1777236645523": 228787
+    "custom_distant_horizons_iris_shaders_distant_horizons_iris_shaders_0_4_1_26_1_2_fabric_1777236645523": 228787,
+    "aoc_aeronautics": 43572
   },
   "online": true,
-  "playing": "aoc_aeronautics",
-  "last_seen": 1777238437477,
+  "playing": null,
+  "last_seen": 1777238481232,
   "playing_name": "Aoc Aeronautics",
   "playing_since": 1777238436992
 }
