@@ -2352,9 +2352,271 @@
           "file_name": "balm-neoforge-1.21.1-21.0.56.jar",
           "version_number": "balm-neoforge-1.21.1-21.0.56.jar",
           "_is_dependency": true
+        },
+        {
+          "name": "Create: Quality Of Life",
+          "curseforge_id": 905508,
+          "download_url": "https://edge.forgecdn.net/files/7967/344/Create%20Quality%20of%20Life-1.21.1-1.6.2-fix2.jar",
+          "file_name": "Create Quality of Life-1.21.1-1.6.2-fix2.jar",
+          "version_number": "Create Quality of Life-1.21.1-1.6.2-fix2.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1071/506/256/256/638607067787353431.png",
+          "_depends_on": [
+            328085
+          ]
+        },
+        {
+          "name": "Create: Enchantment Industry",
+          "curseforge_id": 688768,
+          "download_url": "https://edge.forgecdn.net/files/7970/748/create-enchantment-industry-2.3.1.jar",
+          "file_name": "create-enchantment-industry-2.3.1.jar",
+          "version_number": "Create: Enchantment Industry 2.3.1 for Create 1.21.1-6.0.10",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1224/199/256/256/638802282774958966.png",
+          "_depends_on": [
+            1216624
+          ]
+        },
+        {
+          "name": "Create: Dragons Plus 1.10.0b for Create 1.21.1-6.0.10",
+          "curseforge_id": 1216624,
+          "download_url": "https://edge.forgecdn.net/files/7970/93/CreateDragonsPlus-1.10.0b.jar",
+          "file_name": "CreateDragonsPlus-1.10.0b.jar",
+          "version_number": "Create: Dragons Plus 1.10.0b for Create 1.21.1-6.0.10",
+          "_is_dependency": true
+        },
+        {
+          "name": "Create: Hypertubes",
+          "curseforge_id": 1281336,
+          "download_url": "https://edge.forgecdn.net/files/7948/263/create_hypertube-0.4.0-COMPAT-NEOFORGE.jar",
+          "file_name": "create_hypertube-0.4.0-COMPAT-NEOFORGE.jar",
+          "version_number": "Hypertube 0.4.0-COMPAT NEOFORGE ",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1304/374/256/256/638848167351949326.png",
+          "_depends_on": [
+            328085
+          ]
+        },
+        {
+          "name": "Create: Diesel Generators",
+          "curseforge_id": 869316,
+          "download_url": "https://edge.forgecdn.net/files/7869/591/createdieselgenerators-1.21.1-1.3.11.jar",
+          "file_name": "createdieselgenerators-1.21.1-1.3.11.jar",
+          "version_number": "createdieselgenerators-1.21.1-1.3.11.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1065/563/256/256/638599261172976487.png",
+          "_depends_on": [
+            328085
+          ]
+        },
+        {
+          "name": "Create: Design n' Decor",
+          "curseforge_id": 923238,
+          "download_url": "https://mediafilez.forgecdn.net/files/6824/615/Design-n-Decor-1.21.1-2.1.0.jar",
+          "file_name": "Design-n-Decor-1.21.1-2.1.0.jar",
+          "version_number": "Design-n-Decor-1.21.1-2.1.0.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1293/563/256/256/638840765433611351.png",
+          "_depends_on": [
+            328085
+          ]
+        },
+        {
+          "name": "Create Deco",
+          "curseforge_id": 509285,
+          "download_url": "https://edge.forgecdn.net/files/7943/181/createdeco-2.1.3.jar",
+          "file_name": "createdeco-2.1.3.jar",
+          "version_number": "createdeco-2.1.3.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1065/338/256/256/638598933457608969.png"
+        },
+        {
+          "name": "Create Railways Navigator",
+          "curseforge_id": 935929,
+          "download_url": "https://edge.forgecdn.net/files/7754/979/createrailwaysnavigator-neoforge-1.21.1-alpha-0.9.0-C6%2B2.jar",
+          "file_name": "createrailwaysnavigator-neoforge-1.21.1-alpha-0.9.0-C6+2.jar",
+          "version_number": "createrailwaysnavigator-neoforge-1.21.1-alpha-0.9.0-C6+2",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1066/720/256/256/638600887691727882.png",
+          "_depends_on": [
+            328085,
+            946163
+          ]
+        },
+        {
+          "name": "dragonlib-neoforge-1.21.1-beta-3.0.24",
+          "curseforge_id": 946163,
+          "download_url": "https://edge.forgecdn.net/files/7763/966/dragonlib-neoforge-1.21.1-beta-3.0.24.jar",
+          "file_name": "dragonlib-neoforge-1.21.1-beta-3.0.24.jar",
+          "version_number": "dragonlib-neoforge-1.21.1-beta-3.0.24",
+          "_is_dependency": true
+        },
+        {
+          "name": "Create: Oxidized",
+          "curseforge_id": 953729,
+          "download_url": "https://mediafilez.forgecdn.net/files/6286/593/create_oxidized-0.1.3.jar",
+          "file_name": "create_oxidized-0.1.3.jar",
+          "version_number": "Create: Oxidized-1.21.1-0.1.3",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/923/484/256/256/638390204260502314.png"
+        },
+        {
+          "name": "Create: Power Loader",
+          "curseforge_id": 936020,
+          "download_url": "https://edge.forgecdn.net/files/6549/980/create_power_loader-2.0.3-mc1.21.1.jar",
+          "file_name": "create_power_loader-2.0.3-mc1.21.1.jar",
+          "version_number": "create_power_loader 2.0.3-mc1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/903/443/256/256/638352779105838214.png",
+          "_depends_on": [
+            328085
+          ]
+        },
+        {
+          "name": "Create Contraption Terminals",
+          "curseforge_id": 1059879,
+          "download_url": "https://edge.forgecdn.net/files/7660/82/createcontraptionterminals-1.21-1.3.0.jar",
+          "file_name": "createcontraptionterminals-1.21-1.3.0.jar",
+          "version_number": "[NeoForge] Create Contraption Terminals 1.21-1.3.0",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1067/696/256/256/638602012472201059.png",
+          "_depends_on": [
+            378609,
+            328085
+          ]
+        },
+        {
+          "name": "[NeoForge] Tom's Storage 1.21-2.3.2",
+          "curseforge_id": 378609,
+          "download_url": "https://edge.forgecdn.net/files/7917/7/toms_storage-1.21-2.3.2.jar",
+          "file_name": "toms_storage-1.21-2.3.2.jar",
+          "version_number": "[NeoForge] Tom's Storage 1.21-2.3.2",
+          "_is_dependency": true
+        },
+        {
+          "name": "Create: Pattern Schematics",
+          "curseforge_id": 1072349,
+          "download_url": "https://edge.forgecdn.net/files/7155/413/create_pattern_schematics-2.0.10.jar",
+          "file_name": "create_pattern_schematics-2.0.10.jar",
+          "version_number": "Create: Pattern Schematics 2.0.10 NeoForge 1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1089/645/256/256/638632784144958497.png",
+          "_depends_on": [
+            328085
+          ]
+        },
+        {
+          "name": "Create: Escalated",
+          "curseforge_id": 1260145,
+          "download_url": "https://edge.forgecdn.net/files/7430/7/escalated-1.2.1-create.6.0.8-mc.1.21.1-neoforge.jar",
+          "file_name": "escalated-1.2.1-create.6.0.8-mc.1.21.1-neoforge.jar",
+          "version_number": "Create: Escalated v1.2.1 for NeoForge 1.21.1, Create v6.0.8+",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1261/902/256/256/638821569425963837_animated.gif",
+          "_depends_on": [
+            328085,
+            624165
+          ]
+        },
+        {
+          "name": "6.0.8.1 for 1.20.1",
+          "curseforge_id": 624165,
+          "download_url": "https://edge.forgecdn.net/files/7286/603/create-fabric-6.0.8.1%2Bbuild.1744-mc1.20.1.jar",
+          "file_name": "create-fabric-6.0.8.1+build.1744-mc1.20.1.jar",
+          "version_number": "6.0.8.1 for 1.20.1",
+          "_is_dependency": true
+        },
+        {
+          "name": "Create: Connected",
+          "curseforge_id": 947914,
+          "download_url": "https://edge.forgecdn.net/files/7593/837/create_connected-1.1.13-mc1.21.1.jar",
+          "file_name": "create_connected-1.1.13-mc1.21.1.jar",
+          "version_number": "create_connected 1.1.13-mc1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/922/162/256/256/638387242479713653.png",
+          "_depends_on": [
+            328085
+          ]
+        },
+        {
+          "name": "Create Ore Excavation",
+          "curseforge_id": 649832,
+          "download_url": "https://edge.forgecdn.net/files/7199/305/createoreexcavation-1.21-1.6.8.jar",
+          "file_name": "createoreexcavation-1.21-1.6.8.jar",
+          "version_number": "[NeoForge] Create Ore Excavation 1.21-1.6.8",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1067/697/256/256/638602012706611157.png",
+          "_depends_on": [
+            328085
+          ]
+        },
+        {
+          "name": "Create Ore Excavation Plus",
+          "curseforge_id": 730824,
+          "download_url": "https://edge.forgecdn.net/files/7526/768/create_ore_excavation_plus-0.2.5-1.21.1.jar",
+          "file_name": "create_ore_excavation_plus-0.2.5-1.21.1.jar",
+          "version_number": "create_ore_excavation_plus-0.2.5-1.21.1.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1235/586/256/256/638809416498662907.png",
+          "_depends_on": [
+            649832,
+            328085
+          ]
+        },
+        {
+          "name": "Create: Stuff 'N Additions - Tank Fix (Spout, Curios & Upgrade)",
+          "curseforge_id": 1374815,
+          "download_url": "https://edge.forgecdn.net/files/7568/20/createsa_tank_fix-1.3.jar",
+          "file_name": "createsa_tank_fix-1.3.jar",
+          "version_number": "Create: Stuff 'N Additions - Tank Fix (Spout, Curios & Upgrade) 1.3",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1646/348/256/256/639051313425705772.png",
+          "_depends_on": [
+            466792
+          ]
+        },
+        {
+          "name": "Create S&A 1.21.1 V2.1.0e",
+          "curseforge_id": 466792,
+          "download_url": "https://edge.forgecdn.net/files/6448/12/create-stuff-additions1.21.1_v2.1.0e.jar",
+          "file_name": "create-stuff-additions1.21.1_v2.1.0e.jar",
+          "version_number": "Create S&A 1.21.1 V2.1.0e",
+          "_is_dependency": true
+        },
+        {
+          "name": "Create Stuff & Netherite Additions",
+          "curseforge_id": 1026647,
+          "download_url": "https://edge.forgecdn.net/files/7127/315/create_sna-1.2-neoforge-1.21.1.jar",
+          "file_name": "create_sna-1.2-neoforge-1.21.1.jar",
+          "version_number": "Netherite Additions 1.2 - 1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1004/157/256/256/638525087843490403.png"
+        },
+        {
+          "name": "Create: Dreams n' Desires",
+          "curseforge_id": 864781,
+          "download_url": "https://mediafilez.forgecdn.net/files/7287/681/DnDesires-1.21.1-2.2d-BETA.jar",
+          "file_name": "DnDesires-1.21.1-2.2d-BETA.jar",
+          "version_number": "DnDesires-1.21.1-2.2d-BETA",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1065/286/256/256/638598847906933576_animated.gif",
+          "_depends_on": [
+            328085
+          ]
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-26T22:56:26.372Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Create: Quality Of Life",
+            "+ Create: Enchantment Industry",
+            "+ Create: Dragons Plus 1.10.0b for Create 1.21.1-6.0.10",
+            "+ Create: Hypertubes",
+            "+ Create: Diesel Generators",
+            "+ Create: Design n' Decor",
+            "+ Create Deco",
+            "+ Create Railways Navigator",
+            "+ dragonlib-neoforge-1.21.1-beta-3.0.24",
+            "+ Create: Oxidized",
+            "+ Create: Power Loader",
+            "+ Create Contraption Terminals",
+            "+ [NeoForge] Tom's Storage 1.21-2.3.2",
+            "+ Create: Pattern Schematics",
+            "+ Create: Escalated",
+            "+ 6.0.8.1 for 1.20.1",
+            "+ Create: Connected",
+            "+ Create Ore Excavation",
+            "+ Create Ore Excavation Plus",
+            "+ Create: Stuff 'N Additions - Tank Fix (Spout, Curios & Upgrade)",
+            "+ Create S&A 1.21.1 V2.1.0e",
+            "+ Create Stuff & Netherite Additions",
+            "+ Create: Dreams n' Desires"
+          ]
+        },
         {
           "date": "2026-04-26T22:33:19.788Z",
           "author": "Martion000",
@@ -2535,7 +2797,7 @@
           ]
         }
       ],
-      "extras_version": 15,
+      "extras_version": 16,
       "extras_url": "https://drive.google.com/file/d/19rZF1DifWCKZMJTtrjxA_toenO2KBWHa/view?usp=sharing"
     },
     {
