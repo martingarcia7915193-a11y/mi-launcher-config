@@ -3996,7 +3996,7 @@
       "minecraft_version": "1.21.8",
       "mc_version": "1.21.8",
       "modloader": "fabric",
-      "modloader_version": "0.18.6",
+      "modloader_version": "0.19.2",
       "mods": [
         {
           "name": "Forge Config API Port",
@@ -4426,7 +4426,6 @@
           "version_number": "[fabric/1.21.8] MossyLib v1.1.0"
         }
       ],
-      "optional_mods": [],
       "resourcepacks": [
         {
           "name": "Fresh Animations",
@@ -4487,11 +4486,11 @@
           "version_number": "Complementary Unbound r5.7.1"
         }
       ],
-      "datapacks": [],
       "curseforge_id": 1353019,
       "version": "v8",
       "id": "diosesmc_official",
-      "icon": null
+      "icon": null,
+      "changelog": []
     },
     {
       "id": "vann",
