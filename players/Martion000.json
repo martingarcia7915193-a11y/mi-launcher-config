@@ -31,9 +31,9 @@
     "diosesmc_official": 87342,
     "vann": 37240
   },
-  "online": false,
-  "playing": null,
-  "last_seen": 1777235180431,
+  "online": true,
+  "playing": "custom_diosesmc_official_1777234683242",
+  "last_seen": 1777235659713,
   "playing_name": "DIOSESMC - Official",
-  "playing_since": 1777235120097
+  "playing_since": 1777235657644
 }
