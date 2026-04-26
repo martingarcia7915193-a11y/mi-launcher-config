@@ -2539,30 +2539,6 @@
       "extras_url": "https://drive.google.com/file/d/19rZF1DifWCKZMJTtrjxA_toenO2KBWHa/view?usp=sharing"
     },
     {
-      "id": "vann",
-      "name": "vann",
-      "version": "1.0.0",
-      "description": "",
-      "description_images": [],
-      "minecraft_version": "1.21.8",
-      "modloader": "fabric",
-      "modloader_version": "0.19.2",
-      "icon": "",
-      "banner": "",
-      "background": "",
-      "server_ip": "",
-      "mods": [],
-      "changelog": [
-        {
-          "date": "2026-04-26T20:23:38.708Z",
-          "author": "Martion000",
-          "changes": [
-            "✦ Modpack creado"
-          ]
-        }
-      ]
-    },
-    {
       "name": "Aoc Aeronautics",
       "minecraft_version": "1.21.1",
       "mc_version": "1.21.1",
