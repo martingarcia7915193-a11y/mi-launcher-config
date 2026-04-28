@@ -2186,9 +2186,9 @@
         {
           "name": "Creative Tabs Organizer",
           "curseforge_id": 1409328,
-          "download_url": "https://edge.forgecdn.net/files/7975/772/tabs_organizer-1.1.0.jar",
-          "file_name": "tabs_organizer-1.1.0.jar",
-          "version_number": "Tabs_Organizer-1.1.0",
+          "download_url": "https://edge.forgecdn.net/files/7980/778/tabs_organizer-1.1.1.jar",
+          "file_name": "tabs_organizer-1.1.1.jar",
+          "version_number": "Tabs_Organizer-1.1.1",
           "icon_url": "https://media.forgecdn.net/avatars/1764/956/639122100388695400.png"
         },
         {
@@ -2218,9 +2218,9 @@
         {
           "name": "Create Aeronautics: Portable Engine Liquid Fuel",
           "curseforge_id": 1521213,
-          "download_url": "https://edge.forgecdn.net/files/7979/321/portable_engine_liquid_fuel-1.0.1-neoforge-1.21.1.jar",
-          "file_name": "portable_engine_liquid_fuel-1.0.1-neoforge-1.21.1.jar",
-          "version_number": "portable_engine_liquid_fuel-1.0.1-neoforge-1.21.1.jar",
+          "download_url": "https://edge.forgecdn.net/files/8002/670/portable_engine_liquid_fuel-2.0.0-neoforge-1.21.1.jar",
+          "file_name": "portable_engine_liquid_fuel-2.0.0-neoforge-1.21.1.jar",
+          "version_number": "portable_engine_liquid_fuel-2.0.0-neoforge-1.21.1.jar",
           "icon_url": "https://media.forgecdn.net/avatars/1769/35/639124146941209494.png"
         },
         {
@@ -2253,10 +2253,10 @@
         {
           "name": "Create Propulsion: Simulated",
           "curseforge_id": 1522736,
-          "download_url": "https://edge.forgecdn.net/files/7976/819/createpropulsionsimulated-1.0.2.jar",
-          "file_name": "createpropulsionsimulated-1.0.2.jar",
-          "version_number": "createpropulsionsimulated-1.0.2.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1771/537/256/256/639125539987938424.png",
+          "download_url": "https://edge.forgecdn.net/files/8002/151/createpropulsionsimulated-1.0.4-hotfix1.jar",
+          "file_name": "createpropulsionsimulated-1.0.4-hotfix1.jar",
+          "version_number": "createpropulsionsimulated-1.0.4-hotfix1.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/1771/537/639125539987938424.png",
           "_depends_on": [
             676721
           ]
@@ -2439,10 +2439,11 @@
         {
           "name": "dragonlib-neoforge-1.21.1-beta-3.0.24",
           "curseforge_id": 946163,
-          "download_url": "https://edge.forgecdn.net/files/7763/966/dragonlib-neoforge-1.21.1-beta-3.0.24.jar",
-          "file_name": "dragonlib-neoforge-1.21.1-beta-3.0.24.jar",
-          "version_number": "dragonlib-neoforge-1.21.1-beta-3.0.24",
-          "_is_dependency": true
+          "download_url": "https://edge.forgecdn.net/files/8002/680/dragonlib-neoforge-1.21.1-beta-3.0.25.jar",
+          "file_name": "dragonlib-neoforge-1.21.1-beta-3.0.25.jar",
+          "version_number": "dragonlib-neoforge-1.21.1-beta-3.0.25",
+          "_is_dependency": true,
+          "icon_url": "https://media.forgecdn.net/avatars/914/901/638372366819318973.png"
         },
         {
           "name": "Create: Oxidized",
@@ -2509,10 +2510,10 @@
         {
           "name": "Create: Connected",
           "curseforge_id": 947914,
-          "download_url": "https://edge.forgecdn.net/files/7593/837/create_connected-1.1.13-mc1.21.1.jar",
-          "file_name": "create_connected-1.1.13-mc1.21.1.jar",
-          "version_number": "create_connected 1.1.13-mc1.21.1",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/922/162/256/256/638387242479713653.png",
+          "download_url": "https://edge.forgecdn.net/files/8001/8/create_connected-1.1.14-mc1.21.1.jar",
+          "file_name": "create_connected-1.1.14-mc1.21.1.jar",
+          "version_number": "create_connected 1.1.14-mc1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/922/162/638387242479713653.png",
           "_depends_on": [
             328085
           ]
@@ -2607,6 +2608,17 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-28T00:23:48.777Z",
+          "author": "Martion000",
+          "changes": [
+            "⬆ Creative Tabs Organizer: Tabs_Organizer-1.1.0 → Tabs_Organizer-1.1.1",
+            "⬆ Create Aeronautics: Portable Engine Liquid Fuel: portable_engine_liquid_fuel-1.0.1-neoforge-1.21.1.jar → portable_engine_liquid_fuel-2.0.0-neoforge-1.21.1.jar",
+            "⬆ Create Propulsion: Simulated: createpropulsionsimulated-1.0.2.jar → createpropulsionsimulated-1.0.4-hotfix1.jar",
+            "⬆ dragonlib-neoforge-1.21.1-beta-3.0.24: dragonlib-neoforge-1.21.1-beta-3.0.24 → dragonlib-neoforge-1.21.1-beta-3.0.25",
+            "⬆ Create: Connected: create_connected 1.1.13-mc1.21.1 → create_connected 1.1.14-mc1.21.1"
+          ]
+        },
         {
           "date": "2026-04-26T23:53:05.856Z",
           "author": "Martion000",
@@ -2832,7 +2844,7 @@
           ]
         }
       ],
-      "extras_version": 21,
+      "extras_version": 22,
       "extras_url": "https://drive.google.com/file/d/19rZF1DifWCKZMJTtrjxA_toenO2KBWHa/view?usp=sharing"
     },
     {
