@@ -2147,9 +2147,9 @@
         {
           "name": "Create Aeronautics",
           "curseforge_id": 676721,
-          "download_url": "https://mediafilez.forgecdn.net/files/7964/998/create-aeronautics-bundled-1.21.1-1.1.3.jar",
-          "file_name": "create-aeronautics-bundled-1.21.1-1.1.3.jar",
-          "version_number": "Create Aeronautics 1.1.3 for mc1.21.1",
+          "download_url": "https://mediafilez.forgecdn.net/files/8003/941/create-aeronautics-bundled-1.21.1-1.2.1.jar",
+          "file_name": "create-aeronautics-bundled-1.21.1-1.2.1.jar",
+          "version_number": "Create Aeronautics 1.2.1 for mc1.21.1",
           "icon_url": "https://media.forgecdn.net/avatars/1761/312/639120354691921005.png",
           "_depends_on": [
             328085,
@@ -2198,14 +2198,6 @@
           "file_name": "createjustenoughtime-1.21.1-1.0.3.jar",
           "version_number": "createjustenoughtime-1.21.1-1.0.3.jar",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1749/56/256/256/639113117374160543.png"
-        },
-        {
-          "name": "Sable",
-          "modrinth_id": "sable",
-          "download_url": "https://cdn.modrinth.com/data/T9PomCSv/versions/g8CObHcP/sable-neoforge-1.21.1-1.1.3.jar",
-          "file_name": "sable-neoforge-1.21.1-1.1.3.jar",
-          "version_number": "1.1.3+mc1.21.1",
-          "icon_url": "https://cdn.modrinth.com/data/T9PomCSv/8c0a8c64c9a5a8d446d0aa23d244cb9b52314a1d.png"
         },
         {
           "name": "Create: Tracks",
@@ -2275,10 +2267,10 @@
         {
           "name": "Create: Aeroworks",
           "curseforge_id": 1522473,
-          "download_url": "https://edge.forgecdn.net/files/7986/716/aeroworks-1.2.2.jar",
-          "file_name": "aeroworks-1.2.2.jar",
-          "version_number": "aeroworks-1.2.2.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1774/605/256/256/639127090492821570.png",
+          "download_url": "https://edge.forgecdn.net/files/8004/550/aeroworks-1.2.4.jar",
+          "file_name": "aeroworks-1.2.4.jar",
+          "version_number": "aeroworks-1.2.4.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/1774/605/639127090492821570.png",
           "_depends_on": [
             1312371,
             676721,
@@ -2288,10 +2280,11 @@
         {
           "name": "Sable NeoForge 1.1.3 for mc1.21.1",
           "curseforge_id": 1312371,
-          "download_url": "https://edge.forgecdn.net/files/7965/90/sable-neoforge-1.21.1-1.1.3.jar",
-          "file_name": "sable-neoforge-1.21.1-1.1.3.jar",
-          "version_number": "Sable NeoForge 1.1.3 for mc1.21.1",
-          "_is_dependency": true
+          "download_url": "https://edge.forgecdn.net/files/8003/927/sable-neoforge-1.21.1-1.2.1.jar",
+          "file_name": "sable-neoforge-1.21.1-1.2.1.jar",
+          "version_number": "Sable NeoForge 1.2.1 for mc1.21.1",
+          "_is_dependency": true,
+          "icon_url": "https://media.forgecdn.net/avatars/1368/340/638888491505266312.png"
         },
         {
           "name": "Floating Purpur (Sable Addon)",
@@ -2629,6 +2622,16 @@
       ],
       "changelog": [
         {
+          "date": "2026-04-28T19:47:07.484Z",
+          "author": "Martion000",
+          "changes": [
+            "− Sable",
+            "⬆ Create Aeronautics: Create Aeronautics 1.1.3 for mc1.21.1 → Create Aeronautics 1.2.1 for mc1.21.1",
+            "⬆ Create: Aeroworks: aeroworks-1.2.2.jar → aeroworks-1.2.4.jar",
+            "⬆ Sable NeoForge 1.1.3 for mc1.21.1: Sable NeoForge 1.1.3 for mc1.21.1 → Sable NeoForge 1.2.1 for mc1.21.1"
+          ]
+        },
+        {
           "date": "2026-04-28T01:26:22.021Z",
           "author": "Martion000",
           "changes": [
@@ -2872,8 +2875,8 @@
           ]
         }
       ],
-      "extras_version": 23,
-      "extras_url": "https://drive.google.com/file/d/19rZF1DifWCKZMJTtrjxA_toenO2KBWHa/view?usp=sharing"
+      "extras_version": 24,
+      "extras_url": "https://drive.google.com/file/d/1sad5ZONBjBl6dbQ1cnPblgurAU2S8rwE/view?usp=drivesdk"
     },
     {
       "name": "Aoc Aeronautics",
