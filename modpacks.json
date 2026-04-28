@@ -2605,9 +2605,37 @@
           "file_name": "framework-neoforge-1.21.1-0.13.11.jar",
           "version_number": "Framework 0.13.11",
           "_is_dependency": true
+        },
+        {
+          "name": "Petrol's Parts for Create",
+          "curseforge_id": 1093607,
+          "download_url": "https://mediafilez.forgecdn.net/files/7971/635/petrolsparts-1.21.1-1.2.10.jar",
+          "file_name": "petrolsparts-1.21.1-1.2.10.jar",
+          "version_number": "Petrol's Parts 1.2.10",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1070/744/256/256/638606162252482365.png",
+          "_depends_on": [
+            1093595,
+            328085
+          ]
+        },
+        {
+          "name": "Petrolpark's Library 1.4.32",
+          "curseforge_id": 1093595,
+          "download_url": "https://mediafilez.forgecdn.net/files/7981/644/petrolpark-1.21.1-1.4.32.jar",
+          "file_name": "petrolpark-1.21.1-1.4.32.jar",
+          "version_number": "Petrolpark's Library 1.4.32",
+          "_is_dependency": true
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-28T01:26:22.021Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Petrol's Parts for Create",
+            "+ Petrolpark's Library 1.4.32"
+          ]
+        },
         {
           "date": "2026-04-28T00:23:48.777Z",
           "author": "Martion000",
@@ -2844,7 +2872,7 @@
           ]
         }
       ],
-      "extras_version": 22,
+      "extras_version": 23,
       "extras_url": "https://drive.google.com/file/d/19rZF1DifWCKZMJTtrjxA_toenO2KBWHa/view?usp=sharing"
     },
     {
