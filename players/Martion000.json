@@ -39,8 +39,8 @@
     "test": 31903
   },
   "online": true,
-  "playing": null,
-  "last_seen": 1777417815751,
+  "playing": "test",
+  "last_seen": 1777417844581,
   "playing_name": "test",
-  "playing_since": 1777417805255
+  "playing_since": 1777417844083
 }
