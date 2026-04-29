@@ -2256,10 +2256,10 @@
         {
           "name": "Create: Gravity Gun",
           "curseforge_id": 1525722,
-          "download_url": "https://edge.forgecdn.net/files/7996/483/create_gravity_gun-1.21.1-NeoForge-1.0.1.jar",
-          "file_name": "create_gravity_gun-1.21.1-NeoForge-1.0.1.jar",
-          "version_number": "create_gravity_gun-1.21.1-NeoForge-1.0.1.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1776/957/256/256/639128064807111649.png",
+          "download_url": "https://edge.forgecdn.net/files/8010/703/create_gravity_gun-1.21.1-NeoForge-1.0.2.jar",
+          "file_name": "create_gravity_gun-1.21.1-NeoForge-1.0.2.jar",
+          "version_number": "create_gravity_gun-1.21.1-NeoForge-1.0.2.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/1776/957/639128064807111649.png",
           "_depends_on": [
             676721
           ]
@@ -2280,9 +2280,9 @@
         {
           "name": "Sable NeoForge 1.1.3 for mc1.21.1",
           "curseforge_id": 1312371,
-          "download_url": "https://edge.forgecdn.net/files/8003/927/sable-neoforge-1.21.1-1.2.1.jar",
-          "file_name": "sable-neoforge-1.21.1-1.2.1.jar",
-          "version_number": "Sable NeoForge 1.2.1 for mc1.21.1",
+          "download_url": "https://edge.forgecdn.net/files/8007/5/sable-neoforge-1.21.1-1.2.2.jar",
+          "file_name": "sable-neoforge-1.21.1-1.2.2.jar",
+          "version_number": "Sable NeoForge 1.2.2 for mc1.21.1",
           "_is_dependency": true,
           "icon_url": "https://media.forgecdn.net/avatars/1368/340/638888491505266312.png"
         },
@@ -2622,6 +2622,14 @@
       ],
       "changelog": [
         {
+          "date": "2026-04-29T22:38:22.566Z",
+          "author": "Martion000",
+          "changes": [
+            "⬆ Create: Gravity Gun: create_gravity_gun-1.21.1-NeoForge-1.0.1.jar → create_gravity_gun-1.21.1-NeoForge-1.0.2.jar",
+            "⬆ Sable NeoForge 1.1.3 for mc1.21.1: Sable NeoForge 1.2.1 for mc1.21.1 → Sable NeoForge 1.2.2 for mc1.21.1"
+          ]
+        },
+        {
           "date": "2026-04-28T21:00:53.707Z",
           "author": "Martion000",
           "changes": [
@@ -2882,7 +2890,7 @@
           ]
         }
       ],
-      "extras_version": 25,
+      "extras_version": 26,
       "extras_url": "https://drive.google.com/file/d/1sad5ZONBjBl6dbQ1cnPblgurAU2S8rwE/view?usp=drivesdk"
     },
     {
