@@ -2663,9 +2663,24 @@
           "file_name": "sable-schematic-api-0.1.3.jar",
           "version_number": "sable-schematic-api-0.1.3.jar",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1780/635/256/256/639129822463040484.png"
+        },
+        {
+          "name": "L2 Library",
+          "curseforge_id": 620203,
+          "download_url": "https://edge.forgecdn.net/files/7584/599/l2library-3.0.8.jar",
+          "file_name": "l2library-3.0.8.jar",
+          "version_number": "l2library-3.0.8.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/542/709/256/256/637871624900009249.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-29T22:49:50.263Z",
+          "author": "Martion000",
+          "changes": [
+            "+ L2 Library"
+          ]
+        },
         {
           "date": "2026-04-29T22:48:33.189Z",
           "author": "Martion000",
@@ -2957,7 +2972,7 @@
           ]
         }
       ],
-      "extras_version": 28,
+      "extras_version": 29,
       "extras_url": "https://drive.google.com/file/d/1sad5ZONBjBl6dbQ1cnPblgurAU2S8rwE/view?usp=drivesdk",
       "resourcepacks": [
         {
