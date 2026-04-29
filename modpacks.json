@@ -2581,25 +2581,6 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1763/463/256/256/639121401338968937.png"
         },
         {
-          "name": "Backpacked",
-          "curseforge_id": 352835,
-          "download_url": "https://edge.forgecdn.net/files/7866/688/backpacked-neoforge-1.21.1-3.0.5.jar",
-          "file_name": "backpacked-neoforge-1.21.1-3.0.5.jar",
-          "version_number": "Backpacked 3.0.5",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1623/383/256/256/639043293014076242.png",
-          "_depends_on": [
-            549225
-          ]
-        },
-        {
-          "name": "Framework 0.13.11",
-          "curseforge_id": 549225,
-          "download_url": "https://edge.forgecdn.net/files/7530/361/framework-neoforge-1.21.1-0.13.11.jar",
-          "file_name": "framework-neoforge-1.21.1-0.13.11.jar",
-          "version_number": "Framework 0.13.11",
-          "_is_dependency": true
-        },
-        {
           "name": "Petrol's Parts for Create",
           "curseforge_id": 1093607,
           "download_url": "https://mediafilez.forgecdn.net/files/7971/635/petrolsparts-1.21.1-1.2.10.jar",
@@ -2618,9 +2599,80 @@
           "file_name": "petrolpark-1.21.1-1.4.32.jar",
           "version_number": "Petrolpark's Library 1.4.32",
           "_is_dependency": true
+        },
+        {
+          "name": "Sophisticated Backpacks",
+          "curseforge_id": 422301,
+          "download_url": "https://edge.forgecdn.net/files/8007/540/sophisticatedbackpacks-1.21.1-3.25.42.1709.jar",
+          "file_name": "sophisticatedbackpacks-1.21.1-3.25.42.1709.jar",
+          "version_number": "sophisticatedbackpacks-1.21.1-3.25.42.1709.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/375/56/256/256/637549610342642859.png",
+          "_depends_on": [
+            618298
+          ]
+        },
+        {
+          "name": "sophisticatedcore-1.21.1-1.4.32.1794.jar",
+          "curseforge_id": 618298,
+          "download_url": "https://edge.forgecdn.net/files/8007/521/sophisticatedcore-1.21.1-1.4.32.1794.jar",
+          "file_name": "sophisticatedcore-1.21.1-1.4.32.1794.jar",
+          "version_number": "sophisticatedcore-1.21.1-1.4.32.1794.jar",
+          "_is_dependency": true
+        },
+        {
+          "name": "Sophisticated Storage",
+          "curseforge_id": 619320,
+          "download_url": "https://edge.forgecdn.net/files/8007/550/sophisticatedstorage-1.21.1-1.5.45.1697.jar",
+          "file_name": "sophisticatedstorage-1.21.1-1.5.45.1697.jar",
+          "version_number": "sophisticatedstorage-1.21.1-1.5.45.1697.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/543/206/256/256/637872959580005837.png",
+          "_depends_on": [
+            618298
+          ]
+        },
+        {
+          "name": "Sophisticated Backpacks Create Integration",
+          "curseforge_id": 1238567,
+          "download_url": "https://edge.forgecdn.net/files/7168/412/sophisticatedbackpackscreateintegration-1.21.1-0.1.5.29.jar",
+          "file_name": "sophisticatedbackpackscreateintegration-1.21.1-0.1.5.29.jar",
+          "version_number": "sophisticatedbackpackscreateintegration-1.21.1-0.1.5.29.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1218/471/256/256/638797373596584143.png",
+          "_depends_on": [
+            422301,
+            618298,
+            328085
+          ]
+        },
+        {
+          "name": "Sophisticated Storage Create Integration",
+          "curseforge_id": 1226755,
+          "download_url": "https://edge.forgecdn.net/files/7974/820/sophisticatedstoragecreateintegration-1.21.1-0.1.17.132.jar",
+          "file_name": "sophisticatedstoragecreateintegration-1.21.1-0.1.17.132.jar",
+          "version_number": "sophisticatedstoragecreateintegration-1.21.1-0.1.17.132.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1208/888/256/256/638786233372453864.png",
+          "_depends_on": [
+            619320,
+            328085,
+            618298
+          ]
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-29T22:47:53.962Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Sophisticated Backpacks",
+            "+ sophisticatedcore-1.21.1-1.4.32.1794.jar",
+            "+ Sophisticated Storage",
+            "+ Sophisticated Backpacks Create Integration",
+            "+ Sophisticated Storage Create Integration",
+            "− Backpacked",
+            "− Framework 0.13.11",
+            "+ Tom's Create Style (RP)",
+            "+ Create UI (RP)"
+          ]
+        },
         {
           "date": "2026-04-29T22:38:22.566Z",
           "author": "Martion000",
@@ -2890,8 +2942,26 @@
           ]
         }
       ],
-      "extras_version": 26,
-      "extras_url": "https://drive.google.com/file/d/1sad5ZONBjBl6dbQ1cnPblgurAU2S8rwE/view?usp=drivesdk"
+      "extras_version": 27,
+      "extras_url": "https://drive.google.com/file/d/1sad5ZONBjBl6dbQ1cnPblgurAU2S8rwE/view?usp=drivesdk",
+      "resourcepacks": [
+        {
+          "name": "Tom's Create Style",
+          "curseforge_id": 1265683,
+          "download_url": "https://edge.forgecdn.net/files/6605/498/Tom's%20Create%20Style%201.2%20-%201.21.zip",
+          "file_name": "Tom's Create Style 1.2 - 1.21.zip",
+          "version_number": "Tom's Create Style 1.2 - 1.21.zip",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1273/480/256/256/638828425709420198.png"
+        },
+        {
+          "name": "Create UI",
+          "curseforge_id": 938959,
+          "download_url": "https://edge.forgecdn.net/files/6475/177/Create_UI_1.21.zip",
+          "file_name": "Create_UI_1.21.zip",
+          "version_number": "Create UI 1.21",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1296/619/256/256/638842858575884255.png"
+        }
+      ]
     },
     {
       "name": "Aoc Aeronautics",
