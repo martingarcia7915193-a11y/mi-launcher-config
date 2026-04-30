@@ -2684,9 +2684,24 @@
           "file_name": "ldlib2-neoforge-1.21.1-2.2.6-all.jar",
           "version_number": "LDLib2-2.2.6-neoforge",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1390/433/256/256/638901495840171464.png"
+        },
+        {
+          "name": "Sable Schematic Tool",
+          "curseforge_id": 1526951,
+          "download_url": "https://edge.forgecdn.net/files/8016/54/sable-schematic-api-0.1.6.jar",
+          "file_name": "sable-schematic-api-0.1.6.jar",
+          "version_number": "sable-schematic-api-0.1.6.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1780/635/256/256/639129822463040484.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-30T23:01:19.434Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Sable Schematic Tool"
+          ]
+        },
         {
           "date": "2026-04-30T22:59:50.899Z",
           "author": "Martion000",
@@ -3096,7 +3111,7 @@
           ]
         }
       ],
-      "extras_version": 42,
+      "extras_version": 43,
       "extras_url": "https://drive.google.com/file/d/1sad5ZONBjBl6dbQ1cnPblgurAU2S8rwE/view?usp=drivesdk",
       "resourcepacks": [
         {
