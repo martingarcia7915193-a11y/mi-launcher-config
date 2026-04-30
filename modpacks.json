@@ -2101,7 +2101,7 @@
         {
           "name": "Sodium",
           "curseforge_id": 394468,
-          "download_url": "https://edge.forgecdn.net/files/6382/651/sodium-neoforge-0.6.13%2bmc1.21.1.jar",
+          "download_url": "https://edge.forgecdn.net/files/6382/651/sodium-neoforge-0.6.13%2Bmc1.21.1.jar",
           "file_name": "sodium-neoforge-0.6.13+mc1.21.1.jar",
           "version_number": "Sodium 0.6.13 for NeoForge",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/284/773/256/256/637298471098686391.png"
@@ -2704,51 +2704,6 @@
           ]
         },
         {
-          "name": "Reese's Sodium Options",
-          "curseforge_id": 511319,
-          "download_url": "https://edge.forgecdn.net/files/6091/21/reeses-sodium-options-neoforge-1.8.3%2Bmc1.21.4.jar",
-          "file_name": "reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar",
-          "version_number": "[NeoForge] Reese's Sodium Options 1.8.3",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/414/599/256/256/637636962431399112.png",
-          "_depends_on": [
-            394468
-          ]
-        },
-        {
-          "name": "Sodium/Embeddium Dynamic Lights",
-          "curseforge_id": 551736,
-          "download_url": "https://edge.forgecdn.net/files/6044/477/sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
-          "file_name": "sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
-          "version_number": "SodiumDynamicLights Neoforge 1.0.10 for 1.21.1",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1068/309/256/256/638602793082566240.png",
-          "_depends_on": [
-            1103431,
-            394468
-          ]
-        },
-        {
-          "name": "SodiumOptionsAPI Neoforge 1.0.10 for 1.21.1",
-          "curseforge_id": 1103431,
-          "download_url": "https://edge.forgecdn.net/files/6100/815/sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
-          "file_name": "sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
-          "version_number": "SodiumOptionsAPI Neoforge 1.0.10 for 1.21.1",
-          "_is_dependency": true
-        },
-        {
-          "name": "Create Sable Dynamic Lights",
-          "curseforge_id": 1528076,
-          "download_url": "https://mediafilez.forgecdn.net/files/8006/631/create-dyn-light-2.3.1-sodium-sable.jar",
-          "file_name": "create-dyn-light-2.3.1-sodium-sable.jar",
-          "version_number": "create-dyn-light-2.3.1-sodium-sable.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1781/33/256/256/639129998849940862.png",
-          "_depends_on": [
-            676721,
-            328085,
-            551736,
-            1312371
-          ]
-        },
-        {
           "name": "Create: Tweaked Controllers",
           "curseforge_id": 898849,
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/860/786/256/256/638267689835103641.png"
@@ -2763,6 +2718,16 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-30T22:55:16.225Z",
+          "author": "Martion000",
+          "changes": [
+            "− Reese's Sodium Options",
+            "− Sodium/Embeddium Dynamic Lights",
+            "− SodiumOptionsAPI Neoforge 1.0.10 for 1.21.1",
+            "− Create Sable Dynamic Lights"
+          ]
+        },
         {
           "date": "2026-04-30T22:53:08.571Z",
           "author": "Martion000",
@@ -3147,7 +3112,7 @@
           ]
         }
       ],
-      "extras_version": 39,
+      "extras_version": 40,
       "extras_url": "https://drive.google.com/file/d/1sad5ZONBjBl6dbQ1cnPblgurAU2S8rwE/view?usp=drivesdk",
       "resourcepacks": [
         {
