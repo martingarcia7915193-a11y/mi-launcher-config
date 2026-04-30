@@ -2692,9 +2692,28 @@
           "file_name": "sable-schematic-api-0.1.6.jar",
           "version_number": "sable-schematic-api-0.1.6.jar",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1780/635/256/256/639129822463040484.png"
+        },
+        {
+          "name": "Create Railways Navigator",
+          "curseforge_id": 935929,
+          "download_url": "https://edge.forgecdn.net/files/8017/355/createrailwaysnavigator-neoforge-1.21.1-beta-0.9.0-C6.jar",
+          "file_name": "createrailwaysnavigator-neoforge-1.21.1-beta-0.9.0-C6.jar",
+          "version_number": "createrailwaysnavigator-neoforge-1.21.1-beta-0.9.0-C6",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1066/720/256/256/638600887691727882.png",
+          "_depends_on": [
+            328085,
+            946163
+          ]
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-30T23:03:32.935Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Create Railways Navigator"
+          ]
+        },
         {
           "date": "2026-04-30T23:01:19.434Z",
           "author": "Martion000",
@@ -3111,7 +3130,7 @@
           ]
         }
       ],
-      "extras_version": 43,
+      "extras_version": 44,
       "extras_url": "https://drive.google.com/file/d/1sad5ZONBjBl6dbQ1cnPblgurAU2S8rwE/view?usp=drivesdk",
       "resourcepacks": [
         {
