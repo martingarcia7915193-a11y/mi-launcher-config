@@ -2245,9 +2245,9 @@
         {
           "name": "Create Propulsion: Simulated",
           "curseforge_id": 1522736,
-          "download_url": "https://edge.forgecdn.net/files/8002/151/createpropulsionsimulated-1.0.4-hotfix1.jar",
-          "file_name": "createpropulsionsimulated-1.0.4-hotfix1.jar",
-          "version_number": "createpropulsionsimulated-1.0.4-hotfix1.jar",
+          "download_url": "https://edge.forgecdn.net/files/8013/361/createpropulsion-1.1.0.jar",
+          "file_name": "createpropulsion-1.1.0.jar",
+          "version_number": "createpropulsion-1.1.0.jar",
           "icon_url": "https://media.forgecdn.net/avatars/1771/537/639125539987938424.png",
           "_depends_on": [
             676721
@@ -2267,9 +2267,9 @@
         {
           "name": "Create: Aeroworks",
           "curseforge_id": 1522473,
-          "download_url": "https://edge.forgecdn.net/files/8004/550/aeroworks-1.2.4.jar",
-          "file_name": "aeroworks-1.2.4.jar",
-          "version_number": "aeroworks-1.2.4.jar",
+          "download_url": "https://edge.forgecdn.net/files/8014/23/aeroworks-1.2.6.jar",
+          "file_name": "aeroworks-1.2.6.jar",
+          "version_number": "aeroworks-1.2.6.jar",
           "icon_url": "https://media.forgecdn.net/avatars/1774/605/639127090492821570.png",
           "_depends_on": [
             1312371,
@@ -2614,10 +2614,11 @@
         {
           "name": "sophisticatedcore-1.21.1-1.4.32.1794.jar",
           "curseforge_id": 618298,
-          "download_url": "https://edge.forgecdn.net/files/8007/521/sophisticatedcore-1.21.1-1.4.32.1794.jar",
-          "file_name": "sophisticatedcore-1.21.1-1.4.32.1794.jar",
-          "version_number": "sophisticatedcore-1.21.1-1.4.32.1794.jar",
-          "_is_dependency": true
+          "download_url": "https://edge.forgecdn.net/files/8014/104/sophisticatedcore-1.21.1-1.4.33.1808.jar",
+          "file_name": "sophisticatedcore-1.21.1-1.4.33.1808.jar",
+          "version_number": "sophisticatedcore-1.21.1-1.4.33.1808.jar",
+          "_is_dependency": true,
+          "icon_url": "https://media.forgecdn.net/avatars/540/438/637866039314801108.png"
         },
         {
           "name": "Sophisticated Storage",
@@ -2762,6 +2763,15 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-30T14:54:49.527Z",
+          "author": "Martion000",
+          "changes": [
+            "⬆ Create Propulsion: Simulated: createpropulsionsimulated-1.0.4-hotfix1.jar → createpropulsion-1.1.0.jar",
+            "⬆ Create: Aeroworks: aeroworks-1.2.4.jar → aeroworks-1.2.6.jar",
+            "⬆ sophisticatedcore-1.21.1-1.4.32.1794.jar: sophisticatedcore-1.21.1-1.4.32.1794.jar → sophisticatedcore-1.21.1-1.4.33.1808.jar"
+          ]
+        },
         {
           "date": "2026-04-30T14:48:09.472Z",
           "author": "Martion000",
@@ -3101,7 +3111,7 @@
           ]
         }
       ],
-      "extras_version": 33,
+      "extras_version": 34,
       "extras_url": "https://drive.google.com/file/d/1sad5ZONBjBl6dbQ1cnPblgurAU2S8rwE/view?usp=drivesdk",
       "resourcepacks": [
         {
