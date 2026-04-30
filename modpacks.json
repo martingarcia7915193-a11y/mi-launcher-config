@@ -2693,17 +2693,6 @@
           ]
         },
         {
-          "name": "Create Crafts & Additions",
-          "curseforge_id": 439890,
-          "download_url": "https://edge.forgecdn.net/files/7518/252/createaddition-1.5.10.jar",
-          "file_name": "createaddition-1.5.10.jar",
-          "version_number": "createaddition-neoforge-1.21.1-1.5.10",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/405/250/256/256/637616939209778882.png",
-          "_depends_on": [
-            328085
-          ]
-        },
-        {
           "name": "Create: Tweaked Controllers",
           "curseforge_id": 898849,
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/860/786/256/256/638267689835103641.png"
@@ -2718,6 +2707,13 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-30T22:57:49.714Z",
+          "author": "Martion000",
+          "changes": [
+            "− Create Crafts & Additions"
+          ]
+        },
         {
           "date": "2026-04-30T22:55:16.225Z",
           "author": "Martion000",
@@ -3112,7 +3108,7 @@
           ]
         }
       ],
-      "extras_version": 40,
+      "extras_version": 41,
       "extras_url": "https://drive.google.com/file/d/1sad5ZONBjBl6dbQ1cnPblgurAU2S8rwE/view?usp=drivesdk",
       "resourcepacks": [
         {
