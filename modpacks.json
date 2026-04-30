@@ -2418,18 +2418,6 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1065/338/256/256/638598933457608969.png"
         },
         {
-          "name": "Create Railways Navigator",
-          "curseforge_id": 935929,
-          "download_url": "https://edge.forgecdn.net/files/8017/355/createrailwaysnavigator-neoforge-1.21.1-beta-0.9.0-C6.jar",
-          "file_name": "createrailwaysnavigator-neoforge-1.21.1-beta-0.9.0-C6.jar",
-          "version_number": "createrailwaysnavigator-neoforge-1.21.1-beta-0.9.0-C6",
-          "icon_url": "https://media.forgecdn.net/avatars/1066/720/638600887691727882.png",
-          "_depends_on": [
-            328085,
-            946163
-          ]
-        },
-        {
           "name": "dragonlib-neoforge-1.21.1-beta-3.0.24",
           "curseforge_id": 946163,
           "download_url": "https://edge.forgecdn.net/files/8002/680/dragonlib-neoforge-1.21.1-beta-3.0.25.jar",
@@ -2658,14 +2646,6 @@
           ]
         },
         {
-          "name": "Sable Schematic Tool",
-          "curseforge_id": 1526951,
-          "download_url": "https://edge.forgecdn.net/files/8016/54/sable-schematic-api-0.1.6.jar",
-          "file_name": "sable-schematic-api-0.1.6.jar",
-          "version_number": "sable-schematic-api-0.1.6.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/1780/635/639129822463040484.png"
-        },
-        {
           "name": "Xaero's Minimap",
           "curseforge_id": 263420,
           "download_url": "https://edge.forgecdn.net/files/7598/595/xaerominimap-neoforge-1.21.1-25.3.10.jar",
@@ -2707,6 +2687,14 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-30T22:59:50.899Z",
+          "author": "Martion000",
+          "changes": [
+            "− Create Railways Navigator",
+            "− Sable Schematic Tool"
+          ]
+        },
         {
           "date": "2026-04-30T22:57:49.714Z",
           "author": "Martion000",
@@ -3108,7 +3096,7 @@
           ]
         }
       ],
-      "extras_version": 41,
+      "extras_version": 42,
       "extras_url": "https://drive.google.com/file/d/1sad5ZONBjBl6dbQ1cnPblgurAU2S8rwE/view?usp=drivesdk",
       "resourcepacks": [
         {
