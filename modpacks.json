@@ -2749,11 +2749,6 @@
           ]
         },
         {
-          "name": "Sodium/Embeddium Extras",
-          "curseforge_id": 558905,
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1066/735/256/256/638600914286319886.png"
-        },
-        {
           "name": "Create: Tweaked Controllers",
           "curseforge_id": 898849,
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/860/786/256/256/638267689835103641.png"
@@ -2776,6 +2771,13 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-04-30T22:51:46.307Z",
+          "author": "Martion000",
+          "changes": [
+            "− Sodium/Embeddium Extras"
+          ]
+        },
         {
           "date": "2026-04-30T22:46:33.612Z",
           "author": "Martion000",
@@ -3146,7 +3148,7 @@
           ]
         }
       ],
-      "extras_version": 37,
+      "extras_version": 38,
       "extras_url": "https://drive.google.com/file/d/1sad5ZONBjBl6dbQ1cnPblgurAU2S8rwE/view?usp=drivesdk",
       "resourcepacks": [
         {
