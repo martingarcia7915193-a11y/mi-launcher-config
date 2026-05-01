@@ -2838,9 +2838,27 @@
           "file_name": "cosmeticarmorreworked-1.21.1-v1-neoforge.jar",
           "version_number": "cosmeticarmorreworked-1.21.1-v1-neoforge.jar",
           "_is_dependency": true
+        },
+        {
+          "name": "Create: Tradeworks",
+          "curseforge_id": 1477581,
+          "download_url": "https://edge.forgecdn.net/files/8004/324/tradeworks-1.0.7.jar",
+          "file_name": "tradeworks-1.0.7.jar",
+          "version_number": "Create: Tradeworks [1.0.7]",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1780/246/256/256/639129629566644573.png",
+          "_depends_on": [
+            328085
+          ]
         }
       ],
       "changelog": [
+        {
+          "date": "2026-05-01T01:18:35.994Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Create: Tradeworks"
+          ]
+        },
         {
           "date": "2026-05-01T00:57:27.817Z",
           "author": "Martion000",
@@ -3303,7 +3321,7 @@
           ]
         }
       ],
-      "extras_version": 50,
+      "extras_version": 51,
       "extras_url": "https://drive.google.com/file/d/1sad5ZONBjBl6dbQ1cnPblgurAU2S8rwE/view?usp=drivesdk",
       "resourcepacks": [
         {
