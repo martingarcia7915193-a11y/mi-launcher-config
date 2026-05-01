@@ -3183,9 +3183,27 @@
           "file_name": "tradeuses-1.2.5-1.21-NEOFORGE.jar",
           "version_number": "[NeoForge] Trade Uses 1.2.5 - 1.21",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/864/817/256/256/638275400898684256.png"
+        },
+        {
+          "name": "Create: Trading Floor",
+          "curseforge_id": 1102591,
+          "download_url": "https://edge.forgecdn.net/files/7625/579/trading_floor-3.0.16.jar",
+          "file_name": "trading_floor-3.0.16.jar",
+          "version_number": "Create: Trading Floor 3.0.16 Neoforge 1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1080/857/256/256/638620276513777713.png",
+          "_depends_on": [
+            328085
+          ]
         }
       ],
       "changelog": [
+        {
+          "date": "2026-05-01T03:05:43.626Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Create: Trading Floor"
+          ]
+        },
         {
           "date": "2026-05-01T03:04:31.111Z",
           "author": "Martion000",
@@ -3709,7 +3727,7 @@
           ]
         }
       ],
-      "extras_version": 54,
+      "extras_version": 55,
       "extras_url": "https://drive.google.com/file/d/1sad5ZONBjBl6dbQ1cnPblgurAU2S8rwE/view?usp=drivesdk",
       "resourcepacks": [
         {
