@@ -3086,9 +3086,27 @@
           "file_name": "architectury-13.0.8-neoforge.jar",
           "version_number": "[NeoForge 1.21(.1)] v13.0.8",
           "_is_dependency": true
+        },
+        {
+          "name": "ShatterLib | OctoLib",
+          "curseforge_id": 916747,
+          "download_url": "https://edge.forgecdn.net/files/7724/6/OctoLib-NEOFORGE-0.6.1%2B1.21.jar",
+          "file_name": "OctoLib-NEOFORGE-0.6.1+1.21.jar",
+          "version_number": "OctoLib-NEOFORGE-0.6.1+1.21.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1040/229/256/256/638566006631831950_animated.gif",
+          "_depends_on": [
+            419699
+          ]
         }
       ],
       "changelog": [
+        {
+          "date": "2026-05-01T01:30:00.112Z",
+          "author": "Martion000",
+          "changes": [
+            "+ ShatterLib | OctoLib"
+          ]
+        },
         {
           "date": "2026-05-01T01:27:22.329Z",
           "author": "Martion000",
@@ -3590,7 +3608,7 @@
           ]
         }
       ],
-      "extras_version": 52,
+      "extras_version": 53,
       "extras_url": "https://drive.google.com/file/d/1sad5ZONBjBl6dbQ1cnPblgurAU2S8rwE/view?usp=drivesdk",
       "resourcepacks": [
         {
