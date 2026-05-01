@@ -3524,9 +3524,24 @@
           "file_name": "create_aeronautics_throwable_rope_connector-0.1.0.jar",
           "version_number": "create_aeronautics_throwable_rope_connector-0.1.0.jar",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1784/305/256/256/639131761968187495.png"
+        },
+        {
+          "name": "Camera Mod",
+          "curseforge_id": 289310,
+          "download_url": "https://edge.forgecdn.net/files/6715/623/camera-neoforge-1.21.1-1.0.21.jar",
+          "file_name": "camera-neoforge-1.21.1-1.0.21.jar",
+          "version_number": "[NEOFORGE][1.21.1] Camera Mod 1.21.1-1.0.21",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/144/334/256/256/636555258623630042.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-05-01T16:33:15.856Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Camera Mod"
+          ]
+        },
         {
           "date": "2026-05-01T15:54:51.966Z",
           "author": "Martion000",
@@ -4116,7 +4131,7 @@
           ]
         }
       ],
-      "extras_version": 58,
+      "extras_version": 59,
       "extras_url": "https://drive.google.com/file/d/1sad5ZONBjBl6dbQ1cnPblgurAU2S8rwE/view?usp=drivesdk",
       "resourcepacks": [
         {
