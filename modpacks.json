@@ -3097,9 +3097,110 @@
           "_depends_on": [
             419699
           ]
+        },
+        {
+          "name": "Create: Interiors",
+          "curseforge_id": 906239,
+          "download_url": "https://edge.forgecdn.net/files/7544/5/interiors-1.21.1-neoforge-0.6.1.jar",
+          "file_name": "interiors-1.21.1-neoforge-0.6.1.jar",
+          "version_number": "Interiors 0.6.1 for NeoForge 1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1068/436/256/256/638602929407669140.png",
+          "_depends_on": [
+            328085
+          ]
+        },
+        {
+          "name": "Dye The World",
+          "curseforge_id": 1135725,
+          "download_url": "https://edge.forgecdn.net/files/8009/789/dye_the_world-2.3.1.jar",
+          "file_name": "dye_the_world-2.3.1.jar",
+          "version_number": "Neoforge 2.3.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1202/837/256/256/638780097791908735.png",
+          "_depends_on": [
+            988504,
+            351264
+          ]
+        },
+        {
+          "name": "Dye Depot 2.0.2-neoforge",
+          "curseforge_id": 988504,
+          "download_url": "https://mediafilez.forgecdn.net/files/7191/858/dye_depot-2.0.2-neoforge.jar",
+          "file_name": "dye_depot-2.0.2-neoforge.jar",
+          "version_number": "Dye Depot 2.0.2-neoforge",
+          "_is_dependency": true
+        },
+        {
+          "name": "Kotlin for Forge 5.11.0",
+          "curseforge_id": 351264,
+          "download_url": "https://edge.forgecdn.net/files/7471/280/kotlinforforge-5.11.0-all.jar",
+          "file_name": "kotlinforforge-5.11.0-all.jar",
+          "version_number": "Kotlin for Forge 5.11.0",
+          "_is_dependency": true
+        },
+        {
+          "name": "Create Big Cannons",
+          "curseforge_id": 646668,
+          "download_url": "https://edge.forgecdn.net/files/8002/961/createbigcannons-5.11.3-mc.1.21.1.jar",
+          "file_name": "createbigcannons-5.11.3-mc.1.21.1.jar",
+          "version_number": "Create Big Cannons v5.11.3 for NeoForge 1.21.1, Create v6.0.7",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1072/200/256/256/638608031487115551.png",
+          "_depends_on": [
+            328085,
+            1279407
+          ]
+        },
+        {
+          "name": "Ritchie's Projectile Library v2.1.2 for NeoForge 1.21.1",
+          "curseforge_id": 1279407,
+          "download_url": "https://edge.forgecdn.net/files/7587/771/ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
+          "file_name": "ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
+          "version_number": "Ritchie's Projectile Library v2.1.2 for NeoForge 1.21.1",
+          "_is_dependency": true
+        },
+        {
+          "name": "Create: Transmission!",
+          "curseforge_id": 1354280,
+          "download_url": "https://edge.forgecdn.net/files/8011/80/createtransmission-1.1.2%2Bneoforge-create6-1.21.1.jar",
+          "file_name": "createtransmission-1.1.2+neoforge-create6-1.21.1.jar",
+          "version_number": "createtransmission-1.1.2+neoforge-create6-1.21.1.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1456/551/256/256/638945490120463350.png",
+          "_depends_on": [
+            328085
+          ]
+        },
+        {
+          "name": "Trade Cycling",
+          "curseforge_id": 570431,
+          "download_url": "https://edge.forgecdn.net/files/6497/876/trade-cycling-neoforge-1.21.1-1.0.18.jar",
+          "file_name": "trade-cycling-neoforge-1.21.1-1.0.18.jar",
+          "version_number": "[NEOFORGE][1.21.1] Trade Cycling 1.21.1-1.0.18",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/483/234/256/256/637782993021441402.png"
+        },
+        {
+          "name": "Trade Uses",
+          "curseforge_id": 902314,
+          "download_url": "https://edge.forgecdn.net/files/5489/783/tradeuses-1.2.5-1.21-NEOFORGE.jar",
+          "file_name": "tradeuses-1.2.5-1.21-NEOFORGE.jar",
+          "version_number": "[NeoForge] Trade Uses 1.2.5 - 1.21",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/864/817/256/256/638275400898684256.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-05-01T03:04:31.111Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Create: Interiors",
+            "+ Dye The World",
+            "+ Dye Depot 2.0.2-neoforge",
+            "+ Kotlin for Forge 5.11.0",
+            "+ Create Big Cannons",
+            "+ Ritchie's Projectile Library v2.1.2 for NeoForge 1.21.1",
+            "+ Create: Transmission!",
+            "+ Trade Cycling",
+            "+ Trade Uses"
+          ]
+        },
         {
           "date": "2026-05-01T01:30:00.112Z",
           "author": "Martion000",
@@ -3608,7 +3709,7 @@
           ]
         }
       ],
-      "extras_version": 53,
+      "extras_version": 54,
       "extras_url": "https://drive.google.com/file/d/1sad5ZONBjBl6dbQ1cnPblgurAU2S8rwE/view?usp=drivesdk",
       "resourcepacks": [
         {
