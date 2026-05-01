@@ -2704,9 +2704,101 @@
             328085,
             946163
           ]
+        },
+        {
+          "name": "Sodium/Embeddium Dynamic Lights",
+          "curseforge_id": 551736,
+          "download_url": "https://edge.forgecdn.net/files/6044/477/sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
+          "file_name": "sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
+          "version_number": "SodiumDynamicLights Neoforge 1.0.10 for 1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1068/309/256/256/638602793082566240.png",
+          "_depends_on": [
+            1103431,
+            394468
+          ]
+        },
+        {
+          "name": "SodiumOptionsAPI Neoforge 1.0.10 for 1.21.1",
+          "curseforge_id": 1103431,
+          "download_url": "https://edge.forgecdn.net/files/6100/815/sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
+          "file_name": "sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
+          "version_number": "SodiumOptionsAPI Neoforge 1.0.10 for 1.21.1",
+          "_is_dependency": true
+        },
+        {
+          "name": "Sodium/Embeddium Extras",
+          "curseforge_id": 558905,
+          "download_url": "https://edge.forgecdn.net/files/6394/141/sodiumextras-neoforge-1.0.8-1.21.1.jar",
+          "file_name": "sodiumextras-neoforge-1.0.8-1.21.1.jar",
+          "version_number": "SodiumExtras Neoforge 1.0.8 for 1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1066/735/256/256/638600914286319886.png",
+          "_depends_on": [
+            1103431,
+            394468
+          ]
+        },
+        {
+          "name": "Reese's Sodium Options",
+          "curseforge_id": 511319,
+          "download_url": "https://edge.forgecdn.net/files/6091/21/reeses-sodium-options-neoforge-1.8.3%2Bmc1.21.4.jar",
+          "file_name": "reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar",
+          "version_number": "[NeoForge] Reese's Sodium Options 1.8.3",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/414/599/256/256/637636962431399112.png",
+          "_depends_on": [
+            394468
+          ]
+        },
+        {
+          "name": "Create Sable Dynamic Lights",
+          "curseforge_id": 1528076,
+          "download_url": "https://edge.forgecdn.net/files/8006/631/create-dyn-light-2.3.1-sodium-sable.jar",
+          "file_name": "create-dyn-light-2.3.1-sodium-sable.jar",
+          "version_number": "create-dyn-light-2.3.1-sodium-sable.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1781/33/256/256/639129998849940862.png",
+          "_depends_on": [
+            676721,
+            328085,
+            551736,
+            1312371
+          ]
+        },
+        {
+          "name": "Create Crafts & Additions",
+          "curseforge_id": 439890,
+          "download_url": "https://edge.forgecdn.net/files/7518/252/createaddition-1.5.10.jar",
+          "file_name": "createaddition-1.5.10.jar",
+          "version_number": "createaddition-neoforge-1.21.1-1.5.10",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/405/250/256/256/637616939209778882.png",
+          "_depends_on": [
+            328085
+          ]
+        },
+        {
+          "name": "Create Additions - Sable Compat",
+          "curseforge_id": 1525684,
+          "download_url": "https://mediafilez.forgecdn.net/files/8015/853/sable_createaddition_compat-0.1.3.jar",
+          "file_name": "sable_createaddition_compat-0.1.3.jar",
+          "version_number": "sable_createaddition_compat-0.1.3.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1776/902/256/256/639128045398403880.png",
+          "_depends_on": [
+            439890
+          ]
         }
       ],
       "changelog": [
+        {
+          "date": "2026-05-01T00:33:46.674Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Sodium/Embeddium Dynamic Lights",
+            "+ SodiumOptionsAPI Neoforge 1.0.10 for 1.21.1",
+            "+ Sodium/Embeddium Extras",
+            "+ Reese's Sodium Options",
+            "+ Create Sable Dynamic Lights",
+            "+ Create Crafts & Additions",
+            "+ Create Additions - Sable Compat"
+          ]
+        },
         {
           "date": "2026-04-30T23:07:30.063Z",
           "author": "Martion000",
@@ -3144,7 +3236,7 @@
           ]
         }
       ],
-      "extras_version": 48,
+      "extras_version": 49,
       "extras_url": "https://drive.google.com/file/d/1sad5ZONBjBl6dbQ1cnPblgurAU2S8rwE/view?usp=drivesdk",
       "resourcepacks": [
         {
