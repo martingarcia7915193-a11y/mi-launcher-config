@@ -3110,26 +3110,6 @@
           ]
         },
         {
-          "name": "Dye The World",
-          "curseforge_id": 1135725,
-          "download_url": "https://edge.forgecdn.net/files/8009/789/dye_the_world-2.3.1.jar",
-          "file_name": "dye_the_world-2.3.1.jar",
-          "version_number": "Neoforge 2.3.1",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1202/837/256/256/638780097791908735.png",
-          "_depends_on": [
-            988504,
-            351264
-          ]
-        },
-        {
-          "name": "Dye Depot 2.0.2-neoforge",
-          "curseforge_id": 988504,
-          "download_url": "https://mediafilez.forgecdn.net/files/7191/858/dye_depot-2.0.2-neoforge.jar",
-          "file_name": "dye_depot-2.0.2-neoforge.jar",
-          "version_number": "Dye Depot 2.0.2-neoforge",
-          "_is_dependency": true
-        },
-        {
           "name": "Kotlin for Forge 5.11.0",
           "curseforge_id": 351264,
           "download_url": "https://edge.forgecdn.net/files/7471/280/kotlinforforge-5.11.0-all.jar",
@@ -3520,6 +3500,14 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-05-01T03:31:55.891Z",
+          "author": "Martion000",
+          "changes": [
+            "− Dye The World",
+            "− Dye Depot 2.0.2-neoforge"
+          ]
+        },
         {
           "date": "2026-05-01T03:29:28.835Z",
           "author": "Martion000",
@@ -4092,7 +4080,7 @@
           ]
         }
       ],
-      "extras_version": 56,
+      "extras_version": 57,
       "extras_url": "https://drive.google.com/file/d/1sad5ZONBjBl6dbQ1cnPblgurAU2S8rwE/view?usp=drivesdk",
       "resourcepacks": [
         {
