@@ -2783,9 +2783,76 @@
           "_depends_on": [
             439890
           ]
+        },
+        {
+          "name": "Curios API (Forge/NeoForge)",
+          "curseforge_id": 309927,
+          "download_url": "https://edge.forgecdn.net/files/6529/130/curios-neoforge-9.5.1%2B1.21.1.jar",
+          "file_name": "curios-neoforge-9.5.1+1.21.1.jar",
+          "version_number": "curios-neoforge-9.5.1+1.21.1.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/195/772/256/256/636881112930494939.png"
+        },
+        {
+          "name": "Corpse x Curios API Compat",
+          "curseforge_id": 1138130,
+          "download_url": "https://edge.forgecdn.net/files/7891/800/corpsecurioscompat-1.21.1-NeoForge-4.0.1.jar",
+          "file_name": "corpsecurioscompat-1.21.1-NeoForge-4.0.1.jar",
+          "version_number": "corpsecurioscompat-1.21.1-NeoForge-4.0.1.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1115/573/256/256/638669521923748256.png",
+          "_depends_on": [
+            1264423
+          ]
+        },
+        {
+          "name": "baguettelib-1.21.1-NeoForge-2.0.3.jar",
+          "curseforge_id": 1264423,
+          "download_url": "https://edge.forgecdn.net/files/7880/467/baguettelib-1.21.1-NeoForge-2.0.3.jar",
+          "file_name": "baguettelib-1.21.1-NeoForge-2.0.3.jar",
+          "version_number": "baguettelib-1.21.1-NeoForge-2.0.3.jar",
+          "_is_dependency": true
+        },
+        {
+          "name": "Corpse",
+          "curseforge_id": 316582,
+          "download_url": "https://edge.forgecdn.net/files/7018/307/corpse-neoforge-1.21.1-1.1.13.jar",
+          "file_name": "corpse-neoforge-1.21.1-1.1.13.jar",
+          "version_number": "[NEOFORGE][1.21.1] Corpse 1.21.1-1.1.13",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/194/489/256/256/636873305017840968.png"
+        },
+        {
+          "name": "Corpse x Cosmetic Armor Reworked Compat",
+          "curseforge_id": 1208436,
+          "download_url": "https://edge.forgecdn.net/files/7891/804/cosmeticcorpsecompat-1.21.1-NeoForge-4.0.1.jar",
+          "file_name": "cosmeticcorpsecompat-1.21.1-NeoForge-4.0.1.jar",
+          "version_number": "cosmeticcorpsecompat-1.21.1-NeoForge-4.0.1.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1186/991/256/256/638761225749034147.png",
+          "_depends_on": [
+            237307,
+            316582
+          ]
+        },
+        {
+          "name": "cosmeticarmorreworked-1.21.1-v1-neoforge.jar",
+          "curseforge_id": 237307,
+          "download_url": "https://edge.forgecdn.net/files/5610/814/cosmeticarmorreworked-1.21.1-v1-neoforge.jar",
+          "file_name": "cosmeticarmorreworked-1.21.1-v1-neoforge.jar",
+          "version_number": "cosmeticarmorreworked-1.21.1-v1-neoforge.jar",
+          "_is_dependency": true
         }
       ],
       "changelog": [
+        {
+          "date": "2026-05-01T00:57:27.817Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Curios API (Forge/NeoForge)",
+            "+ Corpse x Curios API Compat",
+            "+ baguettelib-1.21.1-NeoForge-2.0.3.jar",
+            "+ Corpse",
+            "+ Corpse x Cosmetic Armor Reworked Compat",
+            "+ cosmeticarmorreworked-1.21.1-v1-neoforge.jar"
+          ]
+        },
         {
           "date": "2026-05-01T00:33:46.674Z",
           "author": "Martion000",
@@ -3236,7 +3303,7 @@
           ]
         }
       ],
-      "extras_version": 49,
+      "extras_version": 50,
       "extras_url": "https://drive.google.com/file/d/1sad5ZONBjBl6dbQ1cnPblgurAU2S8rwE/view?usp=drivesdk",
       "resourcepacks": [
         {
