@@ -2849,9 +2849,278 @@
           "_depends_on": [
             328085
           ]
+        },
+        {
+          "name": "AppleSkin",
+          "curseforge_id": 248787,
+          "download_url": "https://edge.forgecdn.net/files/7854/442/appleskin-neoforge-mc1.21-3.0.9.jar",
+          "file_name": "appleskin-neoforge-mc1.21-3.0.9.jar",
+          "version_number": "appleskin-neoforge-mc1.21-3.0.9.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/47/527/256/256/636066936394500688.png"
+        },
+        {
+          "name": "Mouse Tweaks",
+          "curseforge_id": 60089,
+          "download_url": "https://edge.forgecdn.net/files/5637/846/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+          "file_name": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+          "version_number": "[1.21+ NeoForge] Mouse Tweaks 2.26.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/467/691/256/256/637749969243449870.png"
+        },
+        {
+          "name": "Enchantment Descriptions",
+          "curseforge_id": 250419,
+          "download_url": "https://edge.forgecdn.net/files/7039/849/enchdesc-neoforge-1.21.1-21.1.9.jar",
+          "file_name": "enchdesc-neoforge-1.21.1-21.1.9.jar",
+          "version_number": "enchdesc-neoforge-1.21.1-21.1.9.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/981/433/256/256/638488257207041172.png",
+          "_depends_on": [
+            1023259,
+            228525
+          ]
+        },
+        {
+          "name": "prickle-neoforge-1.21.1-21.1.11.jar",
+          "curseforge_id": 1023259,
+          "download_url": "https://edge.forgecdn.net/files/6961/457/prickle-neoforge-1.21.1-21.1.11.jar",
+          "file_name": "prickle-neoforge-1.21.1-21.1.11.jar",
+          "version_number": "prickle-neoforge-1.21.1-21.1.11.jar",
+          "_is_dependency": true
+        },
+        {
+          "name": "bookshelf-neoforge-1.21.1-21.1.81.jar",
+          "curseforge_id": 228525,
+          "download_url": "https://edge.forgecdn.net/files/7606/240/bookshelf-neoforge-1.21.1-21.1.81.jar",
+          "file_name": "bookshelf-neoforge-1.21.1-21.1.81.jar",
+          "version_number": "bookshelf-neoforge-1.21.1-21.1.81.jar",
+          "_is_dependency": true
+        },
+        {
+          "name": "Mod Name Tooltip",
+          "curseforge_id": 238747,
+          "download_url": "https://edge.forgecdn.net/files/6593/948/modnametooltip-1.21.1-neoforge-2.3.0.jar",
+          "file_name": "modnametooltip-1.21.1-neoforge-2.3.0.jar",
+          "version_number": "modnametooltip-1.21.1-neoforge-2.3.0.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/29/943/256/256/635853960312359636.png"
+        },
+        {
+          "name": "Polymorph (Fabric/Forge/Quilt)",
+          "curseforge_id": 388800,
+          "download_url": "https://edge.forgecdn.net/files/6794/589/polymorph-neoforge-1.1.0%2B1.21.1.jar",
+          "file_name": "polymorph-neoforge-1.1.0+1.21.1.jar",
+          "version_number": "polymorph-neoforge-1.1.0+1.21.1.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/279/271/256/256/637277042531842540.png"
+        },
+        {
+          "name": "Supplementaries",
+          "curseforge_id": 412082,
+          "download_url": "https://edge.forgecdn.net/files/7892/406/supplementaries-1.21-3.5.34-neoforge.jar",
+          "file_name": "supplementaries-1.21-3.5.34-neoforge.jar",
+          "version_number": "supplementaries-1.21-3.5.34-neoforge.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/358/166/256/256/637518566737953306_animated.gif",
+          "_depends_on": [
+            499980
+          ]
+        },
+        {
+          "name": "moonlight-1.21-2.29.33-neoforge.jar",
+          "curseforge_id": 499980,
+          "download_url": "https://edge.forgecdn.net/files/7943/878/moonlight-1.21-2.29.33-neoforge.jar",
+          "file_name": "moonlight-1.21-2.29.33-neoforge.jar",
+          "version_number": "moonlight-1.21-2.29.33-neoforge.jar",
+          "_is_dependency": true
+        },
+        {
+          "name": "Comforts",
+          "curseforge_id": 276951,
+          "download_url": "https://edge.forgecdn.net/files/7515/858/comforts-neoforge-9.0.5%2B1.21.1.jar",
+          "file_name": "comforts-neoforge-9.0.5+1.21.1.jar",
+          "version_number": "comforts-neoforge-9.0.5+1.21.1.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/203/105/256/256/636930549407382137.png"
+        },
+        {
+          "name": "Iris Shaders",
+          "curseforge_id": 455508,
+          "download_url": "https://edge.forgecdn.net/files/6661/598/iris-neoforge-1.8.12%2Bmc1.21.1.jar",
+          "file_name": "iris-neoforge-1.8.12+mc1.21.1.jar",
+          "version_number": "Iris 1.8.12 for NeoForge 1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1002/450/256/256/638522657871453967.png",
+          "_depends_on": [
+            394468
+          ]
+        },
+        {
+          "name": "Crash Assistant",
+          "curseforge_id": 1154099,
+          "download_url": "https://edge.forgecdn.net/files/7913/44/CrashAssistant-neoforge-1.20.6-1.21.4-1.11.8.jar",
+          "file_name": "CrashAssistant-neoforge-1.20.6-1.21.4-1.11.8.jar",
+          "version_number": "CrashAssistant-neoforge-1.20.6-1.21.4-1.11.8.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1482/227/256/256/638963404721998907.png"
+        },
+        {
+          "name": "Handcrafted",
+          "curseforge_id": 538214,
+          "download_url": "https://edge.forgecdn.net/files/6330/30/handcrafted-neoforge-1.21.1-4.0.3.jar",
+          "file_name": "handcrafted-neoforge-1.21.1-4.0.3.jar",
+          "version_number": "[NeoForge] Handcrafted 4.0.3",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/676/448/256/256/638067467429210259_animated.gif",
+          "_depends_on": [
+            570073
+          ]
+        },
+        {
+          "name": "[NeoForge] Resourceful Lib 3.0.12",
+          "curseforge_id": 570073,
+          "download_url": "https://edge.forgecdn.net/files/5973/188/resourcefullib-neoforge-1.21-3.0.12.jar",
+          "file_name": "resourcefullib-neoforge-1.21-3.0.12.jar",
+          "version_number": "[NeoForge] Resourceful Lib 3.0.12",
+          "_is_dependency": true
+        },
+        {
+          "name": "Artifacts",
+          "curseforge_id": 312353,
+          "download_url": "https://edge.forgecdn.net/files/7875/426/artifacts-neoforge-13.2.1.jar",
+          "file_name": "artifacts-neoforge-13.2.1.jar",
+          "version_number": "artifacts-neoforge-13.2.1.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/444/622/256/256/637699815276651872.png"
+        },
+        {
+          "name": "Reliquified Artifacts",
+          "curseforge_id": 1100379,
+          "download_url": "https://edge.forgecdn.net/files/7881/396/reliquified_artifacts-1.21.1-1.0.4.jar",
+          "file_name": "reliquified_artifacts-1.21.1-1.0.4.jar",
+          "version_number": "reliquified_artifacts-1.21.1-1.0.4.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1083/26/256/256/638623617290403030_animated.gif",
+          "_depends_on": [
+            312353,
+            445274
+          ]
+        },
+        {
+          "name": "relics-1.21.1-0.11.16.jar",
+          "curseforge_id": 445274,
+          "download_url": "https://edge.forgecdn.net/files/8009/998/relics-1.21.1-0.11.16.jar",
+          "file_name": "relics-1.21.1-0.11.16.jar",
+          "version_number": "relics-1.21.1-0.11.16.jar",
+          "_is_dependency": true
+        },
+        {
+          "name": "Lithium (Fabric/NeoForge)",
+          "curseforge_id": 360438,
+          "download_url": "https://edge.forgecdn.net/files/7740/400/lithium-neoforge-0.15.3%2Bmc1.21.1.jar",
+          "file_name": "lithium-neoforge-0.15.3+mc1.21.1.jar",
+          "version_number": "Lithium mc1.21.1-0.15.3 for Neoforge",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/246/646/256/256/637158441743060329.png"
+        },
+        {
+          "name": "Chipped",
+          "curseforge_id": 456956,
+          "download_url": "https://edge.forgecdn.net/files/5813/117/chipped-neoforge-1.21.1-4.0.2.jar",
+          "file_name": "chipped-neoforge-1.21.1-4.0.2.jar",
+          "version_number": "[NeoForge] Chipped 4.0.2",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/495/254/256/256/637808243655328652_animated.gif",
+          "_depends_on": [
+            570073,
+            841890
+          ]
+        },
+        {
+          "name": "[NeoForge] Athena 4.0.2",
+          "curseforge_id": 841890,
+          "download_url": "https://edge.forgecdn.net/files/6669/522/athena-neoforge-1.21-4.0.2.jar",
+          "file_name": "athena-neoforge-1.21-4.0.2.jar",
+          "version_number": "[NeoForge] Athena 4.0.2",
+          "_is_dependency": true
+        },
+        {
+          "name": "Quark",
+          "curseforge_id": 243121,
+          "download_url": "https://edge.forgecdn.net/files/7980/26/Quark-4.1-477.jar",
+          "file_name": "Quark-4.1-477.jar",
+          "version_number": "Quark-4.1-477.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/588/295/256/256/637958240318838626.png",
+          "_depends_on": [
+            968868
+          ]
+        },
+        {
+          "name": "Zeta-1.1-40.jar",
+          "curseforge_id": 968868,
+          "download_url": "https://edge.forgecdn.net/files/7980/10/Zeta-1.1-40.jar",
+          "file_name": "Zeta-1.1-40.jar",
+          "version_number": "Zeta-1.1-40.jar",
+          "_is_dependency": true
+        },
+        {
+          "name": "FTB Quests (NeoForge)",
+          "curseforge_id": 289412,
+          "download_url": "https://edge.forgecdn.net/files/7878/289/ftb-quests-neoforge-2101.1.24.jar",
+          "file_name": "ftb-quests-neoforge-2101.1.24.jar",
+          "version_number": "[NEOFORGE][1.21.1] FTB Quests 2101.1.24",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/972/571/256/256/638474884805475097.png",
+          "_depends_on": [
+            404468,
+            404465,
+            419699
+          ]
+        },
+        {
+          "name": "[NEOFORGE][1.21.1] FTB Teams 2101.1.10",
+          "curseforge_id": 404468,
+          "download_url": "https://edge.forgecdn.net/files/7878/281/ftb-teams-neoforge-2101.1.10.jar",
+          "file_name": "ftb-teams-neoforge-2101.1.10.jar",
+          "version_number": "[NEOFORGE][1.21.1] FTB Teams 2101.1.10",
+          "_is_dependency": true
+        },
+        {
+          "name": "[NEOFORGE][1.21.1] FTB Library 2101.1.31",
+          "curseforge_id": 404465,
+          "download_url": "https://edge.forgecdn.net/files/7746/959/ftb-library-neoforge-2101.1.31.jar",
+          "file_name": "ftb-library-neoforge-2101.1.31.jar",
+          "version_number": "[NEOFORGE][1.21.1] FTB Library 2101.1.31",
+          "_is_dependency": true
+        },
+        {
+          "name": "[NeoForge 1.21(.1)] v13.0.8",
+          "curseforge_id": 419699,
+          "download_url": "https://edge.forgecdn.net/files/5786/327/architectury-13.0.8-neoforge.jar",
+          "file_name": "architectury-13.0.8-neoforge.jar",
+          "version_number": "[NeoForge 1.21(.1)] v13.0.8",
+          "_is_dependency": true
         }
       ],
       "changelog": [
+        {
+          "date": "2026-05-01T01:27:22.329Z",
+          "author": "Martion000",
+          "changes": [
+            "+ AppleSkin",
+            "+ Mouse Tweaks",
+            "+ Enchantment Descriptions",
+            "+ prickle-neoforge-1.21.1-21.1.11.jar",
+            "+ bookshelf-neoforge-1.21.1-21.1.81.jar",
+            "+ Mod Name Tooltip",
+            "+ Polymorph (Fabric/Forge/Quilt)",
+            "+ Supplementaries",
+            "+ moonlight-1.21-2.29.33-neoforge.jar",
+            "+ Comforts",
+            "+ Iris Shaders",
+            "+ Crash Assistant",
+            "+ Handcrafted",
+            "+ [NeoForge] Resourceful Lib 3.0.12",
+            "+ Artifacts",
+            "+ Reliquified Artifacts",
+            "+ relics-1.21.1-0.11.16.jar",
+            "+ Lithium (Fabric/NeoForge)",
+            "+ Chipped",
+            "+ [NeoForge] Athena 4.0.2",
+            "+ Quark",
+            "+ Zeta-1.1-40.jar",
+            "+ FTB Quests (NeoForge)",
+            "+ [NEOFORGE][1.21.1] FTB Teams 2101.1.10",
+            "+ [NEOFORGE][1.21.1] FTB Library 2101.1.31",
+            "+ [NeoForge 1.21(.1)] v13.0.8"
+          ]
+        },
         {
           "date": "2026-05-01T01:18:35.994Z",
           "author": "Martion000",
@@ -3321,7 +3590,7 @@
           ]
         }
       ],
-      "extras_version": 51,
+      "extras_version": 52,
       "extras_url": "https://drive.google.com/file/d/1sad5ZONBjBl6dbQ1cnPblgurAU2S8rwE/view?usp=drivesdk",
       "resourcepacks": [
         {
