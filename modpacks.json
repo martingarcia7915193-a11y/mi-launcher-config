@@ -3804,9 +3804,45 @@
           "file_name": "easyautocycler-neoforge-1.21.1-2.2.0.jar",
           "version_number": "Easy Auto Cycler 2.2.0 1.21.1 NeoForge",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1223/564/256/256/638801716533815980.png"
+        },
+        {
+          "name": "Just Enough Resources (JER)",
+          "curseforge_id": 240630,
+          "download_url": "https://edge.forgecdn.net/files/6506/298/JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar",
+          "file_name": "JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar",
+          "version_number": "JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/32/419/256/256/635880199659979425.png"
+        },
+        {
+          "name": "Just Enough Professions (JEP)",
+          "curseforge_id": 417645,
+          "download_url": "https://edge.forgecdn.net/files/7966/681/JustEnoughProfessions-neoforge-1.21.1-4.0.5.jar",
+          "file_name": "JustEnoughProfessions-neoforge-1.21.1-4.0.5.jar",
+          "version_number": "JustEnoughProfessions-neoforge-1.21.1-4.0.5.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/311/84/256/256/637401177607519178.png",
+          "_depends_on": [
+            238222
+          ]
+        },
+        {
+          "name": "Just Enough Archaeology",
+          "curseforge_id": 890755,
+          "download_url": "https://edge.forgecdn.net/files/7768/445/jearchaeology-1.21.1-1.2.0.jar",
+          "file_name": "jearchaeology-1.21.1-1.2.0.jar",
+          "version_number": "jearchaeology-1.21.1-1.2.0.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/852/158/256/256/638254730613855169.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-05-02T03:37:17.905Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Just Enough Resources (JER)",
+            "+ Just Enough Professions (JEP)",
+            "+ Just Enough Archaeology"
+          ]
+        },
         {
           "date": "2026-05-02T03:36:07.767Z",
           "author": "Martion000",
@@ -4531,7 +4567,7 @@
           ]
         }
       ],
-      "extras_version": 75,
+      "extras_version": 76,
       "extras_url": "https://drive.google.com/file/d/1sad5ZONBjBl6dbQ1cnPblgurAU2S8rwE/view?usp=drivesdk",
       "resourcepacks": [
         {
