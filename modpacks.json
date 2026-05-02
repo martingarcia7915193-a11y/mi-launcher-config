@@ -3870,9 +3870,27 @@
             1475175,
             328085
           ]
+        },
+        {
+          "name": "Create: Framed",
+          "curseforge_id": 953126,
+          "download_url": "https://edge.forgecdn.net/files/7698/798/createframed-1.21.1-1.7.3.jar",
+          "file_name": "createframed-1.21.1-1.7.3.jar",
+          "version_number": "[Neoforge] Create: Framed 1.7.3 for mc1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1286/328/256/256/638836511970903030.png",
+          "_depends_on": [
+            328085
+          ]
         }
       ],
       "changelog": [
+        {
+          "date": "2026-05-02T21:22:40.558Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Create: Framed"
+          ]
+        },
         {
           "date": "2026-05-02T18:37:32.610Z",
           "author": "Martion000",
@@ -4630,7 +4648,7 @@
           ]
         }
       ],
-      "extras_version": 79,
+      "extras_version": 80,
       "extras_url": "https://drive.google.com/file/d/1sad5ZONBjBl6dbQ1cnPblgurAU2S8rwE/view?usp=drivesdk",
       "resourcepacks": [
         {
