@@ -3719,9 +3719,70 @@
           "file_name": "FramedBlocks-10.5.3.jar",
           "version_number": "FramedBlocks-10.5.3.jar",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/337/942/256/256/637476252137998899.png"
+        },
+        {
+          "name": "Create: Bells & Whistles",
+          "curseforge_id": 905040,
+          "download_url": "https://edge.forgecdn.net/files/6299/879/bellsandwhistles-0.4.7-1.21.1.jar",
+          "file_name": "bellsandwhistles-0.4.7-1.21.1.jar",
+          "version_number": "bellsandwhistles-0.4.7-1.21.1.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1068/437/256/256/638602929669872740.png"
+        },
+        {
+          "name": "Create More: Vertical Belts",
+          "curseforge_id": 1455587,
+          "download_url": "https://edge.forgecdn.net/files/7584/940/cmverticaladditions-neoforge-1.0.0.jar",
+          "file_name": "cmverticaladditions-neoforge-1.0.0.jar",
+          "version_number": "cmverticaladditions-neoforge-1.0.0.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1664/644/256/256/639059909589577786.png",
+          "_depends_on": [
+            328085
+          ]
+        },
+        {
+          "name": "Create More: Parallel Pipes",
+          "curseforge_id": 1283321,
+          "download_url": "https://edge.forgecdn.net/files/7377/910/cmparallelpipes-neoforge-2.0.2.jar",
+          "file_name": "cmparallelpipes-neoforge-2.0.2.jar",
+          "version_number": "cmparallelpipes-neoforge-2.0.2.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1308/254/256/256/638850648136943135.png",
+          "_depends_on": [
+            328085
+          ]
+        },
+        {
+          "name": "Create: Fuel & Water Information",
+          "curseforge_id": 1023209,
+          "download_url": "https://edge.forgecdn.net/files/6977/635/cfwinfo-1.6.0.jar",
+          "file_name": "cfwinfo-1.6.0.jar",
+          "version_number": "Create: Fuel & Water Information 1.21.1 v1.6.0",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1024/657/256/256/638547790122400775.png",
+          "_depends_on": [
+            466792,
+            328085
+          ]
+        },
+        {
+          "name": "Create: Aquatic Ambitions",
+          "curseforge_id": 1005676,
+          "download_url": "https://edge.forgecdn.net/files/7192/82/create_aquatic_ambitions-1.21.1-2.0.2.jar",
+          "file_name": "create_aquatic_ambitions-1.21.1-2.0.2.jar",
+          "version_number": "Create Aquatic Ambitions 1.21.1-2.0.2 for Create 6.0.8",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1196/46/256/256/638771655701162572.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-05-02T03:31:50.671Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Create: Bells & Whistles",
+            "+ Create More: Vertical Belts",
+            "+ Create More: Parallel Pipes",
+            "+ Create: Fuel & Water Information",
+            "+ Create: Aquatic Ambitions"
+          ]
+        },
         {
           "date": "2026-05-02T03:21:04.962Z",
           "author": "Martion000",
@@ -4419,7 +4480,7 @@
           ]
         }
       ],
-      "extras_version": 71,
+      "extras_version": 72,
       "extras_url": "https://drive.google.com/file/d/1sad5ZONBjBl6dbQ1cnPblgurAU2S8rwE/view?usp=drivesdk",
       "resourcepacks": [
         {
