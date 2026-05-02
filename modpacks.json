@@ -3691,9 +3691,49 @@
           "_depends_on": [
             324717
           ]
+        },
+        {
+          "name": "KubeJS",
+          "curseforge_id": 238086,
+          "download_url": "https://edge.forgecdn.net/files/8012/65/kubejs-neoforge-2101.7.2-build.363.jar",
+          "file_name": "kubejs-neoforge-2101.7.2-build.363.jar",
+          "version_number": "KubeJS NeoForge 2101.7.2-build.363",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1053/159/256/256/638583716122159056.png",
+          "_depends_on": [
+            416294
+          ]
+        },
+        {
+          "name": "Rhino 2101.2.7-build.81",
+          "curseforge_id": 416294,
+          "download_url": "https://edge.forgecdn.net/files/7104/526/rhino-2101.2.7-build.81.jar",
+          "file_name": "rhino-2101.2.7-build.81.jar",
+          "version_number": "Rhino 2101.2.7-build.81",
+          "_is_dependency": true
+        },
+        {
+          "name": "KubeJS Create",
+          "curseforge_id": 429371,
+          "download_url": "https://edge.forgecdn.net/files/7213/667/kubejs-create-neoforge-2101.3.1-build.18.jar",
+          "file_name": "kubejs-create-neoforge-2101.3.1-build.18.jar",
+          "version_number": "KubeJS Create NeoForge 2101.3.1-build.18",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1053/163/256/256/638583716306077014.png",
+          "_depends_on": [
+            328085,
+            238086
+          ]
         }
       ],
       "changelog": [
+        {
+          "date": "2026-05-02T02:23:17.302Z",
+          "author": "Martion000",
+          "changes": [
+            "+ KubeJS",
+            "+ Rhino 2101.2.7-build.81",
+            "+ KubeJS Create"
+          ]
+        },
         {
           "date": "2026-05-02T02:01:31.760Z",
           "author": "Martion000",
@@ -4354,7 +4394,7 @@
           ]
         }
       ],
-      "extras_version": 66,
+      "extras_version": 67,
       "extras_url": "https://drive.google.com/file/d/1sad5ZONBjBl6dbQ1cnPblgurAU2S8rwE/view?usp=drivesdk",
       "resourcepacks": [
         {
