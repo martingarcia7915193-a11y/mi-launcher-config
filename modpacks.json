@@ -3548,9 +3548,63 @@
           "file_name": "TotemFactory-1.1.1+mc1.21.1-NeoForge.jar",
           "version_number": "1.1.1+mc1.21.1-NeoForge",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1641/231/256/256/639049399907367953.png"
+        },
+        {
+          "name": "Create: Mobile Packages",
+          "curseforge_id": 1232978,
+          "download_url": "https://edge.forgecdn.net/files/7967/517/create_mobile_packages-1.21.1-0.7.4.jar",
+          "file_name": "create_mobile_packages-1.21.1-0.7.4.jar",
+          "version_number": "Create: Mobile Packages 1.21.1-0.7.4",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1243/148/256/256/638812853709049141.png",
+          "_depends_on": [
+            328085
+          ]
+        },
+        {
+          "name": "Create: Central Kitchen",
+          "curseforge_id": 820977,
+          "download_url": "https://edge.forgecdn.net/files/8023/674/create-central-kitchen-2.4.0.jar",
+          "file_name": "create-central-kitchen-2.4.0.jar",
+          "version_number": "Create: Central Kitchen 2.4.0 for Create 1.21.1-6.0.10",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1260/398/256/256/638820652823585106.png",
+          "_depends_on": [
+            1216624
+          ]
+        },
+        {
+          "name": "Trading Post",
+          "curseforge_id": 539057,
+          "download_url": "https://edge.forgecdn.net/files/7143/451/TradingPost-v21.1.1-1.21.1-NeoForge.jar",
+          "file_name": "TradingPost-v21.1.1-1.21.1-NeoForge.jar",
+          "version_number": "[NEOFORGE] [1.21.1] TradingPost-v21.1.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/776/152/256/256/638118060002759129.png",
+          "_depends_on": [
+            495476
+          ]
+        },
+        {
+          "name": "Create: Blocks & Bogies",
+          "curseforge_id": 1317252,
+          "download_url": "https://edge.forgecdn.net/files/7471/348/create_bb-1.0.7-1.21.1-Neoforge.jar",
+          "file_name": "create_bb-1.0.7-1.21.1-Neoforge.jar",
+          "version_number": "Create: Blocks & Bogies v1.0.7 | NeoForge | 1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1379/222/256/256/638894708494951104.png",
+          "_depends_on": [
+            328085
+          ]
         }
       ],
       "changelog": [
+        {
+          "date": "2026-05-02T01:28:13.777Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Create: Mobile Packages",
+            "+ Create: Central Kitchen",
+            "+ Trading Post",
+            "+ Create: Blocks & Bogies"
+          ]
+        },
         {
           "date": "2026-05-01T16:48:00.532Z",
           "author": "Martion000",
@@ -4155,7 +4209,7 @@
           ]
         }
       ],
-      "extras_version": 60,
+      "extras_version": 61,
       "extras_url": "https://drive.google.com/file/d/1sad5ZONBjBl6dbQ1cnPblgurAU2S8rwE/view?usp=drivesdk",
       "resourcepacks": [
         {
