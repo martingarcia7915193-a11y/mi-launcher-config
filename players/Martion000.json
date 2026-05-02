@@ -38,9 +38,9 @@
     "custom_fabulously_optimized_1777308099425": 47647,
     "test": 108624
   },
-  "online": false,
-  "playing": null,
-  "last_seen": 1777692316365,
+  "online": true,
+  "playing": "aviones",
+  "last_seen": 1777693229291,
   "playing_name": "Create + aviones :v",
-  "playing_since": 1777690441196
+  "playing_since": 1777693228808
 }
