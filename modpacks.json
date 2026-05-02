@@ -3671,17 +3671,6 @@
           ]
         },
         {
-          "name": "Create: Ultimate Factory",
-          "curseforge_id": 978125,
-          "download_url": "https://edge.forgecdn.net/files/7636/508/create_ultimate_factory-2.2.3-neoforge-1.21.1.jar",
-          "file_name": "create_ultimate_factory-2.2.3-neoforge-1.21.1.jar",
-          "version_number": "create_ultimate_factory-2.2.3-neoforge-1.21.1.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1101/579/256/256/638649476880609820.png",
-          "_depends_on": [
-            328085
-          ]
-        },
-        {
           "name": "Jade Addons (Neo/Forge)",
           "curseforge_id": 583345,
           "download_url": "https://edge.forgecdn.net/files/6315/149/JadeAddons-1.21.1-NeoForge-6.1.0.jar",
@@ -3733,6 +3722,13 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-05-02T03:21:04.962Z",
+          "author": "Martion000",
+          "changes": [
+            "− Create: Ultimate Factory"
+          ]
+        },
         {
           "date": "2026-05-02T03:17:15.890Z",
           "author": "Martion000",
@@ -4423,7 +4419,7 @@
           ]
         }
       ],
-      "extras_version": 70,
+      "extras_version": 71,
       "extras_url": "https://drive.google.com/file/d/1sad5ZONBjBl6dbQ1cnPblgurAU2S8rwE/view?usp=drivesdk",
       "resourcepacks": [
         {
