@@ -3596,6 +3596,13 @@
       ],
       "changelog": [
         {
+          "date": "2026-05-02T01:28:31.328Z",
+          "author": "Martion000",
+          "changes": [
+            "− Create UI (RP)"
+          ]
+        },
+        {
           "date": "2026-05-02T01:28:13.777Z",
           "author": "Martion000",
           "changes": [
@@ -4209,7 +4216,7 @@
           ]
         }
       ],
-      "extras_version": 61,
+      "extras_version": 62,
       "extras_url": "https://drive.google.com/file/d/1sad5ZONBjBl6dbQ1cnPblgurAU2S8rwE/view?usp=drivesdk",
       "resourcepacks": [
         {
@@ -4219,14 +4226,6 @@
           "file_name": "Tom's Create Style 1.2 - 1.21.zip",
           "version_number": "Tom's Create Style 1.2 - 1.21.zip",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1273/480/256/256/638828425709420198.png"
-        },
-        {
-          "name": "Create UI",
-          "curseforge_id": 938959,
-          "download_url": "https://edge.forgecdn.net/files/6475/177/Create_UI_1.21.zip",
-          "file_name": "Create_UI_1.21.zip",
-          "version_number": "Create UI 1.21",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1296/619/256/256/638842858575884255.png"
         }
       ]
     },
