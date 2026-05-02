@@ -3870,9 +3870,27 @@
             1475175,
             328085
           ]
+        },
+        {
+          "name": "Create : Creating Space",
+          "curseforge_id": 858897,
+          "download_url": "https://edge.forgecdn.net/files/8017/28/creatingspace-1.21.1-1.7.17.jar",
+          "file_name": "creatingspace-1.21.1-1.7.17.jar",
+          "version_number": "creatingspace-1.21.1-1.7.17",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1066/338/256/256/638600276043872447.png",
+          "_depends_on": [
+            328085
+          ]
         }
       ],
       "changelog": [
+        {
+          "date": "2026-05-02T18:33:17.525Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Create : Creating Space"
+          ]
+        },
         {
           "date": "2026-05-02T03:39:51.298Z",
           "author": "Martion000",
@@ -4616,7 +4634,7 @@
           ]
         }
       ],
-      "extras_version": 77,
+      "extras_version": 78,
       "extras_url": "https://drive.google.com/file/d/1sad5ZONBjBl6dbQ1cnPblgurAU2S8rwE/view?usp=drivesdk",
       "resourcepacks": [
         {
