@@ -3730,20 +3730,16 @@
           "file_name": "FramedBlocks-10.5.3.jar",
           "version_number": "FramedBlocks-10.5.3.jar",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/337/942/256/256/637476252137998899.png"
-        },
-        {
-          "name": "Create: Dynamic Lights",
-          "curseforge_id": 1076861,
-          "download_url": "https://mediafilez.forgecdn.net/files/7080/703/create-dyn-light-forge-1.21.1-2.0.1.jar",
-          "file_name": "create-dyn-light-forge-1.21.1-2.0.1.jar",
-          "version_number": "NeoForge 1.21.1+2.0.1-beta",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1052/655/256/256/638582933902161281.png",
-          "_depends_on": [
-            328085
-          ]
         }
       ],
       "changelog": [
+        {
+          "date": "2026-05-02T03:17:15.890Z",
+          "author": "Martion000",
+          "changes": [
+            "− Create: Dynamic Lights"
+          ]
+        },
         {
           "date": "2026-05-02T02:53:47.381Z",
           "author": "Martion000",
@@ -4427,7 +4423,7 @@
           ]
         }
       ],
-      "extras_version": 69,
+      "extras_version": 70,
       "extras_url": "https://drive.google.com/file/d/1sad5ZONBjBl6dbQ1cnPblgurAU2S8rwE/view?usp=drivesdk",
       "resourcepacks": [
         {
