@@ -3881,9 +3881,131 @@
           "_depends_on": [
             328085
           ]
+        },
+        {
+          "name": "Create: Structures Arise",
+          "curseforge_id": 1010066,
+          "download_url": "https://mediafilez.forgecdn.net/files/7772/648/create_structures_arise-174.47.46%20Release-neoforge-1.21.1.jar",
+          "file_name": "create_structures_arise-174.47.46 Release-neoforge-1.21.1.jar",
+          "version_number": "create_structures_arise-174.47.46 Release-neoforge-1.21.1.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1067/516/256/256/638601854484952136.png",
+          "_depends_on": [
+            1470821
+          ]
+        },
+        {
+          "name": "anvilcore-10.1 Release-neoforge-1.21.1.jar",
+          "curseforge_id": 1470821,
+          "download_url": "https://edge.forgecdn.net/files/7771/419/anvilcore-10.1%20Release-neoforge-1.21.1.jar",
+          "file_name": "anvilcore-10.1 Release-neoforge-1.21.1.jar",
+          "version_number": "anvilcore-10.1 Release-neoforge-1.21.1.jar",
+          "_is_dependency": true
+        },
+        {
+          "name": "Rechiseled: Create",
+          "curseforge_id": 888624,
+          "download_url": "https://edge.forgecdn.net/files/7522/529/rechiseledcreate-1.1.0-neoforge-mc1.21.jar",
+          "file_name": "rechiseledcreate-1.1.0-neoforge-mc1.21.jar",
+          "version_number": "Rechiseled: Create 1.1.0 for NeoForge 1.21",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/848/902/256/256/638249353195216679.png",
+          "_depends_on": [
+            558998,
+            328085
+          ]
+        },
+        {
+          "name": "Create: Water wheel bearing",
+          "curseforge_id": 1420394,
+          "download_url": "https://edge.forgecdn.net/files/7933/274/waterwheelbearing-2.0.3.jar",
+          "file_name": "waterwheelbearing-2.0.3.jar",
+          "version_number": "waterwheelbearing-2.0.3.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1594/683/256/256/639031084100886662.png"
+        },
+        {
+          "name": "Create: Let The Adventure Begin",
+          "curseforge_id": 1007872,
+          "download_url": "https://mediafilez.forgecdn.net/files/8027/779/create_ltab-3.9.2.jar",
+          "file_name": "create_ltab-3.9.2.jar",
+          "version_number": "Let The Adventure Begin 3.9.2  ",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1158/135/256/256/638726420331721627_animated.gif"
+        },
+        {
+          "name": "Create: Mechanical Botany",
+          "curseforge_id": 1276978,
+          "download_url": "https://edge.forgecdn.net/files/7768/438/mechanical_botany-1.1.2%2B1.21.1-neoforged.jar",
+          "file_name": "mechanical_botany-1.1.2+1.21.1-neoforged.jar",
+          "version_number": "Create: Mechanical Botany 1.1.2 for mc1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1295/930/256/256/638842349374482643.png",
+          "_depends_on": [
+            328085
+          ]
+        },
+        {
+          "name": "Create: Molten Vents",
+          "curseforge_id": 824654,
+          "download_url": "https://edge.forgecdn.net/files/6803/367/molten_vents-1.21.1-2.1.1.jar",
+          "file_name": "molten_vents-1.21.1-2.1.1.jar",
+          "version_number": "Molten Vents 1.21.1-2.1.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/825/835/256/256/638211834174137892.png"
+        },
+        {
+          "name": "Create: Power Grid",
+          "curseforge_id": 1321420,
+          "download_url": "https://edge.forgecdn.net/files/7999/916/powergrid-mc1.21.1-0.5.5.1.jar",
+          "file_name": "powergrid-mc1.21.1-0.5.5.1.jar",
+          "version_number": "Power Grid - 0.5.5.1 - NeoForge",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1388/107/256/256/638900061194844298.png",
+          "_depends_on": [
+            328085,
+            419699
+          ]
+        },
+        {
+          "name": "Create: Fishery Industry",
+          "curseforge_id": 1245539,
+          "download_url": "https://edge.forgecdn.net/files/7871/231/createfisheryindustry-5.0.1.jar",
+          "file_name": "createfisheryindustry-5.0.1.jar",
+          "version_number": "Fishery Industry 5.0.1 Neoforge 1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1232/331/256/256/638808032433472874.png"
+        },
+        {
+          "name": "Create: Automotives",
+          "curseforge_id": 1439308,
+          "download_url": "https://edge.forgecdn.net/files/7985/10/create-automotives-1.21.1-V2.jar",
+          "file_name": "create-automotives-1.21.1-V2.jar",
+          "version_number": "Create: Automotives - 1.21.1 - V2",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1775/823/256/256/639127533586150702_animated.gif",
+          "_depends_on": [
+            286703
+          ]
+        },
+        {
+          "name": "Immersive Vehicles-1.21.1-24.0.0",
+          "curseforge_id": 286703,
+          "download_url": "https://edge.forgecdn.net/files/7926/606/Immersive%20Vehicles-1.21.1-24.0.0.jar",
+          "file_name": "Immersive Vehicles-1.21.1-24.0.0.jar",
+          "version_number": "Immersive Vehicles-1.21.1-24.0.0",
+          "_is_dependency": true
         }
       ],
       "changelog": [
+        {
+          "date": "2026-05-02T21:39:04.696Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Create: Structures Arise",
+            "+ anvilcore-10.1 Release-neoforge-1.21.1.jar",
+            "+ Rechiseled: Create",
+            "+ Create: Water wheel bearing",
+            "+ Create: Let The Adventure Begin",
+            "+ Create: Mechanical Botany",
+            "+ Create: Molten Vents",
+            "+ Create: Power Grid",
+            "+ Create: Fishery Industry",
+            "+ Create: Automotives",
+            "+ Immersive Vehicles-1.21.1-24.0.0"
+          ]
+        },
         {
           "date": "2026-05-02T21:22:40.558Z",
           "author": "Martion000",
@@ -4648,7 +4770,7 @@
           ]
         }
       ],
-      "extras_version": 80,
+      "extras_version": 81,
       "extras_url": "https://drive.google.com/file/d/1sad5ZONBjBl6dbQ1cnPblgurAU2S8rwE/view?usp=drivesdk",
       "resourcepacks": [
         {
