@@ -39,9 +39,9 @@
     "test": 108624,
     "custom_cabin_1777742030181": 1361077
   },
-  "online": true,
+  "online": false,
   "playing": null,
-  "last_seen": 1777743528227,
+  "last_seen": 1777745023641,
   "playing_name": "CABIN",
   "playing_since": 1777742166149
 }
