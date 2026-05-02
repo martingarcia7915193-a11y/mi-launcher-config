@@ -3577,6 +3577,14 @@
       ],
       "changelog": [
         {
+          "date": "2026-05-02T01:58:29.349Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Tom's Create Style Recipes (DP)",
+            "+ Create: Create: Dreams n' Desires - No Diamond Recipes (DP)"
+          ]
+        },
+        {
           "date": "2026-05-02T01:32:09.829Z",
           "author": "Martion000",
           "changes": [
@@ -4205,7 +4213,7 @@
           ]
         }
       ],
-      "extras_version": 63,
+      "extras_version": 64,
       "extras_url": "https://drive.google.com/file/d/1sad5ZONBjBl6dbQ1cnPblgurAU2S8rwE/view?usp=drivesdk",
       "resourcepacks": [
         {
@@ -4215,6 +4223,24 @@
           "file_name": "Tom's Create Style 1.2 - 1.21.zip",
           "version_number": "Tom's Create Style 1.2 - 1.21.zip",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1273/480/256/256/638828425709420198.png"
+        }
+      ],
+      "datapacks": [
+        {
+          "name": "Tom's Create Style Recipes",
+          "curseforge_id": 1266888,
+          "download_url": "https://edge.forgecdn.net/files/6852/972/Tom's%20Create%20Style%20Recipes%201.0%20-%201.21.zip",
+          "file_name": "Tom's Create Style Recipes 1.0 - 1.21.zip",
+          "version_number": "Tom's Create Style Recipes 1.0 - 1.21.zip",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1275/833/256/256/638830037377239809.png"
+        },
+        {
+          "name": "Create: Create: Dreams n' Desires - No Diamond Recipes",
+          "curseforge_id": 1455778,
+          "download_url": "https://edge.forgecdn.net/files/7586/38/no_dnd_diamond_1.21.zip",
+          "file_name": "no_dnd_diamond_1.21.zip",
+          "version_number": "no_dnd_diamond_1.21.zip",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1665/33/256/256/639060067460467018.png"
         }
       ]
     },
