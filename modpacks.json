@@ -4046,17 +4046,16 @@
           "file_name": "SimpleBackups-1.21-4.0.30.jar",
           "version_number": "SimpleBackups-1.21-4.0.30.jar",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/504/213/256/256/637821575420954591.png"
-        },
-        {
-          "name": "Create Aeronautics x Curios API Compat",
-          "curseforge_id": 1532334,
-          "download_url": "https://edge.forgecdn.net/files/8030/913/createaeronauticscurios-neoforge-1.21.1-1.0.jar",
-          "file_name": "createaeronauticscurios-neoforge-1.21.1-1.0.jar",
-          "version_number": "createaeronauticscurios-neoforge-1.21.1-1.0",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1788/755/256/256/639133885966944802.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-05-03T17:50:24.900Z",
+          "author": "Martion000",
+          "changes": [
+            "− Create Aeronautics x Curios API Compat"
+          ]
+        },
         {
           "date": "2026-05-03T16:55:30.493Z",
           "author": "Martion000",
@@ -4901,7 +4900,7 @@
           ]
         }
       ],
-      "extras_version": 84,
+      "extras_version": 85,
       "extras_url": "https://drive.google.com/file/d/1sad5ZONBjBl6dbQ1cnPblgurAU2S8rwE/view?usp=drivesdk",
       "resourcepacks": [
         {
