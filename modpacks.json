@@ -3994,9 +3994,45 @@
           "file_name": "EuphoriaPatcher-1.8.6-r5.7.1-neoforge.jar",
           "version_number": "Euphoria Patcher 1.8.6-r5.7.1-neoforge",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1198/673/256/256/638774916393051591.png"
+        },
+        {
+          "name": "FerriteCore ((Neo)Forge)",
+          "curseforge_id": 429235,
+          "download_url": "https://edge.forgecdn.net/files/7524/151/ferritecore-7.0.3-neoforge.jar",
+          "file_name": "ferritecore-7.0.3-neoforge.jar",
+          "version_number": "ferritecore-7.0.3-neoforge",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/323/941/256/256/637438748346113688.jpeg"
+        },
+        {
+          "name": "FastSuite",
+          "curseforge_id": 475117,
+          "download_url": "https://edge.forgecdn.net/files/7527/945/FastSuite-1.21.1-6.0.7.jar",
+          "file_name": "FastSuite-1.21.1-6.0.7.jar",
+          "version_number": "FastSuite-1.21.1-6.0.7.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/376/17/256/256/637551781740482627.png",
+          "_depends_on": [
+            283644
+          ]
+        },
+        {
+          "name": "Placebo-1.21.1-9.9.1.jar",
+          "curseforge_id": 283644,
+          "download_url": "https://edge.forgecdn.net/files/6926/281/Placebo-1.21.1-9.9.1.jar",
+          "file_name": "Placebo-1.21.1-9.9.1.jar",
+          "version_number": "Placebo-1.21.1-9.9.1.jar",
+          "_is_dependency": true
         }
       ],
       "changelog": [
+        {
+          "date": "2026-05-03T01:51:14.066Z",
+          "author": "Martion000",
+          "changes": [
+            "+ FerriteCore ((Neo)Forge)",
+            "+ FastSuite",
+            "+ Placebo-1.21.1-9.9.1.jar"
+          ]
+        },
         {
           "date": "2026-05-03T01:43:27.109Z",
           "author": "Martion000",
