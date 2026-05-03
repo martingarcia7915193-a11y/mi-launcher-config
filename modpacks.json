@@ -3986,9 +3986,29 @@
           "file_name": "Immersive Vehicles-1.21.1-24.0.0.jar",
           "version_number": "Immersive Vehicles-1.21.1-24.0.0",
           "_is_dependency": true
+        },
+        {
+          "name": "Euphoria Patches",
+          "curseforge_id": 915902,
+          "download_url": "https://edge.forgecdn.net/files/7624/100/EuphoriaPatcher-1.8.6-r5.7.1-neoforge.jar",
+          "file_name": "EuphoriaPatcher-1.8.6-r5.7.1-neoforge.jar",
+          "version_number": "Euphoria Patcher 1.8.6-r5.7.1-neoforge",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1198/673/256/256/638774916393051591.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-05-03T01:43:27.109Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Euphoria Patches",
+            "+ Complementary Shaders - Reimagined (Shader)",
+            "+ Complementary Shaders - Unbound (Shader)",
+            "+ BSL Shaders (Shader)",
+            "+ Bliss Shaders (Shader)",
+            "+ MakeUp - Ultra Fast | Shaders (Shader)"
+          ]
+        },
         {
           "date": "2026-05-02T21:39:04.696Z",
           "author": "Martion000",
@@ -4770,7 +4790,7 @@
           ]
         }
       ],
-      "extras_version": 81,
+      "extras_version": 82,
       "extras_url": "https://drive.google.com/file/d/1sad5ZONBjBl6dbQ1cnPblgurAU2S8rwE/view?usp=drivesdk",
       "resourcepacks": [
         {
@@ -4798,6 +4818,48 @@
           "file_name": "no_dnd_diamond_1.21.zip",
           "version_number": "no_dnd_diamond_1.21.zip",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1665/33/256/256/639060067460467018.png"
+        }
+      ],
+      "shaders": [
+        {
+          "name": "Complementary Shaders - Reimagined",
+          "curseforge_id": 627557,
+          "download_url": "https://edge.forgecdn.net/files/7574/259/ComplementaryReimagined_r5.7.1.zip",
+          "file_name": "ComplementaryReimagined_r5.7.1.zip",
+          "version_number": "Complementary Reimagined r5.7.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/875/481/256/256/638298072734336144.png"
+        },
+        {
+          "name": "Complementary Shaders - Unbound",
+          "curseforge_id": 385587,
+          "download_url": "https://edge.forgecdn.net/files/7574/260/ComplementaryUnbound_r5.7.1.zip",
+          "file_name": "ComplementaryUnbound_r5.7.1.zip",
+          "version_number": "Complementary Unbound r5.7.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/875/480/256/256/638298072228596362.png"
+        },
+        {
+          "name": "BSL Shaders",
+          "curseforge_id": 322506,
+          "download_url": "https://edge.forgecdn.net/files/7588/844/BSL_v10.1.1.zip",
+          "file_name": "BSL_v10.1.1.zip",
+          "version_number": "BSL v10.1.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1130/670/256/256/638689862356749182.png"
+        },
+        {
+          "name": "Bliss Shaders",
+          "curseforge_id": 610844,
+          "download_url": "https://edge.forgecdn.net/files/7251/787/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
+          "file_name": "Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
+          "version_number": "Bliss v2.1.2",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/848/186/256/256/638248048963999686.png"
+        },
+        {
+          "name": "MakeUp - Ultra Fast | Shaders",
+          "curseforge_id": 431203,
+          "download_url": "https://edge.forgecdn.net/files/7980/983/MakeUp-UltraFast-9.4e.zip",
+          "file_name": "MakeUp-UltraFast-9.4e.zip",
+          "version_number": "MakeUp-UltraFast-9.4e.zip",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1044/516/256/256/638572074817465930.webp"
         }
       ]
     },
