@@ -2257,9 +2257,9 @@
         {
           "name": "Create: Aeroworks",
           "curseforge_id": 1522473,
-          "download_url": "https://edge.forgecdn.net/files/8014/23/aeroworks-1.2.6.jar",
-          "file_name": "aeroworks-1.2.6.jar",
-          "version_number": "aeroworks-1.2.6.jar",
+          "download_url": "https://edge.forgecdn.net/files/8023/472/aeroworks-1.2.7.jar",
+          "file_name": "aeroworks-1.2.7.jar",
+          "version_number": "aeroworks-1.2.7.jar",
           "icon_url": "https://media.forgecdn.net/avatars/1774/605/639127090492821570.png",
           "_depends_on": [
             1312371,
@@ -2410,9 +2410,9 @@
         {
           "name": "dragonlib-neoforge-1.21.1-beta-3.0.24",
           "curseforge_id": 946163,
-          "download_url": "https://edge.forgecdn.net/files/8002/680/dragonlib-neoforge-1.21.1-beta-3.0.25.jar",
-          "file_name": "dragonlib-neoforge-1.21.1-beta-3.0.25.jar",
-          "version_number": "dragonlib-neoforge-1.21.1-beta-3.0.25",
+          "download_url": "https://edge.forgecdn.net/files/8031/875/dragonlib-neoforge-1.21.1-beta-3.0.26.jar",
+          "file_name": "dragonlib-neoforge-1.21.1-beta-3.0.26.jar",
+          "version_number": "dragonlib-neoforge-1.21.1-beta-3.0.26",
           "_is_dependency": true,
           "icon_url": "https://media.forgecdn.net/avatars/914/901/638372366819318973.png"
         },
@@ -2581,10 +2581,10 @@
         {
           "name": "Sophisticated Backpacks",
           "curseforge_id": 422301,
-          "download_url": "https://edge.forgecdn.net/files/8007/540/sophisticatedbackpacks-1.21.1-3.25.42.1709.jar",
-          "file_name": "sophisticatedbackpacks-1.21.1-3.25.42.1709.jar",
-          "version_number": "sophisticatedbackpacks-1.21.1-3.25.42.1709.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/375/56/256/256/637549610342642859.png",
+          "download_url": "https://edge.forgecdn.net/files/8031/664/sophisticatedbackpacks-1.21.1-3.25.43.1729.jar",
+          "file_name": "sophisticatedbackpacks-1.21.1-3.25.43.1729.jar",
+          "version_number": "sophisticatedbackpacks-1.21.1-3.25.43.1729.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/375/56/637549610342642859.png",
           "_depends_on": [
             618298
           ]
@@ -2592,9 +2592,9 @@
         {
           "name": "sophisticatedcore-1.21.1-1.4.32.1794.jar",
           "curseforge_id": 618298,
-          "download_url": "https://edge.forgecdn.net/files/8014/104/sophisticatedcore-1.21.1-1.4.33.1808.jar",
-          "file_name": "sophisticatedcore-1.21.1-1.4.33.1808.jar",
-          "version_number": "sophisticatedcore-1.21.1-1.4.33.1808.jar",
+          "download_url": "https://edge.forgecdn.net/files/8031/634/sophisticatedcore-1.21.1-1.4.34.1815.jar",
+          "file_name": "sophisticatedcore-1.21.1-1.4.34.1815.jar",
+          "version_number": "sophisticatedcore-1.21.1-1.4.34.1815.jar",
           "_is_dependency": true,
           "icon_url": "https://media.forgecdn.net/avatars/540/438/637866039314801108.png"
         },
@@ -2670,18 +2670,18 @@
         {
           "name": "LDLib",
           "curseforge_id": 626676,
-          "download_url": "https://edge.forgecdn.net/files/7915/945/ldlib2-neoforge-1.21.1-2.2.6-all.jar",
-          "file_name": "ldlib2-neoforge-1.21.1-2.2.6-all.jar",
-          "version_number": "LDLib2-2.2.6-neoforge",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1390/433/256/256/638901495840171464.png"
+          "download_url": "https://edge.forgecdn.net/files/8026/666/ldlib2-neoforge-1.21.1-2.2.7-all.jar",
+          "file_name": "ldlib2-neoforge-1.21.1-2.2.7-all.jar",
+          "version_number": "LDLib2-2.2.7-neoforge",
+          "icon_url": "https://media.forgecdn.net/avatars/1390/433/638901495840171464.png"
         },
         {
           "name": "Sable Schematic Tool",
           "curseforge_id": 1526951,
-          "download_url": "https://edge.forgecdn.net/files/8016/54/sable-schematic-api-0.1.6.jar",
-          "file_name": "sable-schematic-api-0.1.6.jar",
-          "version_number": "sable-schematic-api-0.1.6.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1780/635/256/256/639129822463040484.png"
+          "download_url": "https://edge.forgecdn.net/files/8031/380/sable-schematic-api-0.2.1.jar",
+          "file_name": "sable-schematic-api-0.2.1.jar",
+          "version_number": "sable-schematic-api-0.2.1.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/1780/635/639129822463040484.png"
         },
         {
           "name": "Create Railways Navigator",
@@ -2903,10 +2903,10 @@
         {
           "name": "Supplementaries",
           "curseforge_id": 412082,
-          "download_url": "https://edge.forgecdn.net/files/7892/406/supplementaries-1.21-3.5.34-neoforge.jar",
-          "file_name": "supplementaries-1.21-3.5.34-neoforge.jar",
-          "version_number": "supplementaries-1.21-3.5.34-neoforge.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/358/166/256/256/637518566737953306_animated.gif",
+          "download_url": "https://edge.forgecdn.net/files/8025/746/supplementaries-neoforge-1.21.1-3.6.0.jar",
+          "file_name": "supplementaries-neoforge-1.21.1-3.6.0.jar",
+          "version_number": "supplementaries-1.21.1-3.6.0-neoforge",
+          "icon_url": "https://media.forgecdn.net/avatars/358/166/637518566737953306.gif",
           "_depends_on": [
             499980
           ]
@@ -2914,10 +2914,11 @@
         {
           "name": "moonlight-1.21-2.29.33-neoforge.jar",
           "curseforge_id": 499980,
-          "download_url": "https://edge.forgecdn.net/files/7943/878/moonlight-1.21-2.29.33-neoforge.jar",
-          "file_name": "moonlight-1.21-2.29.33-neoforge.jar",
-          "version_number": "moonlight-1.21-2.29.33-neoforge.jar",
-          "_is_dependency": true
+          "download_url": "https://edge.forgecdn.net/files/8031/229/moonlight-neoforge-1.21.1-3.0.1.jar",
+          "file_name": "moonlight-neoforge-1.21.1-3.0.1.jar",
+          "version_number": "moonlight-1.21.1-3.0.1-neoforge",
+          "_is_dependency": true,
+          "icon_url": "https://media.forgecdn.net/avatars/402/662/637610797055895331.png"
         },
         {
           "name": "Comforts",
@@ -2976,10 +2977,10 @@
         {
           "name": "Reliquified Artifacts",
           "curseforge_id": 1100379,
-          "download_url": "https://edge.forgecdn.net/files/7881/396/reliquified_artifacts-1.21.1-1.0.4.jar",
-          "file_name": "reliquified_artifacts-1.21.1-1.0.4.jar",
-          "version_number": "reliquified_artifacts-1.21.1-1.0.4.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1083/26/256/256/638623617290403030_animated.gif",
+          "download_url": "https://edge.forgecdn.net/files/8024/251/reliquified_artifacts-1.21.1-1.0.5.jar",
+          "file_name": "reliquified_artifacts-1.21.1-1.0.5.jar",
+          "version_number": "reliquified_artifacts-1.21.1-1.0.5.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/1083/26/638623617290403030.gif",
           "_depends_on": [
             312353,
             445274
@@ -2988,10 +2989,11 @@
         {
           "name": "relics-1.21.1-0.11.16.jar",
           "curseforge_id": 445274,
-          "download_url": "https://edge.forgecdn.net/files/8009/998/relics-1.21.1-0.11.16.jar",
-          "file_name": "relics-1.21.1-0.11.16.jar",
-          "version_number": "relics-1.21.1-0.11.16.jar",
-          "_is_dependency": true
+          "download_url": "https://edge.forgecdn.net/files/8024/241/relics-1.21.1-0.12.0.jar",
+          "file_name": "relics-1.21.1-0.12.0.jar",
+          "version_number": "relics-1.21.1-0.12.0.jar",
+          "_is_dependency": true,
+          "icon_url": "https://media.forgecdn.net/avatars/1124/47/638680710071253437.gif"
         },
         {
           "name": "Lithium (Fabric/NeoForge)",
@@ -3016,10 +3018,11 @@
         {
           "name": "[NeoForge] Athena 4.0.2",
           "curseforge_id": 841890,
-          "download_url": "https://edge.forgecdn.net/files/6669/522/athena-neoforge-1.21-4.0.2.jar",
-          "file_name": "athena-neoforge-1.21-4.0.2.jar",
-          "version_number": "[NeoForge] Athena 4.0.2",
-          "_is_dependency": true
+          "download_url": "https://edge.forgecdn.net/files/8033/61/athena-neoforge-1.21.1-4.0.5.jar",
+          "file_name": "athena-neoforge-1.21.1-4.0.5.jar",
+          "version_number": "[NeoForge] Athena 4.0.5",
+          "_is_dependency": true,
+          "icon_url": "https://media.forgecdn.net/avatars/802/591/638167374895521681.png"
         },
         {
           "name": "Quark",
@@ -3264,10 +3267,10 @@
         {
           "name": "Create: Food",
           "curseforge_id": 959439,
-          "download_url": "https://edge.forgecdn.net/files/7963/768/createfood-neoforge-1.21.1-2.3.0.jar",
-          "file_name": "createfood-neoforge-1.21.1-2.3.0.jar",
-          "version_number": "createfood-neoforge-1.21.1-2.3.0.jar",
-          "icon_url": "",
+          "download_url": "https://edge.forgecdn.net/files/8028/833/createfood-neoforge-1.21.1-2.4.0.jar",
+          "file_name": "createfood-neoforge-1.21.1-2.4.0.jar",
+          "version_number": "createfood-neoforge-1.21.1-2.4.0.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/1133/657/638694093789705796.webp",
           "_depends_on": [
             348521
           ]
@@ -4049,6 +4052,24 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-05-03T17:52:53.598Z",
+          "author": "Martion000",
+          "changes": [
+            "⬆ Create: Aeroworks: aeroworks-1.2.6.jar → aeroworks-1.2.7.jar",
+            "⬆ dragonlib-neoforge-1.21.1-beta-3.0.24: dragonlib-neoforge-1.21.1-beta-3.0.25 → dragonlib-neoforge-1.21.1-beta-3.0.26",
+            "⬆ Sophisticated Backpacks: sophisticatedbackpacks-1.21.1-3.25.42.1709.jar → sophisticatedbackpacks-1.21.1-3.25.43.1729.jar",
+            "⬆ sophisticatedcore-1.21.1-1.4.32.1794.jar: sophisticatedcore-1.21.1-1.4.33.1808.jar → sophisticatedcore-1.21.1-1.4.34.1815.jar",
+            "⬆ LDLib: LDLib2-2.2.6-neoforge → LDLib2-2.2.7-neoforge",
+            "⬆ Sable Schematic Tool: sable-schematic-api-0.1.6.jar → sable-schematic-api-0.2.1.jar",
+            "⬆ Supplementaries: supplementaries-1.21-3.5.34-neoforge.jar → supplementaries-1.21.1-3.6.0-neoforge",
+            "⬆ moonlight-1.21-2.29.33-neoforge.jar: moonlight-1.21-2.29.33-neoforge.jar → moonlight-1.21.1-3.0.1-neoforge",
+            "⬆ Reliquified Artifacts: reliquified_artifacts-1.21.1-1.0.4.jar → reliquified_artifacts-1.21.1-1.0.5.jar",
+            "⬆ relics-1.21.1-0.11.16.jar: relics-1.21.1-0.11.16.jar → relics-1.21.1-0.12.0.jar",
+            "⬆ [NeoForge] Athena 4.0.2: [NeoForge] Athena 4.0.2 → [NeoForge] Athena 4.0.5",
+            "⬆ Create: Food: createfood-neoforge-1.21.1-2.3.0.jar → createfood-neoforge-1.21.1-2.4.0.jar"
+          ]
+        },
         {
           "date": "2026-05-03T17:50:24.900Z",
           "author": "Martion000",
@@ -4900,7 +4921,7 @@
           ]
         }
       ],
-      "extras_version": 85,
+      "extras_version": 86,
       "extras_url": "https://drive.google.com/file/d/1sad5ZONBjBl6dbQ1cnPblgurAU2S8rwE/view?usp=drivesdk",
       "resourcepacks": [
         {
