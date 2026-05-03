@@ -4029,9 +4029,24 @@
           "file_name": "modernfix-neoforge-5.27.4+mc1.21.1.jar",
           "version_number": "modernfix-neoforge-5.27.4+mc1.21.1.jar",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/881/436/256/256/638311693460984164.png"
+        },
+        {
+          "name": "FreeCam by Zergatul",
+          "curseforge_id": 618947,
+          "download_url": "https://edge.forgecdn.net/files/5591/136/zergatul.freecam-2.3.1-neoforge-1.21.jar",
+          "file_name": "zergatul.freecam-2.3.1-neoforge-1.21.jar",
+          "version_number": "zergatul.freecam-2.3.1-neoforge-1.21.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/541/193/256/256/637868212217443747_animated.gif"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-05-03T02:06:02.600Z",
+          "author": "Martion000",
+          "changes": [
+            "+ FreeCam by Zergatul"
+          ]
+        },
         {
           "date": "2026-05-03T02:03:51.079Z",
           "author": "Martion000",
