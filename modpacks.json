@@ -4021,9 +4021,24 @@
           "file_name": "Placebo-1.21.1-9.9.1.jar",
           "version_number": "Placebo-1.21.1-9.9.1.jar",
           "_is_dependency": true
+        },
+        {
+          "name": "ModernFix",
+          "curseforge_id": 790626,
+          "download_url": "https://edge.forgecdn.net/files/8003/21/modernfix-neoforge-5.27.4%2Bmc1.21.1.jar",
+          "file_name": "modernfix-neoforge-5.27.4+mc1.21.1.jar",
+          "version_number": "modernfix-neoforge-5.27.4+mc1.21.1.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/881/436/256/256/638311693460984164.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-05-03T01:53:05.615Z",
+          "author": "Martion000",
+          "changes": [
+            "+ ModernFix"
+          ]
+        },
         {
           "date": "2026-05-03T01:51:14.066Z",
           "author": "Martion000",
