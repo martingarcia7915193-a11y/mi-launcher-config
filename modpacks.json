@@ -4034,9 +4034,24 @@
           "file_name": "compactflap-neoforge-1.21.1-1.0.4.1.jar",
           "version_number": "compactflap-neoforge-1.21.1-1.0.4.1.jar",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1786/58/256/256/639132639653127509.png"
+        },
+        {
+          "name": "Create: Crafts & Additions and Aeronautics Compat",
+          "curseforge_id": 1532665,
+          "download_url": "https://mediafilez.forgecdn.net/files/8032/414/aeroadditionbridge-1.0.0.jar",
+          "file_name": "aeroadditionbridge-1.0.0.jar",
+          "version_number": "aeroadditionbridge-1.0.0.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1789/267/256/256/639134124031767068.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-05-04T02:41:02.946Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Create: Crafts & Additions and Aeronautics Compat"
+          ]
+        },
         {
           "date": "2026-05-04T01:55:35.345Z",
           "author": "Martion000",
