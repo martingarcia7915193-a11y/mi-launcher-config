@@ -4042,9 +4042,24 @@
           "file_name": "aeroadditionbridge-1.0.0.jar",
           "version_number": "aeroadditionbridge-1.0.0.jar",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1789/267/256/256/639134124031767068.png"
+        },
+        {
+          "name": "Create Aeronautics: Rechiseled Compatibility",
+          "modrinth_id": "create-aeronautics-rechiseled-compatibility",
+          "download_url": "https://cdn.modrinth.com/data/ub0jAGhg/versions/b6O6XLL6/create-aeronautics-rechiseled-compat-1.21.1-1.2.2.jar",
+          "file_name": "create-aeronautics-rechiseled-compat-1.21.1-1.2.2.jar",
+          "version_number": "1.2.2",
+          "icon_url": "https://cdn.modrinth.com/data/ub0jAGhg/ef826f7c5ff57598a8bf2f82a885d2cf1c611400_96.webp"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-05-04T17:39:08.611Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Create Aeronautics: Rechiseled Compatibility"
+          ]
+        },
         {
           "date": "2026-05-04T02:41:02.946Z",
           "author": "Martion000",
