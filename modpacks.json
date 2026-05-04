@@ -4030,13 +4030,20 @@
         {
           "name": "Create: Compact Flap",
           "curseforge_id": 1530869,
-          "download_url": "https://edge.forgecdn.net/files/8031/969/compactflap-neoforge-1.21.1-1.0.4.1.jar",
-          "file_name": "compactflap-neoforge-1.21.1-1.0.4.1.jar",
-          "version_number": "compactflap-neoforge-1.21.1-1.0.4.1.jar",
+          "download_url": "https://edge.forgecdn.net/files/8031/746/compactflap-neoforge-1.21.1-1.0.4.jar",
+          "file_name": "compactflap-neoforge-1.21.1-1.0.4.jar",
+          "version_number": "compactflap-neoforge-1.21.1-1.0.4.jar",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1786/58/256/256/639132639653127509.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-05-04T01:54:28.502Z",
+          "author": "Martion000",
+          "changes": [
+            "⬆ Create: Compact Flap: compactflap-neoforge-1.21.1-1.0.4.1.jar → compactflap-neoforge-1.21.1-1.0.4.jar"
+          ]
+        },
         {
           "date": "2026-05-04T01:53:54.235Z",
           "author": "Martion000",
