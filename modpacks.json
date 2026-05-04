@@ -4026,9 +4026,24 @@
           "file_name": "createfood-neoforge-1.21.1-2.3.0.jar",
           "version_number": "createfood-neoforge-1.21.1-2.3.0.jar",
           "icon_url": ""
+        },
+        {
+          "name": "Create: Compact Flap",
+          "curseforge_id": 1530869,
+          "download_url": "https://edge.forgecdn.net/files/8031/969/compactflap-neoforge-1.21.1-1.0.4.1.jar",
+          "file_name": "compactflap-neoforge-1.21.1-1.0.4.1.jar",
+          "version_number": "compactflap-neoforge-1.21.1-1.0.4.1.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1786/58/256/256/639132639653127509.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-05-04T01:53:54.235Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Create: Compact Flap"
+          ]
+        },
         {
           "date": "2026-05-03T18:32:49.356Z",
           "author": "Martion000",
