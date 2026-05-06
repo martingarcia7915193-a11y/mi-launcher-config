@@ -8,11 +8,12 @@
   "playtime": {
     "vanilla_fabric-copia": 156605,
     "createmon2": 57135562,
-    "v": 8053777
+    "v": 8053777,
+    "aviones": 6222595
   },
   "online": true,
-  "playing": "aviones",
-  "last_seen": 1778047966584,
+  "playing": null,
+  "last_seen": 1778054189472,
   "playing_name": "Create + aviones :v",
   "playing_since": 1778047966046
 }
