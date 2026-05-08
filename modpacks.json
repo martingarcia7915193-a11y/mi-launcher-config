@@ -4066,9 +4066,36 @@
           "file_name": "camol-1.21.1-0.3.1.jar",
           "version_number": "camol-1.21.1-0.3.1.jar",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1193/202/256/256/638768517189038294.png"
+        },
+        {
+          "name": "Controlify (Controller support)",
+          "curseforge_id": 835847,
+          "download_url": "https://edge.forgecdn.net/files/7677/324/controlify-3.0.0-beta.3%2B1.21.1-neoforge.jar",
+          "file_name": "controlify-3.0.0-beta.3+1.21.1-neoforge.jar",
+          "version_number": "3.0.0-beta.3 for neoforge 1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/787/500/256/256/638139956611512060.png",
+          "_depends_on": [
+            667299
+          ]
+        },
+        {
+          "name": "3.8.2 for neoforge 1.21.1",
+          "curseforge_id": 667299,
+          "download_url": "https://edge.forgecdn.net/files/7437/845/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar",
+          "file_name": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+          "version_number": "3.8.2 for neoforge 1.21.1",
+          "_is_dependency": true
         }
       ],
       "changelog": [
+        {
+          "date": "2026-05-08T22:50:35.777Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Controlify (Controller support)",
+            "+ 3.8.2 for neoforge 1.21.1"
+          ]
+        },
         {
           "date": "2026-05-08T19:52:45.892Z",
           "author": "Martion000",
