@@ -4058,9 +4058,24 @@
           "file_name": "Paraglider-neoforge-21.1.5.jar",
           "version_number": "Paraglider-neoforge-21.1.5",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/144/153/256/256/636553981575772547.png"
+        },
+        {
+          "name": "Camol",
+          "curseforge_id": 1214396,
+          "download_url": "https://edge.forgecdn.net/files/7976/624/camol-1.21.1-0.3.1.jar",
+          "file_name": "camol-1.21.1-0.3.1.jar",
+          "version_number": "camol-1.21.1-0.3.1.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1193/202/256/256/638768517189038294.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-05-08T19:52:45.892Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Camol"
+          ]
+        },
         {
           "date": "2026-05-08T06:07:48.941Z",
           "author": "Martion000",
