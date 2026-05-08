@@ -5102,30 +5102,6 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1044/516/256/256/638572074817465930.webp"
         }
       ]
-    },
-    {
-      "id": "t",
-      "name": "test",
-      "version": "1.0.0",
-      "description": "",
-      "description_images": [],
-      "minecraft_version": "1.20.1",
-      "modloader": "fabric",
-      "modloader_version": "0.16.14",
-      "icon": "",
-      "banner": "",
-      "background": "",
-      "server_ip": "",
-      "mods": [],
-      "changelog": [
-        {
-          "date": "2026-05-07T21:11:12.729Z",
-          "author": "Martion000",
-          "changes": [
-            "✦ Modpack creado"
-          ]
-        }
-      ]
     }
   ]
 }
