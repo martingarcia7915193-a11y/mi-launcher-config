@@ -3637,18 +3637,6 @@
           ]
         },
         {
-          "name": "Create: Fuel & Water Information",
-          "curseforge_id": 1023209,
-          "download_url": "https://edge.forgecdn.net/files/6977/635/cfwinfo-1.6.0.jar",
-          "file_name": "cfwinfo-1.6.0.jar",
-          "version_number": "Create: Fuel & Water Information 1.21.1 v1.6.0",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1024/657/256/256/638547790122400775.png",
-          "_depends_on": [
-            466792,
-            328085
-          ]
-        },
-        {
           "name": "Create: Aquatic Ambitions",
           "curseforge_id": 1005676,
           "download_url": "https://edge.forgecdn.net/files/7192/82/create_aquatic_ambitions-1.21.1-2.0.2.jar",
@@ -4090,6 +4078,13 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-05-09T22:49:44.977Z",
+          "author": "Martion000",
+          "changes": [
+            "− Create: Fuel & Water Information"
+          ]
+        },
         {
           "date": "2026-05-09T22:42:05.034Z",
           "author": "Martion000",
