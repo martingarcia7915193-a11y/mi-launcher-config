@@ -4069,17 +4069,6 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1193/202/256/256/638768517189038294.png"
         },
         {
-          "name": "Controlify (Controller support)",
-          "curseforge_id": 835847,
-          "download_url": "https://edge.forgecdn.net/files/7677/324/controlify-3.0.0-beta.3%2B1.21.1-neoforge.jar",
-          "file_name": "controlify-3.0.0-beta.3+1.21.1-neoforge.jar",
-          "version_number": "3.0.0-beta.3 for neoforge 1.21.1",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/787/500/256/256/638139956611512060.png",
-          "_depends_on": [
-            667299
-          ]
-        },
-        {
           "name": "3.8.2 for neoforge 1.21.1",
           "curseforge_id": 667299,
           "download_url": "https://edge.forgecdn.net/files/7437/845/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar",
@@ -4109,6 +4098,13 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-05-09T22:41:05.342Z",
+          "author": "Martion000",
+          "changes": [
+            "− Controlify (Controller support)"
+          ]
+        },
         {
           "date": "2026-05-09T22:40:28.435Z",
           "author": "Martion000",
