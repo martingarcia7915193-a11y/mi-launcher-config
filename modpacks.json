@@ -4069,14 +4069,6 @@
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1193/202/256/256/638768517189038294.png"
         },
         {
-          "name": "3.8.2 for neoforge 1.21.1",
-          "curseforge_id": 667299,
-          "download_url": "https://edge.forgecdn.net/files/7437/845/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar",
-          "file_name": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
-          "version_number": "3.8.2 for neoforge 1.21.1",
-          "_is_dependency": true
-        },
-        {
           "name": "Vista",
           "curseforge_id": 1368607,
           "download_url": "https://edge.forgecdn.net/files/8054/399/vista-neoforge-1.21.1-3.2.2.jar",
@@ -4098,6 +4090,13 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-05-09T22:42:05.034Z",
+          "author": "Martion000",
+          "changes": [
+            "− 3.8.2 for neoforge 1.21.1"
+          ]
+        },
         {
           "date": "2026-05-09T22:41:05.342Z",
           "author": "Martion000",
