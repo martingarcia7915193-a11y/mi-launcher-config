@@ -2629,10 +2629,10 @@
         {
           "name": "Create Railways Navigator",
           "curseforge_id": 935929,
-          "download_url": "https://edge.forgecdn.net/files/8017/355/createrailwaysnavigator-neoforge-1.21.1-beta-0.9.0-C6.jar",
-          "file_name": "createrailwaysnavigator-neoforge-1.21.1-beta-0.9.0-C6.jar",
-          "version_number": "createrailwaysnavigator-neoforge-1.21.1-beta-0.9.0-C6",
-          "icon_url": "https://media.forgecdn.net/avatars/1066/720/638600887691727882.png",
+          "download_url": "https://edge.forgecdn.net/files/7754/979/createrailwaysnavigator-neoforge-1.21.1-alpha-0.9.0-C6%2B2.jar",
+          "file_name": "createrailwaysnavigator-neoforge-1.21.1-alpha-0.9.0-C6+2.jar",
+          "version_number": "createrailwaysnavigator-neoforge-1.21.1-alpha-0.9.0-C6+2",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1066/720/256/256/638600887691727882.png",
           "_depends_on": [
             328085,
             946163
@@ -4089,6 +4089,13 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-05-09T03:48:30.626Z",
+          "author": "Martion000",
+          "changes": [
+            "⬆ Create Railways Navigator: createrailwaysnavigator-neoforge-1.21.1-beta-0.9.0-C6 → createrailwaysnavigator-neoforge-1.21.1-alpha-0.9.0-C6+2"
+          ]
+        },
         {
           "date": "2026-05-09T03:44:29.365Z",
           "author": "Martion000",
