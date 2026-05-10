@@ -4055,9 +4055,24 @@
           "file_name": "camol-1.21.1-0.3.1.jar",
           "version_number": "camol-1.21.1-0.3.1.jar",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1193/202/256/256/638768517189038294.png"
+        },
+        {
+          "name": "Create: Copyfoxes",
+          "curseforge_id": 1489148,
+          "download_url": "https://edge.forgecdn.net/files/8010/218/copyfoxies-2.0.0.jar",
+          "file_name": "copyfoxies-2.0.0.jar",
+          "version_number": "copyfoxies-2.0.0.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1779/869/256/256/639129374001648754.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-05-10T19:29:34.573Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Create: Copyfoxes"
+          ]
+        },
         {
           "date": "2026-05-10T05:20:18.441Z",
           "author": "Martion000",
