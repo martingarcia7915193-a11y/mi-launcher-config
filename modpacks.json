@@ -5314,12 +5314,12 @@
           ]
         },
         {
-          "name": "[NeoForge 1.21] v15.0.140",
+          "name": "Cloth Config API (Fabric/Forge/NeoForge)",
           "curseforge_id": 348521,
           "download_url": "https://edge.forgecdn.net/files/5729/127/cloth-config-15.0.140-neoforge.jar",
           "file_name": "cloth-config-15.0.140-neoforge.jar",
           "version_number": "[NeoForge 1.21] v15.0.140",
-          "_is_dependency": true
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/282/467/256/256/637289313020452406.png"
         },
         {
           "name": "Creative Tabs Organizer",
@@ -7195,6 +7195,14 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-05-10T05:30:36.837Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Cloth Config API (Fabric/Forge/NeoForge)",
+            "− [NeoForge 1.21] v15.0.140"
+          ]
+        },
         {
           "date": "2026-05-10T05:26:53.774Z",
           "author": "Martion000",
