@@ -4063,9 +4063,24 @@
           "file_name": "copyfoxies-2.0.0.jar",
           "version_number": "copyfoxies-2.0.0.jar",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1779/869/256/256/639129374001648754.png"
+        },
+        {
+          "name": "Create: More Girder",
+          "curseforge_id": 1371561,
+          "download_url": "https://edge.forgecdn.net/files/8067/237/create-more-girder-1.2.1-neo.jar",
+          "file_name": "create-more-girder-1.2.1-neo.jar",
+          "version_number": "create-more-girder-1.2.1-neo",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1491/478/256/256/638969202858469297.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-05-11T01:29:30.298Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Create: More Girder"
+          ]
+        },
         {
           "date": "2026-05-10T19:29:34.573Z",
           "author": "Martion000",
