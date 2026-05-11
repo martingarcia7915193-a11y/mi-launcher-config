@@ -11,9 +11,9 @@
     "v": 12531629,
     "custom_queso_v_1778296076666": 5170879
   },
-  "online": false,
-  "playing": null,
-  "last_seen": 1778534369038,
+  "online": true,
+  "playing": "custom_queso_v_1778296076666",
+  "last_seen": 1778534472818,
   "playing_name": "queso :v",
-  "playing_since": 1778296474461
+  "playing_since": 1778534470865
 }
