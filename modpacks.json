@@ -4071,9 +4071,24 @@
           "file_name": "create-more-girder-1.2.1-neo.jar",
           "version_number": "create-more-girder-1.2.1-neo",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1491/478/256/256/638969202858469297.png"
+        },
+        {
+          "name": "Extreme sound muffler - (Neo)Forge",
+          "curseforge_id": 363363,
+          "download_url": "https://edge.forgecdn.net/files/7895/926/ExtremeSoundMuffler-3.56_NeoForge-1.21.jar",
+          "file_name": "ExtremeSoundMuffler-3.56_NeoForge-1.21.jar",
+          "version_number": "Extreme sound muffler 3.56 - NeoForge 1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/314/978/256/256/637414152851892931.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-05-12T04:12:50.196Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Extreme sound muffler - (Neo)Forge"
+          ]
+        },
         {
           "date": "2026-05-11T01:29:30.298Z",
           "author": "Martion000",
