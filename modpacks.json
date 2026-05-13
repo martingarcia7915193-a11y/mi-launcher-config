@@ -4079,9 +4079,24 @@
           "file_name": "ExtremeSoundMuffler-3.56_NeoForge-1.21.jar",
           "version_number": "Extreme sound muffler 3.56 - NeoForge 1.21.1",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/314/978/256/256/637414152851892931.png"
+        },
+        {
+          "name": "Create: Ender Transmission",
+          "curseforge_id": 737302,
+          "download_url": "https://edge.forgecdn.net/files/7232/820/createendertransmission-2.1.1-1.21.1.jar",
+          "file_name": "createendertransmission-2.1.1-1.21.1.jar",
+          "version_number": "1.21.1 v2.1.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/676/189/256/256/638066998336576214.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-05-13T04:33:32.710Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Create: Ender Transmission"
+          ]
+        },
         {
           "date": "2026-05-12T04:12:50.196Z",
           "author": "Martion000",
@@ -5186,7 +5201,7 @@
           ]
         }
       ],
-      "extras_version": 99,
+      "extras_version": 100,
       "extras_url": "https://drive.google.com/file/d/19IwJIJqMLUnw8qm8mDFrHyMUxIB8ldXZ/view?usp=drivesdk",
       "resourcepacks": [
         {
