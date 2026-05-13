@@ -9,7 +9,7 @@
     "vanilla_fabric": 92320,
     "vanilla_fabric-copia": 77496,
     "1.16.5": 93767,
-    "createmon2": 89045731,
+    "createmon2": 89204905,
     "cabin": 2042963,
     "aviones": 157730300,
     "createmon2-copia": 1314681,
@@ -41,8 +41,8 @@
     "custom_all_the_mods_10_1778268932121": 2510365
   },
   "online": true,
-  "playing": "createmon2",
-  "last_seen": 1778633437872,
+  "playing": null,
+  "last_seen": 1778633597185,
   "playing_name": "Createmon 2.0 ",
   "playing_since": 1778633437332
 }
