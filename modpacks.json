@@ -4087,9 +4087,24 @@
           "file_name": "createendertransmission-2.1.1-1.21.1.jar",
           "version_number": "1.21.1 v2.1.1",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/676/189/256/256/638066998336576214.png"
+        },
+        {
+          "name": "Foxy's",
+          "curseforge_id": 1519786,
+          "download_url": "https://edge.forgecdn.net/files/8082/829/foxysmod-1.2.1.jar",
+          "file_name": "foxysmod-1.2.1.jar",
+          "version_number": "foxysmod-1.2.1.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1766/467/256/256/639122856655603997.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-05-15T21:39:42.416Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Foxy's"
+          ]
+        },
         {
           "date": "2026-05-13T04:33:32.710Z",
           "author": "Martion000",
@@ -5201,7 +5216,7 @@
           ]
         }
       ],
-      "extras_version": 131,
+      "extras_version": 132,
       "extras_url": "",
       "resourcepacks": [
         {
