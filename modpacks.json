@@ -5313,10 +5313,10 @@
         {
           "name": "Sodium",
           "curseforge_id": 394468,
-          "download_url": "https://edge.forgecdn.net/files/8084/992/sodium-neoforge-0.8.12-alpha.2%2Bmc1.21.1.jar",
-          "file_name": "sodium-neoforge-0.8.12-alpha.2+mc1.21.1.jar",
-          "version_number": "Sodium 0.8.12-alpha.2 for NeoForge 1.21.1",
-          "icon_url": "https://media.forgecdn.net/avatars/284/773/637298471098686391.png"
+          "download_url": "https://edge.forgecdn.net/files/6382/651/sodium-neoforge-0.6.13%2Bmc1.21.1.jar",
+          "file_name": "sodium-neoforge-0.6.13+mc1.21.1.jar",
+          "version_number": "Sodium 0.6.13 for NeoForge",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/284/773/256/256/637298471098686391.png"
         },
         {
           "name": "Just Enough Items (JEI)",
@@ -7303,6 +7303,13 @@
       ],
       "changelog": [
         {
+          "date": "2026-05-16T01:43:33.183Z",
+          "author": "Martion000",
+          "changes": [
+            "⬆ Sodium: Sodium 0.8.12-alpha.2 for NeoForge 1.21.1 → Sodium 0.6.13 for NeoForge"
+          ]
+        },
+        {
           "date": "2026-05-16T01:42:10.731Z",
           "author": "Martion000",
           "changes": [
@@ -7325,7 +7332,7 @@
           ]
         }
       ],
-      "extras_version": 133,
+      "extras_version": 134,
       "extras_url": "",
       "resourcepacks": [
         {
