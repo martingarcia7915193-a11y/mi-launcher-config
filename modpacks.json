@@ -5713,12 +5713,13 @@
           ]
         },
         {
-          "name": "Create S&A 1.21.1 V2.1.0e",
+          "name": "Create Stuff 'N Additions",
           "curseforge_id": 466792,
-          "download_url": "https://edge.forgecdn.net/files/6448/12/create-stuff-additions1.21.1_v2.1.0e.jar",
-          "file_name": "create-stuff-additions1.21.1_v2.1.0e.jar",
-          "version_number": "Create S&A 1.21.1 V2.1.0e",
-          "_is_dependency": true
+          "download_url": "https://edge.forgecdn.net/files/8070/658/create-stuff-additions1.21.1_v2.1.2.jar",
+          "file_name": "create-stuff-additions1.21.1_v2.1.2.jar",
+          "version_number": "Create S&A 1.21.1 V2.1.2",
+          "_is_dependency": true,
+          "icon_url": "https://media.forgecdn.net/avatars/1158/714/638727221391013276.png"
         },
         {
           "name": "Create Stuff & Netherite Additions",
@@ -7303,6 +7304,15 @@
       ],
       "changelog": [
         {
+          "date": "2026-05-16T02:24:21.478Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Create Stuff 'N Additions",
+            "− Create S&A 1.21.1 V2.1.0e",
+            "⬆ Create Stuff 'N Additions: Create S&A 1.21.1 V2.1.0e → Create S&A 1.21.1 V2.1.2"
+          ]
+        },
+        {
           "date": "2026-05-16T01:59:07.620Z",
           "author": "Martion000",
           "changes": [
@@ -7377,7 +7387,7 @@
           ]
         }
       ],
-      "extras_version": 138,
+      "extras_version": 139,
       "extras_url": "",
       "resourcepacks": [
         {
