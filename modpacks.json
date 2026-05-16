@@ -5303,12 +5303,13 @@
       "server_ip": "",
       "mods": [
         {
-          "name": "Create",
+          "name": "Create 6.0.10 for mc1.21.1",
           "curseforge_id": 328085,
           "download_url": "https://edge.forgecdn.net/files/7963/363/create-1.21.1-6.0.10.jar",
           "file_name": "create-1.21.1-6.0.10.jar",
           "version_number": "Create 6.0.10 for mc1.21.1",
-          "icon_url": "https://media.forgecdn.net/avatars/1065/184/638598725500886388.png"
+          "icon_url": "https://media.forgecdn.net/avatars/1065/184/638598725500886388.png",
+          "_is_dependency": true
         },
         {
           "name": "Sodium",
@@ -5446,10 +5447,10 @@
         {
           "name": "Create Propulsion: Simulated",
           "curseforge_id": 1522736,
-          "download_url": "https://edge.forgecdn.net/files/8070/922/createpropulsion-1.1.3.jar",
-          "file_name": "createpropulsion-1.1.3.jar",
-          "version_number": "1.1.3",
-          "icon_url": "https://media.forgecdn.net/avatars/1791/442/639135128999086003.png",
+          "download_url": "https://edge.forgecdn.net/files/8039/499/createpropulsion-1.1.2.jar",
+          "file_name": "createpropulsion-1.1.2.jar",
+          "version_number": "1.1.2",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1791/442/256/256/639135128999086003.png",
           "_depends_on": [
             676721
           ]
@@ -5616,10 +5617,10 @@
         {
           "name": "Create: Power Loader",
           "curseforge_id": 936020,
-          "download_url": "https://edge.forgecdn.net/files/8090/899/create_power_loader-2.0.4-mc1.21.1.jar",
-          "file_name": "create_power_loader-2.0.4-mc1.21.1.jar",
-          "version_number": "create_power_loader 2.0.4-mc1.21.1",
-          "icon_url": "https://media.forgecdn.net/avatars/903/443/638352779105838214.png",
+          "download_url": "https://edge.forgecdn.net/files/6549/980/create_power_loader-2.0.3-mc1.21.1.jar",
+          "file_name": "create_power_loader-2.0.3-mc1.21.1.jar",
+          "version_number": "create_power_loader 2.0.3-mc1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/903/443/256/256/638352779105838214.png",
           "_depends_on": [
             328085
           ]
@@ -5658,10 +5659,10 @@
         {
           "name": "Create: Escalated",
           "curseforge_id": 1260145,
-          "download_url": "https://edge.forgecdn.net/files/8069/135/escalated-1.3.0-mc.1.21.1.jar",
-          "file_name": "escalated-1.3.0-mc.1.21.1.jar",
-          "version_number": "Create: Escalated v1.3.0 for NeoForge 1.21.1, Create v6.0.7+",
-          "icon_url": "https://media.forgecdn.net/avatars/1261/902/638821569425963837.gif",
+          "download_url": "https://edge.forgecdn.net/files/7430/7/escalated-1.2.1-create.6.0.8-mc.1.21.1-neoforge.jar",
+          "file_name": "escalated-1.2.1-create.6.0.8-mc.1.21.1-neoforge.jar",
+          "version_number": "Create: Escalated v1.2.1 for NeoForge 1.21.1, Create v6.0.8+",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1261/902/256/256/638821569425963837_animated.gif",
           "_depends_on": [
             328085,
             624165
@@ -5715,11 +5716,11 @@
         {
           "name": "Create Stuff 'N Additions",
           "curseforge_id": 466792,
-          "download_url": "https://edge.forgecdn.net/files/8070/658/create-stuff-additions1.21.1_v2.1.2.jar",
-          "file_name": "create-stuff-additions1.21.1_v2.1.2.jar",
-          "version_number": "Create S&A 1.21.1 V2.1.2",
+          "download_url": "https://edge.forgecdn.net/files/6448/12/create-stuff-additions1.21.1_v2.1.0e.jar",
+          "file_name": "create-stuff-additions1.21.1_v2.1.0e.jar",
+          "version_number": "Create S&A 1.21.1 V2.1.0e",
           "_is_dependency": true,
-          "icon_url": "https://media.forgecdn.net/avatars/1158/714/638727221391013276.png"
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1158/714/256/256/638727221391013276.png"
         },
         {
           "name": "Create Stuff & Netherite Additions",
@@ -7304,6 +7305,18 @@
       ],
       "changelog": [
         {
+          "date": "2026-05-16T01:29:20.568Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Create 6.0.10 for mc1.21.1",
+            "− Create",
+            "⬆ Create Propulsion: Simulated: 1.1.3 → 1.1.2",
+            "⬆ Create: Power Loader: create_power_loader 2.0.4-mc1.21.1 → create_power_loader 2.0.3-mc1.21.1",
+            "⬆ Create: Escalated: Create: Escalated v1.3.0 for NeoForge 1.21.1, Create v6.0.7+ → Create: Escalated v1.2.1 for NeoForge 1.21.1, Create v6.0.8+",
+            "⬆ Create Stuff 'N Additions: Create S&A 1.21.1 V2.1.2 → Create S&A 1.21.1 V2.1.0e"
+          ]
+        },
+        {
           "date": "2026-05-16T01:21:13.519Z",
           "author": "Martion000",
           "changes": [
@@ -7350,7 +7363,7 @@
           ]
         }
       ],
-      "extras_version": 136,
+      "extras_version": 137,
       "extras_url": "",
       "resourcepacks": [
         {
