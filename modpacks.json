@@ -5763,11 +5763,11 @@
         {
           "name": "Petrolpark Library",
           "curseforge_id": 1093595,
-          "download_url": "https://mediafilez.forgecdn.net/files/8063/254/petrolpark-1.21.1-1.4.34.jar",
-          "file_name": "petrolpark-1.21.1-1.4.34.jar",
-          "version_number": "Petrolpark's Library 1.4.34",
+          "download_url": "https://mediafilez.forgecdn.net/files/7981/644/petrolpark-1.21.1-1.4.32.jar",
+          "file_name": "petrolpark-1.21.1-1.4.32.jar",
+          "version_number": "Petrolpark's Library 1.4.32",
           "_is_dependency": true,
-          "icon_url": "https://media.forgecdn.net/avatars/1070/728/638606144693413397.png"
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1070/728/256/256/638606144693413397.png"
         },
         {
           "name": "Sophisticated Storage",
@@ -7304,6 +7304,13 @@
       ],
       "changelog": [
         {
+          "date": "2026-05-16T00:34:47.279Z",
+          "author": "Martion000",
+          "changes": [
+            "⬆ Petrolpark Library: Petrolpark's Library 1.4.34 → Petrolpark's Library 1.4.32"
+          ]
+        },
+        {
           "date": "2026-05-16T00:33:13.330Z",
           "author": "Martion000",
           "changes": [
@@ -7350,7 +7357,7 @@
           ]
         }
       ],
-      "extras_version": 133,
+      "extras_version": 134,
       "extras_url": "",
       "resourcepacks": [
         {
