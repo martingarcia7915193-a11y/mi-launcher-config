@@ -4089,9 +4089,33 @@
           "file_name": "createendertransmission-2.1.1-1.21.1.jar",
           "version_number": "1.21.1 v2.1.1",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/676/189/256/256/638066998336576214.png"
+        },
+        {
+          "name": "Create Simulated Additions",
+          "curseforge_id": 1541699,
+          "download_url": "https://mediafilez.forgecdn.net/files/8082/887/create_simulated_additions-0.1.1-neoforge-1.21.1.jar",
+          "file_name": "create_simulated_additions-0.1.1-neoforge-1.21.1.jar",
+          "version_number": "create_simulated_additions-0.1.1-neoforge-1.21.1.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1805/955/256/256/639142786942256257.png"
+        },
+        {
+          "name": "Create Stuff 'N Additions x Sable & Aeronautics Compat",
+          "curseforge_id": 1541139,
+          "download_url": "https://edge.forgecdn.net/files/8081/980/SableStuffAdditionsCompat%20v1.0.0-1.21.1.jar",
+          "file_name": "SableStuffAdditionsCompat v1.0.0-1.21.1.jar",
+          "version_number": "SableStuffAdditionsCompat v1.0.0",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1804/233/256/256/639141851946771098.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-05-16T02:38:46.796Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Create Simulated Additions",
+            "+ Create Stuff 'N Additions x Sable & Aeronautics Compat"
+          ]
+        },
         {
           "date": "2026-05-16T02:35:13.444Z",
           "author": "Martion000",
@@ -5253,7 +5277,7 @@
           ]
         }
       ],
-      "extras_version": 132,
+      "extras_version": 133,
       "extras_url": "",
       "resourcepacks": [
         {
