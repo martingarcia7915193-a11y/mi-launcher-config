@@ -5313,10 +5313,10 @@
         {
           "name": "Sodium",
           "curseforge_id": 394468,
-          "download_url": "https://edge.forgecdn.net/files/6382/651/sodium-neoforge-0.6.13%2Bmc1.21.1.jar",
-          "file_name": "sodium-neoforge-0.6.13+mc1.21.1.jar",
-          "version_number": "Sodium 0.6.13 for NeoForge",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/284/773/256/256/637298471098686391.png"
+          "download_url": "https://edge.forgecdn.net/files/8084/992/sodium-neoforge-0.8.12-alpha.2%2Bmc1.21.1.jar",
+          "file_name": "sodium-neoforge-0.8.12-alpha.2+mc1.21.1.jar",
+          "version_number": "Sodium 0.8.12-alpha.2 for NeoForge 1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/284/773/637298471098686391.png"
         },
         {
           "name": "Just Enough Items (JEI)",
@@ -5348,10 +5348,10 @@
         {
           "name": "Steam 'n' Rails Neoforge",
           "curseforge_id": 1414670,
-          "download_url": "https://edge.forgecdn.net/files/7919/366/railways-0.2.0-beta.2%2bneoforge-mc1.21.1.jar",
-          "file_name": "railways-0.2.0-beta.2+neoforge-mc1.21.1.jar",
-          "version_number": "railways-0.2.0-beta.2+neoforge-mc1.21.1.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1582/848/256/256/639024674263601857.png",
+          "download_url": "https://edge.forgecdn.net/files/8095/851/railways-0.2.0%2Bneoforge-mc1.21.1.jar",
+          "file_name": "railways-0.2.0+neoforge-mc1.21.1.jar",
+          "version_number": "railways-0.2.0+neoforge-mc1.21.1.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/1582/848/639024674263601857.png",
           "_depends_on": [
             328085
           ]
@@ -5446,9 +5446,9 @@
         {
           "name": "Create Propulsion: Simulated",
           "curseforge_id": 1522736,
-          "download_url": "https://edge.forgecdn.net/files/8039/499/createpropulsion-1.1.2.jar",
-          "file_name": "createpropulsion-1.1.2.jar",
-          "version_number": "1.1.2",
+          "download_url": "https://edge.forgecdn.net/files/8070/922/createpropulsion-1.1.3.jar",
+          "file_name": "createpropulsion-1.1.3.jar",
+          "version_number": "1.1.3",
           "icon_url": "https://media.forgecdn.net/avatars/1791/442/639135128999086003.png",
           "_depends_on": [
             676721
@@ -5658,10 +5658,10 @@
         {
           "name": "Create: Escalated",
           "curseforge_id": 1260145,
-          "download_url": "https://edge.forgecdn.net/files/7430/7/escalated-1.2.1-create.6.0.8-mc.1.21.1-neoforge.jar",
-          "file_name": "escalated-1.2.1-create.6.0.8-mc.1.21.1-neoforge.jar",
-          "version_number": "Create: Escalated v1.2.1 for NeoForge 1.21.1, Create v6.0.8+",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1261/902/256/256/638821569425963837_animated.gif",
+          "download_url": "https://edge.forgecdn.net/files/8069/135/escalated-1.3.0-mc.1.21.1.jar",
+          "file_name": "escalated-1.3.0-mc.1.21.1.jar",
+          "version_number": "Create: Escalated v1.3.0 for NeoForge 1.21.1, Create v6.0.7+",
+          "icon_url": "https://media.forgecdn.net/avatars/1261/902/638821569425963837.gif",
           "_depends_on": [
             328085,
             624165
@@ -6866,21 +6866,22 @@
         {
           "name": "Vanilla Backport",
           "curseforge_id": 417430,
-          "download_url": "https://edge.forgecdn.net/files/7830/651/VanillaBackport-neoforge-1.21.1-1.1.6.3.jar",
-          "file_name": "VanillaBackport-neoforge-1.21.1-1.1.6.3.jar",
-          "version_number": "VanillaBackport-neoforge-1.21.1-1.1.6.3.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1522/146/256/256/638988477353507370.png",
+          "download_url": "https://edge.forgecdn.net/files/8086/102/VanillaBackport-neoforge-1.21.1-1.1.7.4.jar",
+          "file_name": "VanillaBackport-neoforge-1.21.1-1.1.7.4.jar",
+          "version_number": "VanillaBackport-neoforge-1.21.1-1.1.7.4.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/1803/779/639141534569435193.png",
           "_depends_on": [
             997634
           ]
         },
         {
-          "name": "Platform-neoforge-1.21.1-1.3.jar",
+          "name": "Platform",
           "curseforge_id": 997634,
-          "download_url": "https://edge.forgecdn.net/files/7811/411/Platform-neoforge-1.21.1-1.3.jar",
-          "file_name": "Platform-neoforge-1.21.1-1.3.jar",
-          "version_number": "Platform-neoforge-1.21.1-1.3.jar",
-          "_is_dependency": true
+          "download_url": "https://edge.forgecdn.net/files/8075/942/Platform-neoforge-1.21.1-1.3.3.jar",
+          "file_name": "Platform-neoforge-1.21.1-1.3.3.jar",
+          "version_number": "Platform-neoforge-1.21.1-1.3.3.jar",
+          "_is_dependency": true,
+          "icon_url": "https://media.forgecdn.net/avatars/980/992/638487478844304640.png"
         },
         {
           "name": "Easy Auto Cycler",
@@ -7142,9 +7143,9 @@
         {
           "name": "Create: Aeroworks",
           "curseforge_id": 1522473,
-          "download_url": "https://edge.forgecdn.net/files/8046/657/aeroworks-1.2.8.jar",
-          "file_name": "aeroworks-1.2.8.jar",
-          "version_number": "1.2.8+mc1.21.1",
+          "download_url": "https://edge.forgecdn.net/files/8072/427/aeroworks-1.2.9.jar",
+          "file_name": "aeroworks-1.2.9.jar",
+          "version_number": "1.2.9+mc1.21.1",
           "icon_url": "https://media.forgecdn.net/avatars/1774/605/639127090492821570.png"
         },
         {
@@ -7302,6 +7303,21 @@
       ],
       "changelog": [
         {
+          "date": "2026-05-16T01:42:10.731Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Platform",
+            "− Platform-neoforge-1.21.1-1.3.jar",
+            "⬆ Sodium: Sodium 0.6.13 for NeoForge → Sodium 0.8.12-alpha.2 for NeoForge 1.21.1",
+            "⬆ Steam 'n' Rails Neoforge: railways-0.2.0-beta.2+neoforge-mc1.21.1.jar → railways-0.2.0+neoforge-mc1.21.1.jar",
+            "⬆ Create Propulsion: Simulated: 1.1.2 → 1.1.3",
+            "⬆ Create: Escalated: Create: Escalated v1.2.1 for NeoForge 1.21.1, Create v6.0.8+ → Create: Escalated v1.3.0 for NeoForge 1.21.1, Create v6.0.7+",
+            "⬆ Vanilla Backport: VanillaBackport-neoforge-1.21.1-1.1.6.3.jar → VanillaBackport-neoforge-1.21.1-1.1.7.4.jar",
+            "⬆ Platform: Platform-neoforge-1.21.1-1.3.jar → Platform-neoforge-1.21.1-1.3.3.jar",
+            "⬆ Create: Aeroworks: 1.2.8+mc1.21.1 → 1.2.9+mc1.21.1"
+          ]
+        },
+        {
           "date": "2026-05-16T01:37:55.085Z",
           "author": "Martion000",
           "changes": [
@@ -7309,7 +7325,7 @@
           ]
         }
       ],
-      "extras_version": 132,
+      "extras_version": 133,
       "extras_url": "",
       "resourcepacks": [
         {
