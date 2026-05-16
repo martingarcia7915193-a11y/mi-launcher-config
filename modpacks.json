@@ -5314,10 +5314,10 @@
         {
           "name": "Sodium",
           "curseforge_id": 394468,
-          "download_url": "https://edge.forgecdn.net/files/6382/651/sodium-neoforge-0.6.13%2Bmc1.21.1.jar",
-          "file_name": "sodium-neoforge-0.6.13+mc1.21.1.jar",
-          "version_number": "Sodium 0.6.13 for NeoForge",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/284/773/256/256/637298471098686391.png"
+          "download_url": "https://edge.forgecdn.net/files/8084/992/sodium-neoforge-0.8.12-alpha.2%2Bmc1.21.1.jar",
+          "file_name": "sodium-neoforge-0.8.12-alpha.2+mc1.21.1.jar",
+          "version_number": "Sodium 0.8.12-alpha.2 for NeoForge 1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/284/773/637298471098686391.png"
         },
         {
           "name": "Just Enough Items (JEI)",
@@ -5399,9 +5399,9 @@
         {
           "name": "Creative Tabs Organizer",
           "curseforge_id": 1409328,
-          "download_url": "https://edge.forgecdn.net/files/7980/778/tabs_organizer-1.1.1.jar",
-          "file_name": "tabs_organizer-1.1.1.jar",
-          "version_number": "Tabs_Organizer-1.1.1",
+          "download_url": "https://edge.forgecdn.net/files/8074/13/tabs_organizer-1.2.0.jar",
+          "file_name": "tabs_organizer-1.2.0.jar",
+          "version_number": "Tabs_Organizer-1.2.0",
           "icon_url": "https://media.forgecdn.net/avatars/1764/956/639122100388695400.png"
         },
         {
@@ -5447,10 +5447,10 @@
         {
           "name": "Create Propulsion: Simulated",
           "curseforge_id": 1522736,
-          "download_url": "https://edge.forgecdn.net/files/8039/499/createpropulsion-1.1.2.jar",
-          "file_name": "createpropulsion-1.1.2.jar",
-          "version_number": "1.1.2",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1791/442/256/256/639135128999086003.png",
+          "download_url": "https://edge.forgecdn.net/files/8070/922/createpropulsion-1.1.3.jar",
+          "file_name": "createpropulsion-1.1.3.jar",
+          "version_number": "1.1.3",
+          "icon_url": "https://media.forgecdn.net/avatars/1791/442/639135128999086003.png",
           "_depends_on": [
             676721
           ]
@@ -5617,10 +5617,10 @@
         {
           "name": "Create: Power Loader",
           "curseforge_id": 936020,
-          "download_url": "https://edge.forgecdn.net/files/6549/980/create_power_loader-2.0.3-mc1.21.1.jar",
-          "file_name": "create_power_loader-2.0.3-mc1.21.1.jar",
-          "version_number": "create_power_loader 2.0.3-mc1.21.1",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/903/443/256/256/638352779105838214.png",
+          "download_url": "https://edge.forgecdn.net/files/8090/899/create_power_loader-2.0.4-mc1.21.1.jar",
+          "file_name": "create_power_loader-2.0.4-mc1.21.1.jar",
+          "version_number": "create_power_loader 2.0.4-mc1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/903/443/638352779105838214.png",
           "_depends_on": [
             328085
           ]
@@ -5659,10 +5659,10 @@
         {
           "name": "Create: Escalated",
           "curseforge_id": 1260145,
-          "download_url": "https://edge.forgecdn.net/files/7430/7/escalated-1.2.1-create.6.0.8-mc.1.21.1-neoforge.jar",
-          "file_name": "escalated-1.2.1-create.6.0.8-mc.1.21.1-neoforge.jar",
-          "version_number": "Create: Escalated v1.2.1 for NeoForge 1.21.1, Create v6.0.8+",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1261/902/256/256/638821569425963837_animated.gif",
+          "download_url": "https://edge.forgecdn.net/files/8069/135/escalated-1.3.0-mc.1.21.1.jar",
+          "file_name": "escalated-1.3.0-mc.1.21.1.jar",
+          "version_number": "Create: Escalated v1.3.0 for NeoForge 1.21.1, Create v6.0.7+",
+          "icon_url": "https://media.forgecdn.net/avatars/1261/902/638821569425963837.gif",
           "_depends_on": [
             328085,
             624165
@@ -5716,11 +5716,11 @@
         {
           "name": "Create Stuff 'N Additions",
           "curseforge_id": 466792,
-          "download_url": "https://edge.forgecdn.net/files/6448/12/create-stuff-additions1.21.1_v2.1.0e.jar",
-          "file_name": "create-stuff-additions1.21.1_v2.1.0e.jar",
-          "version_number": "Create S&A 1.21.1 V2.1.0e",
+          "download_url": "https://edge.forgecdn.net/files/8070/658/create-stuff-additions1.21.1_v2.1.2.jar",
+          "file_name": "create-stuff-additions1.21.1_v2.1.2.jar",
+          "version_number": "Create S&A 1.21.1 V2.1.2",
           "_is_dependency": true,
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1158/714/256/256/638727221391013276.png"
+          "icon_url": "https://media.forgecdn.net/avatars/1158/714/638727221391013276.png"
         },
         {
           "name": "Create Stuff & Netherite Additions",
@@ -5764,18 +5764,18 @@
         {
           "name": "Petrolpark Library",
           "curseforge_id": 1093595,
-          "download_url": "https://mediafilez.forgecdn.net/files/7981/644/petrolpark-1.21.1-1.4.32.jar",
-          "file_name": "petrolpark-1.21.1-1.4.32.jar",
-          "version_number": "Petrolpark's Library 1.4.32",
+          "download_url": "https://mediafilez.forgecdn.net/files/8063/254/petrolpark-1.21.1-1.4.34.jar",
+          "file_name": "petrolpark-1.21.1-1.4.34.jar",
+          "version_number": "Petrolpark's Library 1.4.34",
           "_is_dependency": true,
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1070/728/256/256/638606144693413397.png"
+          "icon_url": "https://media.forgecdn.net/avatars/1070/728/638606144693413397.png"
         },
         {
           "name": "Sophisticated Storage",
           "curseforge_id": 619320,
-          "download_url": "https://edge.forgecdn.net/files/8034/906/sophisticatedstorage-1.21.1-1.5.46.1717.jar",
-          "file_name": "sophisticatedstorage-1.21.1-1.5.46.1717.jar",
-          "version_number": "sophisticatedstorage-1.21.1-1.5.46.1717.jar",
+          "download_url": "https://edge.forgecdn.net/files/8084/562/sophisticatedstorage-1.21.1-1.5.47.1724.jar",
+          "file_name": "sophisticatedstorage-1.21.1-1.5.47.1724.jar",
+          "version_number": "sophisticatedstorage-1.21.1-1.5.47.1724.jar",
           "icon_url": "https://media.forgecdn.net/avatars/543/206/637872959580005837.png",
           "_depends_on": [
             618298
@@ -5922,10 +5922,10 @@
         {
           "name": "Create Additions - Sable Compat",
           "curseforge_id": 1525684,
-          "download_url": "https://mediafilez.forgecdn.net/files/8015/853/sable_createaddition_compat-0.1.3.jar",
-          "file_name": "sable_createaddition_compat-0.1.3.jar",
-          "version_number": "sable_createaddition_compat-0.1.3.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1776/902/256/256/639128045398403880.png",
+          "download_url": "https://edge.forgecdn.net/files/8079/798/sable_createaddition_compat-0.1.13.jar",
+          "file_name": "sable_createaddition_compat-0.1.13.jar",
+          "version_number": "sable_createaddition_compat-0.1.13.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/1776/902/639128045398403880.png",
           "_depends_on": [
             439890
           ]
@@ -6357,10 +6357,10 @@
         {
           "name": "Farmer's Delight",
           "curseforge_id": 398521,
-          "download_url": "https://edge.forgecdn.net/files/8007/613/FarmersDelight-1.21.1-1.3.1.jar",
-          "file_name": "FarmersDelight-1.21.1-1.3.1.jar",
-          "version_number": "Farmer's Delight 1.3.1 - 1.21.1",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/396/11/256/256/637595005615179370.png"
+          "download_url": "https://edge.forgecdn.net/files/8083/481/FarmersDelight-1.21.1-1.3.2.jar",
+          "file_name": "FarmersDelight-1.21.1-1.3.2.jar",
+          "version_number": "Farmer's Delight 1.3.2 - 1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/396/11/637595005615179370.png"
         },
         {
           "name": "Farmers Structures",
@@ -6543,10 +6543,10 @@
         {
           "name": "Colorwheel",
           "curseforge_id": 1254143,
-          "download_url": "https://edge.forgecdn.net/files/7965/647/colorwheel-neoforge-1.2.4%2Bmc1.21.1.jar",
-          "file_name": "colorwheel-neoforge-1.2.4+mc1.21.1.jar",
-          "version_number": "1.2.4+mc1.21.1-neoforge",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1286/627/256/256/638836764954331397.png",
+          "download_url": "https://edge.forgecdn.net/files/8086/320/colorwheel-neoforge-1.2.6%2Bmc1.21.1.jar",
+          "file_name": "colorwheel-neoforge-1.2.6+mc1.21.1.jar",
+          "version_number": "1.2.6+mc1.21.1-neoforge",
+          "icon_url": "https://media.forgecdn.net/avatars/1286/627/638836764954331397.png",
           "_depends_on": [
             455508
           ]
@@ -6600,9 +6600,9 @@
         {
           "name": "Create Aeronautics: Throwable Rope Connector",
           "curseforge_id": 1529882,
-          "download_url": "https://edge.forgecdn.net/files/8051/957/create_aeronautics_throwable_rope_connector-0.2.1.jar",
-          "file_name": "create_aeronautics_throwable_rope_connector-0.2.1.jar",
-          "version_number": "create_aeronautics_throwable_rope_connector-0.2.1.jar",
+          "download_url": "https://edge.forgecdn.net/files/8068/450/create_aeronautics_throwable_rope_connector-0.2.2.jar",
+          "file_name": "create_aeronautics_throwable_rope_connector-0.2.2.jar",
+          "version_number": "create_aeronautics_throwable_rope_connector-0.2.2.jar",
           "icon_url": "https://media.forgecdn.net/avatars/1792/806/639135851582020165.png"
         },
         {
@@ -6783,10 +6783,10 @@
         {
           "name": "KubeJS",
           "curseforge_id": 238086,
-          "download_url": "https://edge.forgecdn.net/files/8012/65/kubejs-neoforge-2101.7.2-build.363.jar",
-          "file_name": "kubejs-neoforge-2101.7.2-build.363.jar",
-          "version_number": "KubeJS NeoForge 2101.7.2-build.363",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1053/159/256/256/638583716122159056.png",
+          "download_url": "https://edge.forgecdn.net/files/8083/208/kubejs-neoforge-2101.7.2-build.368.jar",
+          "file_name": "kubejs-neoforge-2101.7.2-build.368.jar",
+          "version_number": "KubeJS NeoForge 2101.7.2-build.368",
+          "icon_url": "https://media.forgecdn.net/avatars/1053/159/638583716122159056.png",
           "_depends_on": [
             416294
           ]
@@ -6923,10 +6923,10 @@
         {
           "name": "Kaleidoscope Tavern",
           "curseforge_id": 1475175,
-          "download_url": "https://edge.forgecdn.net/files/7785/542/kaleidoscopetavern-1.0.1-neoforge%2Bmc1.21.1.jar",
-          "file_name": "kaleidoscopetavern-1.0.1-neoforge+mc1.21.1.jar",
-          "version_number": "kaleidoscopetavern-1.0.1-neoforge+mc1.21.1.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1700/426/256/256/639079818058110307.png"
+          "download_url": "https://edge.forgecdn.net/files/8091/783/kaleidoscopetavern-1.1.2-neoforge%2Bmc1.21.1.jar",
+          "file_name": "kaleidoscopetavern-1.1.2-neoforge+mc1.21.1.jar",
+          "version_number": "kaleidoscopetavern-1.1.2-neoforge+mc1.21.1.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/1700/426/639079818058110307.png"
         },
         {
           "name": "Kaleidoscope Cookery",
@@ -6950,10 +6950,10 @@
         {
           "name": "Create: Gears and Tavern",
           "curseforge_id": 1504275,
-          "download_url": "https://edge.forgecdn.net/files/7980/871/creategearsandtavern-1.1.2.jar",
-          "file_name": "creategearsandtavern-1.1.2.jar",
-          "version_number": "Gears and Tavern-1.1.2.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1741/932/256/256/639109010602772335.png",
+          "download_url": "https://edge.forgecdn.net/files/8072/193/creategearsandtavern-1.1.3.jar",
+          "file_name": "creategearsandtavern-1.1.3.jar",
+          "version_number": "Gears and Tavern-1.1.3.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/1741/932/639109010602772335.png",
           "_depends_on": [
             1475175,
             328085
@@ -6973,10 +6973,10 @@
         {
           "name": "Create: Structures Arise",
           "curseforge_id": 1010066,
-          "download_url": "https://mediafilez.forgecdn.net/files/7772/648/create_structures_arise-174.47.46%20Release-neoforge-1.21.1.jar",
-          "file_name": "create_structures_arise-174.47.46 Release-neoforge-1.21.1.jar",
-          "version_number": "create_structures_arise-174.47.46 Release-neoforge-1.21.1.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1067/516/256/256/638601854484952136.png",
+          "download_url": "https://mediafilez.forgecdn.net/files/8082/675/create_structures_arise%20NeoForge%201.21.1%20-175.48.47.jar",
+          "file_name": "create_structures_arise NeoForge 1.21.1 -175.48.47.jar",
+          "version_number": "create_structures_arise NeoForge 1.21.1 -175.48.47.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/1067/516/638601854484952136.png",
           "_depends_on": [
             1470821
           ]
@@ -7137,10 +7137,10 @@
         {
           "name": "Easy Villagers",
           "curseforge_id": 400514,
-          "download_url": "https://edge.forgecdn.net/files/7457/833/easy-villagers-neoforge-1.21.1-1.1.41.jar",
-          "file_name": "easy-villagers-neoforge-1.21.1-1.1.41.jar",
-          "version_number": "[NEOFORGE][1.21.1] Easy Villagers 1.21.1-1.1.41",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/331/109/256/256/637459720655905996.png"
+          "download_url": "https://edge.forgecdn.net/files/8066/730/easy-villagers-neoforge-1.21.1-1.1.42.jar",
+          "file_name": "easy-villagers-neoforge-1.21.1-1.1.42.jar",
+          "version_number": "[NEOFORGE][1.21.1] Easy Villagers 1.21.1-1.1.42",
+          "icon_url": "https://media.forgecdn.net/avatars/331/109/637459720655905996.png"
         },
         {
           "name": "Create: Aeroworks",
@@ -7161,17 +7161,17 @@
         {
           "name": "Sophisticated Backpacks",
           "curseforge_id": 422301,
-          "download_url": "https://edge.forgecdn.net/files/8034/895/sophisticatedbackpacks-1.21.1-3.25.44.1736.jar",
-          "file_name": "sophisticatedbackpacks-1.21.1-3.25.44.1736.jar",
-          "version_number": "sophisticatedbackpacks-1.21.1-3.25.44.1736.jar",
+          "download_url": "https://edge.forgecdn.net/files/8084/526/sophisticatedbackpacks-1.21.1-3.25.45.1742.jar",
+          "file_name": "sophisticatedbackpacks-1.21.1-3.25.45.1742.jar",
+          "version_number": "sophisticatedbackpacks-1.21.1-3.25.45.1742.jar",
           "icon_url": "https://media.forgecdn.net/avatars/375/56/637549610342642859.png"
         },
         {
           "name": "Sophisticated Core",
           "curseforge_id": 618298,
-          "download_url": "https://edge.forgecdn.net/files/8046/952/sophisticatedcore-1.21.1-1.4.38.1847.jar",
-          "file_name": "sophisticatedcore-1.21.1-1.4.38.1847.jar",
-          "version_number": "sophisticatedcore-1.21.1-1.4.38.1847.jar",
+          "download_url": "https://edge.forgecdn.net/files/8084/486/sophisticatedcore-1.21.1-1.4.39.1852.jar",
+          "file_name": "sophisticatedcore-1.21.1-1.4.39.1852.jar",
+          "version_number": "sophisticatedcore-1.21.1-1.4.39.1852.jar",
           "icon_url": "https://media.forgecdn.net/avatars/540/438/637866039314801108.png"
         },
         {
@@ -7193,17 +7193,17 @@
         {
           "name": "Moonlight Lib",
           "curseforge_id": 499980,
-          "download_url": "https://edge.forgecdn.net/files/8065/893/moonlight-neoforge-1.21.1-3.0.7.jar",
-          "file_name": "moonlight-neoforge-1.21.1-3.0.7.jar",
-          "version_number": "moonlight-1.21.1-3.0.7-neoforge",
+          "download_url": "https://edge.forgecdn.net/files/8089/964/moonlight-neoforge-1.21.1-3.0.9.jar",
+          "file_name": "moonlight-neoforge-1.21.1-3.0.9.jar",
+          "version_number": "moonlight-1.21.1-3.0.9-neoforge",
           "icon_url": "https://media.forgecdn.net/avatars/402/662/637610797055895331.png"
         },
         {
           "name": "Relics",
           "curseforge_id": 445274,
-          "download_url": "https://edge.forgecdn.net/files/8066/7/relics-1.21.1-0.12.3.jar",
-          "file_name": "relics-1.21.1-0.12.3.jar",
-          "version_number": "relics-1.21.1-0.12.3.jar",
+          "download_url": "https://edge.forgecdn.net/files/8077/792/relics-1.21.1-0.12.4.jar",
+          "file_name": "relics-1.21.1-0.12.4.jar",
+          "version_number": "relics-1.21.1-0.12.4.jar",
           "icon_url": "https://media.forgecdn.net/avatars/1124/47/638680710071253437.gif"
         },
         {
@@ -7217,10 +7217,10 @@
         {
           "name": "Athena",
           "curseforge_id": 841890,
-          "download_url": "https://edge.forgecdn.net/files/8033/61/athena-neoforge-1.21.1-4.0.5.jar",
-          "file_name": "athena-neoforge-1.21.1-4.0.5.jar",
-          "version_number": "[NeoForge] Athena 4.0.5",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/802/591/256/256/638167374895521681.png"
+          "download_url": "https://edge.forgecdn.net/files/8061/947/athena-neoforge-1.21.1-4.0.6.jar",
+          "file_name": "athena-neoforge-1.21.1-4.0.6.jar",
+          "version_number": "[NeoForge] Athena 4.0.6",
+          "icon_url": "https://media.forgecdn.net/avatars/802/591/638167374895521681.png"
         },
         {
           "name": "Create: Food",
@@ -7305,6 +7305,34 @@
       ],
       "changelog": [
         {
+          "date": "2026-05-16T01:34:36.070Z",
+          "author": "Martion000",
+          "changes": [
+            "⬆ Sodium: Sodium 0.6.13 for NeoForge → Sodium 0.8.12-alpha.2 for NeoForge 1.21.1",
+            "⬆ Creative Tabs Organizer: Tabs_Organizer-1.1.1 → Tabs_Organizer-1.2.0",
+            "⬆ Create Propulsion: Simulated: 1.1.2 → 1.1.3",
+            "⬆ Create: Power Loader: create_power_loader 2.0.3-mc1.21.1 → create_power_loader 2.0.4-mc1.21.1",
+            "⬆ Create: Escalated: Create: Escalated v1.2.1 for NeoForge 1.21.1, Create v6.0.8+ → Create: Escalated v1.3.0 for NeoForge 1.21.1, Create v6.0.7+",
+            "⬆ Create Stuff 'N Additions: Create S&A 1.21.1 V2.1.0e → Create S&A 1.21.1 V2.1.2",
+            "⬆ Petrolpark Library: Petrolpark's Library 1.4.32 → Petrolpark's Library 1.4.34",
+            "⬆ Sophisticated Storage: sophisticatedstorage-1.21.1-1.5.46.1717.jar → sophisticatedstorage-1.21.1-1.5.47.1724.jar",
+            "⬆ Create Additions - Sable Compat: sable_createaddition_compat-0.1.3.jar → sable_createaddition_compat-0.1.13.jar",
+            "⬆ Farmer's Delight: Farmer's Delight 1.3.1 - 1.21.1 → Farmer's Delight 1.3.2 - 1.21.1",
+            "⬆ Colorwheel: 1.2.4+mc1.21.1-neoforge → 1.2.6+mc1.21.1-neoforge",
+            "⬆ Create Aeronautics: Throwable Rope Connector: create_aeronautics_throwable_rope_connector-0.2.1.jar → create_aeronautics_throwable_rope_connector-0.2.2.jar",
+            "⬆ KubeJS: KubeJS NeoForge 2101.7.2-build.363 → KubeJS NeoForge 2101.7.2-build.368",
+            "⬆ Kaleidoscope Tavern: kaleidoscopetavern-1.0.1-neoforge+mc1.21.1.jar → kaleidoscopetavern-1.1.2-neoforge+mc1.21.1.jar",
+            "⬆ Create: Gears and Tavern: Gears and Tavern-1.1.2.jar → Gears and Tavern-1.1.3.jar",
+            "⬆ Create: Structures Arise: create_structures_arise-174.47.46 Release-neoforge-1.21.1.jar → create_structures_arise NeoForge 1.21.1 -175.48.47.jar",
+            "⬆ Easy Villagers: [NEOFORGE][1.21.1] Easy Villagers 1.21.1-1.1.41 → [NEOFORGE][1.21.1] Easy Villagers 1.21.1-1.1.42",
+            "⬆ Sophisticated Backpacks: sophisticatedbackpacks-1.21.1-3.25.44.1736.jar → sophisticatedbackpacks-1.21.1-3.25.45.1742.jar",
+            "⬆ Sophisticated Core: sophisticatedcore-1.21.1-1.4.38.1847.jar → sophisticatedcore-1.21.1-1.4.39.1852.jar",
+            "⬆ Moonlight Lib: moonlight-1.21.1-3.0.7-neoforge → moonlight-1.21.1-3.0.9-neoforge",
+            "⬆ Relics: relics-1.21.1-0.12.3.jar → relics-1.21.1-0.12.4.jar",
+            "⬆ Athena: [NeoForge] Athena 4.0.5 → [NeoForge] Athena 4.0.6"
+          ]
+        },
+        {
           "date": "2026-05-16T01:29:20.568Z",
           "author": "Martion000",
           "changes": [
@@ -7363,7 +7391,7 @@
           ]
         }
       ],
-      "extras_version": 137,
+      "extras_version": 138,
       "extras_url": "",
       "resourcepacks": [
         {
