@@ -7425,7 +7425,7 @@
           ]
         }
       ],
-      "extras_version": 139,
+      "extras_version": 140,
       "extras_url": "",
       "resourcepacks": [
         {
@@ -7496,7 +7496,8 @@
           "version_number": "MakeUp-UltraFast-9.4e.zip",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1044/516/256/256/638572074817465930.webp"
         }
-      ]
+      ],
+      "category": "cementerio"
     }
   ]
 }
