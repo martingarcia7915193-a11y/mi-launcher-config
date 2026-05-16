@@ -5658,10 +5658,10 @@
         {
           "name": "Create: Escalated",
           "curseforge_id": 1260145,
-          "download_url": "https://edge.forgecdn.net/files/8069/135/escalated-1.3.0-mc.1.21.1.jar",
-          "file_name": "escalated-1.3.0-mc.1.21.1.jar",
-          "version_number": "Create: Escalated v1.3.0 for NeoForge 1.21.1, Create v6.0.7+",
-          "icon_url": "https://media.forgecdn.net/avatars/1261/902/638821569425963837.gif",
+          "download_url": "https://edge.forgecdn.net/files/7430/7/escalated-1.2.1-create.6.0.8-mc.1.21.1-neoforge.jar",
+          "file_name": "escalated-1.2.1-create.6.0.8-mc.1.21.1-neoforge.jar",
+          "version_number": "Create: Escalated v1.2.1 for NeoForge 1.21.1, Create v6.0.8+",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1261/902/256/256/638821569425963837_animated.gif",
           "_depends_on": [
             328085,
             624165
@@ -7303,6 +7303,13 @@
       ],
       "changelog": [
         {
+          "date": "2026-05-16T01:45:07.988Z",
+          "author": "Martion000",
+          "changes": [
+            "⬆ Create: Escalated: Create: Escalated v1.3.0 for NeoForge 1.21.1, Create v6.0.7+ → Create: Escalated v1.2.1 for NeoForge 1.21.1, Create v6.0.8+"
+          ]
+        },
+        {
           "date": "2026-05-16T01:43:33.183Z",
           "author": "Martion000",
           "changes": [
@@ -7332,7 +7339,7 @@
           ]
         }
       ],
-      "extras_version": 134,
+      "extras_version": 135,
       "extras_url": "",
       "resourcepacks": [
         {
