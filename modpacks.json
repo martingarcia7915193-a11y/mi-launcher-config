@@ -5616,10 +5616,10 @@
         {
           "name": "Create: Power Loader",
           "curseforge_id": 936020,
-          "download_url": "https://edge.forgecdn.net/files/6549/980/create_power_loader-2.0.3-mc1.21.1.jar",
-          "file_name": "create_power_loader-2.0.3-mc1.21.1.jar",
-          "version_number": "create_power_loader 2.0.3-mc1.21.1",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/903/443/256/256/638352779105838214.png",
+          "download_url": "https://edge.forgecdn.net/files/8090/899/create_power_loader-2.0.4-mc1.21.1.jar",
+          "file_name": "create_power_loader-2.0.4-mc1.21.1.jar",
+          "version_number": "create_power_loader 2.0.4-mc1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/903/443/638352779105838214.png",
           "_depends_on": [
             328085
           ]
@@ -5771,9 +5771,9 @@
         {
           "name": "Sophisticated Storage",
           "curseforge_id": 619320,
-          "download_url": "https://edge.forgecdn.net/files/8034/906/sophisticatedstorage-1.21.1-1.5.46.1717.jar",
-          "file_name": "sophisticatedstorage-1.21.1-1.5.46.1717.jar",
-          "version_number": "sophisticatedstorage-1.21.1-1.5.46.1717.jar",
+          "download_url": "https://edge.forgecdn.net/files/8084/562/sophisticatedstorage-1.21.1-1.5.47.1724.jar",
+          "file_name": "sophisticatedstorage-1.21.1-1.5.47.1724.jar",
+          "version_number": "sophisticatedstorage-1.21.1-1.5.47.1724.jar",
           "icon_url": "https://media.forgecdn.net/avatars/543/206/637872959580005837.png",
           "_depends_on": [
             618298
@@ -5920,10 +5920,10 @@
         {
           "name": "Create Additions - Sable Compat",
           "curseforge_id": 1525684,
-          "download_url": "https://mediafilez.forgecdn.net/files/8015/853/sable_createaddition_compat-0.1.3.jar",
-          "file_name": "sable_createaddition_compat-0.1.3.jar",
-          "version_number": "sable_createaddition_compat-0.1.3.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1776/902/256/256/639128045398403880.png",
+          "download_url": "https://edge.forgecdn.net/files/8079/798/sable_createaddition_compat-0.1.13.jar",
+          "file_name": "sable_createaddition_compat-0.1.13.jar",
+          "version_number": "sable_createaddition_compat-0.1.13.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/1776/902/639128045398403880.png",
           "_depends_on": [
             439890
           ]
@@ -6541,10 +6541,10 @@
         {
           "name": "Colorwheel",
           "curseforge_id": 1254143,
-          "download_url": "https://edge.forgecdn.net/files/7965/647/colorwheel-neoforge-1.2.4%2Bmc1.21.1.jar",
-          "file_name": "colorwheel-neoforge-1.2.4+mc1.21.1.jar",
-          "version_number": "1.2.4+mc1.21.1-neoforge",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1286/627/256/256/638836764954331397.png",
+          "download_url": "https://edge.forgecdn.net/files/8086/320/colorwheel-neoforge-1.2.6%2Bmc1.21.1.jar",
+          "file_name": "colorwheel-neoforge-1.2.6+mc1.21.1.jar",
+          "version_number": "1.2.6+mc1.21.1-neoforge",
+          "icon_url": "https://media.forgecdn.net/avatars/1286/627/638836764954331397.png",
           "_depends_on": [
             455508
           ]
@@ -6598,9 +6598,9 @@
         {
           "name": "Create Aeronautics: Throwable Rope Connector",
           "curseforge_id": 1529882,
-          "download_url": "https://edge.forgecdn.net/files/8051/957/create_aeronautics_throwable_rope_connector-0.2.1.jar",
-          "file_name": "create_aeronautics_throwable_rope_connector-0.2.1.jar",
-          "version_number": "create_aeronautics_throwable_rope_connector-0.2.1.jar",
+          "download_url": "https://edge.forgecdn.net/files/8068/450/create_aeronautics_throwable_rope_connector-0.2.2.jar",
+          "file_name": "create_aeronautics_throwable_rope_connector-0.2.2.jar",
+          "version_number": "create_aeronautics_throwable_rope_connector-0.2.2.jar",
           "icon_url": "https://media.forgecdn.net/avatars/1792/806/639135851582020165.png"
         },
         {
@@ -6781,10 +6781,10 @@
         {
           "name": "KubeJS",
           "curseforge_id": 238086,
-          "download_url": "https://edge.forgecdn.net/files/8012/65/kubejs-neoforge-2101.7.2-build.363.jar",
-          "file_name": "kubejs-neoforge-2101.7.2-build.363.jar",
-          "version_number": "KubeJS NeoForge 2101.7.2-build.363",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1053/159/256/256/638583716122159056.png",
+          "download_url": "https://edge.forgecdn.net/files/8083/208/kubejs-neoforge-2101.7.2-build.368.jar",
+          "file_name": "kubejs-neoforge-2101.7.2-build.368.jar",
+          "version_number": "KubeJS NeoForge 2101.7.2-build.368",
+          "icon_url": "https://media.forgecdn.net/avatars/1053/159/638583716122159056.png",
           "_depends_on": [
             416294
           ]
@@ -6971,10 +6971,10 @@
         {
           "name": "Create: Structures Arise",
           "curseforge_id": 1010066,
-          "download_url": "https://mediafilez.forgecdn.net/files/7772/648/create_structures_arise-174.47.46%20Release-neoforge-1.21.1.jar",
-          "file_name": "create_structures_arise-174.47.46 Release-neoforge-1.21.1.jar",
-          "version_number": "create_structures_arise-174.47.46 Release-neoforge-1.21.1.jar",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1067/516/256/256/638601854484952136.png",
+          "download_url": "https://mediafilez.forgecdn.net/files/8082/675/create_structures_arise%20NeoForge%201.21.1%20-175.48.47.jar",
+          "file_name": "create_structures_arise NeoForge 1.21.1 -175.48.47.jar",
+          "version_number": "create_structures_arise NeoForge 1.21.1 -175.48.47.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/1067/516/638601854484952136.png",
           "_depends_on": [
             1470821
           ]
@@ -7191,17 +7191,17 @@
         {
           "name": "Moonlight Lib",
           "curseforge_id": 499980,
-          "download_url": "https://edge.forgecdn.net/files/8065/893/moonlight-neoforge-1.21.1-3.0.7.jar",
-          "file_name": "moonlight-neoforge-1.21.1-3.0.7.jar",
-          "version_number": "moonlight-1.21.1-3.0.7-neoforge",
+          "download_url": "https://edge.forgecdn.net/files/8089/964/moonlight-neoforge-1.21.1-3.0.9.jar",
+          "file_name": "moonlight-neoforge-1.21.1-3.0.9.jar",
+          "version_number": "moonlight-1.21.1-3.0.9-neoforge",
           "icon_url": "https://media.forgecdn.net/avatars/402/662/637610797055895331.png"
         },
         {
           "name": "Relics",
           "curseforge_id": 445274,
-          "download_url": "https://edge.forgecdn.net/files/8066/7/relics-1.21.1-0.12.3.jar",
-          "file_name": "relics-1.21.1-0.12.3.jar",
-          "version_number": "relics-1.21.1-0.12.3.jar",
+          "download_url": "https://edge.forgecdn.net/files/8077/792/relics-1.21.1-0.12.4.jar",
+          "file_name": "relics-1.21.1-0.12.4.jar",
+          "version_number": "relics-1.21.1-0.12.4.jar",
           "icon_url": "https://media.forgecdn.net/avatars/1124/47/638680710071253437.gif"
         },
         {
@@ -7215,10 +7215,10 @@
         {
           "name": "Athena",
           "curseforge_id": 841890,
-          "download_url": "https://edge.forgecdn.net/files/8033/61/athena-neoforge-1.21.1-4.0.5.jar",
-          "file_name": "athena-neoforge-1.21.1-4.0.5.jar",
-          "version_number": "[NeoForge] Athena 4.0.5",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/802/591/256/256/638167374895521681.png"
+          "download_url": "https://edge.forgecdn.net/files/8061/947/athena-neoforge-1.21.1-4.0.6.jar",
+          "file_name": "athena-neoforge-1.21.1-4.0.6.jar",
+          "version_number": "[NeoForge] Athena 4.0.6",
+          "icon_url": "https://media.forgecdn.net/avatars/802/591/638167374895521681.png"
         },
         {
           "name": "Create: Food",
@@ -7279,10 +7279,10 @@
         {
           "name": "Create: More Girder",
           "curseforge_id": 1371561,
-          "download_url": "https://edge.forgecdn.net/files/8067/237/create-more-girder-1.2.1-neo.jar",
-          "file_name": "create-more-girder-1.2.1-neo.jar",
-          "version_number": "create-more-girder-1.2.1-neo",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1491/478/256/256/638969202858469297.png"
+          "download_url": "https://edge.forgecdn.net/files/8094/676/create-more-girder-2.0.0-neo.jar",
+          "file_name": "create-more-girder-2.0.0-neo.jar",
+          "version_number": "create-more-girder-2.0.0-neo",
+          "icon_url": "https://media.forgecdn.net/avatars/1491/478/638969202858469297.png"
         },
         {
           "name": "Extreme sound muffler - (Neo)Forge",
@@ -7302,6 +7302,23 @@
         }
       ],
       "changelog": [
+        {
+          "date": "2026-05-16T01:59:07.620Z",
+          "author": "Martion000",
+          "changes": [
+            "⬆ Create: Power Loader: create_power_loader 2.0.3-mc1.21.1 → create_power_loader 2.0.4-mc1.21.1",
+            "⬆ Sophisticated Storage: sophisticatedstorage-1.21.1-1.5.46.1717.jar → sophisticatedstorage-1.21.1-1.5.47.1724.jar",
+            "⬆ Create Additions - Sable Compat: sable_createaddition_compat-0.1.3.jar → sable_createaddition_compat-0.1.13.jar",
+            "⬆ Colorwheel: 1.2.4+mc1.21.1-neoforge → 1.2.6+mc1.21.1-neoforge",
+            "⬆ Create Aeronautics: Throwable Rope Connector: create_aeronautics_throwable_rope_connector-0.2.1.jar → create_aeronautics_throwable_rope_connector-0.2.2.jar",
+            "⬆ KubeJS: KubeJS NeoForge 2101.7.2-build.363 → KubeJS NeoForge 2101.7.2-build.368",
+            "⬆ Create: Structures Arise: create_structures_arise-174.47.46 Release-neoforge-1.21.1.jar → create_structures_arise NeoForge 1.21.1 -175.48.47.jar",
+            "⬆ Moonlight Lib: moonlight-1.21.1-3.0.7-neoforge → moonlight-1.21.1-3.0.9-neoforge",
+            "⬆ Relics: relics-1.21.1-0.12.3.jar → relics-1.21.1-0.12.4.jar",
+            "⬆ Athena: [NeoForge] Athena 4.0.5 → [NeoForge] Athena 4.0.6",
+            "⬆ Create: More Girder: create-more-girder-1.2.1-neo → create-more-girder-2.0.0-neo"
+          ]
+        },
         {
           "date": "2026-05-16T01:55:05.377Z",
           "author": "Martion000",
@@ -7360,7 +7377,7 @@
           ]
         }
       ],
-      "extras_version": 137,
+      "extras_version": 138,
       "extras_url": "",
       "resourcepacks": [
         {
