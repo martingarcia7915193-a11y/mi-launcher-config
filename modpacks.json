@@ -5510,17 +5510,17 @@
         {
           "name": "Waystones: Sable (Create Aeronautics Addon)",
           "curseforge_id": 1524471,
-          "download_url": "https://edge.forgecdn.net/files/8062/939/waystonessable-1.0.1.jar",
-          "file_name": "waystonessable-1.0.1.jar",
-          "version_number": "waystonessable-1.0.1",
+          "download_url": "https://edge.forgecdn.net/files/8078/396/waystonessable-1.0.2.jar",
+          "file_name": "waystonessable-1.0.2.jar",
+          "version_number": "waystonessable-1.0.2",
           "icon_url": "https://media.forgecdn.net/avatars/1774/736/639127152190309266.png"
         },
         {
           "name": "Waystones",
           "curseforge_id": 245755,
-          "download_url": "https://edge.forgecdn.net/files/8056/467/waystones-neoforge-1.21.1-21.1.32.jar",
-          "file_name": "waystones-neoforge-1.21.1-21.1.32.jar",
-          "version_number": "waystones-neoforge-1.21.1-21.1.32.jar",
+          "download_url": "https://edge.forgecdn.net/files/8091/643/waystones-neoforge-1.21.1-21.1.33.jar",
+          "file_name": "waystones-neoforge-1.21.1-21.1.33.jar",
+          "version_number": "waystones-neoforge-1.21.1-21.1.33.jar",
           "icon_url": "https://media.forgecdn.net/avatars/1107/108/638657104456838765.png",
           "_depends_on": [
             531761
@@ -7135,10 +7135,10 @@
         {
           "name": "Easy Villagers",
           "curseforge_id": 400514,
-          "download_url": "https://edge.forgecdn.net/files/7457/833/easy-villagers-neoforge-1.21.1-1.1.41.jar",
-          "file_name": "easy-villagers-neoforge-1.21.1-1.1.41.jar",
-          "version_number": "[NEOFORGE][1.21.1] Easy Villagers 1.21.1-1.1.41",
-          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/331/109/256/256/637459720655905996.png"
+          "download_url": "https://edge.forgecdn.net/files/8066/730/easy-villagers-neoforge-1.21.1-1.1.42.jar",
+          "file_name": "easy-villagers-neoforge-1.21.1-1.1.42.jar",
+          "version_number": "[NEOFORGE][1.21.1] Easy Villagers 1.21.1-1.1.42",
+          "icon_url": "https://media.forgecdn.net/avatars/331/109/637459720655905996.png"
         },
         {
           "name": "Create: Aeroworks",
@@ -7159,17 +7159,17 @@
         {
           "name": "Sophisticated Backpacks",
           "curseforge_id": 422301,
-          "download_url": "https://edge.forgecdn.net/files/8034/895/sophisticatedbackpacks-1.21.1-3.25.44.1736.jar",
-          "file_name": "sophisticatedbackpacks-1.21.1-3.25.44.1736.jar",
-          "version_number": "sophisticatedbackpacks-1.21.1-3.25.44.1736.jar",
+          "download_url": "https://edge.forgecdn.net/files/8084/526/sophisticatedbackpacks-1.21.1-3.25.45.1742.jar",
+          "file_name": "sophisticatedbackpacks-1.21.1-3.25.45.1742.jar",
+          "version_number": "sophisticatedbackpacks-1.21.1-3.25.45.1742.jar",
           "icon_url": "https://media.forgecdn.net/avatars/375/56/637549610342642859.png"
         },
         {
           "name": "Sophisticated Core",
           "curseforge_id": 618298,
-          "download_url": "https://edge.forgecdn.net/files/8046/952/sophisticatedcore-1.21.1-1.4.38.1847.jar",
-          "file_name": "sophisticatedcore-1.21.1-1.4.38.1847.jar",
-          "version_number": "sophisticatedcore-1.21.1-1.4.38.1847.jar",
+          "download_url": "https://edge.forgecdn.net/files/8084/486/sophisticatedcore-1.21.1-1.4.39.1852.jar",
+          "file_name": "sophisticatedcore-1.21.1-1.4.39.1852.jar",
+          "version_number": "sophisticatedcore-1.21.1-1.4.39.1852.jar",
           "icon_url": "https://media.forgecdn.net/avatars/540/438/637866039314801108.png"
         },
         {
@@ -7303,6 +7303,17 @@
       ],
       "changelog": [
         {
+          "date": "2026-05-16T01:48:02.316Z",
+          "author": "Martion000",
+          "changes": [
+            "⬆ Waystones: Sable (Create Aeronautics Addon): waystonessable-1.0.1 → waystonessable-1.0.2",
+            "⬆ Waystones: waystones-neoforge-1.21.1-21.1.32.jar → waystones-neoforge-1.21.1-21.1.33.jar",
+            "⬆ Easy Villagers: [NEOFORGE][1.21.1] Easy Villagers 1.21.1-1.1.41 → [NEOFORGE][1.21.1] Easy Villagers 1.21.1-1.1.42",
+            "⬆ Sophisticated Backpacks: sophisticatedbackpacks-1.21.1-3.25.44.1736.jar → sophisticatedbackpacks-1.21.1-3.25.45.1742.jar",
+            "⬆ Sophisticated Core: sophisticatedcore-1.21.1-1.4.38.1847.jar → sophisticatedcore-1.21.1-1.4.39.1852.jar"
+          ]
+        },
+        {
           "date": "2026-05-16T01:45:07.988Z",
           "author": "Martion000",
           "changes": [
@@ -7339,7 +7350,7 @@
           ]
         }
       ],
-      "extras_version": 135,
+      "extras_version": 136,
       "extras_url": "",
       "resourcepacks": [
         {
