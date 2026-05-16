@@ -5510,17 +5510,17 @@
         {
           "name": "Waystones: Sable (Create Aeronautics Addon)",
           "curseforge_id": 1524471,
-          "download_url": "https://edge.forgecdn.net/files/8062/939/waystonessable-1.0.1.jar",
-          "file_name": "waystonessable-1.0.1.jar",
-          "version_number": "waystonessable-1.0.1",
+          "download_url": "https://edge.forgecdn.net/files/8078/396/waystonessable-1.0.2.jar",
+          "file_name": "waystonessable-1.0.2.jar",
+          "version_number": "waystonessable-1.0.2",
           "icon_url": "https://media.forgecdn.net/avatars/1774/736/639127152190309266.png"
         },
         {
           "name": "Waystones",
           "curseforge_id": 245755,
-          "download_url": "https://edge.forgecdn.net/files/8056/467/waystones-neoforge-1.21.1-21.1.32.jar",
-          "file_name": "waystones-neoforge-1.21.1-21.1.32.jar",
-          "version_number": "waystones-neoforge-1.21.1-21.1.32.jar",
+          "download_url": "https://edge.forgecdn.net/files/8091/643/waystones-neoforge-1.21.1-21.1.33.jar",
+          "file_name": "waystones-neoforge-1.21.1-21.1.33.jar",
+          "version_number": "waystones-neoforge-1.21.1-21.1.33.jar",
           "icon_url": "https://media.forgecdn.net/avatars/1107/108/638657104456838765.png",
           "_depends_on": [
             531761
@@ -7303,6 +7303,14 @@
       ],
       "changelog": [
         {
+          "date": "2026-05-16T01:16:42.956Z",
+          "author": "Martion000",
+          "changes": [
+            "⬆ Waystones: Sable (Create Aeronautics Addon): waystonessable-1.0.1 → waystonessable-1.0.2",
+            "⬆ Waystones: waystones-neoforge-1.21.1-21.1.32.jar → waystones-neoforge-1.21.1-21.1.33.jar"
+          ]
+        },
+        {
           "date": "2026-05-16T01:04:11.949Z",
           "author": "Martion000",
           "changes": [
@@ -7327,7 +7335,7 @@
           ]
         }
       ],
-      "extras_version": 134,
+      "extras_version": 135,
       "extras_url": "",
       "resourcepacks": [
         {
