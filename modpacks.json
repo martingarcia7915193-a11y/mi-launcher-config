@@ -2716,7 +2716,8 @@
           "icon_url": "https://media.forgecdn.net/avatars/1776/902/639128045398403880.png",
           "_depends_on": [
             439890
-          ]
+          ],
+          "client_only": false
         },
         {
           "name": "Curios API (Forge/NeoForge)",
@@ -4097,17 +4098,16 @@
           "file_name": "create_simulated_additions-0.1.1-neoforge-1.21.1.jar",
           "version_number": "create_simulated_additions-0.1.1-neoforge-1.21.1.jar",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1805/955/256/256/639142786942256257.png"
-        },
-        {
-          "name": "Create Stuff 'N Additions x Sable & Aeronautics Compat",
-          "curseforge_id": 1541139,
-          "download_url": "https://edge.forgecdn.net/files/8101/371/SableStuffAdditionsCompat%20v1.0.1-1.21.1.jar",
-          "file_name": "SableStuffAdditionsCompat v1.0.1-1.21.1.jar",
-          "version_number": "SableStuffAdditionsCompat v1.0.1",
-          "icon_url": "https://media.forgecdn.net/avatars/1804/233/639141851946771098.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-05-18T03:04:00.722Z",
+          "author": "Martion000",
+          "changes": [
+            "− Create Stuff 'N Additions x Sable & Aeronautics Compat"
+          ]
+        },
         {
           "date": "2026-05-18T03:01:18.816Z",
           "author": "Martion000",
@@ -5285,7 +5285,7 @@
           ]
         }
       ],
-      "extras_version": 134,
+      "extras_version": 135,
       "extras_url": "",
       "resourcepacks": [
         {
