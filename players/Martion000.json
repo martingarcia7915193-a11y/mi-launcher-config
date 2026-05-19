@@ -45,8 +45,8 @@
     "TWO": 22114
   },
   "online": true,
-  "playing": "TWO",
-  "last_seen": 1779156604982,
+  "playing": null,
+  "last_seen": 1779156611186,
   "playing_name": "TWO ",
   "playing_since": 1779156602727
 }
