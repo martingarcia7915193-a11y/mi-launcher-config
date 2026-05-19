@@ -7586,10 +7586,47 @@
           "file_name": "sodium-fabric-0.8.12+mc26.1.2.jar",
           "version_number": "Sodium 0.8.12 for Fabric 26.1.2",
           "_is_dependency": true
+        },
+        {
+          "name": "Mod Menu",
+          "curseforge_id": 308702,
+          "download_url": "https://edge.forgecdn.net/files/8065/321/modmenu-18.0.0-beta.1.jar",
+          "file_name": "modmenu-18.0.0-beta.1.jar",
+          "version_number": "v18.0.0-beta.1 for 26.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1577/189/256/256/639021849968664892.png",
+          "_depends_on": [
+            1037459,
+            306612
+          ]
+        },
+        {
+          "name": "placeholder-api-3.0.0+26.1.jar",
+          "curseforge_id": 1037459,
+          "download_url": "https://edge.forgecdn.net/files/7908/941/placeholder-api-3.0.0%2B26.1.jar",
+          "file_name": "placeholder-api-3.0.0+26.1.jar",
+          "version_number": "placeholder-api-3.0.0+26.1.jar",
+          "_is_dependency": true
+        },
+        {
+          "name": "[26.1.2] Fabric API 0.149.0+26.1.2",
+          "curseforge_id": 306612,
+          "download_url": "https://edge.forgecdn.net/files/8087/351/fabric-api-0.149.0%2B26.1.2.jar",
+          "file_name": "fabric-api-0.149.0+26.1.2.jar",
+          "version_number": "[26.1.2] Fabric API 0.149.0+26.1.2",
+          "_is_dependency": true
         }
       ],
-      "extras_version": 12,
+      "extras_version": 13,
       "changelog": [
+        {
+          "date": "2026-05-19T01:03:05.135Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Mod Menu",
+            "+ placeholder-api-3.0.0+26.1.jar",
+            "+ [26.1.2] Fabric API 0.149.0+26.1.2"
+          ]
+        },
         {
           "date": "2026-05-19T01:02:41.730Z",
           "author": "Martion000",
