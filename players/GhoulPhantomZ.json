@@ -9,11 +9,12 @@
     "vanilla_fabric": 132703,
     "createmon2": 53247351,
     "v": 12531629,
-    "custom_queso_v_1778296076666": 29857781
+    "custom_queso_v_1778296076666": 29857781,
+    "TWO": 1448095
   },
   "online": true,
-  "playing": "TWO",
-  "last_seen": 1779165731669,
+  "playing": null,
+  "last_seen": 1779167178142,
   "playing_name": "TWO ",
   "playing_since": 1779165729399
 }
