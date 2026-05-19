@@ -44,9 +44,9 @@
     "2DIMENSION": 14376,
     "TWO": 3205305
   },
-  "online": false,
-  "playing": null,
-  "last_seen": 1779160133404,
+  "online": true,
+  "playing": "TWO",
+  "last_seen": 1779165671205,
   "playing_name": "TWO ",
-  "playing_since": 1779157040865
+  "playing_since": 1779165670399
 }
