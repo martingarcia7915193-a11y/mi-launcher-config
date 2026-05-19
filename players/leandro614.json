@@ -12,9 +12,9 @@
     "aviones": 78359450,
     "TWO": 917423
   },
-  "online": false,
-  "playing": null,
-  "last_seen": 1779183858802,
+  "online": true,
+  "playing": "aviones",
+  "last_seen": 1779232779279,
   "playing_name": "Create + aviones :v",
-  "playing_since": 1779181584531
+  "playing_since": 1779232778775
 }
