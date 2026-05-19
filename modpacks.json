@@ -7558,15 +7558,108 @@
       "banner": "",
       "background": "",
       "server_ip": "",
-      "mods": [],
-      "extras_version": 2,
+      "mods": [
+        {
+          "name": "Two Dimensional: Reloaded",
+          "curseforge_id": 1411299,
+          "download_url": "https://edge.forgecdn.net/files/8012/259/twodimensionalreloaded-0.5.0-alpha%2B26.1.2.jar",
+          "file_name": "twodimensionalreloaded-0.5.0-alpha+26.1.2.jar",
+          "version_number": "0.5.0-alpha+26.1.2",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1577/925/256/256/639022328937745118.png",
+          "_depends_on": [
+            348521,
+            394468
+          ]
+        },
+        {
+          "name": "[Fabric 26.1] v26.1.154",
+          "curseforge_id": 348521,
+          "download_url": "https://edge.forgecdn.net/files/7817/582/cloth-config-26.1.154.jar",
+          "file_name": "cloth-config-26.1.154.jar",
+          "version_number": "[Fabric 26.1] v26.1.154",
+          "_is_dependency": true
+        },
+        {
+          "name": "Sodium 0.8.12 for Fabric 26.1.2",
+          "curseforge_id": 394468,
+          "download_url": "https://edge.forgecdn.net/files/8111/41/sodium-fabric-0.8.12%2Bmc26.1.2.jar",
+          "file_name": "sodium-fabric-0.8.12+mc26.1.2.jar",
+          "version_number": "Sodium 0.8.12 for Fabric 26.1.2",
+          "_is_dependency": true
+        },
+        {
+          "name": "[26.1.2] Fabric API 0.149.0+26.1.2",
+          "curseforge_id": 306612,
+          "download_url": "https://edge.forgecdn.net/files/8087/351/fabric-api-0.149.0%2B26.1.2.jar",
+          "file_name": "fabric-api-0.149.0+26.1.2.jar",
+          "version_number": "[26.1.2] Fabric API 0.149.0+26.1.2",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/185/822/256/256/636829723898798601.png",
+          "_is_dependency": true
+        },
+        {
+          "name": "Mod Menu",
+          "curseforge_id": 308702,
+          "download_url": "https://edge.forgecdn.net/files/8065/321/modmenu-18.0.0-beta.1.jar",
+          "file_name": "modmenu-18.0.0-beta.1.jar",
+          "version_number": "v18.0.0-beta.1 for 26.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1577/189/256/256/639021849968664892.png",
+          "_depends_on": [
+            1037459,
+            306612
+          ]
+        },
+        {
+          "name": "placeholder-api-3.0.0+26.1.jar",
+          "curseforge_id": 1037459,
+          "download_url": "https://edge.forgecdn.net/files/7908/941/placeholder-api-3.0.0%2B26.1.jar",
+          "file_name": "placeholder-api-3.0.0+26.1.jar",
+          "version_number": "placeholder-api-3.0.0+26.1.jar",
+          "_is_dependency": true
+        },
+        {
+          "name": "Iris Shaders",
+          "curseforge_id": 455508,
+          "download_url": "https://edge.forgecdn.net/files/7867/943/iris-fabric-1.10.9%2Bmc26.1.1.jar",
+          "file_name": "iris-fabric-1.10.9+mc26.1.1.jar",
+          "version_number": "Iris 1.10.9 for Fabric 26.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1002/450/256/256/638522657871453967.png",
+          "_depends_on": [
+            394468
+          ]
+        }
+      ],
+      "extras_version": 3,
       "changelog": [
+        {
+          "date": "2026-05-19T02:09:48.061Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Two Dimensional: Reloaded",
+            "+ [Fabric 26.1] v26.1.154",
+            "+ Sodium 0.8.12 for Fabric 26.1.2",
+            "+ [26.1.2] Fabric API 0.149.0+26.1.2",
+            "+ Mod Menu",
+            "+ placeholder-api-3.0.0+26.1.jar",
+            "+ Iris Shaders",
+            "+ Complementary Shaders - Unbound (Shader)"
+          ]
+        },
         {
           "date": "2026-05-19T02:07:41.920Z",
           "author": "Martion000",
           "changes": [
             "✦ Modpack creado"
           ]
+        }
+      ],
+      "shaders": [
+        {
+          "name": "Complementary Shaders - Unbound",
+          "curseforge_id": 385587,
+          "download_url": "https://edge.forgecdn.net/files/7574/260/ComplementaryUnbound_r5.7.1.zip",
+          "file_name": "ComplementaryUnbound_r5.7.1.zip",
+          "version_number": "Complementary Unbound r5.7.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/875/480/256/256/638298072228596362.png"
         }
       ]
     }
