@@ -6,11 +6,12 @@
   ],
   "playtime": {
     "createmon2": 31503255,
-    "v": 20240103
+    "v": 20240103,
+    "TWO": 1420334
   },
   "online": true,
-  "playing": "TWO",
+  "playing": null,
   "playing_name": "TWO ",
   "playing_since": 1779165647782,
-  "last_seen": 1779165651997
+  "last_seen": 1779167068837
 }
