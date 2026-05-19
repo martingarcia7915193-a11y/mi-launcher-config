@@ -7544,6 +7544,31 @@
         }
       ],
       "category": "cementerio"
+    },
+    {
+      "id": "2DIMENSION",
+      "name": "TWO DIMENSION ",
+      "version": "1.0.0",
+      "description": "",
+      "description_images": [],
+      "minecraft_version": "26.1.2",
+      "modloader": "fabric",
+      "modloader_version": "0.19.2",
+      "icon": "",
+      "banner": "",
+      "background": "",
+      "server_ip": "",
+      "mods": [],
+      "extras_version": 11,
+      "changelog": [
+        {
+          "date": "2026-05-19T01:01:46.060Z",
+          "author": "Martion000",
+          "changes": [
+            "✦ Modpack creado"
+          ]
+        }
+      ]
     }
   ]
 }
