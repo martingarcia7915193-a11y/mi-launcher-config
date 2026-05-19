@@ -7558,9 +7558,47 @@
       "banner": "",
       "background": "",
       "server_ip": "",
-      "mods": [],
-      "extras_version": 11,
+      "mods": [
+        {
+          "name": "Two Dimensional: Reloaded",
+          "curseforge_id": 1411299,
+          "download_url": "https://edge.forgecdn.net/files/8012/259/twodimensionalreloaded-0.5.0-alpha%2B26.1.2.jar",
+          "file_name": "twodimensionalreloaded-0.5.0-alpha+26.1.2.jar",
+          "version_number": "0.5.0-alpha+26.1.2",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1577/925/256/256/639022328937745118.png",
+          "_depends_on": [
+            348521,
+            394468
+          ]
+        },
+        {
+          "name": "[Fabric 26.1] v26.1.154",
+          "curseforge_id": 348521,
+          "download_url": "https://edge.forgecdn.net/files/7817/582/cloth-config-26.1.154.jar",
+          "file_name": "cloth-config-26.1.154.jar",
+          "version_number": "[Fabric 26.1] v26.1.154",
+          "_is_dependency": true
+        },
+        {
+          "name": "Sodium 0.8.12 for Fabric 26.1.2",
+          "curseforge_id": 394468,
+          "download_url": "https://edge.forgecdn.net/files/8111/41/sodium-fabric-0.8.12%2Bmc26.1.2.jar",
+          "file_name": "sodium-fabric-0.8.12+mc26.1.2.jar",
+          "version_number": "Sodium 0.8.12 for Fabric 26.1.2",
+          "_is_dependency": true
+        }
+      ],
+      "extras_version": 12,
       "changelog": [
+        {
+          "date": "2026-05-19T01:02:41.730Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Two Dimensional: Reloaded",
+            "+ [Fabric 26.1] v26.1.154",
+            "+ Sodium 0.8.12 for Fabric 26.1.2"
+          ]
+        },
         {
           "date": "2026-05-19T01:01:46.060Z",
           "author": "Martion000",
