@@ -11,9 +11,9 @@
     "v": 8053777,
     "aviones": 76087566
   },
-  "online": true,
-  "playing": "TWO",
-  "last_seen": 1779165665895,
+  "online": false,
+  "playing": null,
+  "last_seen": 1779165683923,
   "playing_name": "TWO ",
   "playing_since": 1779165663987
 }
