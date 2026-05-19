@@ -7626,10 +7626,71 @@
           "_depends_on": [
             394468
           ]
+        },
+        {
+          "name": "Mouse Tweaks",
+          "curseforge_id": 60089,
+          "download_url": "https://edge.forgecdn.net/files/7840/791/MouseTweaks-fabric-mc26.1-2.31.jar",
+          "file_name": "MouseTweaks-fabric-mc26.1-2.31.jar",
+          "version_number": "[26.1 Fabric] Mouse Tweaks 2.31",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/467/691/256/256/637749969243449870.png",
+          "_depends_on": [
+            306612
+          ]
+        },
+        {
+          "name": "AppleSkin",
+          "curseforge_id": 248787,
+          "download_url": "https://edge.forgecdn.net/files/7854/450/appleskin-fabric-mc26.1-3.0.9.jar",
+          "file_name": "appleskin-fabric-mc26.1-3.0.9.jar",
+          "version_number": "appleskin-fabric-mc26.1-3.0.9.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/47/527/256/256/636066936394500688.png",
+          "_depends_on": [
+            306612
+          ]
+        },
+        {
+          "name": "Controlling",
+          "curseforge_id": 250398,
+          "download_url": "https://edge.forgecdn.net/files/7962/136/Controlling-fabric-26.1.2-26.1.2.3.jar",
+          "file_name": "Controlling-fabric-26.1.2-26.1.2.3.jar",
+          "version_number": "Controlling-fabric-26.1.2-26.1.2.3.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/49/603/256/256/636079972364045115.png",
+          "_depends_on": [
+            858542,
+            306612
+          ]
+        },
+        {
+          "name": "Searchables-fabric-26.1.2-1.0.1.jar",
+          "curseforge_id": 858542,
+          "download_url": "https://edge.forgecdn.net/files/7911/700/Searchables-fabric-26.1.2-1.0.1.jar",
+          "file_name": "Searchables-fabric-26.1.2-1.0.1.jar",
+          "version_number": "Searchables-fabric-26.1.2-1.0.1.jar",
+          "_is_dependency": true
+        },
+        {
+          "name": "Just Enough Items (JEI)",
+          "curseforge_id": 238222,
+          "download_url": "https://edge.forgecdn.net/files/8104/417/jei-26.1.2-fabric-29.6.0.30.jar",
+          "file_name": "jei-26.1.2-fabric-29.6.0.30.jar",
+          "version_number": "29.6.0.30 for Fabric 26.1.2",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg"
         }
       ],
-      "extras_version": 3,
+      "extras_version": 4,
       "changelog": [
+        {
+          "date": "2026-05-19T02:15:19.733Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Mouse Tweaks",
+            "+ AppleSkin",
+            "+ Controlling",
+            "+ Searchables-fabric-26.1.2-1.0.1.jar",
+            "+ Just Enough Items (JEI)"
+          ]
+        },
         {
           "date": "2026-05-19T02:09:48.061Z",
           "author": "Martion000",
