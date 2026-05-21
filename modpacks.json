@@ -4106,9 +4106,33 @@
           "file_name": "createaeronauticscurios-neoforge-1.21.1-1.0.jar",
           "version_number": "createaeronauticscurios-neoforge-1.21.1-1.0",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1790/429/256/256/639134569287430816.png"
+        },
+        {
+          "name": "Create: Train Track Rail Grinding",
+          "curseforge_id": 1545733,
+          "download_url": "https://edge.forgecdn.net/files/8120/887/createrailgrinding-1.1.1.jar",
+          "file_name": "createrailgrinding-1.1.1.jar",
+          "version_number": "createrailgrinding-1.1.1.jar",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1812/539/256/256/639146075490528148.png"
+        },
+        {
+          "name": "Create : Linear Motion Simulated",
+          "curseforge_id": 1541640,
+          "download_url": "https://mediafilez.forgecdn.net/files/8100/524/create_linear_motion_simulated-0.2.1.jar",
+          "file_name": "create_linear_motion_simulated-0.2.1.jar",
+          "version_number": "Create : Linear Motion Simulated 0.2.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1805/152/256/256/639142262843159149.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-05-21T03:35:46.205Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Create: Train Track Rail Grinding",
+            "+ Create : Linear Motion Simulated"
+          ]
+        },
         {
           "date": "2026-05-21T03:13:29.921Z",
           "author": "Martion000",
@@ -5314,7 +5338,7 @@
           ]
         }
       ],
-      "extras_version": 138,
+      "extras_version": 139,
       "extras_url": "",
       "resourcepacks": [
         {
