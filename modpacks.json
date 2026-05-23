@@ -4130,17 +4130,16 @@
           "file_name": "sim_copycats-1.1.5.jar",
           "version_number": "1.1.5",
           "icon_url": "https://cdn.modrinth.com/data/NYBH9vVY/158b8c563f0556e7e45e0514132b070c73dcd632.png"
-        },
-        {
-          "name": "Create Aeronautics: Assembly Line",
-          "modrinth_id": "create-aeronautics-assembly-line",
-          "download_url": "https://cdn.modrinth.com/data/e7DDhnLj/versions/VUAzZBQ5/create_aeronautics_assembly_line-1.1-neoforge-1.21.1.jar",
-          "file_name": "create_aeronautics_assembly_line-1.1-neoforge-1.21.1.jar",
-          "version_number": "1.1",
-          "icon_url": "https://cdn.modrinth.com/data/e7DDhnLj/c0437c7475cdc4269bf721d143da3754d9dda78a_96.webp"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-05-23T10:11:05.093Z",
+          "author": "Martion000",
+          "changes": [
+            "− Create Aeronautics: Assembly Line"
+          ]
+        },
         {
           "date": "2026-05-23T10:03:04.982Z",
           "author": "Martion000",
@@ -5364,7 +5363,7 @@
           ]
         }
       ],
-      "extras_version": 140,
+      "extras_version": 141,
       "extras_url": "",
       "resourcepacks": [
         {
