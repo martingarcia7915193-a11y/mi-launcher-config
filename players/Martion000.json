@@ -44,9 +44,9 @@
     "2DIMENSION": 14376,
     "TWO": 4676562
   },
-  "online": false,
-  "playing": null,
-  "last_seen": 1779763281001,
+  "online": true,
+  "playing": "aviones",
+  "last_seen": 1779763619800,
   "playing_name": "Create + aviones :v",
-  "playing_since": 1779685806508
+  "playing_since": 1779763618761
 }
