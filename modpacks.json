@@ -7640,15 +7640,102 @@
       "banner": "",
       "background": "",
       "server_ip": "",
-      "mods": [],
-      "extras_version": 7,
+      "mods": [
+        {
+          "name": "Terralith",
+          "curseforge_id": 513688,
+          "download_url": "https://edge.forgecdn.net/files/6090/387/Terralith_1.21.x_v2.5.8.jar",
+          "file_name": "Terralith_1.21.x_v2.5.8.jar",
+          "version_number": "v2.5.8 ~ Mod 1.21.x",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/554/659/256/256/637897033487568646.png"
+        },
+        {
+          "name": "Sodium 0.8.12-alpha.4 for NeoForge 1.21.1",
+          "curseforge_id": 394468,
+          "download_url": "https://edge.forgecdn.net/files/8143/565/sodium-neoforge-0.8.12-alpha.4%2Bmc1.21.1.jar",
+          "file_name": "sodium-neoforge-0.8.12-alpha.4+mc1.21.1.jar",
+          "version_number": "Sodium 0.8.12-alpha.4 for NeoForge 1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/284/773/256/256/637298471098686391.png",
+          "_is_dependency": true
+        },
+        {
+          "name": "Iris Shaders",
+          "curseforge_id": 455508,
+          "download_url": "https://edge.forgecdn.net/files/6661/598/iris-neoforge-1.8.12%2Bmc1.21.1.jar",
+          "file_name": "iris-neoforge-1.8.12+mc1.21.1.jar",
+          "version_number": "Iris 1.8.12 for NeoForge 1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1002/450/256/256/638522657871453967.png",
+          "_depends_on": [
+            394468
+          ]
+        },
+        {
+          "name": "Euphoria Patches",
+          "curseforge_id": 915902,
+          "download_url": "https://edge.forgecdn.net/files/8126/790/EuphoriaPatcher-1.9.2-r5.8.1-neoforge.jar",
+          "file_name": "EuphoriaPatcher-1.9.2-r5.8.1-neoforge.jar",
+          "version_number": "Euphoria Patcher 1.9.2-r5.8.1-neoforge",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1198/673/256/256/638774916393051591.png"
+        },
+        {
+          "name": "Concurrent Chunk Management Engine",
+          "curseforge_id": 533097,
+          "download_url": "https://edge.forgecdn.net/files/8123/104/c2me-neoforge-mc1.21.1-0.3.0%2Balpha.0.93.jar",
+          "file_name": "c2me-neoforge-mc1.21.1-0.3.0+alpha.0.93.jar",
+          "version_number": "0.3.0+alpha.0.93 devbuild for 1.21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/439/839/256/256/637687646769698734.png"
+        },
+        {
+          "name": "Distant Horizons: A Level of Detail mod",
+          "curseforge_id": 508933,
+          "download_url": "https://edge.forgecdn.net/files/8037/637/DistantHorizons-3.0.3-b-1.21.1-fabric-neoforge.jar",
+          "file_name": "DistantHorizons-3.0.3-b-1.21.1-fabric-neoforge.jar",
+          "version_number": "3.0.3-b - 1.21.1 neo/fabric",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1189/514/256/256/638764417521176751.png"
+        }
+      ],
+      "extras_version": 8,
       "changelog": [
+        {
+          "date": "2026-05-29T05:21:25.508Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Terralith",
+            "+ Sodium 0.8.12-alpha.4 for NeoForge 1.21.1",
+            "+ Iris Shaders",
+            "+ Euphoria Patches",
+            "+ Concurrent Chunk Management Engine",
+            "+ Distant Horizons: A Level of Detail mod",
+            "+ Complementary Shaders - Unbound (Shader)",
+            "+ Terratonic (DP)"
+          ]
+        },
         {
           "date": "2026-05-29T05:18:33.051Z",
           "author": "Martion000",
           "changes": [
             "✦ Modpack creado"
           ]
+        }
+      ],
+      "shaders": [
+        {
+          "name": "Complementary Shaders - Unbound",
+          "curseforge_id": 385587,
+          "download_url": "https://edge.forgecdn.net/files/8123/288/ComplementaryUnbound_r5.8.1.zip",
+          "file_name": "ComplementaryUnbound_r5.8.1.zip",
+          "version_number": "Complementary Unbound r5.8.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/875/480/256/256/638298072228596362.png"
+        }
+      ],
+      "datapacks": [
+        {
+          "name": "Terratonic",
+          "modrinth_id": "terratonic",
+          "download_url": "https://cdn.modrinth.com/data/3L2L6sWL/versions/kXofCPYb/terratonic-3.0.18.zip",
+          "file_name": "terratonic-3.0.18.zip",
+          "version_number": "3.0.18",
+          "icon_url": "https://cdn.modrinth.com/data/3L2L6sWL/00df1b4941091b6f337d6352824f1a1e5beff221_96.webp"
         }
       ]
     }
