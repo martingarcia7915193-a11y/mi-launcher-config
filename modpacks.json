@@ -7649,9 +7649,42 @@
           "file_name": "sim_copycats-1.1.5.jar",
           "version_number": "1.1.5",
           "icon_url": "https://cdn.modrinth.com/data/NYBH9vVY/158b8c563f0556e7e45e0514132b070c73dcd632.png"
+        },
+        {
+          "name": "Tectonic",
+          "curseforge_id": 686836,
+          "download_url": "https://edge.forgecdn.net/files/7903/156/tectonic-3.0.22-neoforge-21.1.jar",
+          "file_name": "tectonic-3.0.22-neoforge-21.1.jar",
+          "version_number": "v3.0.22 ~ Neoforge 21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1294/335/256/256/638841311022857637.png"
+        },
+        {
+          "name": "Terralith",
+          "curseforge_id": 513688,
+          "download_url": "https://edge.forgecdn.net/files/6090/387/Terralith_1.21.x_v2.5.8.jar",
+          "file_name": "Terralith_1.21.x_v2.5.8.jar",
+          "version_number": "v2.5.8 ~ Mod 1.21.x",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/554/659/256/256/637897033487568646.png"
+        },
+        {
+          "name": "Lithostitched",
+          "curseforge_id": 936015,
+          "download_url": "https://edge.forgecdn.net/files/8158/4/lithostitched-1.7.9-neoforge-21.1.jar",
+          "file_name": "lithostitched-1.7.9-neoforge-21.1.jar",
+          "version_number": "v1.7.9 ~ Neoforge 21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/903/937/256/256/638353757551138885.png"
         }
       ],
       "changelog": [
+        {
+          "date": "2026-05-29T07:36:11.680Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Tectonic",
+            "+ Terralith",
+            "+ Lithostitched"
+          ]
+        },
         {
           "date": "2026-05-29T07:33:47.003Z",
           "author": "Martion000",
@@ -7660,7 +7693,7 @@
           ]
         }
       ],
-      "extras_version": 175,
+      "extras_version": 176,
       "extras_url": "",
       "resourcepacks": [
         {
