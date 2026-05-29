@@ -7692,10 +7692,26 @@
           "file_name": "DistantHorizons-3.0.3-b-1.21.1-fabric-neoforge.jar",
           "version_number": "3.0.3-b - 1.21.1 neo/fabric",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1189/514/256/256/638764417521176751.png"
+        },
+        {
+          "name": "Tectonic",
+          "modrinth_id": "tectonic",
+          "download_url": "https://cdn.modrinth.com/data/lWDHr9jE/versions/iCGkqnnx/tectonic-3.0.22-neoforge-21.1.jar",
+          "file_name": "tectonic-3.0.22-neoforge-21.1.jar",
+          "version_number": "3.0.22-neoforge-21.1",
+          "icon_url": "https://cdn.modrinth.com/data/lWDHr9jE/d8b3413f797479dcc0d8764756613e449a358a2e_96.webp"
         }
       ],
-      "extras_version": 9,
+      "extras_version": 10,
       "changelog": [
+        {
+          "date": "2026-05-29T05:42:19.481Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Tectonic",
+            "− Terratonic (DP)"
+          ]
+        },
         {
           "date": "2026-05-29T05:37:25.072Z",
           "author": "Martion000",
@@ -7735,16 +7751,6 @@
           "file_name": "ComplementaryUnbound_r5.8.1.zip",
           "version_number": "Complementary Unbound r5.8.1",
           "icon_url": "https://media.forgecdn.net/avatars/thumbnails/875/480/256/256/638298072228596362.png"
-        }
-      ],
-      "datapacks": [
-        {
-          "name": "Terratonic",
-          "modrinth_id": "terratonic",
-          "download_url": "https://cdn.modrinth.com/data/3L2L6sWL/versions/kXofCPYb/terratonic-3.0.18.zip",
-          "file_name": "terratonic-3.0.18.zip",
-          "version_number": "3.0.18",
-          "icon_url": "https://cdn.modrinth.com/data/3L2L6sWL/00df1b4941091b6f337d6352824f1a1e5beff221_96.webp"
         }
       ]
     }
