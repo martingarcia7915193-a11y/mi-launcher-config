@@ -7700,10 +7700,25 @@
           "file_name": "tectonic-3.0.22-neoforge-21.1.jar",
           "version_number": "3.0.22-neoforge-21.1",
           "icon_url": "https://cdn.modrinth.com/data/lWDHr9jE/d8b3413f797479dcc0d8764756613e449a358a2e_96.webp"
+        },
+        {
+          "name": "Lithostitched",
+          "curseforge_id": 936015,
+          "download_url": "https://edge.forgecdn.net/files/8158/4/lithostitched-1.7.9-neoforge-21.1.jar",
+          "file_name": "lithostitched-1.7.9-neoforge-21.1.jar",
+          "version_number": "v1.7.9 ~ Neoforge 21.1",
+          "icon_url": "https://media.forgecdn.net/avatars/thumbnails/903/937/256/256/638353757551138885.png"
         }
       ],
-      "extras_version": 10,
+      "extras_version": 11,
       "changelog": [
+        {
+          "date": "2026-05-29T05:43:26.522Z",
+          "author": "Martion000",
+          "changes": [
+            "+ Lithostitched"
+          ]
+        },
         {
           "date": "2026-05-29T05:42:19.481Z",
           "author": "Martion000",
