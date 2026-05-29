@@ -5598,7 +5598,7 @@
     },
     {
       "id": "aviones_tectonic",
-      "name": "Create + aviones :v (copia)",
+      "name": "Create + aviones + tectonic + terralith",
       "version": "1.0.0",
       "description": "",
       "description_images": [],
@@ -7660,7 +7660,7 @@
           ]
         }
       ],
-      "extras_version": 174,
+      "extras_version": 175,
       "extras_url": "",
       "resourcepacks": [
         {
