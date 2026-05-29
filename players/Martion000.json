@@ -45,9 +45,9 @@
     "TWO": 4676562,
     "MUNDO": 1091813
   },
-  "online": true,
+  "online": false,
   "playing": null,
-  "last_seen": 1780034148029,
+  "last_seen": 1780034156277,
   "playing_name": "TEST MUNDO",
   "playing_since": 1780033454945
 }
