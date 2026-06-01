@@ -1,0 +1,25 @@
+{
+  "id": "Vanilla",
+  "name": "Vanilla",
+  "version": "1.0.0",
+  "description": "",
+  "description_images": [],
+  "minecraft_version": "26.1.2",
+  "modloader": "vanilla",
+  "modloader_version": "",
+  "icon": "",
+  "banner": "",
+  "background": "",
+  "server_ip": "",
+  "mods": [],
+  "extras_version": 13,
+  "changelog": [
+    {
+      "date": "2026-06-01T23:26:35.731Z",
+      "author": "Martion000",
+      "changes": [
+        "✦ Modpack creado"
+      ]
+    }
+  ]
+}
