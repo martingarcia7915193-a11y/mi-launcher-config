@@ -79,10 +79,25 @@
       "file_name": "lithostitched-1.7.9-neoforge-21.1.jar",
       "version_number": "v1.7.9 ~ Neoforge 21.1",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/903/937/256/256/638353757551138885.png"
+    },
+    {
+      "name": "Just Enough Items (JEI)",
+      "curseforge_id": 238222,
+      "download_url": "https://edge.forgecdn.net/files/7420/587/jei-1.21.1-neoforge-19.27.0.340.jar",
+      "file_name": "jei-1.21.1-neoforge-19.27.0.340.jar",
+      "version_number": "19.27.0.340 for NeoForge 1.21.1",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg"
     }
   ],
-  "extras_version": 14,
+  "extras_version": 15,
   "changelog": [
+    {
+      "date": "2026-06-01T23:25:34.690Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Just Enough Items (JEI)"
+      ]
+    },
     {
       "date": "2026-05-29T05:43:26.522Z",
       "author": "Martion000",
