@@ -46,9 +46,9 @@
     "MUNDO": 1091813,
     "aviones_tectonic": 4494583
   },
-  "online": false,
-  "playing": null,
-  "last_seen": 1780355533663,
-  "playing_name": "Create + aviones + tectonic + terralith",
-  "playing_since": 1780040808990
+  "online": true,
+  "playing": "Vanilla",
+  "last_seen": 1780356417503,
+  "playing_name": "Vanilla",
+  "playing_since": 1780356416251
 }
