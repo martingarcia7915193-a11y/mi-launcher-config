@@ -39,7 +39,7 @@
     "test": 108624,
     "custom_cabin_1777742030181": 1361077,
     "custom_all_the_mods_10_1778268932121": 2510365,
-    "aviones-copia": 3851140,
+    "aviones-copia": 3941363,
     "custom_fabulously_optimized_1777765866661": 3589419,
     "2DIMENSION": 14376,
     "TWO": 4676562,
@@ -48,8 +48,8 @@
     "Vanilla": 76149
   },
   "online": true,
-  "playing": "aviones-copia",
-  "last_seen": 1780415606374,
+  "playing": null,
+  "last_seen": 1780415696919,
   "playing_name": "Create + aviones :v (copia)",
   "playing_since": 1780415605763
 }
