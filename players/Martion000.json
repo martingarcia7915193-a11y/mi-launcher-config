@@ -47,9 +47,9 @@
     "aviones_tectonic": 4494583,
     "Vanilla": 76149
   },
-  "online": false,
-  "playing": null,
-  "last_seen": 1780512674666,
-  "playing_name": "test create",
-  "playing_since": 1780509399042
+  "online": true,
+  "playing": "aviones_tectonic",
+  "last_seen": 1780513679464,
+  "playing_name": "Create + aviones + tectonic + terralith",
+  "playing_since": 1780513678915
 }
