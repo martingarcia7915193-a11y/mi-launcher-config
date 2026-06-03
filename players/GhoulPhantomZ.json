@@ -10,11 +10,12 @@
     "createmon2": 53247351,
     "v": 12531629,
     "custom_queso_v_1778296076666": 33507049,
-    "TWO": 1448095
+    "TWO": 1448095,
+    "custom_2026_06_02_22_26_34_tecnoworld_1780454048688": 65348
   },
   "online": true,
-  "playing": "custom_2026_06_02_22_26_34_tecnoworld_1780454048688",
-  "last_seen": 1780454101017,
+  "playing": null,
+  "last_seen": 1780454166489,
   "playing_name": "2026-06-02_22-26-34_TecnoWorld",
   "playing_since": 1780454100373
 }
