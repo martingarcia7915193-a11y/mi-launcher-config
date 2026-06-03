@@ -482,9 +482,9 @@
     {
       "name": "Sophisticated Storage",
       "curseforge_id": 619320,
-      "download_url": "https://edge.forgecdn.net/files/8084/562/sophisticatedstorage-1.21.1-1.5.47.1724.jar",
-      "file_name": "sophisticatedstorage-1.21.1-1.5.47.1724.jar",
-      "version_number": "sophisticatedstorage-1.21.1-1.5.47.1724.jar",
+      "download_url": "https://edge.forgecdn.net/files/8185/774/sophisticatedstorage-1.21.1-1.5.55.1772.jar",
+      "file_name": "sophisticatedstorage-1.21.1-1.5.55.1772.jar",
+      "version_number": "sophisticatedstorage-1.21.1-1.5.55.1772.jar",
       "icon_url": "https://media.forgecdn.net/avatars/543/206/637872959580005837.png",
       "_depends_on": [
         618298
@@ -1871,17 +1871,17 @@
     {
       "name": "Sophisticated Backpacks",
       "curseforge_id": 422301,
-      "download_url": "https://edge.forgecdn.net/files/8084/526/sophisticatedbackpacks-1.21.1-3.25.45.1742.jar",
-      "file_name": "sophisticatedbackpacks-1.21.1-3.25.45.1742.jar",
-      "version_number": "sophisticatedbackpacks-1.21.1-3.25.45.1742.jar",
+      "download_url": "https://edge.forgecdn.net/files/8181/786/sophisticatedbackpacks-1.21.1-3.25.51.1801.jar",
+      "file_name": "sophisticatedbackpacks-1.21.1-3.25.51.1801.jar",
+      "version_number": "sophisticatedbackpacks-1.21.1-3.25.51.1801.jar",
       "icon_url": "https://media.forgecdn.net/avatars/375/56/637549610342642859.png"
     },
     {
       "name": "Sophisticated Core",
       "curseforge_id": 618298,
-      "download_url": "https://edge.forgecdn.net/files/8084/486/sophisticatedcore-1.21.1-1.4.39.1852.jar",
-      "file_name": "sophisticatedcore-1.21.1-1.4.39.1852.jar",
-      "version_number": "sophisticatedcore-1.21.1-1.4.39.1852.jar",
+      "download_url": "https://edge.forgecdn.net/files/8185/746/sophisticatedcore-1.21.1-1.4.44.1923.jar",
+      "file_name": "sophisticatedcore-1.21.1-1.4.44.1923.jar",
+      "version_number": "sophisticatedcore-1.21.1-1.4.44.1923.jar",
       "icon_url": "https://media.forgecdn.net/avatars/540/438/637866039314801108.png"
     },
     {
@@ -2050,7 +2050,8 @@
       "download_url": "https://cdn.modrinth.com/data/NYBH9vVY/versions/xgzZOELL/sim_copycats-1.1.5.jar",
       "file_name": "sim_copycats-1.1.5.jar",
       "version_number": "1.1.5",
-      "icon_url": "https://cdn.modrinth.com/data/NYBH9vVY/158b8c563f0556e7e45e0514132b070c73dcd632.png"
+      "icon_url": "https://cdn.modrinth.com/data/NYBH9vVY/158b8c563f0556e7e45e0514132b070c73dcd632.png",
+      "client_only": false
     },
     {
       "name": "Tectonic",
@@ -2078,6 +2079,15 @@
     }
   ],
   "changelog": [
+    {
+      "date": "2026-06-03T19:16:57.552Z",
+      "author": "Martion000",
+      "changes": [
+        "⬆ Sophisticated Storage: sophisticatedstorage-1.21.1-1.5.47.1724.jar → sophisticatedstorage-1.21.1-1.5.55.1772.jar",
+        "⬆ Sophisticated Backpacks: sophisticatedbackpacks-1.21.1-3.25.45.1742.jar → sophisticatedbackpacks-1.21.1-3.25.51.1801.jar",
+        "⬆ Sophisticated Core: sophisticatedcore-1.21.1-1.4.39.1852.jar → sophisticatedcore-1.21.1-1.4.44.1923.jar"
+      ]
+    },
     {
       "date": "2026-06-03T19:12:20.040Z",
       "author": "Martion000",
@@ -2155,7 +2165,7 @@
       ]
     }
   ],
-  "extras_version": 176,
+  "extras_version": 177,
   "extras_url": "",
   "resourcepacks": [
     {
