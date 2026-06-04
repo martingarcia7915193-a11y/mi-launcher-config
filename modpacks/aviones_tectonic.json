@@ -2104,9 +2104,24 @@
       "file_name": "knightlib-neoforge-1.21.1-1.5.1.jar",
       "version_number": "[NEOFORGE] Knight Lib 1.5.1-1.21.1",
       "_is_dependency": true
+    },
+    {
+      "name": "CoasterCart",
+      "curseforge_id": 1391644,
+      "download_url": "https://edge.forgecdn.net/files/7261/75/coastercart-1.0.2.jar",
+      "file_name": "coastercart-1.0.2.jar",
+      "version_number": "coastercart-1.0.1.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1534/987/256/256/638996618766612593.jpg"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-06-04T15:55:05.067Z",
+      "author": "Martion000",
+      "changes": [
+        "+ CoasterCart"
+      ]
+    },
     {
       "date": "2026-06-04T00:37:41.555Z",
       "author": "Martion000",
@@ -2211,7 +2226,7 @@
       ]
     }
   ],
-  "extras_version": 178,
+  "extras_version": 179,
   "extras_url": "",
   "resourcepacks": [
     {
