@@ -2104,9 +2104,24 @@
       "file_name": "knightlib-neoforge-1.21.1-1.5.1.jar",
       "version_number": "[NEOFORGE] Knight Lib 1.5.1-1.21.1",
       "_is_dependency": true
+    },
+    {
+      "name": "Clumps",
+      "curseforge_id": 256717,
+      "download_url": "https://edge.forgecdn.net/files/5623/731/Clumps-neoforge-1.21.1-19.0.0.1.jar",
+      "file_name": "Clumps-neoforge-1.21.1-19.0.0.1.jar",
+      "version_number": "Clumps-neoforge-1.21.1-19.0.0.1.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1289/817/256/256/638838549850518521_animated.gif"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-06-04T00:35:39.457Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Clumps"
+      ]
+    },
     {
       "date": "2026-06-04T00:33:09.627Z",
       "author": "Martion000",
@@ -2209,7 +2224,7 @@
       ]
     }
   ],
-  "extras_version": 179,
+  "extras_version": 180,
   "extras_url": "",
   "resourcepacks": [
     {
