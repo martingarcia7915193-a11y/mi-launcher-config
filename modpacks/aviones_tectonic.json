@@ -1524,10 +1524,10 @@
     {
       "name": "FramedBlocks",
       "curseforge_id": 441647,
-      "download_url": "https://edge.forgecdn.net/files/7584/453/FramedBlocks-10.5.3.jar",
-      "file_name": "FramedBlocks-10.5.3.jar",
-      "version_number": "FramedBlocks-10.5.3.jar",
-      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/337/942/256/256/637476252137998899.png"
+      "download_url": "https://edge.forgecdn.net/files/8139/800/FramedBlocks-10.6.0.jar",
+      "file_name": "FramedBlocks-10.6.0.jar",
+      "version_number": "FramedBlocks-10.6.0.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/337/942/637476252137998899.png"
     },
     {
       "name": "Create: Bells & Whistles",
@@ -2108,6 +2108,13 @@
   ],
   "changelog": [
     {
+      "date": "2026-06-04T00:33:09.627Z",
+      "author": "Martion000",
+      "changes": [
+        "⬆ FramedBlocks: FramedBlocks-10.5.3.jar → FramedBlocks-10.6.0.jar"
+      ]
+    },
+    {
       "date": "2026-06-03T20:00:45.761Z",
       "author": "Martion000",
       "changes": [
@@ -2202,7 +2209,7 @@
       ]
     }
   ],
-  "extras_version": 178,
+  "extras_version": 179,
   "extras_url": "",
   "resourcepacks": [
     {
