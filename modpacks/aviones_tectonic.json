@@ -1524,10 +1524,10 @@
     {
       "name": "FramedBlocks",
       "curseforge_id": 441647,
-      "download_url": "https://edge.forgecdn.net/files/8139/800/FramedBlocks-10.6.0.jar",
-      "file_name": "FramedBlocks-10.6.0.jar",
-      "version_number": "FramedBlocks-10.6.0.jar",
-      "icon_url": "https://media.forgecdn.net/avatars/337/942/637476252137998899.png"
+      "download_url": "https://edge.forgecdn.net/files/7584/453/FramedBlocks-10.5.3.jar",
+      "file_name": "FramedBlocks-10.5.3.jar",
+      "version_number": "FramedBlocks-10.5.3.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/337/942/256/256/637476252137998899.png"
     },
     {
       "name": "Create: Bells & Whistles",
@@ -2104,44 +2104,16 @@
       "file_name": "knightlib-neoforge-1.21.1-1.5.1.jar",
       "version_number": "[NEOFORGE] Knight Lib 1.5.1-1.21.1",
       "_is_dependency": true
-    },
-    {
-      "name": "Clumps",
-      "curseforge_id": 256717,
-      "download_url": "https://edge.forgecdn.net/files/5623/731/Clumps-neoforge-1.21.1-19.0.0.1.jar",
-      "file_name": "Clumps-neoforge-1.21.1-19.0.0.1.jar",
-      "version_number": "Clumps-neoforge-1.21.1-19.0.0.1.jar",
-      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1289/817/256/256/638838549850518521_animated.gif"
-    },
-    {
-      "name": "Nature's Compass",
-      "curseforge_id": 252848,
-      "download_url": "https://edge.forgecdn.net/files/7892/954/NaturesCompass-1.21.1-3.4.0-neoforge.jar",
-      "file_name": "NaturesCompass-1.21.1-3.4.0-neoforge.jar",
-      "version_number": "NaturesCompass-1.21.1-3.4.0-neoforge.jar",
-      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/54/102/256/256/636131217371752080.png"
     }
   ],
   "changelog": [
     {
-      "date": "2026-06-04T00:36:54.193Z",
+      "date": "2026-06-04T00:37:41.555Z",
       "author": "Martion000",
       "changes": [
-        "+ Nature's Compass"
-      ]
-    },
-    {
-      "date": "2026-06-04T00:35:39.457Z",
-      "author": "Martion000",
-      "changes": [
-        "+ Clumps"
-      ]
-    },
-    {
-      "date": "2026-06-04T00:33:09.627Z",
-      "author": "Martion000",
-      "changes": [
-        "⬆ FramedBlocks: FramedBlocks-10.5.3.jar → FramedBlocks-10.6.0.jar"
+        "− Clumps",
+        "− Nature's Compass",
+        "⬆ FramedBlocks: FramedBlocks-10.6.0.jar → FramedBlocks-10.5.3.jar"
       ]
     },
     {
@@ -2239,7 +2211,7 @@
       ]
     }
   ],
-  "extras_version": 181,
+  "extras_version": 178,
   "extras_url": "",
   "resourcepacks": [
     {
