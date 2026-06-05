@@ -156,9 +156,9 @@
     {
       "name": "Create Propulsion: Simulated",
       "curseforge_id": 1522736,
-      "download_url": "https://edge.forgecdn.net/files/8070/922/createpropulsion-1.1.3.jar",
-      "file_name": "createpropulsion-1.1.3.jar",
-      "version_number": "1.1.3",
+      "download_url": "https://edge.forgecdn.net/files/8099/955/createpropulsion-1.1.4.jar",
+      "file_name": "createpropulsion-1.1.4.jar",
+      "version_number": "1.1.4",
       "icon_url": "https://media.forgecdn.net/avatars/1791/442/639135128999086003.png",
       "_depends_on": [
         676721
@@ -2108,6 +2108,13 @@
   ],
   "changelog": [
     {
+      "date": "2026-06-05T01:08:00.005Z",
+      "author": "Martion000",
+      "changes": [
+        "⬆ Create Propulsion: Simulated: 1.1.3 → 1.1.4"
+      ]
+    },
+    {
       "date": "2026-06-04T16:09:19.151Z",
       "author": "Martion000",
       "changes": [
@@ -2225,7 +2232,7 @@
       ]
     }
   ],
-  "extras_version": 178,
+  "extras_version": 179,
   "extras_url": "",
   "resourcepacks": [
     {
