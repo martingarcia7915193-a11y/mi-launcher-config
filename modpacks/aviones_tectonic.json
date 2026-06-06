@@ -2116,25 +2116,17 @@
       "file_name": "createmetalwork-2.0.0.jar",
       "version_number": "createmetalwork-2.0.0.jar",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1095/694/256/256/638640942170311158.png"
-    },
-    {
-      "name": "Neo Vitae",
-      "curseforge_id": 1404763,
-      "download_url": "https://edge.forgecdn.net/files/8201/794/neovitae-1.21.1-1.0.9.jar",
-      "file_name": "neovitae-1.21.1-1.0.9.jar",
-      "version_number": "neovitae 1.21.1-1.0.9",
-      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1566/128/256/256/639015998682699472.png"
-    },
-    {
-      "name": "Modonomicon",
-      "curseforge_id": 538392,
-      "download_url": "https://edge.forgecdn.net/files/7771/524/modonomicon-1.21.1-neoforge-1.120.1.jar",
-      "file_name": "modonomicon-1.21.1-neoforge-1.120.1.jar",
-      "version_number": "modonomicon-1.21.1-neoforge-1.120.1.jar",
-      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/567/136/256/256/637927203949622768.png"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-06-06T20:32:29.543Z",
+      "author": "Martion000",
+      "changes": [
+        "− Neo Vitae",
+        "− Modonomicon"
+      ]
+    },
     {
       "date": "2026-06-06T20:17:47.664Z",
       "author": "Martion000",
@@ -2288,7 +2280,7 @@
       ]
     }
   ],
-  "extras_version": 182,
+  "extras_version": 183,
   "extras_url": "",
   "resourcepacks": [
     {
