@@ -98,7 +98,7 @@
       ]
     },
     {
-      "name": "[NeoForge 1.21] v15.0.140",
+      "name": "Cloth Config API",
       "curseforge_id": 348521,
       "download_url": "https://edge.forgecdn.net/files/5729/127/cloth-config-15.0.140-neoforge.jar",
       "file_name": "cloth-config-15.0.140-neoforge.jar",
@@ -2120,6 +2120,14 @@
   ],
   "changelog": [
     {
+      "date": "2026-06-06T20:36:32.751Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Cloth Config API",
+        "− [NeoForge 1.21] v15.0.140"
+      ]
+    },
+    {
       "date": "2026-06-06T20:32:29.543Z",
       "author": "Martion000",
       "changes": [
@@ -2280,7 +2288,7 @@
       ]
     }
   ],
-  "extras_version": 183,
+  "extras_version": 184,
   "extras_url": "",
   "resourcepacks": [
     {
