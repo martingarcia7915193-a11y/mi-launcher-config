@@ -2104,9 +2104,43 @@
       "file_name": "knightlib-neoforge-1.21.1-1.5.1.jar",
       "version_number": "[NEOFORGE] Knight Lib 1.5.1-1.21.1",
       "_is_dependency": true
+    },
+    {
+      "name": "Create: Rubberworks",
+      "curseforge_id": 1425758,
+      "download_url": "https://edge.forgecdn.net/files/8106/248/rubberworks-neoforge-1.21.1-1.1.2.jar",
+      "file_name": "rubberworks-neoforge-1.21.1-1.1.2.jar",
+      "version_number": "rubberworks-neoforge-1.21.1-1.1.2",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1609/365/256/256/639038539148235416.png"
+    },
+    {
+      "name": "Create: Prismatic Shine",
+      "curseforge_id": 1355767,
+      "download_url": "https://edge.forgecdn.net/files/8050/591/createprism-1.2.2.jar",
+      "file_name": "createprism-1.2.2.jar",
+      "version_number": "Create Prismatic Shine 1.2.2 Neoforge 1.21.1",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1460/12/256/256/638947585448630849.png"
+    },
+    {
+      "name": "Create: Metalwork",
+      "curseforge_id": 966104,
+      "download_url": "https://edge.forgecdn.net/files/7287/996/createmetalwork-2.0.0.jar",
+      "file_name": "createmetalwork-2.0.0.jar",
+      "version_number": "createmetalwork-2.0.0.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1095/694/256/256/638640942170311158.png"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-06-06T04:57:32.493Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Create: Rubberworks",
+        "+ Create: Prismatic Shine",
+        "+ Create: Metalwork",
+        "+ Create: Rubberworks Compat (DP)"
+      ]
+    },
     {
       "date": "2026-06-05T20:32:43.141Z",
       "author": "Martion000",
@@ -2241,7 +2275,7 @@
       ]
     }
   ],
-  "extras_version": 180,
+  "extras_version": 181,
   "extras_url": "",
   "resourcepacks": [
     {
@@ -2269,6 +2303,14 @@
       "file_name": "no_dnd_diamond_1.21.zip",
       "version_number": "no_dnd_diamond_1.21.zip",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1665/33/256/256/639060067460467018.png"
+    },
+    {
+      "name": "Create: Rubberworks Compat",
+      "curseforge_id": 1540335,
+      "download_url": "https://edge.forgecdn.net/files/8175/549/CreateRubberworks_Compat_v2.zip",
+      "file_name": "CreateRubberworks_Compat_v2.zip",
+      "version_number": "CreateRubberworks_Compat_v2.zip",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1802/789/256/256/639141032598331522.png"
     }
   ],
   "shaders": [
