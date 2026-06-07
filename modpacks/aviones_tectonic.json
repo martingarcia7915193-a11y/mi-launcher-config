@@ -2116,9 +2116,24 @@
       "file_name": "createmetalwork-2.0.0.jar",
       "version_number": "createmetalwork-2.0.0.jar",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1095/694/256/256/638640942170311158.png"
+    },
+    {
+      "name": "Terralith ReStoned",
+      "curseforge_id": 1179585,
+      "download_url": "https://edge.forgecdn.net/files/7503/883/Terralith_Restoned_v1.3.jar",
+      "file_name": "Terralith_Restoned_v1.3.jar",
+      "version_number": "Terralith_Restoned_v1.3.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1156/836/256/256/638724742485176161.png"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-06-07T00:15:49.297Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Terralith ReStoned"
+      ]
+    },
     {
       "date": "2026-06-06T20:36:32.751Z",
       "author": "Martion000",
@@ -2288,7 +2303,7 @@
       ]
     }
   ],
-  "extras_version": 184,
+  "extras_version": 185,
   "extras_url": "",
   "resourcepacks": [
     {
