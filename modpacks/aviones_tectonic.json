@@ -2066,31 +2066,11 @@
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/903/937/256/256/638353757551138885.png"
     },
     {
-      "name": "Clockwork",
-      "curseforge_id": 596411,
-      "download_url": "https://edge.forgecdn.net/files/8191/410/clockwork-neoforge-1.21.1-1.1.1.jar",
-      "file_name": "clockwork-neoforge-1.21.1-1.1.1.jar",
-      "version_number": "[NEOFORGE] Clockwork 1.1.1-1.21.1",
-      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1482/382/256/256/638963516462805146.png",
-      "_depends_on": [
-        388172,
-        1105855
-      ]
-    },
-    {
       "name": "geckolib-neoforge-1.21.1-4.8.4.jar",
       "curseforge_id": 388172,
       "download_url": "https://edge.forgecdn.net/files/7707/149/geckolib-neoforge-1.21.1-4.8.4.jar",
       "file_name": "geckolib-neoforge-1.21.1-4.8.4.jar",
       "version_number": "geckolib-neoforge-1.21.1-4.8.4.jar",
-      "_is_dependency": true
-    },
-    {
-      "name": "[NEOFORGE] Knight Lib 1.5.1-1.21.1",
-      "curseforge_id": 1105855,
-      "download_url": "https://edge.forgecdn.net/files/8191/398/knightlib-neoforge-1.21.1-1.5.1.jar",
-      "file_name": "knightlib-neoforge-1.21.1-1.5.1.jar",
-      "version_number": "[NEOFORGE] Knight Lib 1.5.1-1.21.1",
       "_is_dependency": true
     },
     {
@@ -2127,6 +2107,14 @@
     }
   ],
   "changelog": [
+    {
+      "date": "2026-06-07T02:16:34.545Z",
+      "author": "Martion000",
+      "changes": [
+        "− Clockwork",
+        "− [NEOFORGE] Knight Lib 1.5.1-1.21.1"
+      ]
+    },
     {
       "date": "2026-06-07T00:15:49.297Z",
       "author": "Martion000",
@@ -2303,7 +2291,7 @@
       ]
     }
   ],
-  "extras_version": 185,
+  "extras_version": 186,
   "extras_url": "",
   "resourcepacks": [
     {
