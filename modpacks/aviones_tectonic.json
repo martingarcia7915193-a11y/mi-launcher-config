@@ -381,10 +381,10 @@
     {
       "name": "Create: Connected",
       "curseforge_id": 947914,
-      "download_url": "https://edge.forgecdn.net/files/8046/148/create_connected-1.1.16-mc1.21.1.jar",
-      "file_name": "create_connected-1.1.16-mc1.21.1.jar",
-      "version_number": "create_connected 1.1.16-mc1.21.1",
-      "icon_url": "https://media.forgecdn.net/avatars/922/162/638387242479713653.png",
+      "download_url": "https://edge.forgecdn.net/files/8221/350/create_connected-1.2.2-mc1.21.1.jar",
+      "file_name": "create_connected-1.2.2-mc1.21.1.jar",
+      "version_number": "create_connected 1.2.2-mc1.21.1",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/922/162/256/256/638387242479713653.png",
       "_depends_on": [
         328085
       ]
@@ -1845,10 +1845,10 @@
     {
       "name": "Create: Aeroworks",
       "curseforge_id": 1522473,
-      "download_url": "https://edge.forgecdn.net/files/8072/427/aeroworks-1.2.9.jar",
-      "file_name": "aeroworks-1.2.9.jar",
-      "version_number": "1.2.9+mc1.21.1",
-      "icon_url": "https://media.forgecdn.net/avatars/1774/605/639127090492821570.png"
+      "download_url": "https://edge.forgecdn.net/files/8185/390/aeroworks-1.2.11.jar",
+      "file_name": "aeroworks-1.2.11.jar",
+      "version_number": "1.2.11+mc1.21.1",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1774/605/256/256/639127090492821570.png"
     },
     {
       "name": "DragonLib",
@@ -2182,6 +2182,14 @@
   ],
   "changelog": [
     {
+      "date": "2026-06-09T23:43:31.638Z",
+      "author": "Martion000",
+      "changes": [
+        "⬆ Create: Connected: create_connected 1.1.16-mc1.21.1 → create_connected 1.2.2-mc1.21.1",
+        "⬆ Create: Aeroworks: 1.2.9+mc1.21.1 → 1.2.11+mc1.21.1"
+      ]
+    },
+    {
       "date": "2026-06-09T23:34:54.560Z",
       "author": "Martion000",
       "changes": [
@@ -2386,7 +2394,7 @@
       ]
     }
   ],
-  "extras_version": 187,
+  "extras_version": 188,
   "extras_url": "",
   "resourcepacks": [
     {
