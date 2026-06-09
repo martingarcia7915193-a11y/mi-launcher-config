@@ -67,7 +67,7 @@
       ]
     },
     {
-      "name": "Create Aeronautics",
+      "name": "Create Aeronautics 1.2.1 for mc1.21.1",
       "curseforge_id": 676721,
       "download_url": "https://mediafilez.forgecdn.net/files/8003/941/create-aeronautics-bundled-1.21.1-1.2.1.jar",
       "file_name": "create-aeronautics-bundled-1.21.1-1.2.1.jar",
@@ -76,7 +76,8 @@
       "_depends_on": [
         328085,
         1312371
-      ]
+      ],
+      "_is_dependency": true
     },
     {
       "name": "Rebind Narrator",
@@ -1479,7 +1480,7 @@
       ]
     },
     {
-      "name": "KubeJS",
+      "name": "KubeJS NeoForge 2101.7.2-build.368",
       "curseforge_id": 238086,
       "download_url": "https://edge.forgecdn.net/files/8083/208/kubejs-neoforge-2101.7.2-build.368.jar",
       "file_name": "kubejs-neoforge-2101.7.2-build.368.jar",
@@ -1487,7 +1488,8 @@
       "icon_url": "https://media.forgecdn.net/avatars/1053/159/638583716122159056.png",
       "_depends_on": [
         416294
-      ]
+      ],
+      "_is_dependency": true
     },
     {
       "name": "Rhino 2101.2.7-build.81",
@@ -1873,12 +1875,13 @@
       "icon_url": "https://media.forgecdn.net/avatars/540/438/637866039314801108.png"
     },
     {
-      "name": "LDLib",
+      "name": "LDLib2-1.21.1-2.2.18-neoforge",
       "curseforge_id": 626676,
-      "download_url": "https://edge.forgecdn.net/files/8046/986/ldlib2-neoforge-1.21.1-2.2.8-all.jar",
-      "file_name": "ldlib2-neoforge-1.21.1-2.2.8-all.jar",
-      "version_number": "LDLib2-2.2.8-neoforge",
-      "icon_url": "https://media.forgecdn.net/avatars/1390/433/638901495840171464.png"
+      "download_url": "https://edge.forgecdn.net/files/8221/762/ldlib2-neoforge-1.21.1-2.2.18-all.jar",
+      "file_name": "ldlib2-neoforge-1.21.1-2.2.18-all.jar",
+      "version_number": "LDLib2-1.21.1-2.2.18-neoforge",
+      "icon_url": "https://media.forgecdn.net/avatars/1390/433/638901495840171464.png",
+      "_is_dependency": true
     },
     {
       "name": "Supplementaries",
@@ -2104,9 +2107,101 @@
       "file_name": "Terralith_Restoned_v1.3.jar",
       "version_number": "Terralith_Restoned_v1.3.jar",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1156/836/256/256/638724742485176161.png"
+    },
+    {
+      "name": "Create Aeronautics: Delivery Required",
+      "curseforge_id": 1539794,
+      "download_url": "https://edge.forgecdn.net/files/8127/628/createdeliveryrequired-1.0.2.jar",
+      "file_name": "createdeliveryrequired-1.0.2.jar",
+      "version_number": "createdeliveryrequired-1.0.2.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1801/866/256/256/639140456650357890.png",
+      "_depends_on": [
+        889722,
+        238086,
+        626676,
+        676721,
+        622888
+      ]
+    },
+    {
+      "name": "Numismatics 1.0.20 NeoForge 1.21.1",
+      "curseforge_id": 889722,
+      "download_url": "https://edge.forgecdn.net/files/7948/18/CreateNumismatics-1.0.20%2Bneoforge-mc1.21.1.jar",
+      "file_name": "CreateNumismatics-1.0.20+neoforge-mc1.21.1.jar",
+      "version_number": "Numismatics 1.0.20 NeoForge 1.21.1",
+      "_is_dependency": true
+    },
+    {
+      "name": "PonderJS-NeoForge-1.21.1-2.4.0",
+      "curseforge_id": 622888,
+      "download_url": "https://edge.forgecdn.net/files/7436/813/ponderjs-neoforge-1.21.1-2.4.0.jar",
+      "file_name": "ponderjs-neoforge-1.21.1-2.4.0.jar",
+      "version_number": "PonderJS-NeoForge-1.21.1-2.4.0",
+      "_is_dependency": true
+    },
+    {
+      "name": "Create Aeronautics Thrusters and Things",
+      "curseforge_id": 1537945,
+      "download_url": "https://edge.forgecdn.net/files/8223/160/createthrusters-bundled-V0.1.16.jar",
+      "file_name": "createthrusters-bundled-V0.1.16.jar",
+      "version_number": "Create Thrusters'n'Things - V0.1.16 - HOTFIX 2",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1798/663/256/256/639139040479699881.png"
+    },
+    {
+      "name": "create aeronautics：toolgun",
+      "curseforge_id": 1521349,
+      "download_url": "https://edge.forgecdn.net/files/8165/837/create_aeronautics_toolgun-0.2.0.jar",
+      "file_name": "create_aeronautics_toolgun-0.2.0.jar",
+      "version_number": "create_aeronautics_toolgun-0.2.0.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1769/312/256/256/639124288308343799.png"
+    },
+    {
+      "name": "VS / Sable Hose Connectors",
+      "curseforge_id": 1426984,
+      "download_url": "https://edge.forgecdn.net/files/8066/650/VS-Sable-HoseConnectors-0.1.6-1.21.1.jar",
+      "file_name": "VS-Sable-HoseConnectors-0.1.6-1.21.1.jar",
+      "version_number": "VS-Sable-HoseConnectors-0.1.6-1.21.1.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1795/971/256/256/639137609000287622.png"
+    },
+    {
+      "name": "Create Aeronautics: Transmission & Linkage",
+      "curseforge_id": 1548056,
+      "download_url": "https://edge.forgecdn.net/files/8160/951/create_aeronautics_transmission_linkage-0.2.3.jar",
+      "file_name": "create_aeronautics_transmission_linkage-0.2.3.jar",
+      "version_number": "create_aeronautics_transmission_linkage-0.2.3.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1819/789/256/256/639149855338139456.png"
+    },
+    {
+      "name": "Create Cardan Shafts",
+      "curseforge_id": 1546625,
+      "download_url": "https://edge.forgecdn.net/files/8146/378/create_cardan_shafts-0.1.6.jar",
+      "file_name": "create_cardan_shafts-0.1.6.jar",
+      "version_number": "create_cardan_shafts-0.1.6.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1814/122/256/256/639146717883533966.png"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-06-09T23:34:54.560Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Create Aeronautics 1.2.1 for mc1.21.1",
+        "+ KubeJS NeoForge 2101.7.2-build.368",
+        "+ LDLib2-1.21.1-2.2.18-neoforge",
+        "+ Create Aeronautics: Delivery Required",
+        "+ Numismatics 1.0.20 NeoForge 1.21.1",
+        "+ PonderJS-NeoForge-1.21.1-2.4.0",
+        "+ Create Aeronautics Thrusters and Things",
+        "+ create aeronautics：toolgun",
+        "+ VS / Sable Hose Connectors",
+        "+ Create Aeronautics: Transmission & Linkage",
+        "+ Create Cardan Shafts",
+        "− Create Aeronautics",
+        "− KubeJS",
+        "− LDLib",
+        "⬆ LDLib2-1.21.1-2.2.18-neoforge: LDLib2-2.2.8-neoforge → LDLib2-1.21.1-2.2.18-neoforge"
+      ]
+    },
     {
       "date": "2026-06-07T02:16:34.545Z",
       "author": "Martion000",
@@ -2291,7 +2386,7 @@
       ]
     }
   ],
-  "extras_version": 186,
+  "extras_version": 187,
   "extras_url": "",
   "resourcepacks": [
     {
