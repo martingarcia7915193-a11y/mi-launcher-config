@@ -2180,14 +2180,6 @@
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1814/122/256/256/639146717883533966.png"
     },
     {
-      "name": "Sable x Xaero Bridge",
-      "curseforge_id": 1529727,
-      "download_url": "https://edge.forgecdn.net/files/8079/771/sable_xaero_bridge-0.1.11.jar",
-      "file_name": "sable_xaero_bridge-0.1.11.jar",
-      "version_number": "sable_xaero_bridge-0.1.11.jar",
-      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1804/950/256/256/639142164930802454.png"
-    },
-    {
       "name": "Not so simple Creative Dimension",
       "curseforge_id": 1543935,
       "download_url": "https://edge.forgecdn.net/files/8119/718/creative_dimension_portal-0.1.3.jar",
@@ -2197,6 +2189,13 @@
     }
   ],
   "changelog": [
+    {
+      "date": "2026-06-10T00:21:26.565Z",
+      "author": "Martion000",
+      "changes": [
+        "− Sable x Xaero Bridge"
+      ]
+    },
     {
       "date": "2026-06-10T00:19:28.404Z",
       "author": "Martion000",
@@ -2418,7 +2417,7 @@
       ]
     }
   ],
-  "extras_version": 189,
+  "extras_version": 190,
   "extras_url": "",
   "resourcepacks": [
     {
