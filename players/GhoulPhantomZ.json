@@ -13,9 +13,9 @@
     "TWO": 1448095,
     "custom_2026_06_02_22_26_34_tecnoworld_1780454048688": 295836
   },
-  "online": false,
-  "playing": null,
-  "last_seen": 1781287195590,
+  "online": true,
+  "playing": "custom_queso_v_1778296076666",
+  "last_seen": 1781288356781,
   "playing_name": "queso",
-  "playing_since": 1781136358734
+  "playing_since": 1781288354058
 }
