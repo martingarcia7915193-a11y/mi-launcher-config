@@ -2179,18 +2179,23 @@
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1667/40/256/256/639060997684227810.png"
     },
     {
-      "name": "Vic's Point Blank",
-      "curseforge_id": 961053,
-      "download_url": "https://edge.forgecdn.net/files/7713/179/pointblank-neoforge-1.21-1.11.1.jar",
-      "file_name": "pointblank-neoforge-1.21-1.11.1.jar",
-      "version_number": "Point Blank v1.11.1 mc1.21.1 Neoforge",
-      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/932/32/256/256/638406203730800557.png",
-      "_depends_on": [
-        388172
-      ]
+      "name": "Create : Linear Motion Simulated",
+      "curseforge_id": 1541640,
+      "download_url": "https://mediafilez.forgecdn.net/files/8100/524/create_linear_motion_simulated-0.2.1.jar",
+      "file_name": "create_linear_motion_simulated-0.2.1.jar",
+      "version_number": "Create : Linear Motion Simulated 0.2.1",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1805/152/256/256/639142262843159149.png"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-06-13T20:38:06.500Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Create : Linear Motion Simulated",
+        "− Vic's Point Blank"
+      ]
+    },
     {
       "date": "2026-06-13T20:15:20.626Z",
       "author": "Martion000",
@@ -2572,7 +2577,7 @@
       ]
     }
   ],
-  "extras_version": 210,
+  "extras_version": 211,
   "extras_url": "",
   "resourcepacks": [
     {
