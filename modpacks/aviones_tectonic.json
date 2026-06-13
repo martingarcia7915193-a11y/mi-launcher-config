@@ -23,9 +23,9 @@
     {
       "name": "Sodium",
       "curseforge_id": 394468,
-      "download_url": "https://edge.forgecdn.net/files/6382/651/sodium-neoforge-0.6.13%2Bmc1.21.1.jar",
-      "file_name": "sodium-neoforge-0.6.13+mc1.21.1.jar",
-      "version_number": "Sodium 0.6.13 for NeoForge",
+      "download_url": "https://edge.forgecdn.net/files/8242/14/sodium-neoforge-0.8.12-beta.1%2bmc1.21.1.jar",
+      "file_name": "sodium-neoforge-0.8.12-beta.1+mc1.21.1.jar",
+      "version_number": "Sodium 0.8.12-beta.1 for NeoForge 1.21.1",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/284/773/256/256/637298471098686391.png"
     },
     {
@@ -2038,9 +2038,9 @@
     {
       "name": "Aeronautics: simulated copycats",
       "modrinth_id": "simulated-copycats",
-      "download_url": "https://cdn.modrinth.com/data/NYBH9vVY/versions/xgzZOELL/sim_copycats-1.1.5.jar",
-      "file_name": "sim_copycats-1.1.5.jar",
-      "version_number": "1.1.5",
+      "download_url": "https://cdn.modrinth.com/data/NYBH9vVY/versions/3mf1vH18/sim_copycats-1.1.6.jar",
+      "file_name": "sim_copycats-1.1.6.jar",
+      "version_number": "1.1.6",
       "icon_url": "https://cdn.modrinth.com/data/NYBH9vVY/158b8c563f0556e7e45e0514132b070c73dcd632.png",
       "client_only": false
     },
@@ -2224,6 +2224,14 @@
     }
   ],
   "changelog": [
+    {
+      "date": "2026-06-13T19:48:16.486Z",
+      "author": "Martion000",
+      "changes": [
+        "⬆ Sodium: Sodium 0.6.13 for NeoForge → Sodium 0.8.12-beta.1 for NeoForge 1.21.1",
+        "⬆ Aeronautics: simulated copycats: 1.1.5 → 1.1.6"
+      ]
+    },
     {
       "date": "2026-06-13T19:45:07.742Z",
       "author": "Martion000",
@@ -2536,7 +2544,7 @@
       ]
     }
   ],
-  "extras_version": 201,
+  "extras_version": 202,
   "extras_url": "",
   "resourcepacks": [
     {
