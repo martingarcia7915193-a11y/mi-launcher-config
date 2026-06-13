@@ -177,13 +177,13 @@
       ]
     },
     {
-      "name": "Sable NeoForge 1.1.3 for mc1.21.1",
+      "name": "Sable",
       "curseforge_id": 1312371,
-      "download_url": "https://edge.forgecdn.net/files/8007/5/sable-neoforge-1.21.1-1.2.2.jar",
-      "file_name": "sable-neoforge-1.21.1-1.2.2.jar",
-      "version_number": "Sable NeoForge 1.2.2 for mc1.21.1",
+      "download_url": "https://edge.forgecdn.net/files/8242/682/sable-neoforge-1.21.1-2.0.1.jar",
+      "file_name": "sable-neoforge-1.21.1-2.0.1.jar",
+      "version_number": "Sable NeoForge 2.0.1 for mc1.21.1",
       "_is_dependency": true,
-      "icon_url": "https://media.forgecdn.net/avatars/1368/340/638888491505266312.png"
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1368/340/256/256/638888491505266312.png"
     },
     {
       "name": "Floating Purpur (Sable Addon)",
@@ -2225,6 +2225,15 @@
   ],
   "changelog": [
     {
+      "date": "2026-06-13T19:36:05.588Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Sable",
+        "− Sable NeoForge 1.1.3 for mc1.21.1",
+        "⬆ Sable: Sable NeoForge 1.2.2 for mc1.21.1 → Sable NeoForge 2.0.1 for mc1.21.1"
+      ]
+    },
+    {
       "date": "2026-06-13T19:34:44.764Z",
       "author": "Martion000",
       "changes": [
@@ -2470,7 +2479,7 @@
       ]
     }
   ],
-  "extras_version": 192,
+  "extras_version": 193,
   "extras_url": "",
   "resourcepacks": [
     {
