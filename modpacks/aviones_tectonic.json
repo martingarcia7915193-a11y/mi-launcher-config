@@ -23,9 +23,9 @@
     {
       "name": "Sodium",
       "curseforge_id": 394468,
-      "download_url": "https://edge.forgecdn.net/files/8242/14/sodium-neoforge-0.8.12-beta.1%2bmc1.21.1.jar",
-      "file_name": "sodium-neoforge-0.8.12-beta.1+mc1.21.1.jar",
-      "version_number": "Sodium 0.8.12-beta.1 for NeoForge 1.21.1",
+      "download_url": "https://edge.forgecdn.net/files/6382/651/sodium-neoforge-0.6.13%2bmc1.21.1.jar",
+      "file_name": "sodium-neoforge-0.6.13+mc1.21.1.jar",
+      "version_number": "Sodium 0.6.13 for NeoForge",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/284/773/256/256/637298471098686391.png"
     },
     {
@@ -778,9 +778,9 @@
     {
       "name": "Iris Shaders",
       "curseforge_id": 455508,
-      "download_url": "https://edge.forgecdn.net/files/8242/804/iris-neoforge-1.8.14-beta.1%2bmc1.21.1.jar",
-      "file_name": "iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
-      "version_number": "Iris 1.8.14 Beta 1 for NeoForge 1.21.1",
+      "download_url": "https://edge.forgecdn.net/files/6661/598/iris-neoforge-1.8.12%2bmc1.21.1.jar",
+      "file_name": "iris-neoforge-1.8.12+mc1.21.1.jar",
+      "version_number": "Iris 1.8.12 for NeoForge 1.21.1",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1002/450/256/256/638522657871453967.png",
       "_depends_on": [
         394468
@@ -2171,14 +2171,6 @@
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/906/960/256/256/638357544485291412.png"
     },
     {
-      "name": "Barehanded",
-      "curseforge_id": 1565886,
-      "download_url": "https://mediafilez.forgecdn.net/files/8242/859/sablebarehanded-neoforge-1.21.1-1.3.3.jar",
-      "file_name": "sablebarehanded-neoforge-1.21.1-1.3.3.jar",
-      "version_number": "sablebarehanded-neoforge-1.21.1-1.3.3.jar",
-      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1848/166/256/256/639162797529378880.png"
-    },
-    {
       "name": "Create: Improved Display Link Experience",
       "curseforge_id": 1456715,
       "download_url": "https://edge.forgecdn.net/files/8147/644/createidlx-1.21.1-1.5.jar",
@@ -2199,6 +2191,15 @@
     }
   ],
   "changelog": [
+    {
+      "date": "2026-06-13T20:14:11.177Z",
+      "author": "Martion000",
+      "changes": [
+        "− Barehanded",
+        "⬆ Sodium: Sodium 0.8.12-beta.1 for NeoForge 1.21.1 → Sodium 0.6.13 for NeoForge",
+        "⬆ Iris Shaders: Iris 1.8.14 Beta 1 for NeoForge 1.21.1 → Iris 1.8.12 for NeoForge 1.21.1"
+      ]
+    },
     {
       "date": "2026-06-13T20:07:20.365Z",
       "author": "Martion000",
@@ -2563,7 +2564,7 @@
       ]
     }
   ],
-  "extras_version": 208,
+  "extras_version": 209,
   "extras_url": "",
   "resourcepacks": [
     {
