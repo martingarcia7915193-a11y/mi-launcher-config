@@ -1884,14 +1884,6 @@
       "_is_dependency": true
     },
     {
-      "name": "Supplementaries",
-      "curseforge_id": 412082,
-      "download_url": "https://edge.forgecdn.net/files/8173/945/supplementaries-neoforge-1.21.1-3.6.6.jar",
-      "file_name": "supplementaries-neoforge-1.21.1-3.6.6.jar",
-      "version_number": "supplementaries-1.21.1-3.6.6-neoforge",
-      "icon_url": "https://media.forgecdn.net/avatars/358/166/637518566737953306.gif"
-    },
-    {
       "name": "Moonlight Lib",
       "curseforge_id": 499980,
       "download_url": "https://edge.forgecdn.net/files/8089/964/moonlight-neoforge-1.21.1-3.0.9.jar",
@@ -2207,6 +2199,13 @@
     }
   ],
   "changelog": [
+    {
+      "date": "2026-06-13T20:02:50.880Z",
+      "author": "Martion000",
+      "changes": [
+        "− Supplementaries"
+      ]
+    },
     {
       "date": "2026-06-13T19:58:04.655Z",
       "author": "Martion000",
@@ -2550,7 +2549,7 @@
       ]
     }
   ],
-  "extras_version": 205,
+  "extras_version": 206,
   "extras_url": "",
   "resourcepacks": [
     {
