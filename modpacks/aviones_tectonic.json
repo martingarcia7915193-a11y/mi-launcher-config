@@ -2186,9 +2186,54 @@
       "file_name": "creative_dimension_portal-0.1.3.jar",
       "version_number": "creative_dimension_portal-0.1.3.jar",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1816/451/256/256/639148034373325289.png"
+    },
+    {
+      "name": "Only Hammers And Excavators",
+      "curseforge_id": 939215,
+      "download_url": "https://mediafilez.forgecdn.net/files/8014/186/onlyhammersandexcavators-1.21.1-1.0.1.jar",
+      "file_name": "onlyhammersandexcavators-1.21.1-1.0.1.jar",
+      "version_number": "OnlyHammersAndExcavators-1.21.1-1.0.1-NeoForge",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/906/960/256/256/638357544485291412.png"
+    },
+    {
+      "name": "Barehanded",
+      "curseforge_id": 1565886,
+      "download_url": "https://mediafilez.forgecdn.net/files/8242/859/sablebarehanded-neoforge-1.21.1-1.3.3.jar",
+      "file_name": "sablebarehanded-neoforge-1.21.1-1.3.3.jar",
+      "version_number": "sablebarehanded-neoforge-1.21.1-1.3.3.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1848/166/256/256/639162797529378880.png"
+    },
+    {
+      "name": "Create: Improved Display Link Experience",
+      "curseforge_id": 1456715,
+      "download_url": "https://edge.forgecdn.net/files/8147/644/createidlx-1.21.1-1.5.jar",
+      "file_name": "createidlx-1.21.1-1.5.jar",
+      "version_number": "Create: IDLX 1.5 for Minecraft 1.21.1 & Create 6.0.X",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1667/40/256/256/639060997684227810.png"
+    },
+    {
+      "name": "Vic's Point Blank",
+      "curseforge_id": 961053,
+      "download_url": "https://edge.forgecdn.net/files/7713/179/pointblank-neoforge-1.21-1.11.1.jar",
+      "file_name": "pointblank-neoforge-1.21-1.11.1.jar",
+      "version_number": "Point Blank v1.11.1 mc1.21.1 Neoforge",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/932/32/256/256/638406203730800557.png",
+      "_depends_on": [
+        388172
+      ]
     }
   ],
   "changelog": [
+    {
+      "date": "2026-06-13T19:34:44.764Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Only Hammers And Excavators",
+        "+ Barehanded",
+        "+ Create: Improved Display Link Experience",
+        "+ Vic's Point Blank"
+      ]
+    },
     {
       "date": "2026-06-13T19:24:28.371Z",
       "author": "Martion000",
@@ -2425,7 +2470,7 @@
       ]
     }
   ],
-  "extras_version": 191,
+  "extras_version": 192,
   "extras_url": "",
   "resourcepacks": [
     {
