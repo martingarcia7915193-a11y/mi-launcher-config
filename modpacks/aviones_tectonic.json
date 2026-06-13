@@ -179,9 +179,9 @@
     {
       "name": "Sable",
       "curseforge_id": 1312371,
-      "download_url": "https://edge.forgecdn.net/files/8240/15/sable-neoforge-1.21.1-2.0.0.jar",
-      "file_name": "sable-neoforge-1.21.1-2.0.0.jar",
-      "version_number": "Sable NeoForge 2.0.0 for mc1.21.1",
+      "download_url": "https://edge.forgecdn.net/files/8007/5/sable-neoforge-1.21.1-1.2.2.jar",
+      "file_name": "sable-neoforge-1.21.1-1.2.2.jar",
+      "version_number": "Sable NeoForge 1.2.2 for mc1.21.1",
       "_is_dependency": true,
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1368/340/256/256/638888491505266312.png"
     },
@@ -2225,6 +2225,13 @@
   ],
   "changelog": [
     {
+      "date": "2026-06-13T19:39:00.589Z",
+      "author": "Martion000",
+      "changes": [
+        "⬆ Sable: Sable NeoForge 2.0.0 for mc1.21.1 → Sable NeoForge 1.2.2 for mc1.21.1"
+      ]
+    },
+    {
       "date": "2026-06-13T19:37:02.119Z",
       "author": "Martion000",
       "changes": [
@@ -2486,7 +2493,7 @@
       ]
     }
   ],
-  "extras_version": 194,
+  "extras_version": 195,
   "extras_url": "",
   "resourcepacks": [
     {
