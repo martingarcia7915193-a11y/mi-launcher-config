@@ -2028,23 +2028,6 @@
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1812/539/256/256/639146075490528148.png"
     },
     {
-      "name": "Create : Linear Motion Simulated",
-      "curseforge_id": 1541640,
-      "download_url": "https://mediafilez.forgecdn.net/files/8100/524/create_linear_motion_simulated-0.2.1.jar",
-      "file_name": "create_linear_motion_simulated-0.2.1.jar",
-      "version_number": "Create : Linear Motion Simulated 0.2.1",
-      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1805/152/256/256/639142262843159149.png"
-    },
-    {
-      "name": "Aeronautics: simulated copycats",
-      "modrinth_id": "simulated-copycats",
-      "download_url": "https://cdn.modrinth.com/data/NYBH9vVY/versions/3mf1vH18/sim_copycats-1.1.6.jar",
-      "file_name": "sim_copycats-1.1.6.jar",
-      "version_number": "1.1.6",
-      "icon_url": "https://cdn.modrinth.com/data/NYBH9vVY/158b8c563f0556e7e45e0514132b070c73dcd632.png",
-      "client_only": false
-    },
-    {
       "name": "Tectonic",
       "curseforge_id": 686836,
       "download_url": "https://edge.forgecdn.net/files/7903/156/tectonic-3.0.22-neoforge-21.1.jar",
@@ -2224,6 +2207,14 @@
     }
   ],
   "changelog": [
+    {
+      "date": "2026-06-13T19:50:01.144Z",
+      "author": "Martion000",
+      "changes": [
+        "− Create : Linear Motion Simulated",
+        "− Aeronautics: simulated copycats"
+      ]
+    },
     {
       "date": "2026-06-13T19:48:16.486Z",
       "author": "Martion000",
@@ -2544,7 +2535,7 @@
       ]
     }
   ],
-  "extras_version": 202,
+  "extras_version": 203,
   "extras_url": "",
   "resourcepacks": [
     {
