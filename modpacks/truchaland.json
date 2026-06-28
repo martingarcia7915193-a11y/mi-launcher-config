@@ -72,10 +72,25 @@
       "file_name": "sable-neoforge-1.21.1-2.0.3.jar",
       "version_number": "Sable NeoForge 2.0.3 for mc1.21.1",
       "_is_dependency": true
+    },
+    {
+      "name": "Create: Lift n' Load |  Simulated/Aeronautics Addon",
+      "curseforge_id": 1517465,
+      "download_url": "https://mediafilez.forgecdn.net/files/8309/882/Lift-n-Load-1.21.1-1.0c.jar",
+      "file_name": "Lift-n-Load-1.21.1-1.0c.jar",
+      "version_number": "Lift-n-Load-1.21.1-1.0c",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1762/524/256/256/639121019466746567.png"
     }
   ],
-  "extras_version": 21,
+  "extras_version": 22,
   "changelog": [
+    {
+      "date": "2026-06-28T06:40:59.352Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Create: Lift n' Load |  Simulated/Aeronautics Addon"
+      ]
+    },
     {
       "date": "2026-06-28T06:37:15.132Z",
       "author": "Martion000",
