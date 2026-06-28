@@ -196,10 +196,144 @@
       "file_name": "FramedBlocks-10.6.0.jar",
       "version_number": "FramedBlocks-10.6.0.jar",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/337/942/256/256/637476252137998899.png"
+    },
+    {
+      "name": "artifacts-neoforge-13.2.1.jar",
+      "curseforge_id": 312353,
+      "download_url": "https://edge.forgecdn.net/files/7875/426/artifacts-neoforge-13.2.1.jar",
+      "file_name": "artifacts-neoforge-13.2.1.jar",
+      "version_number": "artifacts-neoforge-13.2.1.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/444/622/256/256/637699815276651872.png",
+      "_is_dependency": true
+    },
+    {
+      "name": "Reliquified Artifacts",
+      "curseforge_id": 1100379,
+      "download_url": "https://edge.forgecdn.net/files/8215/303/reliquified_artifacts-1.21.1-1.0.7.jar",
+      "file_name": "reliquified_artifacts-1.21.1-1.0.7.jar",
+      "version_number": "reliquified_artifacts-1.21.1-1.0.7.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1083/26/256/256/638623617290403030_animated.gif",
+      "_depends_on": [
+        445274,
+        312353
+      ]
+    },
+    {
+      "name": "relics-1.21.1-0.12.8.jar",
+      "curseforge_id": 445274,
+      "download_url": "https://edge.forgecdn.net/files/8158/315/relics-1.21.1-0.12.8.jar",
+      "file_name": "relics-1.21.1-0.12.8.jar",
+      "version_number": "relics-1.21.1-0.12.8.jar",
+      "_is_dependency": true
+    },
+    {
+      "name": "curios-neoforge-9.5.1+1.21.1.jar",
+      "curseforge_id": 309927,
+      "download_url": "https://edge.forgecdn.net/files/6529/130/curios-neoforge-9.5.1%2B1.21.1.jar",
+      "file_name": "curios-neoforge-9.5.1+1.21.1.jar",
+      "version_number": "curios-neoforge-9.5.1+1.21.1.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/195/772/256/256/636881112930494939.png",
+      "_is_dependency": true
+    },
+    {
+      "name": "Corpse x Curios API Compat",
+      "curseforge_id": 1138130,
+      "download_url": "https://edge.forgecdn.net/files/7891/800/corpsecurioscompat-1.21.1-NeoForge-4.0.1.jar",
+      "file_name": "corpsecurioscompat-1.21.1-NeoForge-4.0.1.jar",
+      "version_number": "corpsecurioscompat-1.21.1-NeoForge-4.0.1.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1115/573/256/256/638669521923748256.png",
+      "_depends_on": [
+        1264423
+      ]
+    },
+    {
+      "name": "baguettelib-1.21.1-NeoForge-2.0.3.jar",
+      "curseforge_id": 1264423,
+      "download_url": "https://edge.forgecdn.net/files/7880/467/baguettelib-1.21.1-NeoForge-2.0.3.jar",
+      "file_name": "baguettelib-1.21.1-NeoForge-2.0.3.jar",
+      "version_number": "baguettelib-1.21.1-NeoForge-2.0.3.jar",
+      "_is_dependency": true
+    },
+    {
+      "name": "[NEOFORGE][1.21.1] Corpse 1.21.1-1.1.13",
+      "curseforge_id": 316582,
+      "download_url": "https://edge.forgecdn.net/files/7018/307/corpse-neoforge-1.21.1-1.1.13.jar",
+      "file_name": "corpse-neoforge-1.21.1-1.1.13.jar",
+      "version_number": "[NEOFORGE][1.21.1] Corpse 1.21.1-1.1.13",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/194/489/256/256/636873305017840968.png",
+      "_is_dependency": true
+    },
+    {
+      "name": "Corpse x Cosmetic Armor Reworked Compat",
+      "curseforge_id": 1208436,
+      "download_url": "https://edge.forgecdn.net/files/7891/804/cosmeticcorpsecompat-1.21.1-NeoForge-4.0.1.jar",
+      "file_name": "cosmeticcorpsecompat-1.21.1-NeoForge-4.0.1.jar",
+      "version_number": "cosmeticcorpsecompat-1.21.1-NeoForge-4.0.1.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1186/991/256/256/638761225749034147.png",
+      "_depends_on": [
+        237307,
+        316582
+      ]
+    },
+    {
+      "name": "cosmeticarmorreworked-1.21.1-v1-neoforge.jar",
+      "curseforge_id": 237307,
+      "download_url": "https://edge.forgecdn.net/files/5610/814/cosmeticarmorreworked-1.21.1-v1-neoforge.jar",
+      "file_name": "cosmeticarmorreworked-1.21.1-v1-neoforge.jar",
+      "version_number": "cosmeticarmorreworked-1.21.1-v1-neoforge.jar",
+      "_is_dependency": true
+    },
+    {
+      "name": "More Relics",
+      "curseforge_id": 1269280,
+      "download_url": "https://edge.forgecdn.net/files/8319/266/morerelics-1.7.5-1.21.1.jar",
+      "file_name": "morerelics-1.7.5-1.21.1.jar",
+      "version_number": "morerelics-1.7.5-1.21.1.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1280/540/256/256/638832754534089162_animated.gif",
+      "_depends_on": [
+        916747,
+        419699,
+        445274,
+        309927
+      ]
+    },
+    {
+      "name": "OctoLib-NEOFORGE-0.6.2+1.21.jar",
+      "curseforge_id": 916747,
+      "download_url": "https://edge.forgecdn.net/files/8040/848/OctoLib-NEOFORGE-0.6.2%2B1.21.jar",
+      "file_name": "OctoLib-NEOFORGE-0.6.2+1.21.jar",
+      "version_number": "OctoLib-NEOFORGE-0.6.2+1.21.jar",
+      "_is_dependency": true
+    },
+    {
+      "name": "[NeoForge 1.21(.1)] v13.0.8",
+      "curseforge_id": 419699,
+      "download_url": "https://edge.forgecdn.net/files/5786/327/architectury-13.0.8-neoforge.jar",
+      "file_name": "architectury-13.0.8-neoforge.jar",
+      "version_number": "[NeoForge 1.21(.1)] v13.0.8",
+      "_is_dependency": true
     }
   ],
-  "extras_version": 27,
+  "extras_version": 28,
   "changelog": [
+    {
+      "date": "2026-06-28T07:29:21.852Z",
+      "author": "Martion000",
+      "changes": [
+        "+ artifacts-neoforge-13.2.1.jar",
+        "+ Reliquified Artifacts",
+        "+ relics-1.21.1-0.12.8.jar",
+        "+ curios-neoforge-9.5.1+1.21.1.jar",
+        "+ Corpse x Curios API Compat",
+        "+ baguettelib-1.21.1-NeoForge-2.0.3.jar",
+        "+ [NEOFORGE][1.21.1] Corpse 1.21.1-1.1.13",
+        "+ Corpse x Cosmetic Armor Reworked Compat",
+        "+ cosmeticarmorreworked-1.21.1-v1-neoforge.jar",
+        "+ More Relics",
+        "+ OctoLib-NEOFORGE-0.6.2+1.21.jar",
+        "+ [NeoForge 1.21(.1)] v13.0.8"
+      ]
+    },
     {
       "date": "2026-06-28T07:16:55.693Z",
       "author": "Martion000",
