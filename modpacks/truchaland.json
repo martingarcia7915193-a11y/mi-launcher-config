@@ -298,10 +298,28 @@
       "file_name": "architectury-13.0.8-neoforge.jar",
       "version_number": "[NeoForge 1.21(.1)] v13.0.8",
       "_is_dependency": true
+    },
+    {
+      "name": "Steam 'n' Rails Neoforge",
+      "curseforge_id": 1414670,
+      "download_url": "https://edge.forgecdn.net/files/8261/376/railways-0.3.0-alpha.2%2Bneoforge-mc1.21.1.jar",
+      "file_name": "railways-0.3.0-alpha.2+neoforge-mc1.21.1.jar",
+      "version_number": "railways-0.3.0-alpha.2+neoforge-mc1.21.1.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1582/848/256/256/639024674263601857.png",
+      "_depends_on": [
+        328085
+      ]
     }
   ],
-  "extras_version": 29,
+  "extras_version": 30,
   "changelog": [
+    {
+      "date": "2026-06-28T07:41:38.300Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Steam 'n' Rails Neoforge"
+      ]
+    },
     {
       "date": "2026-06-28T07:33:21.460Z",
       "author": "Martion000",
