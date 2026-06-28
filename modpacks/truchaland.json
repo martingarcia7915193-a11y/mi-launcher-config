@@ -196,10 +196,34 @@
       "file_name": "FramedBlocks-10.6.0.jar",
       "version_number": "FramedBlocks-10.6.0.jar",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/337/942/256/256/637476252137998899.png"
+    },
+    {
+      "name": "[UNOFFICIAL] TaCZ NeoForge Port",
+      "curseforge_id": 1353462,
+      "download_url": "https://edge.forgecdn.net/files/8318/179/tacz-neoforge-1.21.1-1.1.8-hotfix-r2.jar",
+      "file_name": "tacz-neoforge-1.21.1-1.1.8-hotfix-r2.jar",
+      "version_number": "[TaCZ] Timeless & Classics Guns: Zero 1.1.8-hotfix-r2",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1454/709/256/256/638944184636793014.png"
+    },
+    {
+      "name": "[UNOFFICIAL] [TACZ] Fallout Gunpack",
+      "curseforge_id": 1413748,
+      "download_url": "https://edge.forgecdn.net/files/7430/519/tacz_fallout-0.1.1.jar",
+      "file_name": "tacz_fallout-0.1.1.jar",
+      "version_number": "[UNOFFICIAL] [TACZ] Fallout Gunpack - v0.1.1",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1580/861/256/256/639023544183796352.png"
     }
   ],
-  "extras_version": 25,
+  "extras_version": 26,
   "changelog": [
+    {
+      "date": "2026-06-28T07:10:01.875Z",
+      "author": "Martion000",
+      "changes": [
+        "+ [UNOFFICIAL] TaCZ NeoForge Port",
+        "+ [UNOFFICIAL] [TACZ] Fallout Gunpack"
+      ]
+    },
     {
       "date": "2026-06-28T07:00:54.669Z",
       "author": "Martion000",
