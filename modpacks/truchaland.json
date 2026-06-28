@@ -292,7 +292,7 @@
       "_is_dependency": true
     },
     {
-      "name": "Architectury API",
+      "name": "[NeoForge 1.21(.1)] v13.0.8",
       "curseforge_id": 419699,
       "download_url": "https://edge.forgecdn.net/files/5786/327/architectury-13.0.8-neoforge.jar",
       "file_name": "architectury-13.0.8-neoforge.jar",
@@ -352,10 +352,30 @@
       "file_name": "curios_for_ammo_box-1.21.1-1.2.0.jar",
       "version_number": "curios_for_ammo_box-1.21.1-1.2.0.jar",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1426/695/256/256/638924223628035321.png"
+    },
+    {
+      "name": "MCA Reborn [Fabric/Forge]",
+      "curseforge_id": 535291,
+      "download_url": "https://edge.forgecdn.net/files/8325/524/mca-neoforge-7.7.17%2B1.21.1.jar",
+      "file_name": "mca-neoforge-7.7.17+1.21.1.jar",
+      "version_number": "[NeoForge 1.21.1] MCAR - 7.7.17",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1008/780/256/256/638531792918357805.jpg",
+      "_depends_on": [
+        419699
+      ]
     }
   ],
-  "extras_version": 32,
+  "extras_version": 33,
   "changelog": [
+    {
+      "date": "2026-06-28T08:02:52.156Z",
+      "author": "Martion000",
+      "changes": [
+        "+ [NeoForge 1.21(.1)] v13.0.8",
+        "+ MCA Reborn [Fabric/Forge]",
+        "− Architectury API"
+      ]
+    },
     {
       "date": "2026-06-28T08:01:38.121Z",
       "author": "Martion000",
