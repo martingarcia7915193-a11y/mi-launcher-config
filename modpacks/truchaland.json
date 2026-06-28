@@ -80,10 +80,73 @@
       "file_name": "Lift-n-Load-1.21.1-1.0c.jar",
       "version_number": "Lift-n-Load-1.21.1-1.0c",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1762/524/256/256/639121019466746567.png"
+    },
+    {
+      "name": "Mouse Tweaks",
+      "curseforge_id": 60089,
+      "download_url": "https://edge.forgecdn.net/files/5637/846/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+      "file_name": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+      "version_number": "[1.21+ NeoForge] Mouse Tweaks 2.26.1",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/467/691/256/256/637749969243449870.png"
+    },
+    {
+      "name": "AppleSkin",
+      "curseforge_id": 248787,
+      "download_url": "https://edge.forgecdn.net/files/7854/442/appleskin-neoforge-mc1.21-3.0.9.jar",
+      "file_name": "appleskin-neoforge-mc1.21-3.0.9.jar",
+      "version_number": "appleskin-neoforge-mc1.21-3.0.9.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/47/527/256/256/636066936394500688.png"
+    },
+    {
+      "name": "Jade 🔍",
+      "curseforge_id": 324717,
+      "download_url": "https://edge.forgecdn.net/files/7545/219/Jade-1.21.1-NeoForge-15.10.5.jar",
+      "file_name": "Jade-1.21.1-NeoForge-15.10.5.jar",
+      "version_number": "[NeoForge 1.21.1] 15.10.5",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/207/323/256/256/636965628804677340.png"
+    },
+    {
+      "name": "Controlling",
+      "curseforge_id": 250398,
+      "download_url": "https://edge.forgecdn.net/files/6368/976/Controlling-neoforge-1.21.1-19.0.5.jar",
+      "file_name": "Controlling-neoforge-1.21.1-19.0.5.jar",
+      "version_number": "Controlling-neoforge-1.21.1-19.0.5.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/49/603/256/256/636079972364045115.png",
+      "_depends_on": [
+        858542
+      ]
+    },
+    {
+      "name": "Searchables-neoforge-1.21.1-1.0.2.jar",
+      "curseforge_id": 858542,
+      "download_url": "https://edge.forgecdn.net/files/5831/692/Searchables-neoforge-1.21.1-1.0.2.jar",
+      "file_name": "Searchables-neoforge-1.21.1-1.0.2.jar",
+      "version_number": "Searchables-neoforge-1.21.1-1.0.2.jar",
+      "_is_dependency": true
+    },
+    {
+      "name": "Configured",
+      "curseforge_id": 457570,
+      "download_url": "https://edge.forgecdn.net/files/7276/577/configured-neoforge-1.21.1-2.6.3.jar",
+      "file_name": "configured-neoforge-1.21.1-2.6.3.jar",
+      "version_number": "Configured 2.6.3",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/871/317/256/256/638288810833209348.png"
     }
   ],
-  "extras_version": 23,
+  "extras_version": 24,
   "changelog": [
+    {
+      "date": "2026-06-28T06:51:21.766Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Mouse Tweaks",
+        "+ AppleSkin",
+        "+ Jade 🔍",
+        "+ Controlling",
+        "+ Searchables-neoforge-1.21.1-1.0.2.jar",
+        "+ Configured"
+      ]
+    },
     {
       "date": "2026-06-28T06:43:08.062Z",
       "author": "Martion000",
