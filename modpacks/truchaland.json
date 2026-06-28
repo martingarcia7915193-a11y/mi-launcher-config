@@ -35,10 +35,57 @@
       "file_name": "xaeroworldmap-neoforge-1.21.1-1.41.2.jar",
       "version_number": "neoforge-1.21.1-1.41.2.jar",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/196/654/256/256/636886857118683130.png"
+    },
+    {
+      "name": "Sodium",
+      "curseforge_id": 394468,
+      "download_url": "https://edge.forgecdn.net/files/6382/651/sodium-neoforge-0.6.13%2Bmc1.21.1.jar",
+      "file_name": "sodium-neoforge-0.6.13+mc1.21.1.jar",
+      "version_number": "Sodium 0.6.13 for NeoForge",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/284/773/256/256/637298471098686391.png"
+    },
+    {
+      "name": "Create 6.0.10 for mc1.21.1",
+      "curseforge_id": 328085,
+      "download_url": "https://edge.forgecdn.net/files/7963/363/create-1.21.1-6.0.10.jar",
+      "file_name": "create-1.21.1-6.0.10.jar",
+      "version_number": "Create 6.0.10 for mc1.21.1",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1065/184/256/256/638598725500886388.png",
+      "_is_dependency": true
+    },
+    {
+      "name": "Create Aeronautics",
+      "curseforge_id": 676721,
+      "download_url": "https://mediafilez.forgecdn.net/files/8240/58/create-aeronautics-bundled-1.21.1-1.3.0.jar",
+      "file_name": "create-aeronautics-bundled-1.21.1-1.3.0.jar",
+      "version_number": "Create Aeronautics 1.3.0 for mc1.21.1",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1761/312/256/256/639120354691921005.png",
+      "_depends_on": [
+        1312371,
+        328085
+      ]
+    },
+    {
+      "name": "Sable NeoForge 2.0.3 for mc1.21.1",
+      "curseforge_id": 1312371,
+      "download_url": "https://edge.forgecdn.net/files/8263/584/sable-neoforge-1.21.1-2.0.3.jar",
+      "file_name": "sable-neoforge-1.21.1-2.0.3.jar",
+      "version_number": "Sable NeoForge 2.0.3 for mc1.21.1",
+      "_is_dependency": true
     }
   ],
-  "extras_version": 20,
+  "extras_version": 21,
   "changelog": [
+    {
+      "date": "2026-06-28T06:37:15.132Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Sodium",
+        "+ Create 6.0.10 for mc1.21.1",
+        "+ Create Aeronautics",
+        "+ Sable NeoForge 2.0.3 for mc1.21.1"
+      ]
+    },
     {
       "date": "2026-06-28T06:36:06.428Z",
       "author": "Martion000",
