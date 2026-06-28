@@ -309,10 +309,55 @@
       "_depends_on": [
         328085
       ]
+    },
+    {
+      "name": "Vanilla Backport",
+      "curseforge_id": 417430,
+      "download_url": "https://edge.forgecdn.net/files/8229/724/VanillaBackport-neoforge-1.21.1-1.1.7.10.jar",
+      "file_name": "VanillaBackport-neoforge-1.21.1-1.1.7.10.jar",
+      "version_number": "VanillaBackport-neoforge-1.21.1-1.1.7.10.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1803/779/256/256/639141534569435193.png",
+      "_depends_on": [
+        997634
+      ]
+    },
+    {
+      "name": "Platform-neoforge-1.21.1-1.3.3.jar",
+      "curseforge_id": 997634,
+      "download_url": "https://edge.forgecdn.net/files/8075/942/Platform-neoforge-1.21.1-1.3.3.jar",
+      "file_name": "Platform-neoforge-1.21.1-1.3.3.jar",
+      "version_number": "Platform-neoforge-1.21.1-1.3.3.jar",
+      "_is_dependency": true
+    },
+    {
+      "name": "[UNOFFICIAL] TaCZ NeoForge Port",
+      "curseforge_id": 1353462,
+      "download_url": "https://edge.forgecdn.net/files/8318/179/tacz-neoforge-1.21.1-1.1.8-hotfix-r2.jar",
+      "file_name": "tacz-neoforge-1.21.1-1.1.8-hotfix-r2.jar",
+      "version_number": "[TaCZ] Timeless & Classics Guns: Zero 1.1.8-hotfix-r2",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1454/709/256/256/638944184636793014.png"
+    },
+    {
+      "name": "TaCZ: Blueprints Reforged",
+      "curseforge_id": 1589398,
+      "download_url": "https://mediafilez.forgecdn.net/files/8331/907/tacz-blueprints-reforged-1.0.1.jar",
+      "file_name": "tacz-blueprints-reforged-1.0.1.jar",
+      "version_number": "TaCZ: Blueprints Reforged 1.0.1",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1888/470/256/256/639181620250278559.png"
     }
   ],
-  "extras_version": 30,
+  "extras_version": 31,
   "changelog": [
+    {
+      "date": "2026-06-28T07:52:15.425Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Vanilla Backport",
+        "+ Platform-neoforge-1.21.1-1.3.3.jar",
+        "+ [UNOFFICIAL] TaCZ NeoForge Port",
+        "+ TaCZ: Blueprints Reforged"
+      ]
+    },
     {
       "date": "2026-06-28T07:41:38.300Z",
       "author": "Martion000",
