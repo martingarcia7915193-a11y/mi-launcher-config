@@ -131,10 +131,88 @@
       "file_name": "configured-neoforge-1.21.1-2.6.3.jar",
       "version_number": "Configured 2.6.3",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/871/317/256/256/638288810833209348.png"
+    },
+    {
+      "name": "Waystones",
+      "curseforge_id": 245755,
+      "download_url": "https://edge.forgecdn.net/files/8163/145/waystones-neoforge-1.21.1-21.1.34.jar",
+      "file_name": "waystones-neoforge-1.21.1-21.1.34.jar",
+      "version_number": "waystones-neoforge-1.21.1-21.1.34.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1107/108/256/256/638657104456838765.png",
+      "_depends_on": [
+        531761
+      ]
+    },
+    {
+      "name": "balm-neoforge-1.21.1-21.0.59.jar",
+      "curseforge_id": 531761,
+      "download_url": "https://edge.forgecdn.net/files/8252/588/balm-neoforge-1.21.1-21.0.59.jar",
+      "file_name": "balm-neoforge-1.21.1-21.0.59.jar",
+      "version_number": "balm-neoforge-1.21.1-21.0.59.jar",
+      "_is_dependency": true
+    },
+    {
+      "name": "Sophisticated Backpacks",
+      "curseforge_id": 422301,
+      "download_url": "https://edge.forgecdn.net/files/8319/596/sophisticatedbackpacks-1.21.1-3.25.64.1933.jar",
+      "file_name": "sophisticatedbackpacks-1.21.1-3.25.64.1933.jar",
+      "version_number": "sophisticatedbackpacks-1.21.1-3.25.64.1933.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/375/56/256/256/637549610342642859.png",
+      "_depends_on": [
+        618298
+      ]
+    },
+    {
+      "name": "sophisticatedcore-1.21.1-1.4.60.2057.jar",
+      "curseforge_id": 618298,
+      "download_url": "https://edge.forgecdn.net/files/8319/586/sophisticatedcore-1.21.1-1.4.60.2057.jar",
+      "file_name": "sophisticatedcore-1.21.1-1.4.60.2057.jar",
+      "version_number": "sophisticatedcore-1.21.1-1.4.60.2057.jar",
+      "_is_dependency": true
+    },
+    {
+      "name": "Sophisticated Storage",
+      "curseforge_id": 619320,
+      "download_url": "https://edge.forgecdn.net/files/8325/277/sophisticatedstorage-1.21.1-1.5.64.1881.jar",
+      "file_name": "sophisticatedstorage-1.21.1-1.5.64.1881.jar",
+      "version_number": "sophisticatedstorage-1.21.1-1.5.64.1881.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/543/206/256/256/637872959580005837.png",
+      "_depends_on": [
+        618298
+      ]
+    },
+    {
+      "name": "Dramatic Doors",
+      "curseforge_id": 380617,
+      "download_url": "https://edge.forgecdn.net/files/6479/44/DramaticDoors-NeoQuiFab-1.21.1-3.3.2.jar",
+      "file_name": "DramaticDoors-NeoQuiFab-1.21.1-3.3.2.jar",
+      "version_number": "DramaticDoors-NeoQuiFab-1.21.1-3.3.2.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/582/250/256/256/637948069905067823.png"
+    },
+    {
+      "name": "FramedBlocks",
+      "curseforge_id": 441647,
+      "download_url": "https://edge.forgecdn.net/files/8139/800/FramedBlocks-10.6.0.jar",
+      "file_name": "FramedBlocks-10.6.0.jar",
+      "version_number": "FramedBlocks-10.6.0.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/337/942/256/256/637476252137998899.png"
     }
   ],
-  "extras_version": 24,
+  "extras_version": 25,
   "changelog": [
+    {
+      "date": "2026-06-28T07:00:54.669Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Waystones",
+        "+ balm-neoforge-1.21.1-21.0.59.jar",
+        "+ Sophisticated Backpacks",
+        "+ sophisticatedcore-1.21.1-1.4.60.2057.jar",
+        "+ Sophisticated Storage",
+        "+ Dramatic Doors",
+        "+ FramedBlocks"
+      ]
+    },
     {
       "date": "2026-06-28T06:51:21.766Z",
       "author": "Martion000",
