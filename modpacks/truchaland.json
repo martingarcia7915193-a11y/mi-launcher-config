@@ -363,10 +363,25 @@
       "_depends_on": [
         419699
       ]
+    },
+    {
+      "name": "Aeronautics Preflight Checklist",
+      "curseforge_id": 1564032,
+      "download_url": "https://edge.forgecdn.net/files/8218/945/aeronautics_preflight_checklist-1.0.1.jar",
+      "file_name": "aeronautics_preflight_checklist-1.0.1.jar",
+      "version_number": "Aeronautics Preflight Checklist 1.0.1 (NeoForge 1.21.1)",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1844/704/256/256/639161168662478264.png"
     }
   ],
-  "extras_version": 33,
+  "extras_version": 34,
   "changelog": [
+    {
+      "date": "2026-06-28T08:50:22.915Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Aeronautics Preflight Checklist"
+      ]
+    },
     {
       "date": "2026-06-28T08:02:52.156Z",
       "author": "Martion000",
