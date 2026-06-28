@@ -11,9 +11,52 @@
   "banner": "",
   "background": "",
   "server_ip": "",
-  "mods": [],
-  "extras_version": 18,
+  "mods": [
+    {
+      "name": "Jackpot",
+      "curseforge_id": 1424966,
+      "download_url": "https://edge.forgecdn.net/files/8304/380/jackpot-1.0.1.jar",
+      "file_name": "jackpot-1.0.1.jar",
+      "version_number": "Jackpot-NeoForge-1.21.1-1.0.1.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1879/509/256/256/639177066306403516.png"
+    },
+    {
+      "name": "Just Enough Items (JEI)",
+      "curseforge_id": 238222,
+      "download_url": "https://edge.forgecdn.net/files/8292/118/jei-1.21.1-neoforge-19.27.0.343.jar",
+      "file_name": "jei-1.21.1-neoforge-19.27.0.343.jar",
+      "version_number": "19.27.0.343 for NeoForge 1.21.1",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg"
+    },
+    {
+      "name": "Xaero's Minimap",
+      "curseforge_id": 263420,
+      "download_url": "https://edge.forgecdn.net/files/8231/212/xaerominimap-neoforge-1.21.1-26.1.0.jar",
+      "file_name": "xaerominimap-neoforge-1.21.1-26.1.0.jar",
+      "version_number": "neoforge-1.21.1-26.1.0.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/92/854/256/256/636258666554688823.png"
+    },
+    {
+      "name": "Xaero's World Map",
+      "curseforge_id": 317780,
+      "download_url": "https://edge.forgecdn.net/files/8298/694/xaeroworldmap-neoforge-1.21.1-1.41.2.jar",
+      "file_name": "xaeroworldmap-neoforge-1.21.1-1.41.2.jar",
+      "version_number": "neoforge-1.21.1-1.41.2.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/196/654/256/256/636886857118683130.png"
+    }
+  ],
+  "extras_version": 19,
   "changelog": [
+    {
+      "date": "2026-06-28T06:11:41.912Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Jackpot",
+        "+ Just Enough Items (JEI)",
+        "+ Xaero's Minimap",
+        "+ Xaero's World Map"
+      ]
+    },
     {
       "date": "2026-06-28T06:06:58.615Z",
       "author": "Martion000",
