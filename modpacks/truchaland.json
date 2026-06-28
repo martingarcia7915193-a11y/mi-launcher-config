@@ -284,20 +284,6 @@
       "_is_dependency": true
     },
     {
-      "name": "More Relics",
-      "curseforge_id": 1269280,
-      "download_url": "https://edge.forgecdn.net/files/8319/266/morerelics-1.7.5-1.21.1.jar",
-      "file_name": "morerelics-1.7.5-1.21.1.jar",
-      "version_number": "morerelics-1.7.5-1.21.1.jar",
-      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1280/540/256/256/638832754534089162_animated.gif",
-      "_depends_on": [
-        916747,
-        419699,
-        445274,
-        309927
-      ]
-    },
-    {
       "name": "OctoLib-NEOFORGE-0.6.2+1.21.jar",
       "curseforge_id": 916747,
       "download_url": "https://edge.forgecdn.net/files/8040/848/OctoLib-NEOFORGE-0.6.2%2B1.21.jar",
@@ -314,8 +300,15 @@
       "_is_dependency": true
     }
   ],
-  "extras_version": 28,
+  "extras_version": 29,
   "changelog": [
+    {
+      "date": "2026-06-28T07:31:11.952Z",
+      "author": "Martion000",
+      "changes": [
+        "− More Relics"
+      ]
+    },
     {
       "date": "2026-06-28T07:29:21.852Z",
       "author": "Martion000",
