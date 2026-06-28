@@ -290,15 +290,23 @@
       "file_name": "OctoLib-NEOFORGE-0.6.2+1.21.jar",
       "version_number": "OctoLib-NEOFORGE-0.6.2+1.21.jar",
       "_is_dependency": true
+    },
+    {
+      "name": "Architectury API",
+      "curseforge_id": 419699,
+      "download_url": "https://edge.forgecdn.net/files/5786/327/architectury-13.0.8-neoforge.jar",
+      "file_name": "architectury-13.0.8-neoforge.jar",
+      "version_number": "[NeoForge 1.21(.1)] v13.0.8",
+      "_is_dependency": true
     }
   ],
-  "extras_version": 30,
+  "extras_version": 29,
   "changelog": [
     {
-      "date": "2026-06-28T07:32:39.910Z",
+      "date": "2026-06-28T07:33:21.460Z",
       "author": "Martion000",
       "changes": [
-        "− [NeoForge 1.21(.1)] v13.0.8"
+        "+ Architectury API"
       ]
     },
     {
