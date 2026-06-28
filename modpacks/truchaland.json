@@ -344,10 +344,25 @@
       "file_name": "tacz-blueprints-reforged-1.0.1.jar",
       "version_number": "TaCZ: Blueprints Reforged 1.0.1",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1888/470/256/256/639181620250278559.png"
+    },
+    {
+      "name": "[TaCZ]  Curios For Ammo Box",
+      "curseforge_id": 1339813,
+      "download_url": "https://edge.forgecdn.net/files/8191/224/curios_for_ammo_box-1.21.1-1.2.0.jar",
+      "file_name": "curios_for_ammo_box-1.21.1-1.2.0.jar",
+      "version_number": "curios_for_ammo_box-1.21.1-1.2.0.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1426/695/256/256/638924223628035321.png"
     }
   ],
-  "extras_version": 31,
+  "extras_version": 32,
   "changelog": [
+    {
+      "date": "2026-06-28T08:01:38.121Z",
+      "author": "Martion000",
+      "changes": [
+        "+ [TaCZ]  Curios For Ammo Box"
+      ]
+    },
     {
       "date": "2026-06-28T07:52:15.425Z",
       "author": "Martion000",
