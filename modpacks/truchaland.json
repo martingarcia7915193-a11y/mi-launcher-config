@@ -452,10 +452,112 @@
       "file_name": "athena-neoforge-1.21.1-4.0.6.jar",
       "version_number": "[NeoForge] Athena 4.0.6",
       "_is_dependency": true
+    },
+    {
+      "name": "Just Zoom",
+      "curseforge_id": 561885,
+      "download_url": "https://edge.forgecdn.net/files/6290/230/justzoom_neoforge_2.1.0_MC_1.21.1.jar",
+      "file_name": "justzoom_neoforge_2.1.0_MC_1.21.1.jar",
+      "version_number": "[NeoForge] v2.1.0 MC 1.21.1",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1324/771/256/256/638861240221497743.png",
+      "_depends_on": [
+        410295
+      ]
+    },
+    {
+      "name": "[NeoForge] v1.9.9 MC 1.21",
+      "curseforge_id": 410295,
+      "download_url": "https://edge.forgecdn.net/files/5453/385/konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "file_name": "konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "version_number": "[NeoForge] v1.9.9 MC 1.21",
+      "_is_dependency": true
+    },
+    {
+      "name": "Connectivity",
+      "curseforge_id": 470193,
+      "download_url": "https://edge.forgecdn.net/files/7367/221/connectivity-1.21.1-7.6.jar",
+      "file_name": "connectivity-1.21.1-7.6.jar",
+      "version_number": "connectivity-1.21.1-7.6.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/532/325/256/256/637855720922086407.png",
+      "_depends_on": [
+        326652
+      ]
+    },
+    {
+      "name": "cupboard-1.21.1-3.8.jar",
+      "curseforge_id": 326652,
+      "download_url": "https://edge.forgecdn.net/files/8260/590/cupboard-1.21.1-3.8.jar",
+      "file_name": "cupboard-1.21.1-3.8.jar",
+      "version_number": "cupboard-1.21.1-3.8.jar",
+      "_is_dependency": true
+    },
+    {
+      "name": "Packet Fixer",
+      "curseforge_id": 689467,
+      "download_url": "https://edge.forgecdn.net/files/7221/528/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
+      "file_name": "packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
+      "version_number": "Packet Fixer 3.3.1",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/846/951/256/256/638246065460259726.png"
+    },
+    {
+      "name": "Network Protocol Disconnect (netprodis)",
+      "curseforge_id": 1103774,
+      "download_url": "https://edge.forgecdn.net/files/7187/897/netprodis-2.0.0%2B1.21.jar",
+      "file_name": "netprodis-2.0.0+1.21.jar",
+      "version_number": "netprodis-2.0.0+1.21.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1081/54/256/256/638620584651603837.png"
+    },
+    {
+      "name": "Trade Cycling",
+      "curseforge_id": 570431,
+      "download_url": "https://edge.forgecdn.net/files/6497/876/trade-cycling-neoforge-1.21.1-1.0.18.jar",
+      "file_name": "trade-cycling-neoforge-1.21.1-1.0.18.jar",
+      "version_number": "[NEOFORGE][1.21.1] Trade Cycling 1.21.1-1.0.18",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/483/234/256/256/637782993021441402.png"
+    },
+    {
+      "name": "Easy Auto Cycler",
+      "curseforge_id": 1242344,
+      "download_url": "https://edge.forgecdn.net/files/7935/763/easyautocycler-neoforge-1.21.1-2.2.0.jar",
+      "file_name": "easyautocycler-neoforge-1.21.1-2.2.0.jar",
+      "version_number": "Easy Auto Cycler 2.2.0 1.21.1 NeoForge",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1223/564/256/256/638801716533815980.png"
+    },
+    {
+      "name": "Simple Backups",
+      "curseforge_id": 583228,
+      "download_url": "https://edge.forgecdn.net/files/7965/880/SimpleBackups-1.21-4.0.30.jar",
+      "file_name": "SimpleBackups-1.21-4.0.30.jar",
+      "version_number": "SimpleBackups-1.21-4.0.30.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/504/213/256/256/637821575420954591.png"
+    },
+    {
+      "name": "Create: Quality Of Life",
+      "curseforge_id": 905508,
+      "download_url": "https://edge.forgecdn.net/files/8265/828/Create%20Quality%20of%20Life-1.21.1-1.6.3-fix1.jar",
+      "file_name": "Create Quality of Life-1.21.1-1.6.3-fix1.jar",
+      "version_number": "Create Quality of Life-1.21.1-1.6.3-fix1.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1071/506/256/256/638607067787353431.png"
     }
   ],
-  "extras_version": 42,
+  "extras_version": 43,
   "changelog": [
+    {
+      "date": "2026-06-29T19:17:22.947Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Just Zoom",
+        "+ [NeoForge] v1.9.9 MC 1.21",
+        "+ Connectivity",
+        "+ cupboard-1.21.1-3.8.jar",
+        "+ Packet Fixer",
+        "+ Network Protocol Disconnect (netprodis)",
+        "+ Trade Cycling",
+        "+ Easy Auto Cycler",
+        "+ Simple Backups",
+        "+ Create: Quality Of Life"
+      ]
+    },
     {
       "date": "2026-06-29T02:02:37.732Z",
       "author": "Martion000",
