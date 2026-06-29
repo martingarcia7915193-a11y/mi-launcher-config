@@ -614,21 +614,17 @@
       "file_name": "azimuth-1.4.0.jar",
       "version_number": "Azimuth 1.4.0 NeoForge 1.21.1",
       "_is_dependency": true
-    },
-    {
-      "name": "Sodium/Embeddium Extras",
-      "curseforge_id": 558905,
-      "download_url": "https://edge.forgecdn.net/files/6394/141/sodiumextras-neoforge-1.0.8-1.21.1.jar",
-      "file_name": "sodiumextras-neoforge-1.0.8-1.21.1.jar",
-      "version_number": "SodiumExtras Neoforge 1.0.8 for 1.21.1",
-      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1066/735/256/256/638600914286319886.png",
-      "_depends_on": [
-        1103431
-      ]
     }
   ],
-  "extras_version": 52,
+  "extras_version": 53,
   "changelog": [
+    {
+      "date": "2026-06-29T21:56:26.217Z",
+      "author": "Martion000",
+      "changes": [
+        "− Sodium/Embeddium Extras"
+      ]
+    },
     {
       "date": "2026-06-29T21:55:50.616Z",
       "author": "Martion000",
