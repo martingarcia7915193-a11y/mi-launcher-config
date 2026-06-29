@@ -381,7 +381,7 @@
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1812/539/256/256/639146075490528148.png"
     },
     {
-      "name": "v2.6.2 ~ Neoforge Mod 1.21.1",
+      "name": "Terralith",
       "curseforge_id": 513688,
       "download_url": "https://edge.forgecdn.net/files/8222/737/Terralith_1.21.x_v2.6.2.jar",
       "file_name": "Terralith_1.21.x_v2.6.2.jar",
@@ -407,31 +407,18 @@
       "_depends_on": [
         513688
       ]
-    },
-    {
-      "name": "VanillaBackport: Mob Variants Compat",
-      "curseforge_id": 1574304,
-      "download_url": "https://edge.forgecdn.net/files/8242/862/vb-mob-variants-compat-1.4.1.jar",
-      "file_name": "vb-mob-variants-compat-1.4.1.jar",
-      "version_number": "vb-mob-variants-compat-1.4.1.jar",
-      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1863/14/256/256/639169633570237330.png"
-    },
-    {
-      "name": "Van Backport Compat",
-      "curseforge_id": 1388531,
-      "download_url": "https://mediafilez.forgecdn.net/files/8226/473/vb-compat-2.0-1.21.1.jar",
-      "file_name": "vb-compat-2.0-1.21.1.jar",
-      "version_number": "vb-compat-2.0-1.21.1.jar",
-      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1802/794/256/256/639141034527531754.png"
     }
   ],
-  "extras_version": 39,
+  "extras_version": 38,
   "changelog": [
     {
-      "date": "2026-06-29T01:30:46.590Z",
+      "date": "2026-06-29T01:43:50.803Z",
       "author": "Martion000",
       "changes": [
-        "+ Van Backport Compat"
+        "+ Terralith",
+        "− v2.6.2 ~ Neoforge Mod 1.21.1",
+        "− VanillaBackport: Mob Variants Compat",
+        "− Van Backport Compat"
       ]
     },
     {
