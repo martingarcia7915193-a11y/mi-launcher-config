@@ -415,10 +415,25 @@
       "file_name": "vb-mob-variants-compat-1.4.1.jar",
       "version_number": "vb-mob-variants-compat-1.4.1.jar",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1863/14/256/256/639169633570237330.png"
+    },
+    {
+      "name": "Van Backport Compat",
+      "curseforge_id": 1388531,
+      "download_url": "https://mediafilez.forgecdn.net/files/8226/473/vb-compat-2.0-1.21.1.jar",
+      "file_name": "vb-compat-2.0-1.21.1.jar",
+      "version_number": "vb-compat-2.0-1.21.1.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1802/794/256/256/639141034527531754.png"
     }
   ],
-  "extras_version": 38,
+  "extras_version": 39,
   "changelog": [
+    {
+      "date": "2026-06-29T01:30:46.590Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Van Backport Compat"
+      ]
+    },
     {
       "date": "2026-06-29T01:19:55.290Z",
       "author": "Martion000",
