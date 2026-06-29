@@ -633,18 +633,17 @@
       "file_name": "sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
       "version_number": "SodiumOptionsAPI Neoforge 1.0.10 for 1.21.1",
       "_is_dependency": true
-    },
-    {
-      "name": "Reese's Sodium Options",
-      "curseforge_id": 511319,
-      "download_url": "https://edge.forgecdn.net/files/8141/953/reeses-sodium-options-neoforge-2.0.5%2bmc1.21.1.jar",
-      "file_name": "reeses-sodium-options-neoforge-2.0.5+mc1.21.1.jar",
-      "version_number": "[NeoForge] Reese's Sodium Options 2.0.5 - Minecraft 1.21.1",
-      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/414/599/256/256/637636962431399112.png"
     }
   ],
-  "extras_version": 50,
+  "extras_version": 51,
   "changelog": [
+    {
+      "date": "2026-06-29T21:51:43.922Z",
+      "author": "Martion000",
+      "changes": [
+        "− Reese's Sodium Options"
+      ]
+    },
     {
       "date": "2026-06-29T21:51:08.155Z",
       "author": "Martion000",
