@@ -398,17 +398,6 @@
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/903/937/256/256/638353757551138885.png"
     },
     {
-      "name": "Terralith ReStoned",
-      "curseforge_id": 1179585,
-      "download_url": "https://edge.forgecdn.net/files/7503/883/Terralith_Restoned_v1.3.jar",
-      "file_name": "Terralith_Restoned_v1.3.jar",
-      "version_number": "Terralith_Restoned_v1.3.jar",
-      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1156/836/256/256/638724742485176161.png",
-      "_depends_on": [
-        513688
-      ]
-    },
-    {
       "name": "VanillaBackport: Mob Variants Compat",
       "curseforge_id": 1574304,
       "download_url": "https://edge.forgecdn.net/files/8242/862/vb-mob-variants-compat-1.4.1.jar",
@@ -417,8 +406,15 @@
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1863/14/256/256/639169633570237330.png"
     }
   ],
-  "extras_version": 38,
+  "extras_version": 39,
   "changelog": [
+    {
+      "date": "2026-06-29T01:58:44.173Z",
+      "author": "Martion000",
+      "changes": [
+        "− Terralith ReStoned"
+      ]
+    },
     {
       "date": "2026-06-29T01:58:31.883Z",
       "author": "Martion000",
