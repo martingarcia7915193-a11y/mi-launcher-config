@@ -575,10 +575,52 @@
       "file_name": "create_hypertube-0.5.0-ALPHA-NEOFORGE.jar",
       "version_number": "Hypertubes 0.5.0-ALPHA NEOFORGE",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1304/374/256/256/638848167351949326.png"
+    },
+    {
+      "name": "Create: Bits 'n' Bobs",
+      "modrinth_id": "create-bits-n-bobs",
+      "download_url": "https://cdn.modrinth.com/data/T8bvmqVZ/versions/cSCeD78i/bits_n_bobs-2.1.9-beta.jar",
+      "file_name": "bits_n_bobs-2.1.9-beta.jar",
+      "version_number": "2.1.9-beta",
+      "icon_url": "https://cdn.modrinth.com/data/T8bvmqVZ/4b6008e0c24d11842be36a3028005c4406f601eb_96.webp"
+    },
+    {
+      "name": "Azimuth API",
+      "curseforge_id": 1466331,
+      "download_url": "https://edge.forgecdn.net/files/8317/127/azimuth-1.4.0.jar",
+      "file_name": "azimuth-1.4.0.jar",
+      "version_number": "Azimuth 1.4.0 NeoForge 1.21.1",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1700/670/256/256/639079935494925997.png"
+    },
+    {
+      "name": "Strut Your Stuff (Library)",
+      "curseforge_id": 1486746,
+      "download_url": "https://edge.forgecdn.net/files/8301/563/struts-1.2.5.jar",
+      "file_name": "struts-1.2.5.jar",
+      "version_number": "Strut Your Stuff 1.2.5 NeoForge 1.21.1",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1716/763/256/256/639091621105392729.png"
+    },
+    {
+      "name": "Create: Bits 'n' Tracks",
+      "curseforge_id": 1569156,
+      "download_url": "https://edge.forgecdn.net/files/8285/379/bits_n_tracks-1.0.3.1-release.jar",
+      "file_name": "bits_n_tracks-1.0.3.1-release.jar",
+      "version_number": "bits_n_tracks-1.0.3.1-release.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1853/927/256/256/639165419964388084.png"
     }
   ],
-  "extras_version": 56,
+  "extras_version": 57,
   "changelog": [
+    {
+      "date": "2026-06-29T22:29:36.155Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Create: Bits 'n' Bobs",
+        "+ Azimuth API",
+        "+ Strut Your Stuff (Library)",
+        "+ Create: Bits 'n' Tracks"
+      ]
+    },
     {
       "date": "2026-06-29T22:27:58.774Z",
       "author": "Martion000",
