@@ -569,8 +569,15 @@
       ]
     }
   ],
-  "extras_version": 45,
+  "extras_version": 46,
   "changelog": [
+    {
+      "date": "2026-06-29T21:19:05.109Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Tom's Create Style Recipes (DP)"
+      ]
+    },
     {
       "date": "2026-06-29T20:22:14.060Z",
       "author": "Martion000",
@@ -812,6 +819,16 @@
       "changes": [
         "✦ Modpack creado"
       ]
+    }
+  ],
+  "datapacks": [
+    {
+      "name": "Tom's Create Style Recipes",
+      "curseforge_id": 1266888,
+      "download_url": "https://edge.forgecdn.net/files/6852/972/Tom's%20Create%20Style%20Recipes%201.0%20-%201.21.zip",
+      "file_name": "Tom's Create Style Recipes 1.0 - 1.21.zip",
+      "version_number": "Tom's Create Style Recipes 1.0 - 1.21.zip",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1275/833/256/256/638830037377239809.png"
     }
   ]
 }
