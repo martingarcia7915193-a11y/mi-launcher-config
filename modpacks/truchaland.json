@@ -625,18 +625,17 @@
       "_depends_on": [
         1103431
       ]
-    },
-    {
-      "name": "SodiumOptionsAPI Neoforge 1.0.10 for 1.21.1",
-      "curseforge_id": 1103431,
-      "download_url": "https://edge.forgecdn.net/files/6100/815/sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
-      "file_name": "sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
-      "version_number": "SodiumOptionsAPI Neoforge 1.0.10 for 1.21.1",
-      "_is_dependency": true
     }
   ],
-  "extras_version": 51,
+  "extras_version": 52,
   "changelog": [
+    {
+      "date": "2026-06-29T21:55:50.616Z",
+      "author": "Martion000",
+      "changes": [
+        "− SodiumOptionsAPI Neoforge 1.0.10 for 1.21.1"
+      ]
+    },
     {
       "date": "2026-06-29T21:51:43.922Z",
       "author": "Martion000",
