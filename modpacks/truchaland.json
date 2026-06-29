@@ -575,21 +575,17 @@
       "file_name": "create_hypertube-0.5.0-ALPHA-NEOFORGE.jar",
       "version_number": "Hypertubes 0.5.0-ALPHA NEOFORGE",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1304/374/256/256/638848167351949326.png"
-    },
-    {
-      "name": "Create: Bits 'n' Bobs",
-      "curseforge_id": 1398383,
-      "download_url": "https://edge.forgecdn.net/files/7591/460/bits_n_bobs-0.0.44.jar",
-      "file_name": "bits_n_bobs-0.0.44.jar",
-      "version_number": "Create Bits 'n' Bobs 0.0.44 NeoForge 1.21.1",
-      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1837/809/256/256/639158540990464213.png",
-      "_depends_on": [
-        328085
-      ]
     }
   ],
-  "extras_version": 55,
+  "extras_version": 56,
   "changelog": [
+    {
+      "date": "2026-06-29T22:27:58.774Z",
+      "author": "Martion000",
+      "changes": [
+        "− Create: Bits 'n' Bobs"
+      ]
+    },
     {
       "date": "2026-06-29T22:06:22.092Z",
       "author": "Martion000",
