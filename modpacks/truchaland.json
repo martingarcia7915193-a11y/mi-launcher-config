@@ -579,9 +579,9 @@
     {
       "name": "Create: Bits 'n' Bobs",
       "curseforge_id": 1398383,
-      "download_url": "https://edge.forgecdn.net/files/7591/460/bits_n_bobs-0.0.44.jar",
-      "file_name": "bits_n_bobs-0.0.44.jar",
-      "version_number": "Create Bits 'n' Bobs 0.0.44 NeoForge 1.21.1",
+      "download_url": "https://edge.forgecdn.net/files/7548/79/bits_n_bobs-0.0.43.jar",
+      "file_name": "bits_n_bobs-0.0.43.jar",
+      "version_number": "Create Bits 'n' Bobs 0.0.43 NeoForge 1.21.1",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1837/809/256/256/639158540990464213.png",
       "_depends_on": [
         328085
@@ -616,8 +616,15 @@
       "_is_dependency": true
     }
   ],
-  "extras_version": 53,
+  "extras_version": 54,
   "changelog": [
+    {
+      "date": "2026-06-29T22:05:33.198Z",
+      "author": "Martion000",
+      "changes": [
+        "⬆ Create: Bits 'n' Bobs: Create Bits 'n' Bobs 0.0.44 NeoForge 1.21.1 → Create Bits 'n' Bobs 0.0.43 NeoForge 1.21.1"
+      ]
+    },
     {
       "date": "2026-06-29T21:56:26.217Z",
       "author": "Martion000",
