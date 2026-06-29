@@ -49,9 +49,9 @@
     "custom_aoc_aeronautics_1780719445699": 2246805,
     "truchaland": 8270306
   },
-  "online": false,
-  "playing": null,
-  "last_seen": 1782768667117,
+  "online": true,
+  "playing": "truchaland",
+  "last_seen": 1782769726415,
   "playing_name": "Truchaland ",
-  "playing_since": 1782764176630
+  "playing_since": 1782769725547
 }
