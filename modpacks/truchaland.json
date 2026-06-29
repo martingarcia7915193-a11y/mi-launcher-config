@@ -567,10 +567,68 @@
         378609,
         328085
       ]
+    },
+    {
+      "name": "Create: Hypertubes",
+      "curseforge_id": 1281336,
+      "download_url": "https://edge.forgecdn.net/files/8281/768/create_hypertube-0.5.0-ALPHA-NEOFORGE.jar",
+      "file_name": "create_hypertube-0.5.0-ALPHA-NEOFORGE.jar",
+      "version_number": "Hypertubes 0.5.0-ALPHA NEOFORGE",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1304/374/256/256/638848167351949326.png"
+    },
+    {
+      "name": "Create: Bits 'n' Bobs",
+      "curseforge_id": 1398383,
+      "download_url": "https://edge.forgecdn.net/files/7591/460/bits_n_bobs-0.0.44.jar",
+      "file_name": "bits_n_bobs-0.0.44.jar",
+      "version_number": "Create Bits 'n' Bobs 0.0.44 NeoForge 1.21.1",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1837/809/256/256/639158540990464213.png",
+      "_depends_on": [
+        328085
+      ]
+    },
+    {
+      "name": "Create: Bits 'n' Tracks",
+      "curseforge_id": 1569156,
+      "download_url": "https://edge.forgecdn.net/files/8285/379/bits_n_tracks-1.0.3.1-release.jar",
+      "file_name": "bits_n_tracks-1.0.3.1-release.jar",
+      "version_number": "bits_n_tracks-1.0.3.1-release.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1853/927/256/256/639165419964388084.png",
+      "_depends_on": [
+        1486746,
+        1466331
+      ]
+    },
+    {
+      "name": "Strut Your Stuff 1.2.5 NeoForge 1.21.1",
+      "curseforge_id": 1486746,
+      "download_url": "https://edge.forgecdn.net/files/8301/563/struts-1.2.5.jar",
+      "file_name": "struts-1.2.5.jar",
+      "version_number": "Strut Your Stuff 1.2.5 NeoForge 1.21.1",
+      "_is_dependency": true
+    },
+    {
+      "name": "Azimuth 1.4.0 NeoForge 1.21.1",
+      "curseforge_id": 1466331,
+      "download_url": "https://edge.forgecdn.net/files/8317/127/azimuth-1.4.0.jar",
+      "file_name": "azimuth-1.4.0.jar",
+      "version_number": "Azimuth 1.4.0 NeoForge 1.21.1",
+      "_is_dependency": true
     }
   ],
-  "extras_version": 46,
+  "extras_version": 47,
   "changelog": [
+    {
+      "date": "2026-06-29T21:47:14.041Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Create: Hypertubes",
+        "+ Create: Bits 'n' Bobs",
+        "+ Create: Bits 'n' Tracks",
+        "+ Strut Your Stuff 1.2.5 NeoForge 1.21.1",
+        "+ Azimuth 1.4.0 NeoForge 1.21.1"
+      ]
+    },
     {
       "date": "2026-06-29T21:19:05.109Z",
       "author": "Martion000",
