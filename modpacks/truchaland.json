@@ -381,15 +381,6 @@
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1812/539/256/256/639146075490528148.png"
     },
     {
-      "name": "v2.6.2 ~ Neoforge Mod 1.21.1",
-      "curseforge_id": 513688,
-      "download_url": "https://edge.forgecdn.net/files/8222/737/Terralith_1.21.x_v2.6.2.jar",
-      "file_name": "Terralith_1.21.x_v2.6.2.jar",
-      "version_number": "v2.6.2 ~ Neoforge Mod 1.21.1",
-      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/554/659/256/256/637897033487568646.png",
-      "_is_dependency": true
-    },
-    {
       "name": "Lithostitched",
       "curseforge_id": 936015,
       "download_url": "https://edge.forgecdn.net/files/8321/754/lithostitched-1.7.12-neoforge-21.1.jar",
@@ -406,8 +397,15 @@
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1863/14/256/256/639169633570237330.png"
     }
   ],
-  "extras_version": 39,
+  "extras_version": 40,
   "changelog": [
+    {
+      "date": "2026-06-29T01:58:58.666Z",
+      "author": "Martion000",
+      "changes": [
+        "− v2.6.2 ~ Neoforge Mod 1.21.1"
+      ]
+    },
     {
       "date": "2026-06-29T01:58:44.173Z",
       "author": "Martion000",
