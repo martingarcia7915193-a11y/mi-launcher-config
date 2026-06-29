@@ -614,10 +614,46 @@
       "file_name": "azimuth-1.4.0.jar",
       "version_number": "Azimuth 1.4.0 NeoForge 1.21.1",
       "_is_dependency": true
+    },
+    {
+      "name": "Sodium/Embeddium Extras",
+      "curseforge_id": 558905,
+      "download_url": "https://edge.forgecdn.net/files/6394/141/sodiumextras-neoforge-1.0.8-1.21.1.jar",
+      "file_name": "sodiumextras-neoforge-1.0.8-1.21.1.jar",
+      "version_number": "SodiumExtras Neoforge 1.0.8 for 1.21.1",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1066/735/256/256/638600914286319886.png",
+      "_depends_on": [
+        1103431
+      ]
+    },
+    {
+      "name": "SodiumOptionsAPI Neoforge 1.0.10 for 1.21.1",
+      "curseforge_id": 1103431,
+      "download_url": "https://edge.forgecdn.net/files/6100/815/sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
+      "file_name": "sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
+      "version_number": "SodiumOptionsAPI Neoforge 1.0.10 for 1.21.1",
+      "_is_dependency": true
+    },
+    {
+      "name": "Reese's Sodium Options",
+      "curseforge_id": 511319,
+      "download_url": "https://edge.forgecdn.net/files/8321/327/reeses-sodium-options-neoforge-2.2.0%2Bmc1.21.1.jar",
+      "file_name": "reeses-sodium-options-neoforge-2.2.0+mc1.21.1.jar",
+      "version_number": "[NeoForge] Reese's Sodium Options 2.2.0 - Minecraft 1.21.1",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/414/599/256/256/637636962431399112.png"
     }
   ],
-  "extras_version": 47,
+  "extras_version": 48,
   "changelog": [
+    {
+      "date": "2026-06-29T21:48:37.022Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Sodium/Embeddium Extras",
+        "+ SodiumOptionsAPI Neoforge 1.0.10 for 1.21.1",
+        "+ Reese's Sodium Options"
+      ]
+    },
     {
       "date": "2026-06-29T21:47:14.041Z",
       "author": "Martion000",
