@@ -538,10 +538,34 @@
       "file_name": "Create Quality of Life-1.21.1-1.6.3-fix1.jar",
       "version_number": "Create Quality of Life-1.21.1-1.6.3-fix1.jar",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1071/506/256/256/638607067787353431.png"
+    },
+    {
+      "name": "Tom's Simple Storage Mod",
+      "curseforge_id": 378609,
+      "download_url": "https://edge.forgecdn.net/files/7917/7/toms_storage-1.21-2.3.2.jar",
+      "file_name": "toms_storage-1.21-2.3.2.jar",
+      "version_number": "[NeoForge] Tom's Storage 1.21-2.3.2",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/266/898/256/256/637234057062921445.png"
+    },
+    {
+      "name": "Polymorph (Fabric/Forge/Quilt)",
+      "curseforge_id": 388800,
+      "download_url": "https://edge.forgecdn.net/files/6794/589/polymorph-neoforge-1.1.0%2B1.21.1.jar",
+      "file_name": "polymorph-neoforge-1.1.0+1.21.1.jar",
+      "version_number": "polymorph-neoforge-1.1.0+1.21.1.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/279/271/256/256/637277042531842540.png"
     }
   ],
-  "extras_version": 43,
+  "extras_version": 44,
   "changelog": [
+    {
+      "date": "2026-06-29T20:16:05.961Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Tom's Simple Storage Mod",
+        "+ Polymorph (Fabric/Forge/Quilt)"
+      ]
+    },
     {
       "date": "2026-06-29T19:17:22.947Z",
       "author": "Martion000",
