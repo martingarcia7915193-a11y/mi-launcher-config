@@ -540,12 +540,13 @@
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1071/506/256/256/638607067787353431.png"
     },
     {
-      "name": "Tom's Simple Storage Mod",
+      "name": "[NeoForge] Tom's Storage 1.21-2.3.2",
       "curseforge_id": 378609,
       "download_url": "https://edge.forgecdn.net/files/7917/7/toms_storage-1.21-2.3.2.jar",
       "file_name": "toms_storage-1.21-2.3.2.jar",
       "version_number": "[NeoForge] Tom's Storage 1.21-2.3.2",
-      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/266/898/256/256/637234057062921445.png"
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/266/898/256/256/637234057062921445.png",
+      "_is_dependency": true
     },
     {
       "name": "Polymorph (Fabric/Forge/Quilt)",
@@ -554,10 +555,31 @@
       "file_name": "polymorph-neoforge-1.1.0+1.21.1.jar",
       "version_number": "polymorph-neoforge-1.1.0+1.21.1.jar",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/279/271/256/256/637277042531842540.png"
+    },
+    {
+      "name": "Create Contraption Terminals",
+      "curseforge_id": 1059879,
+      "download_url": "https://edge.forgecdn.net/files/7660/82/createcontraptionterminals-1.21-1.3.0.jar",
+      "file_name": "createcontraptionterminals-1.21-1.3.0.jar",
+      "version_number": "[NeoForge] Create Contraption Terminals 1.21-1.3.0",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1067/696/256/256/638602012472201059.png",
+      "_depends_on": [
+        378609,
+        328085
+      ]
     }
   ],
-  "extras_version": 44,
+  "extras_version": 45,
   "changelog": [
+    {
+      "date": "2026-06-29T20:22:14.060Z",
+      "author": "Martion000",
+      "changes": [
+        "+ [NeoForge] Tom's Storage 1.21-2.3.2",
+        "+ Create Contraption Terminals",
+        "− Tom's Simple Storage Mod"
+      ]
+    },
     {
       "date": "2026-06-29T20:16:05.961Z",
       "author": "Martion000",
