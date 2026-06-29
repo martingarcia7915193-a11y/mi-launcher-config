@@ -379,26 +379,18 @@
       "file_name": "createrailgrinding-1.2.1.jar",
       "version_number": "Create Rail Grinding 1.2.1 For mc1.21.1",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1812/539/256/256/639146075490528148.png"
-    },
-    {
-      "name": "Lithostitched",
-      "curseforge_id": 936015,
-      "download_url": "https://edge.forgecdn.net/files/8321/754/lithostitched-1.7.12-neoforge-21.1.jar",
-      "file_name": "lithostitched-1.7.12-neoforge-21.1.jar",
-      "version_number": "v1.7.12 ~ Neoforge 21.1",
-      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/903/937/256/256/638353757551138885.png"
-    },
-    {
-      "name": "VanillaBackport: Mob Variants Compat",
-      "curseforge_id": 1574304,
-      "download_url": "https://edge.forgecdn.net/files/8242/862/vb-mob-variants-compat-1.4.1.jar",
-      "file_name": "vb-mob-variants-compat-1.4.1.jar",
-      "version_number": "vb-mob-variants-compat-1.4.1.jar",
-      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1863/14/256/256/639169633570237330.png"
     }
   ],
-  "extras_version": 40,
+  "extras_version": 41,
   "changelog": [
+    {
+      "date": "2026-06-29T01:59:49.998Z",
+      "author": "Martion000",
+      "changes": [
+        "− Lithostitched",
+        "− VanillaBackport: Mob Variants Compat"
+      ]
+    },
     {
       "date": "2026-06-29T01:58:58.666Z",
       "author": "Martion000",
