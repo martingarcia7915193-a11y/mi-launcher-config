@@ -583,10 +583,74 @@
       "file_name": "bits_n_bobs-0.0.44.jar",
       "version_number": "Create Bits 'n' Bobs 0.0.44 NeoForge 1.21.1",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1837/809/256/256/639158540990464213.png"
+    },
+    {
+      "name": "Create: Connected",
+      "curseforge_id": 947914,
+      "download_url": "https://edge.forgecdn.net/files/8299/240/create_connected-1.3.2-mc1.21.1.jar",
+      "file_name": "create_connected-1.3.2-mc1.21.1.jar",
+      "version_number": "create_connected 1.3.2-mc1.21.1",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/922/162/256/256/638387242479713653.png"
+    },
+    {
+      "name": "Create Simulated Additions",
+      "curseforge_id": 1541699,
+      "download_url": "https://mediafilez.forgecdn.net/files/8221/986/create_simulated_additions-0.2.3-neoforge-1.21.1.jar",
+      "file_name": "create_simulated_additions-0.2.3-neoforge-1.21.1.jar",
+      "version_number": "create_simulated_additions-0.2.3-neoforge-1.21.1.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1805/955/256/256/639142786942256257.png"
+    },
+    {
+      "name": "Waystones: Sable (Create Aeronautics Addon)",
+      "curseforge_id": 1524471,
+      "download_url": "https://edge.forgecdn.net/files/8158/831/waystonessable-1.0.3.jar",
+      "file_name": "waystonessable-1.0.3.jar",
+      "version_number": "waystonessable-1.0.3",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1774/736/256/256/639127152190309266.png"
+    },
+    {
+      "name": "Create Aeronautics: Transmission & Linkage",
+      "curseforge_id": 1548056,
+      "download_url": "https://edge.forgecdn.net/files/8264/158/create_aeronautics_transmission_linkage-0.2.5.jar",
+      "file_name": "create_aeronautics_transmission_linkage-0.2.5.jar",
+      "version_number": "create_aeronautics_transmission_linkage-0.2.5.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1819/789/256/256/639149855338139456.png"
+    },
+    {
+      "name": "Create Stuff 'N Additions x Sable & Aeronautics Compat",
+      "curseforge_id": 1541139,
+      "download_url": "https://edge.forgecdn.net/files/8158/810/SableStuffAdditionsCompat%20v1.0.3-1.21.1.jar",
+      "file_name": "SableStuffAdditionsCompat v1.0.3-1.21.1.jar",
+      "version_number": "SableStuffAdditionsCompat v1.0.3-1.21.1",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1804/233/256/256/639141851946771098.png",
+      "_depends_on": [
+        466792,
+        1312371
+      ]
+    },
+    {
+      "name": "Create S&A 1.21.1 V2.1.4a",
+      "curseforge_id": 466792,
+      "download_url": "https://edge.forgecdn.net/files/8294/772/create-stuff-additions1.21.1_v2.1.4a.jar",
+      "file_name": "create-stuff-additions1.21.1_v2.1.4a.jar",
+      "version_number": "Create S&A 1.21.1 V2.1.4a",
+      "_is_dependency": true
     }
   ],
-  "extras_version": 58,
+  "extras_version": 59,
   "changelog": [
+    {
+      "date": "2026-06-29T23:46:58.133Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Create: Connected",
+        "+ Create Simulated Additions",
+        "+ Waystones: Sable (Create Aeronautics Addon)",
+        "+ Create Aeronautics: Transmission & Linkage",
+        "+ Create Stuff 'N Additions x Sable & Aeronautics Compat",
+        "+ Create S&A 1.21.1 V2.1.4a"
+      ]
+    },
     {
       "date": "2026-06-29T22:39:11.653Z",
       "author": "Martion000",
