@@ -371,10 +371,65 @@
       "file_name": "aeronautics_preflight_checklist-1.0.1.jar",
       "version_number": "Aeronautics Preflight Checklist 1.0.1 (NeoForge 1.21.1)",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1844/704/256/256/639161168662478264.png"
+    },
+    {
+      "name": "Create: Train Track Rail Grinding",
+      "curseforge_id": 1545733,
+      "download_url": "https://edge.forgecdn.net/files/8250/233/createrailgrinding-1.2.1.jar",
+      "file_name": "createrailgrinding-1.2.1.jar",
+      "version_number": "Create Rail Grinding 1.2.1 For mc1.21.1",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1812/539/256/256/639146075490528148.png"
+    },
+    {
+      "name": "v2.6.2 ~ Neoforge Mod 1.21.1",
+      "curseforge_id": 513688,
+      "download_url": "https://edge.forgecdn.net/files/8222/737/Terralith_1.21.x_v2.6.2.jar",
+      "file_name": "Terralith_1.21.x_v2.6.2.jar",
+      "version_number": "v2.6.2 ~ Neoforge Mod 1.21.1",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/554/659/256/256/637897033487568646.png",
+      "_is_dependency": true
+    },
+    {
+      "name": "Lithostitched",
+      "curseforge_id": 936015,
+      "download_url": "https://edge.forgecdn.net/files/8321/754/lithostitched-1.7.12-neoforge-21.1.jar",
+      "file_name": "lithostitched-1.7.12-neoforge-21.1.jar",
+      "version_number": "v1.7.12 ~ Neoforge 21.1",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/903/937/256/256/638353757551138885.png"
+    },
+    {
+      "name": "Terralith ReStoned",
+      "curseforge_id": 1179585,
+      "download_url": "https://edge.forgecdn.net/files/7503/883/Terralith_Restoned_v1.3.jar",
+      "file_name": "Terralith_Restoned_v1.3.jar",
+      "version_number": "Terralith_Restoned_v1.3.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1156/836/256/256/638724742485176161.png",
+      "_depends_on": [
+        513688
+      ]
+    },
+    {
+      "name": "VanillaBackport: Mob Variants Compat",
+      "curseforge_id": 1574304,
+      "download_url": "https://edge.forgecdn.net/files/8242/862/vb-mob-variants-compat-1.4.1.jar",
+      "file_name": "vb-mob-variants-compat-1.4.1.jar",
+      "version_number": "vb-mob-variants-compat-1.4.1.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1863/14/256/256/639169633570237330.png"
     }
   ],
-  "extras_version": 37,
+  "extras_version": 38,
   "changelog": [
+    {
+      "date": "2026-06-29T01:19:55.290Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Create: Train Track Rail Grinding",
+        "+ v2.6.2 ~ Neoforge Mod 1.21.1",
+        "+ Lithostitched",
+        "+ Terralith ReStoned",
+        "+ VanillaBackport: Mob Variants Compat"
+      ]
+    },
     {
       "date": "2026-06-28T08:50:22.915Z",
       "author": "Martion000",
