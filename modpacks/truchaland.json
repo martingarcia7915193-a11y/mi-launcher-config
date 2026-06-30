@@ -738,6 +738,13 @@
   "extras_version": 64,
   "changelog": [
     {
+      "date": "2026-06-30T22:33:26.670Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Tom's Create Style (RP)"
+      ]
+    },
+    {
       "date": "2026-06-30T21:46:30.546Z",
       "author": "Martion000",
       "changes": [
@@ -1161,6 +1168,14 @@
       "file_name": "MandalasGUI+Dakmode_1.21.8_v2.5.zip",
       "version_number": "MandalasGUI Darkmode 1.21.8 [book and fix]",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/595/587/256/256/637970567654390772.png"
+    },
+    {
+      "name": "Tom's Create Style",
+      "curseforge_id": 1265683,
+      "download_url": "https://edge.forgecdn.net/files/6605/498/Tom's%20Create%20Style%201.2%20-%201.21.zip",
+      "file_name": "Tom's Create Style 1.2 - 1.21.zip",
+      "version_number": "Tom's Create Style 1.2 - 1.21.zip",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1273/480/256/256/638828425709420198.png"
     }
   ]
 }
