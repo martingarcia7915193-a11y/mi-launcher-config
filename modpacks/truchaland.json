@@ -654,10 +654,104 @@
       "file_name": "moonlight-neoforge-1.21.1-3.0.22.jar",
       "version_number": "moonlight-1.21.1-3.0.22-neoforge",
       "_is_dependency": true
+    },
+    {
+      "name": "MineColonies",
+      "curseforge_id": 245506,
+      "download_url": "https://edge.forgecdn.net/files/8344/688/minecolonies-1.1.1343-1.21.1-snapshot.jar",
+      "file_name": "minecolonies-1.1.1343-1.21.1-snapshot.jar",
+      "version_number": "minecolonies-1.1.1343-1.21.1-snapshot.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/41/680/256/256/635999200063962019.png",
+      "_depends_on": [
+        298744,
+        522992,
+        900364,
+        527361,
+        303278
+      ]
+    },
+    {
+      "name": "structurize-1.0.831-1.21.1-snapshot.jar",
+      "curseforge_id": 298744,
+      "download_url": "https://edge.forgecdn.net/files/8171/741/structurize-1.0.831-1.21.1-snapshot.jar",
+      "file_name": "structurize-1.0.831-1.21.1-snapshot.jar",
+      "version_number": "structurize-1.0.831-1.21.1-snapshot.jar",
+      "_is_dependency": true
+    },
+    {
+      "name": "blockui-1.0.211-1.21.1-snapshot.jar",
+      "curseforge_id": 522992,
+      "download_url": "https://edge.forgecdn.net/files/7790/469/blockui-1.0.211-1.21.1-snapshot.jar",
+      "file_name": "blockui-1.0.211-1.21.1-snapshot.jar",
+      "version_number": "blockui-1.0.211-1.21.1-snapshot.jar",
+      "_is_dependency": true
+    },
+    {
+      "name": "TownTalk 1.21 1.2.0",
+      "curseforge_id": 900364,
+      "download_url": "https://edge.forgecdn.net/files/5653/504/towntalk-1.2.0.jar",
+      "file_name": "towntalk-1.2.0.jar",
+      "version_number": "TownTalk 1.21 1.2.0",
+      "_is_dependency": true
+    },
+    {
+      "name": "domum-ornamentum - 1.0.234-snapshot - beta",
+      "curseforge_id": 527361,
+      "download_url": "https://edge.forgecdn.net/files/8311/478/domum-ornamentum-1.0.234-snapshot-main.jar",
+      "file_name": "domum-ornamentum-1.0.234-snapshot-main.jar",
+      "version_number": "domum-ornamentum - 1.0.234-snapshot - beta",
+      "_is_dependency": true
+    },
+    {
+      "name": "multipiston-1.2.58-1.21.1.jar",
+      "curseforge_id": 303278,
+      "download_url": "https://edge.forgecdn.net/files/7097/877/multipiston-1.2.58-1.21.1.jar",
+      "file_name": "multipiston-1.2.58-1.21.1.jar",
+      "version_number": "multipiston-1.2.58-1.21.1.jar",
+      "_is_dependency": true
+    },
+    {
+      "name": "Sophisticated Storage Create Integration",
+      "curseforge_id": 1226755,
+      "download_url": "https://edge.forgecdn.net/files/7974/820/sophisticatedstoragecreateintegration-1.21.1-0.1.17.132.jar",
+      "file_name": "sophisticatedstoragecreateintegration-1.21.1-0.1.17.132.jar",
+      "version_number": "sophisticatedstoragecreateintegration-1.21.1-0.1.17.132.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1208/888/256/256/638786233372453864.png"
+    },
+    {
+      "name": "Sophisticated Backpacks Create Integration",
+      "curseforge_id": 1238567,
+      "download_url": "https://edge.forgecdn.net/files/8272/430/sophisticatedbackpackscreateintegration-1.21.1-0.1.7.119.jar",
+      "file_name": "sophisticatedbackpackscreateintegration-1.21.1-0.1.7.119.jar",
+      "version_number": "sophisticatedbackpackscreateintegration-1.21.1-0.1.7.119.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1218/471/256/256/638797373596584143.png"
+    },
+    {
+      "name": "Create Propulsion: Simulated",
+      "curseforge_id": 1522736,
+      "download_url": "https://edge.forgecdn.net/files/8099/955/createpropulsion-1.1.4.jar",
+      "file_name": "createpropulsion-1.1.4.jar",
+      "version_number": "1.1.4",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1791/442/256/256/639135128999086003.png"
     }
   ],
-  "extras_version": 62,
+  "extras_version": 63,
   "changelog": [
+    {
+      "date": "2026-06-30T21:13:35.588Z",
+      "author": "Martion000",
+      "changes": [
+        "+ MineColonies",
+        "+ structurize-1.0.831-1.21.1-snapshot.jar",
+        "+ blockui-1.0.211-1.21.1-snapshot.jar",
+        "+ TownTalk 1.21 1.2.0",
+        "+ domum-ornamentum - 1.0.234-snapshot - beta",
+        "+ multipiston-1.2.58-1.21.1.jar",
+        "+ Sophisticated Storage Create Integration",
+        "+ Sophisticated Backpacks Create Integration",
+        "+ Create Propulsion: Simulated"
+      ]
+    },
     {
       "date": "2026-06-30T21:03:24.149Z",
       "author": "Martion000",
