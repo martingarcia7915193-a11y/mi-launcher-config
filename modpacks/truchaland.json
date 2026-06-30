@@ -635,10 +635,55 @@
       "file_name": "create-stuff-additions1.21.1_v2.1.4a.jar",
       "version_number": "Create S&A 1.21.1 V2.1.4a",
       "_is_dependency": true
+    },
+    {
+      "name": "Supplementaries",
+      "curseforge_id": 412082,
+      "download_url": "https://edge.forgecdn.net/files/8295/456/supplementaries-neoforge-1.21.1-3.7.4.jar",
+      "file_name": "supplementaries-neoforge-1.21.1-3.7.4.jar",
+      "version_number": "supplementaries-1.21.1-3.7.4-neoforge",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/358/166/256/256/637518566737953306_animated.gif",
+      "_depends_on": [
+        499980
+      ]
+    },
+    {
+      "name": "moonlight-1.21.1-3.0.22-neoforge",
+      "curseforge_id": 499980,
+      "download_url": "https://edge.forgecdn.net/files/8343/403/moonlight-neoforge-1.21.1-3.0.22.jar",
+      "file_name": "moonlight-neoforge-1.21.1-3.0.22.jar",
+      "version_number": "moonlight-1.21.1-3.0.22-neoforge",
+      "_is_dependency": true
+    },
+    {
+      "name": "Vista",
+      "curseforge_id": 1368607,
+      "download_url": "https://edge.forgecdn.net/files/8343/503/vista-neoforge-1.21.1-5.0.3.jar",
+      "file_name": "vista-neoforge-1.21.1-5.0.3.jar",
+      "version_number": "vista-1.21.1-5.0.3-neoforge",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1488/645/256/256/638967363014143781_animated.gif"
+    },
+    {
+      "name": "Vista Aeronautics Fix",
+      "curseforge_id": 1521989,
+      "download_url": "https://edge.forgecdn.net/files/7979/36/VistaAeronauricsFix-1.0.1.jar",
+      "file_name": "VistaAeronauricsFix-1.0.1.jar",
+      "version_number": "VistaAeronauricsFix-1.0.1",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1770/410/256/256/639124897443830898.jpg"
     }
   ],
-  "extras_version": 59,
+  "extras_version": 60,
   "changelog": [
+    {
+      "date": "2026-06-30T20:57:08.062Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Supplementaries",
+        "+ moonlight-1.21.1-3.0.22-neoforge",
+        "+ Vista",
+        "+ Vista Aeronautics Fix"
+      ]
+    },
     {
       "date": "2026-06-29T23:46:58.133Z",
       "author": "Martion000",
