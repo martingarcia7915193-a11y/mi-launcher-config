@@ -735,8 +735,15 @@
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1791/442/256/256/639135128999086003.png"
     }
   ],
-  "extras_version": 63,
+  "extras_version": 64,
   "changelog": [
+    {
+      "date": "2026-06-30T21:46:30.546Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Mandala's GUI - Dark mode (RP)"
+      ]
+    },
     {
       "date": "2026-06-30T21:13:35.588Z",
       "author": "Martion000",
@@ -1144,6 +1151,16 @@
       "file_name": "Tom's Create Style Recipes 1.0 - 1.21.zip",
       "version_number": "Tom's Create Style Recipes 1.0 - 1.21.zip",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1275/833/256/256/638830037377239809.png"
+    }
+  ],
+  "resourcepacks": [
+    {
+      "name": "Mandala's GUI - Dark mode",
+      "curseforge_id": 664719,
+      "download_url": "https://mediafilez.forgecdn.net/files/7564/643/MandalasGUI%2BDakmode_1.21.8_v2.5.zip",
+      "file_name": "MandalasGUI+Dakmode_1.21.8_v2.5.zip",
+      "version_number": "MandalasGUI Darkmode 1.21.8 [book and fix]",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/595/587/256/256/637970567654390772.png"
     }
   ]
 }
