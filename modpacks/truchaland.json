@@ -1123,10 +1123,37 @@
       "file_name": "create_ore_excavation_plus-0.2.5-1.21.1.jar",
       "version_number": "create_ore_excavation_plus-0.2.5-1.21.1.jar",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1235/586/256/256/638809416498662907.png"
+    },
+    {
+      "name": "Paxi (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+      "curseforge_id": 1015157,
+      "download_url": "https://edge.forgecdn.net/files/6485/740/Paxi-1.21.1-NeoForge-5.1.3.jar",
+      "file_name": "Paxi-1.21.1-NeoForge-5.1.3.jar",
+      "version_number": "[1.21.1] Paxi v5.1.3 (NeoForge)",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/992/752/256/256/638507134259656932.png",
+      "_depends_on": [
+        1015100
+      ]
+    },
+    {
+      "name": "[1.21.1] YUNG's API v5.1.6 (NeoForge)",
+      "curseforge_id": 1015100,
+      "download_url": "https://edge.forgecdn.net/files/6715/463/YungsApi-1.21.1-NeoForge-5.1.6.jar",
+      "file_name": "YungsApi-1.21.1-NeoForge-5.1.6.jar",
+      "version_number": "[1.21.1] YUNG's API v5.1.6 (NeoForge)",
+      "_is_dependency": true
     }
   ],
-  "extras_version": 83,
+  "extras_version": 84,
   "changelog": [
+    {
+      "date": "2026-07-01T19:28:09.421Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Paxi (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+        "+ [1.21.1] YUNG's API v5.1.6 (NeoForge)"
+      ]
+    },
     {
       "date": "2026-07-01T19:27:46.912Z",
       "author": "Martion000",
