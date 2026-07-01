@@ -746,10 +746,261 @@
       ],
       "url": "https://edge.forgecdn.net/files/8186/85/createtransmission-1.2.1%2Bneoforge-create6-1.21.1.jar",
       "filename": "createtransmission-1.2.1+neoforge-create6-1.21.1.jar"
+    },
+    {
+      "name": "Comforts",
+      "curseforge_id": 276951,
+      "download_url": "https://edge.forgecdn.net/files/7515/858/comforts-neoforge-9.0.5%2B1.21.1.jar",
+      "file_name": "comforts-neoforge-9.0.5+1.21.1.jar",
+      "version_number": "comforts-neoforge-9.0.5+1.21.1.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/203/105/256/256/636930549407382137.png",
+      "url": "https://edge.forgecdn.net/files/7515/858/comforts-neoforge-9.0.5%2B1.21.1.jar",
+      "filename": "comforts-neoforge-9.0.5+1.21.1.jar"
+    },
+    {
+      "name": "Concurrent Chunk Management Engine",
+      "curseforge_id": 533097,
+      "download_url": "https://edge.forgecdn.net/files/7967/514/c2me-neoforge-mc1.21.1-0.3.0%2Balpha.0.91.jar",
+      "file_name": "c2me-neoforge-mc1.21.1-0.3.0+alpha.0.91.jar",
+      "version_number": "0.4.0-alpha.0.113 backport devbuild for 1.21.1",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/439/839/256/256/637687646769698734.png",
+      "url": "https://edge.forgecdn.net/files/8347/517/c2me-neoforge-mc1.21.1-0.4.0-alpha.0.113.jar",
+      "filename": "c2me-neoforge-mc1.21.1-0.4.0-alpha.0.113.jar"
+    },
+    {
+      "name": "Building Wands",
+      "curseforge_id": 363392,
+      "download_url": "https://edge.forgecdn.net/files/7892/748/BuildingWands-neoforge-MC1.21.1-3.0.4.jar",
+      "file_name": "BuildingWands-neoforge-MC1.21.1-3.0.4.jar",
+      "version_number": "Building Wands 3.0.5 - beta - neoforge - 1.21.1",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/249/945/256/256/637176059718454738.png",
+      "_depends_on": [
+        419699,
+        348521
+      ],
+      "url": "https://edge.forgecdn.net/files/8207/219/BuildingWands-neoforge-MC1.21.1-3.0.5.jar",
+      "filename": "BuildingWands-neoforge-MC1.21.1-3.0.5.jar"
+    },
+    {
+      "name": "Camera Mod",
+      "curseforge_id": 289310,
+      "download_url": "https://edge.forgecdn.net/files/6715/623/camera-neoforge-1.21.1-1.0.21.jar",
+      "file_name": "camera-neoforge-1.21.1-1.0.21.jar",
+      "version_number": "[NEOFORGE][1.21.1] Camera Mod 1.21.1-1.0.21",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/144/334/256/256/636555258623630042.png",
+      "url": "https://edge.forgecdn.net/files/6715/623/camera-neoforge-1.21.1-1.0.21.jar",
+      "filename": "camera-neoforge-1.21.1-1.0.21.jar"
+    },
+    {
+      "name": "Camol",
+      "curseforge_id": 1214396,
+      "download_url": "https://edge.forgecdn.net/files/7976/624/camol-1.21.1-0.3.1.jar",
+      "file_name": "camol-1.21.1-0.3.1.jar",
+      "version_number": "camol-1.21.1-0.3.1.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1193/202/256/256/638768517189038294.png",
+      "url": "https://edge.forgecdn.net/files/7976/624/camol-1.21.1-0.3.1.jar",
+      "filename": "camol-1.21.1-0.3.1.jar"
+    },
+    {
+      "name": "FreeCam by Zergatul",
+      "curseforge_id": 618947,
+      "download_url": "https://edge.forgecdn.net/files/5591/136/zergatul.freecam-2.3.1-neoforge-1.21.jar",
+      "file_name": "zergatul.freecam-2.3.1-neoforge-1.21.jar",
+      "version_number": "zergatul.freecam-2.3.1-neoforge-1.21.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/541/193/256/256/637868212217443747_animated.gif",
+      "url": "https://edge.forgecdn.net/files/5591/136/zergatul.freecam-2.3.1-neoforge-1.21.jar",
+      "filename": "zergatul.freecam-2.3.1-neoforge-1.21.jar"
+    },
+    {
+      "name": "Handcrafted",
+      "curseforge_id": 538214,
+      "download_url": "https://edge.forgecdn.net/files/6330/30/handcrafted-neoforge-1.21.1-4.0.3.jar",
+      "file_name": "handcrafted-neoforge-1.21.1-4.0.3.jar",
+      "version_number": "[NeoForge] Handcrafted 4.0.3",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/676/448/256/256/638067467429210259_animated.gif",
+      "_depends_on": [
+        570073
+      ],
+      "url": "https://edge.forgecdn.net/files/6330/30/handcrafted-neoforge-1.21.1-4.0.3.jar",
+      "filename": "handcrafted-neoforge-1.21.1-4.0.3.jar"
+    },
+    {
+      "name": "Item Highlighter [Neo/Forge]",
+      "curseforge_id": 521590,
+      "download_url": "https://edge.forgecdn.net/files/5591/15/Highlighter-1.21-neoforge-1.1.11.jar",
+      "file_name": "Highlighter-1.21-neoforge-1.1.11.jar",
+      "version_number": "Highlighter-1.21-neoforge-1.1.11.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/426/859/256/256/637657810753408357.png",
+      "url": "https://edge.forgecdn.net/files/5591/15/Highlighter-1.21-neoforge-1.1.11.jar",
+      "filename": "Highlighter-1.21-neoforge-1.1.11.jar"
+    },
+    {
+      "name": "Jade Addons (Neo/Forge)",
+      "curseforge_id": 583345,
+      "download_url": "https://edge.forgecdn.net/files/6315/149/JadeAddons-1.21.1-NeoForge-6.1.0.jar",
+      "file_name": "JadeAddons-1.21.1-NeoForge-6.1.0.jar",
+      "version_number": "[NeoForge 1.21.1] 6.1.0",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/497/744/256/256/637814611670008374.png",
+      "_depends_on": [
+        324717
+      ],
+      "url": "https://edge.forgecdn.net/files/6315/149/JadeAddons-1.21.1-NeoForge-6.1.0.jar",
+      "filename": "JadeAddons-1.21.1-NeoForge-6.1.0.jar"
+    },
+    {
+      "name": "Jade VS",
+      "curseforge_id": 1209806,
+      "download_url": "https://edge.forgecdn.net/files/7947/689/Jade-VS-neoforge-1.21.1-2.0.0.jar",
+      "file_name": "Jade-VS-neoforge-1.21.1-2.0.0.jar",
+      "version_number": "Jade-VS-neoforge-1.21.1-2.0.0.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1188/458/256/256/638763017594708404.png",
+      "_depends_on": [
+        324717
+      ],
+      "url": "https://edge.forgecdn.net/files/7947/689/Jade-VS-neoforge-1.21.1-2.0.0.jar",
+      "filename": "Jade-VS-neoforge-1.21.1-2.0.0.jar"
+    },
+    {
+      "name": "MrCrayfish's Furniture Mod: Refurbished",
+      "curseforge_id": 897116,
+      "download_url": "https://edge.forgecdn.net/files/7473/565/refurbished_furniture-neoforge-1.21.1-1.0.22.jar",
+      "file_name": "refurbished_furniture-neoforge-1.21.1-1.0.22.jar",
+      "version_number": "\nMrCrayfish's Furniture Mod: Refurbished 1.0.22",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/934/904/256/256/638411339753659456.png",
+      "_depends_on": [
+        549225
+      ],
+      "url": "https://edge.forgecdn.net/files/7473/565/refurbished_furniture-neoforge-1.21.1-1.0.22.jar",
+      "filename": "refurbished_furniture-neoforge-1.21.1-1.0.22.jar"
+    },
+    {
+      "name": "Paragliders",
+      "curseforge_id": 289240,
+      "download_url": "https://edge.forgecdn.net/files/7795/89/Paraglider-neoforge-21.1.5.jar",
+      "file_name": "Paraglider-neoforge-21.1.5.jar",
+      "version_number": "Paraglider-neoforge-21.1.5",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/144/153/256/256/636553981575772547.png",
+      "url": "https://edge.forgecdn.net/files/7795/89/Paraglider-neoforge-21.1.5.jar",
+      "filename": "Paraglider-neoforge-21.1.5.jar"
+    },
+    {
+      "name": "Not so simple Creative Dimension",
+      "curseforge_id": 1543935,
+      "download_url": "https://edge.forgecdn.net/files/8119/718/creative_dimension_portal-0.1.3.jar",
+      "file_name": "creative_dimension_portal-0.1.3.jar",
+      "version_number": "creative_dimension_portal-0.1.3.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1816/451/256/256/639148034373325289.png",
+      "url": "https://edge.forgecdn.net/files/8119/718/creative_dimension_portal-0.1.3.jar",
+      "filename": "creative_dimension_portal-0.1.3.jar"
+    },
+    {
+      "name": "Only Hammers And Excavators",
+      "curseforge_id": 939215,
+      "download_url": "https://mediafilez.forgecdn.net/files/8014/186/onlyhammersandexcavators-1.21.1-1.0.1.jar",
+      "file_name": "onlyhammersandexcavators-1.21.1-1.0.1.jar",
+      "version_number": "OnlyHammersAndExcavators-1.21.1-1.0.2-NeoForge",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/906/960/256/256/638357544485291412.png",
+      "url": "https://mediafilez.forgecdn.net/files/8314/315/onlyhammersandexcavators-1.21.1-1.0.2.jar",
+      "filename": "onlyhammersandexcavators-1.21.1-1.0.2.jar"
+    },
+    {
+      "name": "Pick Up Notifier",
+      "curseforge_id": 351441,
+      "download_url": "https://edge.forgecdn.net/files/6409/785/PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar",
+      "file_name": "PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar",
+      "version_number": "[NEOFORGE] [1.21.1] PickUpNotifier-v21.1.1",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/776/151/256/256/638118059918529024.png",
+      "_depends_on": [
+        495476
+      ],
+      "url": "https://edge.forgecdn.net/files/6409/785/PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar",
+      "filename": "PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar"
+    },
+    {
+      "name": "Quark",
+      "curseforge_id": 243121,
+      "download_url": "https://edge.forgecdn.net/files/8055/566/Quark-4.1-479.jar",
+      "file_name": "Quark-4.1-479.jar",
+      "version_number": "Quark-4.1-481.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/588/295/637958240318838626.png",
+      "_depends_on": [
+        968868
+      ],
+      "url": "https://edge.forgecdn.net/files/8342/602/Quark-4.1-481.jar",
+      "filename": "Quark-4.1-481.jar"
+    },
+    {
+      "name": "Rebind Narrator",
+      "curseforge_id": 296996,
+      "download_url": "https://edge.forgecdn.net/files/7370/951/rebind_narrator-1.21.1-neoforge-2025.12.23.jar",
+      "file_name": "rebind_narrator-1.21.1-neoforge-2025.12.23.jar",
+      "version_number": "rebind_narrator-1.21.1-neoforge-2025.12.23.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1410/749/256/256/638914190534801237.png",
+      "url": "https://edge.forgecdn.net/files/7370/951/rebind_narrator-1.21.1-neoforge-2025.12.23.jar",
+      "filename": "rebind_narrator-1.21.1-neoforge-2025.12.23.jar"
+    },
+    {
+      "name": "Trade Uses",
+      "curseforge_id": 902314,
+      "download_url": "https://edge.forgecdn.net/files/5489/783/tradeuses-1.2.5-1.21-NEOFORGE.jar",
+      "file_name": "tradeuses-1.2.5-1.21-NEOFORGE.jar",
+      "version_number": "[NeoForge] Trade Uses 1.2.5 - 1.21",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/864/817/256/256/638275400898684256.png",
+      "url": "https://edge.forgecdn.net/files/5489/783/tradeuses-1.2.5-1.21-NEOFORGE.jar",
+      "filename": "tradeuses-1.2.5-1.21-NEOFORGE.jar"
+    },
+    {
+      "name": "VS / Sable Hose Connectors",
+      "curseforge_id": 1426984,
+      "download_url": "https://edge.forgecdn.net/files/8066/650/VS-Sable-HoseConnectors-0.1.6-1.21.1.jar",
+      "file_name": "VS-Sable-HoseConnectors-0.1.6-1.21.1.jar",
+      "version_number": "VS-Sable-HoseConnectors-0.1.8-1.21.1.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1795/971/256/256/639137609000287622.png",
+      "url": "https://edge.forgecdn.net/files/8333/129/VS-Sable-HoseConnectors-0.1.8-1.21.1.jar",
+      "filename": "VS-Sable-HoseConnectors-0.1.8-1.21.1.jar"
+    },
+    {
+      "name": "Trading Post",
+      "curseforge_id": 539057,
+      "download_url": "https://edge.forgecdn.net/files/7143/451/TradingPost-v21.1.1-1.21.1-NeoForge.jar",
+      "file_name": "TradingPost-v21.1.1-1.21.1-NeoForge.jar",
+      "version_number": "[NEOFORGE] [1.21.1] TradingPost-v21.1.1",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/776/152/256/256/638118060002759129.png",
+      "_depends_on": [
+        495476
+      ],
+      "url": "https://edge.forgecdn.net/files/7143/451/TradingPost-v21.1.1-1.21.1-NeoForge.jar",
+      "filename": "TradingPost-v21.1.1-1.21.1-NeoForge.jar"
     }
   ],
   "extras_version": 64,
   "changelog": [
+    {
+      "date": "2026-07-01T17:05:31.570Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Comforts",
+        "+ Concurrent Chunk Management Engine",
+        "+ Building Wands",
+        "+ Camera Mod",
+        "+ Camol",
+        "+ FreeCam by Zergatul",
+        "+ Handcrafted",
+        "+ Item Highlighter [Neo/Forge]",
+        "+ Jade Addons (Neo/Forge)",
+        "+ Jade VS",
+        "+ MrCrayfish's Furniture Mod: Refurbished",
+        "+ Paragliders",
+        "+ Not so simple Creative Dimension",
+        "+ Only Hammers And Excavators",
+        "+ Pick Up Notifier",
+        "+ Quark",
+        "+ Rebind Narrator",
+        "+ Trade Uses",
+        "+ VS / Sable Hose Connectors",
+        "+ Trading Post"
+      ]
+    },
     {
       "date": "2026-07-01T16:57:28.457Z",
       "author": "Martion000",
