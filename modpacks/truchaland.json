@@ -965,20 +965,34 @@
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/541/193/256/256/637868212217443747_animated.gif"
     },
     {
-      "name": "Prism",
-      "url": "https://cdn.modrinth.com/data/1OE8wbN0/versions/kMcz2lDj/Prism-1.21.1-neoforge-1.0.11.jar",
-      "filename": "Prism-1.21.1-neoforge-1.0.11.jar",
-      "modrinth_id": "1OE8wbN0"
+      "name": "Prism [Neo/Forge]",
+      "curseforge_id": 638111,
+      "download_url": "https://edge.forgecdn.net/files/6372/979/Prism-1.21.1-neoforge-1.0.11.jar",
+      "file_name": "Prism-1.21.1-neoforge-1.0.11.jar",
+      "version_number": "Prism-1.21.1-neoforge-1.0.11.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/581/617/256/256/637946673404611382.png"
     },
     {
-      "name": "Iceberg",
-      "url": "https://cdn.modrinth.com/data/5faXoLqX/versions/IMssx9du/Iceberg-1.21.1-neoforge-1.3.2.jar",
-      "filename": "Iceberg-1.21.1-neoforge-1.3.2.jar",
-      "modrinth_id": "5faXoLqX"
+      "name": "Iceberg [Neo/Forge]",
+      "curseforge_id": 520110,
+      "download_url": "https://edge.forgecdn.net/files/6423/863/Iceberg-1.21.1-neoforge-1.3.2.jar",
+      "file_name": "Iceberg-1.21.1-neoforge-1.3.2.jar",
+      "version_number": "Iceberg-1.21.1-neoforge-1.3.2.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/425/207/256/256/637653794535451378.png"
     }
   ],
-  "extras_version": 64,
+  "extras_version": 65,
   "changelog": [
+    {
+      "date": "2026-07-01T17:14:03.536Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Prism [Neo/Forge]",
+        "+ Iceberg [Neo/Forge]",
+        "− Prism",
+        "− Iceberg"
+      ]
+    },
     {
       "date": "2026-07-01T17:12:18.284Z",
       "author": "Martion000",
