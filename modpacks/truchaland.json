@@ -1040,10 +1040,110 @@
       "file_name": "createfurnitureseats-4.8.17.jar",
       "version_number": "createfurnitureseats-4.8.17.jar",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1839/468/256/256/639159268519297302.png"
+    },
+    {
+      "name": "Mekanism",
+      "curseforge_id": 268560,
+      "download_url": "https://edge.forgecdn.net/files/7904/58/Mekanism-1.21.1-10.7.19.85.jar",
+      "file_name": "Mekanism-1.21.1-10.7.19.85.jar",
+      "version_number": "Mekanism-1.21.1-10.7.19.85.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/492/672/256/256/637801316302309362.png"
+    },
+    {
+      "name": "Mekanism Generators",
+      "curseforge_id": 268566,
+      "download_url": "https://edge.forgecdn.net/files/7904/61/MekanismGenerators-1.21.1-10.7.19.85.jar",
+      "file_name": "MekanismGenerators-1.21.1-10.7.19.85.jar",
+      "version_number": "MekanismGenerators-1.21.1-10.7.19.85.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/492/674/256/256/637801316650295179.png"
+    },
+    {
+      "name": "Mekanism Tools",
+      "curseforge_id": 268567,
+      "download_url": "https://edge.forgecdn.net/files/7904/62/MekanismTools-1.21.1-10.7.19.85.jar",
+      "file_name": "MekanismTools-1.21.1-10.7.19.85.jar",
+      "version_number": "MekanismTools-1.21.1-10.7.19.85.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/492/675/256/256/637801316758778804.png"
+    },
+    {
+      "name": "Just Enough Mekanism Multiblocks",
+      "curseforge_id": 898746,
+      "download_url": "https://edge.forgecdn.net/files/7921/149/JustEnoughMekanismMultiblocks-1.21.1-7.15.jar",
+      "file_name": "JustEnoughMekanismMultiblocks-1.21.1-7.15.jar",
+      "version_number": "1.21.1-7.15",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/860/672/256/256/638267473798853846.png"
+    },
+    {
+      "name": "Create Aeronautics: Mekanism Compatibility",
+      "curseforge_id": 1536749,
+      "download_url": "https://edge.forgecdn.net/files/8299/825/create_mekanism_compat-0.1.21.jar",
+      "file_name": "create_mekanism_compat-0.1.21.jar",
+      "version_number": "create_mekanism_compat-0.1.21.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1796/565/256/256/639137910682458917.png"
+    },
+    {
+      "name": "MekaGenJei (Mekanism Generator addon)",
+      "curseforge_id": 1347827,
+      "download_url": "https://edge.forgecdn.net/files/7224/975/mekagenjei-1.2.jar",
+      "file_name": "mekagenjei-1.2.jar",
+      "version_number": "1.2",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1443/148/256/256/638935705180973411.png"
+    },
+    {
+      "name": "MekaJadeUpgrades (Mekanism addon)",
+      "curseforge_id": 1400118,
+      "download_url": "https://edge.forgecdn.net/files/7588/752/mekajadeupgrade-1.3.jar",
+      "file_name": "mekajadeupgrade-1.3.jar",
+      "version_number": "1.3-21.1",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1553/66/256/256/639007897276400774.png"
+    },
+    {
+      "name": "Mekanism: Enchantable MekaSuit",
+      "curseforge_id": 1323655,
+      "download_url": "https://edge.forgecdn.net/files/8199/739/MekanismEnchantableMekasuit-1.21.1-1.0.3.jar",
+      "file_name": "MekanismEnchantableMekasuit-1.21.1-1.0.3.jar",
+      "version_number": "MekanismEnchantableMekasuit-1.21.1-1.0.3.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1392/940/256/256/638903080247869624.png"
+    },
+    {
+      "name": "Create Ore Excavation",
+      "curseforge_id": 649832,
+      "download_url": "https://edge.forgecdn.net/files/7199/305/createoreexcavation-1.21-1.6.8.jar",
+      "file_name": "createoreexcavation-1.21-1.6.8.jar",
+      "version_number": "[NeoForge] Create Ore Excavation 1.21-1.6.8",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1067/697/256/256/638602012706611157.png",
+      "_depends_on": [
+        328085
+      ]
+    },
+    {
+      "name": "Create Ore Excavation Plus",
+      "curseforge_id": 730824,
+      "download_url": "https://edge.forgecdn.net/files/7526/768/create_ore_excavation_plus-0.2.5-1.21.1.jar",
+      "file_name": "create_ore_excavation_plus-0.2.5-1.21.1.jar",
+      "version_number": "create_ore_excavation_plus-0.2.5-1.21.1.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1235/586/256/256/638809416498662907.png"
     }
   ],
-  "extras_version": 81,
+  "extras_version": 82,
   "changelog": [
+    {
+      "date": "2026-07-01T19:16:24.886Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Mekanism",
+        "+ Mekanism Generators",
+        "+ Mekanism Tools",
+        "+ Just Enough Mekanism Multiblocks",
+        "+ Create Aeronautics: Mekanism Compatibility",
+        "+ MekaGenJei (Mekanism Generator addon)",
+        "+ MekaJadeUpgrades (Mekanism addon)",
+        "+ Mekanism: Enchantable MekaSuit",
+        "+ Create Ore Excavation",
+        "+ Create Ore Excavation Plus",
+        "+ ⛏️ Create Ore Excavation x Mekanism (DP)"
+      ]
+    },
     {
       "date": "2026-07-01T18:54:14.772Z",
       "author": "Martion000",
@@ -1661,6 +1761,14 @@
       "file_name": "Tom's Create Style Recipes 1.0 - 1.21.zip",
       "version_number": "Tom's Create Style Recipes 1.0 - 1.21.zip",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1275/833/256/256/638830037377239809.png"
+    },
+    {
+      "name": "⛏️ Create Ore Excavation x Mekanism",
+      "curseforge_id": 1548147,
+      "download_url": "https://edge.forgecdn.net/files/8172/281/COExMekanism1.21_v2.zip",
+      "file_name": "COExMekanism1.21_v2.zip",
+      "version_number": "COExMekanism1.21_v2.zip",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1816/823/256/256/639148202653931437.png"
     }
   ],
   "resourcepacks": [
