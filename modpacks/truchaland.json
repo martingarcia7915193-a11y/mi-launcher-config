@@ -1144,7 +1144,7 @@
       "_is_dependency": true
     }
   ],
-  "extras_version": 84,
+  "extras_version": 91,
   "changelog": [
     {
       "date": "2026-07-01T19:28:09.421Z",
@@ -1814,5 +1814,6 @@
       "version_number": "Tom's Create Style 1.2 - 1.21.zip",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1273/480/256/256/638828425709420198.png"
     }
-  ]
+  ],
+  "extras_url": "https://drive.google.com/file/d/1OUKnB66sxrmjBHBOWuN6EpPUWheNJGw2/view?usp=drivesdk"
 }
