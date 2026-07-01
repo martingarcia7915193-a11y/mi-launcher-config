@@ -1016,10 +1016,25 @@
       "file_name": "aeroadditionbridge-1.0.0.jar",
       "version_number": "aeroadditionbridge-1.0.0.jar",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1789/267/256/256/639134124031767068.png"
+    },
+    {
+      "name": "Create Additions - Sable Compat",
+      "curseforge_id": 1525684,
+      "download_url": "https://edge.forgecdn.net/files/8079/798/sable_createaddition_compat-0.1.13.jar",
+      "file_name": "sable_createaddition_compat-0.1.13.jar",
+      "version_number": "sable_createaddition_compat-0.1.13.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1776/902/256/256/639128045398403880.png"
     }
   ],
-  "extras_version": 78,
+  "extras_version": 79,
   "changelog": [
+    {
+      "date": "2026-07-01T18:38:50.959Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Create Additions - Sable Compat"
+      ]
+    },
     {
       "date": "2026-07-01T18:31:47.933Z",
       "author": "Martion000",
