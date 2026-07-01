@@ -733,10 +733,30 @@
       "file_name": "createpropulsion-1.1.4.jar",
       "version_number": "1.1.4",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1791/442/256/256/639135128999086003.png"
+    },
+    {
+      "name": "Create: Transmission!",
+      "curseforge_id": 1354280,
+      "download_url": "https://edge.forgecdn.net/files/8011/80/createtransmission-1.1.2%2Bneoforge-create6-1.21.1.jar",
+      "file_name": "createtransmission-1.1.2+neoforge-create6-1.21.1.jar",
+      "version_number": "createtransmission-1.2.1+neoforge-create6-1.21.1.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1456/551/256/256/638945490120463350.png",
+      "_depends_on": [
+        328085
+      ],
+      "url": "https://edge.forgecdn.net/files/8186/85/createtransmission-1.2.1%2Bneoforge-create6-1.21.1.jar",
+      "filename": "createtransmission-1.2.1+neoforge-create6-1.21.1.jar"
     }
   ],
   "extras_version": 64,
   "changelog": [
+    {
+      "date": "2026-07-01T07:33:50.999Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Create: Transmission!"
+      ]
+    },
     {
       "date": "2026-06-30T22:34:11.627Z",
       "author": "Martion000",
