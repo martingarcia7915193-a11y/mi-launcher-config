@@ -1152,14 +1152,6 @@
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1711/232/256/256/639087561989279822.png"
     },
     {
-      "name": "Just Enough Resources (JER)",
-      "curseforge_id": 240630,
-      "download_url": "https://edge.forgecdn.net/files/6506/298/JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar",
-      "file_name": "JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar",
-      "version_number": "JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar",
-      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/32/419/256/256/635880199659979425.png"
-    },
-    {
       "name": "Just Enough Professions (JEP)",
       "curseforge_id": 417645,
       "download_url": "https://edge.forgecdn.net/files/7966/681/JustEnoughProfessions-neoforge-1.21.1-4.0.5.jar",
@@ -1220,8 +1212,15 @@
       "_is_dependency": true
     }
   ],
-  "extras_version": 102,
+  "extras_version": 104,
   "changelog": [
+    {
+      "date": "2026-07-01T20:03:37.545Z",
+      "author": "Martion000",
+      "changes": [
+        "− Just Enough Resources (JER)"
+      ]
+    },
     {
       "date": "2026-07-01T20:00:25.022Z",
       "author": "Martion000",
