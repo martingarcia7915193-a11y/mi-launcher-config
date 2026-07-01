@@ -1210,10 +1210,25 @@
       "file_name": "prickle-neoforge-1.21.1-21.1.11.jar",
       "version_number": "prickle-neoforge-1.21.1-21.1.11.jar",
       "_is_dependency": true
+    },
+    {
+      "name": "JEIOptimizer",
+      "curseforge_id": 1570444,
+      "download_url": "https://edge.forgecdn.net/files/8284/6/jeioptimizer-1.21.1-1.0.4.jar",
+      "file_name": "jeioptimizer-1.21.1-1.0.4.jar",
+      "version_number": "jeioptimizer-1.21.1-1.0.4",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1856/237/256/256/639166467080860966.png"
     }
   ],
-  "extras_version": 104,
+  "extras_version": 106,
   "changelog": [
+    {
+      "date": "2026-07-01T20:08:06.112Z",
+      "author": "Martion000",
+      "changes": [
+        "+ JEIOptimizer"
+      ]
+    },
     {
       "date": "2026-07-01T20:03:37.545Z",
       "author": "Martion000",
