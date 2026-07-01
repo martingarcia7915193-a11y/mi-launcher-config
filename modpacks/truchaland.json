@@ -1024,10 +1024,34 @@
       "file_name": "sable_createaddition_compat-0.1.13.jar",
       "version_number": "sable_createaddition_compat-0.1.13.jar",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1776/902/256/256/639128045398403880.png"
+    },
+    {
+      "name": "[Let's Do] Furniture",
+      "curseforge_id": 1062363,
+      "download_url": "https://edge.forgecdn.net/files/7751/818/letsdo-furniture-neoforge-1.1.4.jar",
+      "file_name": "letsdo-furniture-neoforge-1.1.4.jar",
+      "version_number": "Furniture - 1.1.4 - NEOFORGE - 1.21.1",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1677/148/256/256/639066219612662190.png"
+    },
+    {
+      "name": "furniture mods - create/sable(aeronautics) compatibility",
+      "curseforge_id": 1528288,
+      "download_url": "https://edge.forgecdn.net/files/8256/532/createfurnitureseats-4.8.17.jar",
+      "file_name": "createfurnitureseats-4.8.17.jar",
+      "version_number": "createfurnitureseats-4.8.17.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1839/468/256/256/639159268519297302.png"
     }
   ],
-  "extras_version": 80,
+  "extras_version": 81,
   "changelog": [
+    {
+      "date": "2026-07-01T18:54:14.772Z",
+      "author": "Martion000",
+      "changes": [
+        "+ [Let's Do] Furniture",
+        "+ furniture mods - create/sable(aeronautics) compatibility"
+      ]
+    },
     {
       "date": "2026-07-01T18:38:50.959Z",
       "author": "Martion000",
