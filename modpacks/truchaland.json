@@ -1000,10 +1000,25 @@
       "file_name": "cryonicconfig-neoforge-1.0.0+mc1.21.11.jar",
       "version_number": "[1.21.11] NeoForge 1.0.0",
       "_is_dependency": true
+    },
+    {
+      "name": "Create Crafts & Additions",
+      "curseforge_id": 439890,
+      "download_url": "https://edge.forgecdn.net/files/8188/476/createaddition-1.6.0.jar",
+      "file_name": "createaddition-1.6.0.jar",
+      "version_number": "createaddition-neoforge-1.21.1-1.6.0",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/405/250/256/256/637616939209778882.png"
     }
   ],
-  "extras_version": 76,
+  "extras_version": 77,
   "changelog": [
+    {
+      "date": "2026-07-01T18:31:09.186Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Create Crafts & Additions"
+      ]
+    },
     {
       "date": "2026-07-01T18:04:45.049Z",
       "author": "Martion000",
