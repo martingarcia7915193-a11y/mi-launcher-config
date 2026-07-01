@@ -746,12 +746,15 @@
       "filename": "cloth-config-15.0.140-neoforge.jar"
     },
     {
-      "name": "Framework",
+      "name": "Framework 0.13.11",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/871/312/256/256/638288810018379517.png",
       "curseforge_id": 549225,
       "version_number": "Framework 0.13.11",
       "url": "https://edge.forgecdn.net/files/7530/361/framework-neoforge-1.21.1-0.13.11.jar",
-      "filename": "framework-neoforge-1.21.1-0.13.11.jar"
+      "filename": "framework-neoforge-1.21.1-0.13.11.jar",
+      "download_url": "https://edge.forgecdn.net/files/7530/361/framework-neoforge-1.21.1-0.13.11.jar",
+      "file_name": "framework-neoforge-1.21.1-0.13.11.jar",
+      "_is_dependency": true
     },
     {
       "name": "Puzzles Lib",
@@ -1218,10 +1221,262 @@
       "file_name": "jeioptimizer-1.21.1-1.0.4.jar",
       "version_number": "jeioptimizer-1.21.1-1.0.4",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1856/237/256/256/639166467080860966.png"
+    },
+    {
+      "name": "Clumps",
+      "curseforge_id": 256717,
+      "download_url": "https://edge.forgecdn.net/files/5623/731/Clumps-neoforge-1.21.1-19.0.0.1.jar",
+      "file_name": "Clumps-neoforge-1.21.1-19.0.0.1.jar",
+      "version_number": "Clumps-neoforge-1.21.1-19.0.0.1.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1289/817/256/256/638838549850518521_animated.gif"
+    },
+    {
+      "name": "Nature's Compass",
+      "curseforge_id": 252848,
+      "download_url": "https://edge.forgecdn.net/files/7892/954/NaturesCompass-1.21.1-3.4.0-neoforge.jar",
+      "file_name": "NaturesCompass-1.21.1-3.4.0-neoforge.jar",
+      "version_number": "NaturesCompass-1.21.1-3.4.0-neoforge.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/54/102/256/256/636131217371752080.png"
+    },
+    {
+      "name": "FTB Quests (NeoForge)",
+      "curseforge_id": 289412,
+      "download_url": "https://edge.forgecdn.net/files/8253/474/ftb-quests-neoforge-2101.1.27.jar",
+      "file_name": "ftb-quests-neoforge-2101.1.27.jar",
+      "version_number": "[NEOFORGE][1.21.1] FTB Quests 2101.1.27",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/972/571/256/256/638474884805475097.png",
+      "_depends_on": [
+        419699,
+        404468,
+        404465
+      ]
+    },
+    {
+      "name": "[NEOFORGE][1.21.1] FTB Teams 2101.1.10",
+      "curseforge_id": 404468,
+      "download_url": "https://edge.forgecdn.net/files/7878/281/ftb-teams-neoforge-2101.1.10.jar",
+      "file_name": "ftb-teams-neoforge-2101.1.10.jar",
+      "version_number": "[NEOFORGE][1.21.1] FTB Teams 2101.1.10",
+      "_is_dependency": true
+    },
+    {
+      "name": "[NEOFORGE][1.21.1] FTB Library 2101.1.32",
+      "curseforge_id": 404465,
+      "download_url": "https://edge.forgecdn.net/files/8226/923/ftb-library-neoforge-2101.1.32.jar",
+      "file_name": "ftb-library-neoforge-2101.1.32.jar",
+      "version_number": "[NEOFORGE][1.21.1] FTB Library 2101.1.32",
+      "_is_dependency": true
+    },
+    {
+      "name": "FTB Chunks (NeoForge)",
+      "curseforge_id": 314906,
+      "download_url": "https://edge.forgecdn.net/files/8317/865/ftb-chunks-neoforge-2101.1.20.jar",
+      "file_name": "ftb-chunks-neoforge-2101.1.20.jar",
+      "version_number": "[NEOFORGE][1.21.1] FTB Chunks 2101.1.20",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/972/573/256/256/638474885347244172.png",
+      "_depends_on": [
+        419699,
+        404465,
+        404468
+      ]
+    },
+    {
+      "name": "FTB JEI Extras",
+      "curseforge_id": 1103259,
+      "download_url": "https://edge.forgecdn.net/files/6695/679/ftb-jei-extras-21.1.7.jar",
+      "file_name": "ftb-jei-extras-21.1.7.jar",
+      "version_number": "[NEOFORGE][1.21.1] FTB JEI Extras 21.1.7",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1080/569/256/256/638620010360539053.png",
+      "_depends_on": [
+        404465
+      ]
+    },
+    {
+      "name": "Lootr (Forge & NeoForge)",
+      "curseforge_id": 361276,
+      "download_url": "https://edge.forgecdn.net/files/8333/694/lootr-neoforge-1.21.1-1.11.37.121.jar",
+      "file_name": "lootr-neoforge-1.21.1-1.11.37.121.jar",
+      "version_number": "lootr-neoforge-1.21.1-1.11.37.121",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1131/830/256/256/638691606432990450.png"
+    },
+    {
+      "name": "FastWorkbench",
+      "curseforge_id": 288885,
+      "download_url": "https://edge.forgecdn.net/files/6751/534/FastWorkbench-1.21.1-9.1.3.jar",
+      "file_name": "FastWorkbench-1.21.1-9.1.3.jar",
+      "version_number": "FastWorkbench-1.21.1-9.1.3.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/164/244/256/256/636686097718417988.png",
+      "_depends_on": [
+        283644
+      ]
+    },
+    {
+      "name": "Placebo-1.21.1-9.9.1.jar",
+      "curseforge_id": 283644,
+      "download_url": "https://edge.forgecdn.net/files/6926/281/Placebo-1.21.1-9.9.1.jar",
+      "file_name": "Placebo-1.21.1-9.9.1.jar",
+      "version_number": "Placebo-1.21.1-9.9.1.jar",
+      "_is_dependency": true
+    },
+    {
+      "name": "ImmediatelyFast",
+      "curseforge_id": 686911,
+      "download_url": "https://edge.forgecdn.net/files/8348/515/ImmediatelyFast-NeoForge-1.6.11%2B1.21.1.jar",
+      "file_name": "ImmediatelyFast-NeoForge-1.6.11+1.21.1.jar",
+      "version_number": "ImmediatelyFast 1.6.11",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/873/971/256/256/638294478643875692.png"
+    },
+    {
+      "name": "Fast Leaf Decay",
+      "curseforge_id": 230976,
+      "download_url": "https://edge.forgecdn.net/files/5849/90/fastleafdecay-35.jar",
+      "file_name": "fastleafdecay-35.jar",
+      "version_number": "FastLeafDecay-35.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/18/699/256/256/635683366119611662.png"
+    },
+    {
+      "name": "FastSuite",
+      "curseforge_id": 475117,
+      "download_url": "https://edge.forgecdn.net/files/7527/945/FastSuite-1.21.1-6.0.7.jar",
+      "file_name": "FastSuite-1.21.1-6.0.7.jar",
+      "version_number": "FastSuite-1.21.1-6.0.7.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/376/17/256/256/637551781740482627.png",
+      "_depends_on": [
+        283644
+      ]
+    },
+    {
+      "name": "FastFurnace",
+      "curseforge_id": 299540,
+      "download_url": "https://edge.forgecdn.net/files/6751/551/FastFurnace-1.21.1-9.0.1.jar",
+      "file_name": "FastFurnace-1.21.1-9.0.1.jar",
+      "version_number": "FastFurnace-1.21.1-9.0.1.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/164/243/256/256/636686097562167838.png",
+      "_depends_on": [
+        283644
+      ]
+    },
+    {
+      "name": "Elytra Slot",
+      "curseforge_id": 317716,
+      "download_url": "https://edge.forgecdn.net/files/5778/461/elytraslot-neoforge-9.0.2%2B1.21.1.jar",
+      "file_name": "elytraslot-neoforge-9.0.2+1.21.1.jar",
+      "version_number": "elytraslot-neoforge-9.0.2+1.21.1.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/209/40/256/256/636979175379460863.png",
+      "_depends_on": [
+        308989,
+        309927
+      ]
+    },
+    {
+      "name": "caelus-neoforge-7.0.1+1.21.1.jar",
+      "curseforge_id": 308989,
+      "download_url": "https://edge.forgecdn.net/files/5694/215/caelus-neoforge-7.0.1%2B1.21.1.jar",
+      "file_name": "caelus-neoforge-7.0.1+1.21.1.jar",
+      "version_number": "caelus-neoforge-7.0.1+1.21.1.jar",
+      "_is_dependency": true
+    },
+    {
+      "name": "Farming for Blockheads",
+      "curseforge_id": 261924,
+      "download_url": "https://edge.forgecdn.net/files/7966/196/farmingforblockheads-neoforge-1.21.1-21.1.13.jar",
+      "file_name": "farmingforblockheads-neoforge-1.21.1-21.1.13.jar",
+      "version_number": "farmingforblockheads-neoforge-1.21.1-21.1.13.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/90/532/256/256/636240157002161763.png",
+      "_depends_on": [
+        531761
+      ]
+    },
+    {
+      "name": "Spice of Life: Carrot Edition",
+      "curseforge_id": 277616,
+      "download_url": "https://edge.forgecdn.net/files/7374/98/solcarrot-1.21.1-1.16.6.jar",
+      "file_name": "solcarrot-1.21.1-1.16.6.jar",
+      "version_number": "solcarrot-1.21.1-1.16.6.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/360/935/256/256/637525655151502872.png"
+    },
+    {
+      "name": "Lithium (Fabric/NeoForge)",
+      "curseforge_id": 360438,
+      "download_url": "https://edge.forgecdn.net/files/8330/365/lithium-neoforge-0.15.4%2Bmc1.21.1.jar",
+      "file_name": "lithium-neoforge-0.15.4+mc1.21.1.jar",
+      "version_number": "Lithium mc1.21.1-0.15.4 for Neoforge",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/246/646/256/256/637158441743060329.png"
+    },
+    {
+      "name": "Goblin Traders",
+      "curseforge_id": 363703,
+      "download_url": "https://edge.forgecdn.net/files/6427/515/goblintraders-neoforge-1.21.1-1.11.2.jar",
+      "file_name": "goblintraders-neoforge-1.21.1-1.11.2.jar",
+      "version_number": "Goblin Traders 1.11.2",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/871/321/256/256/638288811545199466.png",
+      "_depends_on": [
+        549225
+      ]
+    },
+    {
+      "name": "Creeper Overhaul",
+      "curseforge_id": 561625,
+      "download_url": "https://edge.forgecdn.net/files/6051/279/CreeperOverhaul-neoforge-1.21.1-4.0.6.jar",
+      "file_name": "CreeperOverhaul-neoforge-1.21.1-4.0.6.jar",
+      "version_number": "[NeoForge] Creeper Overhaul 4.0.6",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/473/162/256/256/637764359461113953.png",
+      "_depends_on": [
+        388172,
+        570073,
+        714059
+      ]
+    },
+    {
+      "name": "NeoForge 1.21.1 4.9.2",
+      "curseforge_id": 388172,
+      "download_url": "https://edge.forgecdn.net/files/8350/73/geckolib-neoforge-1.21.1-4.9.2.jar",
+      "file_name": "geckolib-neoforge-1.21.1-4.9.2.jar",
+      "version_number": "NeoForge 1.21.1 4.9.2",
+      "_is_dependency": true
+    },
+    {
+      "name": "[NeoForge] Resourceful Config 3.0.11",
+      "curseforge_id": 714059,
+      "download_url": "https://edge.forgecdn.net/files/6467/772/resourcefulconfig-neoforge-1.21-3.0.11.jar",
+      "file_name": "resourcefulconfig-neoforge-1.21-3.0.11.jar",
+      "version_number": "[NeoForge] Resourceful Config 3.0.11",
+      "_is_dependency": true
     }
   ],
-  "extras_version": 106,
+  "extras_version": 108,
   "changelog": [
+    {
+      "date": "2026-07-01T20:28:38.496Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Framework 0.13.11",
+        "+ Clumps",
+        "+ Nature's Compass",
+        "+ FTB Quests (NeoForge)",
+        "+ [NEOFORGE][1.21.1] FTB Teams 2101.1.10",
+        "+ [NEOFORGE][1.21.1] FTB Library 2101.1.32",
+        "+ FTB Chunks (NeoForge)",
+        "+ FTB JEI Extras",
+        "+ Lootr (Forge & NeoForge)",
+        "+ FastWorkbench",
+        "+ Placebo-1.21.1-9.9.1.jar",
+        "+ ImmediatelyFast",
+        "+ Fast Leaf Decay",
+        "+ FastSuite",
+        "+ FastFurnace",
+        "+ Elytra Slot",
+        "+ caelus-neoforge-7.0.1+1.21.1.jar",
+        "+ Farming for Blockheads",
+        "+ Spice of Life: Carrot Edition",
+        "+ Lithium (Fabric/NeoForge)",
+        "+ Goblin Traders",
+        "+ Creeper Overhaul",
+        "+ NeoForge 1.21.1 4.9.2",
+        "+ [NeoForge] Resourceful Config 3.0.11",
+        "− Framework"
+      ]
+    },
     {
       "date": "2026-07-01T20:08:06.112Z",
       "author": "Martion000",
