@@ -1125,8 +1125,15 @@
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1235/586/256/256/638809416498662907.png"
     }
   ],
-  "extras_version": 82,
+  "extras_version": 83,
   "changelog": [
+    {
+      "date": "2026-07-01T19:27:46.912Z",
+      "author": "Martion000",
+      "changes": [
+        "− ⛏️ Create Ore Excavation x Mekanism (DP)"
+      ]
+    },
     {
       "date": "2026-07-01T19:16:24.886Z",
       "author": "Martion000",
@@ -1761,14 +1768,6 @@
       "file_name": "Tom's Create Style Recipes 1.0 - 1.21.zip",
       "version_number": "Tom's Create Style Recipes 1.0 - 1.21.zip",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1275/833/256/256/638830037377239809.png"
-    },
-    {
-      "name": "⛏️ Create Ore Excavation x Mekanism",
-      "curseforge_id": 1548147,
-      "download_url": "https://edge.forgecdn.net/files/8172/281/COExMekanism1.21_v2.zip",
-      "file_name": "COExMekanism1.21_v2.zip",
-      "version_number": "COExMekanism1.21_v2.zip",
-      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1816/823/256/256/639148202653931437.png"
     }
   ],
   "resourcepacks": [
