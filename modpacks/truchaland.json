@@ -980,10 +980,38 @@
       "_depends_on": [
         394468
       ]
+    },
+    {
+      "name": "Chisel Reborn [Forge/Fabric/NeoForge]",
+      "curseforge_id": 551763,
+      "download_url": "https://edge.forgecdn.net/files/8288/925/chisel-neoforge-2.0.1%2Bmc1.21.1.jar",
+      "file_name": "chisel-neoforge-2.0.1+mc1.21.1.jar",
+      "version_number": "[1.21.1] NeoForge 2.0.1",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/461/284/256/256/637740832557938621.png",
+      "_depends_on": [
+        419699,
+        1208896
+      ]
+    },
+    {
+      "name": "[1.21.11] NeoForge 1.0.0",
+      "curseforge_id": 1208896,
+      "download_url": "https://edge.forgecdn.net/files/7344/729/cryonicconfig-neoforge-1.0.0%2Bmc1.21.11.jar",
+      "file_name": "cryonicconfig-neoforge-1.0.0+mc1.21.11.jar",
+      "version_number": "[1.21.11] NeoForge 1.0.0",
+      "_is_dependency": true
     }
   ],
-  "extras_version": 75,
+  "extras_version": 76,
   "changelog": [
+    {
+      "date": "2026-07-01T18:04:45.049Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Chisel Reborn [Forge/Fabric/NeoForge]",
+        "+ [1.21.11] NeoForge 1.0.0"
+      ]
+    },
     {
       "date": "2026-07-01T18:02:40.225Z",
       "author": "Martion000",
