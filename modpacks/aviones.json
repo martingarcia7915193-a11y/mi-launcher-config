@@ -3306,7 +3306,7 @@
       ]
     }
   ],
-  "extras_version": 142,
+  "extras_version": 143,
   "extras_url": "",
   "resourcepacks": [
     {
@@ -3395,5 +3395,6 @@
       "version_number": "0.4",
       "icon_url": "https://cdn.modrinth.com/data/fJ183v3D/4f9a47a0ba16b8650d8e38ef257f0f9145160a46.png"
     }
-  ]
+  ],
+  "category": "cementerio"
 }
