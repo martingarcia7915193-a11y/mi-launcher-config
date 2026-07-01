@@ -1008,10 +1008,25 @@
       "file_name": "createaddition-1.6.0.jar",
       "version_number": "createaddition-neoforge-1.21.1-1.6.0",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/405/250/256/256/637616939209778882.png"
+    },
+    {
+      "name": "Create: Crafts & Additions and Aeronautics Compat",
+      "curseforge_id": 1532665,
+      "download_url": "https://mediafilez.forgecdn.net/files/8032/414/aeroadditionbridge-1.0.0.jar",
+      "file_name": "aeroadditionbridge-1.0.0.jar",
+      "version_number": "aeroadditionbridge-1.0.0.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1789/267/256/256/639134124031767068.png"
     }
   ],
-  "extras_version": 77,
+  "extras_version": 78,
   "changelog": [
+    {
+      "date": "2026-07-01T18:31:47.933Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Create: Crafts & Additions and Aeronautics Compat"
+      ]
+    },
     {
       "date": "2026-07-01T18:31:09.186Z",
       "author": "Martion000",
