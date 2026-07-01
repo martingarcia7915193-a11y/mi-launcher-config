@@ -963,10 +963,23 @@
       "file_name": "zergatul.freecam-2.3.1-neoforge-1.21.jar",
       "version_number": "zergatul.freecam-2.3.1-neoforge-1.21.jar",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/541/193/256/256/637868212217443747_animated.gif"
+    },
+    {
+      "name": "Prism",
+      "url": "https://cdn.modrinth.com/data/1OE8wbN0/versions/kMcz2lDj/Prism-1.21.1-neoforge-1.0.11.jar",
+      "filename": "Prism-1.21.1-neoforge-1.0.11.jar",
+      "modrinth_id": "1OE8wbN0"
     }
   ],
   "extras_version": 64,
   "changelog": [
+    {
+      "date": "2026-07-01T17:11:35.040Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Prism"
+      ]
+    },
     {
       "date": "2026-07-01T17:07:47.855Z",
       "author": "Martion000",
