@@ -1142,10 +1142,101 @@
       "file_name": "YungsApi-1.21.1-NeoForge-5.1.6.jar",
       "version_number": "[1.21.1] YUNG's API v5.1.6 (NeoForge)",
       "_is_dependency": true
+    },
+    {
+      "name": "Sophisticated JEI Index",
+      "curseforge_id": 1482785,
+      "download_url": "https://edge.forgecdn.net/files/8306/883/sophisticated_jei_index-1.0.3%2B1.21.1.jar",
+      "file_name": "sophisticated_jei_index-1.0.3+1.21.1.jar",
+      "version_number": "sophisticated_jei_index-1.0.3+1.21.1.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1711/232/256/256/639087561989279822.png"
+    },
+    {
+      "name": "Just Enough Resources (JER)",
+      "curseforge_id": 240630,
+      "download_url": "https://edge.forgecdn.net/files/6506/298/JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar",
+      "file_name": "JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar",
+      "version_number": "JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/32/419/256/256/635880199659979425.png"
+    },
+    {
+      "name": "Just Enough Professions (JEP)",
+      "curseforge_id": 417645,
+      "download_url": "https://edge.forgecdn.net/files/7966/681/JustEnoughProfessions-neoforge-1.21.1-4.0.5.jar",
+      "file_name": "JustEnoughProfessions-neoforge-1.21.1-4.0.5.jar",
+      "version_number": "JustEnoughProfessions-neoforge-1.21.1-4.0.5.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/311/84/256/256/637401177607519178.png"
+    },
+    {
+      "name": "Just Enough Breeding (JEBr)",
+      "curseforge_id": 899386,
+      "download_url": "https://edge.forgecdn.net/files/8138/627/justenoughbreeding-neoforge-1.21.1-3.1.0.jar",
+      "file_name": "justenoughbreeding-neoforge-1.21.1-3.1.0.jar",
+      "version_number": "justenoughbreeding-neoforge-1.21.1-3.1.0.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/862/389/256/256/638270817972208061.png"
+    },
+    {
+      "name": "Just Enough Archaeology",
+      "curseforge_id": 890755,
+      "download_url": "https://edge.forgecdn.net/files/7768/445/jearchaeology-1.21.1-1.2.0.jar",
+      "file_name": "jearchaeology-1.21.1-1.2.0.jar",
+      "version_number": "jearchaeology-1.21.1-1.2.0.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/852/158/256/256/638254730613855169.png"
+    },
+    {
+      "name": "Just Enough Effect Descriptions (JEED)",
+      "curseforge_id": 532286,
+      "download_url": "https://edge.forgecdn.net/files/7346/553/jeed-1.21-2.3.2.jar",
+      "file_name": "jeed-1.21-2.3.2.jar",
+      "version_number": "jeed-1.21-2.3.2.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/438/886/256/256/637685255314420532.png"
+    },
+    {
+      "name": "Enchantment Descriptions",
+      "curseforge_id": 250419,
+      "download_url": "https://edge.forgecdn.net/files/8240/827/enchdesc-neoforge-1.21.1-21.1.10.jar",
+      "file_name": "enchdesc-neoforge-1.21.1-21.1.10.jar",
+      "version_number": "enchdesc-neoforge-1.21.1-21.1.10.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/981/433/256/256/638488257207041172.png",
+      "_depends_on": [
+        228525,
+        1023259
+      ]
+    },
+    {
+      "name": "bookshelf-neoforge-1.21.1-21.1.81.jar",
+      "curseforge_id": 228525,
+      "download_url": "https://edge.forgecdn.net/files/7606/240/bookshelf-neoforge-1.21.1-21.1.81.jar",
+      "file_name": "bookshelf-neoforge-1.21.1-21.1.81.jar",
+      "version_number": "bookshelf-neoforge-1.21.1-21.1.81.jar",
+      "_is_dependency": true
+    },
+    {
+      "name": "prickle-neoforge-1.21.1-21.1.11.jar",
+      "curseforge_id": 1023259,
+      "download_url": "https://edge.forgecdn.net/files/6961/457/prickle-neoforge-1.21.1-21.1.11.jar",
+      "file_name": "prickle-neoforge-1.21.1-21.1.11.jar",
+      "version_number": "prickle-neoforge-1.21.1-21.1.11.jar",
+      "_is_dependency": true
     }
   ],
-  "extras_version": 100,
+  "extras_version": 102,
   "changelog": [
+    {
+      "date": "2026-07-01T20:00:25.022Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Sophisticated JEI Index",
+        "+ Just Enough Resources (JER)",
+        "+ Just Enough Professions (JEP)",
+        "+ Just Enough Breeding (JEBr)",
+        "+ Just Enough Archaeology",
+        "+ Just Enough Effect Descriptions (JEED)",
+        "+ Enchantment Descriptions",
+        "+ bookshelf-neoforge-1.21.1-21.1.81.jar",
+        "+ prickle-neoforge-1.21.1-21.1.11.jar"
+      ]
+    },
     {
       "date": "2026-07-01T19:43:15.704Z",
       "author": "Martion000",
