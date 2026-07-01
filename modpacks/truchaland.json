@@ -746,10 +746,106 @@
       ],
       "url": "https://edge.forgecdn.net/files/8186/85/createtransmission-1.2.1%2Bneoforge-create6-1.21.1.jar",
       "filename": "createtransmission-1.2.1+neoforge-create6-1.21.1.jar"
+    },
+    {
+      "name": "Macaw's Bridges",
+      "curseforge_id": 351725,
+      "download_url": "https://edge.forgecdn.net/files/7627/896/mcw-bridges-3.1.2-mc1.21.1neoforge.jar",
+      "file_name": "mcw-bridges-3.1.2-mc1.21.1neoforge.jar",
+      "version_number": "v3.1.2 / mc1.21.1 - NeoForge",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/237/234/256/256/637098539787193844.jpeg"
+    },
+    {
+      "name": "Macaw's Fences and Walls",
+      "curseforge_id": 453925,
+      "download_url": "https://edge.forgecdn.net/files/7308/338/mcw-mcwfences-1.2.1-mc1.21.1neoforge.jar",
+      "file_name": "mcw-mcwfences-1.2.1-mc1.21.1neoforge.jar",
+      "version_number": "v1.2.1 / mc1.21.1 - NeoForge",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/351/704/256/256/637506435866467167.png"
+    },
+    {
+      "name": "Macaw's Doors",
+      "curseforge_id": 378646,
+      "download_url": "https://edge.forgecdn.net/files/7618/651/mcw-doors-1.1.5-mc1.21.1neoforge.jar",
+      "file_name": "mcw-doors-1.1.5-mc1.21.1neoforge.jar",
+      "version_number": "v1.1.5 / mc1.21.1 - NeoForge",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/303/442/256/256/637372493411502504.jpeg"
+    },
+    {
+      "name": "Macaw's Windows",
+      "curseforge_id": 363569,
+      "download_url": "https://edge.forgecdn.net/files/7317/672/mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar",
+      "file_name": "mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar",
+      "version_number": "v2.4.2 / mc1.21.1 - NeoForge",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/877/195/256/256/638302089747019943.png"
+    },
+    {
+      "name": "Macaw's Furniture",
+      "curseforge_id": 359540,
+      "download_url": "https://edge.forgecdn.net/files/7255/584/mcw-furniture-3.4.1-mc1.21.1neoforge.jar",
+      "file_name": "mcw-furniture-3.4.1-mc1.21.1neoforge.jar",
+      "version_number": "v3.4.1 / mc1.21.1 - NeoForge",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1511/553/256/256/638981785016795309.jpg"
+    },
+    {
+      "name": "Macaw's Trapdoors",
+      "curseforge_id": 400933,
+      "download_url": "https://edge.forgecdn.net/files/7256/148/mcw-trapdoors-1.1.5-mc1.21.1neoforge.jar",
+      "file_name": "mcw-trapdoors-1.1.5-mc1.21.1neoforge.jar",
+      "version_number": "v1.1.5 / mc1.21.1 - NeoForge",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/292/157/256/256/637324647329746340.jpeg"
+    },
+    {
+      "name": "Macaw's Roofs",
+      "curseforge_id": 352039,
+      "download_url": "https://edge.forgecdn.net/files/6494/399/mcw-roofs-2.3.2-mc1.21.1neoforge.jar",
+      "file_name": "mcw-roofs-2.3.2-mc1.21.1neoforge.jar",
+      "version_number": "v2.3.2 / mc1.21.1 - NeoForge",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/598/801/256/256/637977355903879047.jpeg"
+    },
+    {
+      "name": "Macaw's Lights and Lamps",
+      "curseforge_id": 502372,
+      "download_url": "https://edge.forgecdn.net/files/7304/75/mcw-lights-1.1.5-mc1.21.1neoforge.jar",
+      "file_name": "mcw-lights-1.1.5-mc1.21.1neoforge.jar",
+      "version_number": "v1.1.5 / mc1.21.1 - NeoForge",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1018/353/256/256/638544982594670903.png"
+    },
+    {
+      "name": "Macaw's Paths and Pavings",
+      "curseforge_id": 629153,
+      "download_url": "https://edge.forgecdn.net/files/7029/451/mcw-mcwpaths-1.1.1-mc1.21.1neoforge.jar",
+      "file_name": "mcw-mcwpaths-1.1.1-mc1.21.1neoforge.jar",
+      "version_number": "v1.1.1 / mc1.21.1 - NeoForge",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/937/771/256/256/638416317989163538.png"
+    },
+    {
+      "name": "Macaw's Stairs",
+      "curseforge_id": 1119394,
+      "download_url": "https://edge.forgecdn.net/files/7317/479/mcw-mcwstairs-1.0.2-mc1.21.1neoforge.jar",
+      "file_name": "mcw-mcwstairs-1.0.2-mc1.21.1neoforge.jar",
+      "version_number": "v1.0.2 / mc1.21.1 - NeoForge",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1096/608/256/256/638642374680439325.png"
     }
   ],
-  "extras_version": 64,
+  "extras_version": 65,
   "changelog": [
+    {
+      "date": "2026-07-01T16:49:18.758Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Macaw's Bridges",
+        "+ Macaw's Fences and Walls",
+        "+ Macaw's Doors",
+        "+ Macaw's Windows",
+        "+ Macaw's Furniture",
+        "+ Macaw's Trapdoors",
+        "+ Macaw's Roofs",
+        "+ Macaw's Lights and Lamps",
+        "+ Macaw's Paths and Pavings",
+        "+ Macaw's Stairs"
+      ]
+    },
     {
       "date": "2026-07-01T07:33:50.999Z",
       "author": "Martion000",
