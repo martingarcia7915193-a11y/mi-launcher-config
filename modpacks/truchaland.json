@@ -455,17 +455,6 @@
       "_is_dependency": true
     },
     {
-      "name": "Just Zoom",
-      "curseforge_id": 561885,
-      "download_url": "https://edge.forgecdn.net/files/6290/230/justzoom_neoforge_2.1.0_MC_1.21.1.jar",
-      "file_name": "justzoom_neoforge_2.1.0_MC_1.21.1.jar",
-      "version_number": "[NeoForge] v2.1.0 MC 1.21.1",
-      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1324/771/256/256/638861240221497743.png",
-      "_depends_on": [
-        410295
-      ]
-    },
-    {
       "name": "[NeoForge] v1.9.9 MC 1.21",
       "curseforge_id": 410295,
       "download_url": "https://edge.forgecdn.net/files/5453/385/konkrete_neoforge_1.9.9_MC_1.21.jar",
@@ -993,8 +982,15 @@
       ]
     }
   ],
-  "extras_version": 74,
+  "extras_version": 75,
   "changelog": [
+    {
+      "date": "2026-07-01T18:02:40.225Z",
+      "author": "Martion000",
+      "changes": [
+        "− Just Zoom"
+      ]
+    },
     {
       "date": "2026-07-01T17:58:46.298Z",
       "author": "Martion000",
