@@ -39,9 +39,9 @@
     {
       "name": "Sodium",
       "curseforge_id": 394468,
-      "download_url": "https://edge.forgecdn.net/files/6382/651/sodium-neoforge-0.6.13%2bmc1.21.1.jar",
-      "file_name": "sodium-neoforge-0.6.13+mc1.21.1.jar",
-      "version_number": "Sodium 0.6.13 for NeoForge",
+      "download_url": "https://edge.forgecdn.net/files/8084/992/sodium-neoforge-0.8.12-alpha.2%2bmc1.21.1.jar",
+      "file_name": "sodium-neoforge-0.8.12-alpha.2+mc1.21.1.jar",
+      "version_number": "Sodium 0.8.12-alpha.2 for NeoForge 1.21.1",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/284/773/256/256/637298471098686391.png"
     },
     {
@@ -1008,8 +1008,15 @@
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/414/599/256/256/637636962431399112.png"
     }
   ],
-  "extras_version": 68,
+  "extras_version": 69,
   "changelog": [
+    {
+      "date": "2026-07-01T17:44:33.125Z",
+      "author": "Martion000",
+      "changes": [
+        "⬆ Sodium: Sodium 0.6.13 for NeoForge → Sodium 0.8.12-alpha.2 for NeoForge 1.21.1"
+      ]
+    },
     {
       "date": "2026-07-01T17:43:24.900Z",
       "author": "Martion000",
