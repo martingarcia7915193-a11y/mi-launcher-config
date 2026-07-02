@@ -1807,10 +1807,25 @@
       "file_name": "alltheleaks-1.1.9+1.21.1-neoforge.jar",
       "version_number": "alltheleaks-1.1.9+1.21.1-neoforge.jar",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1068/365/256/256/638602852129913496.png"
+    },
+    {
+      "name": "ModernFix",
+      "curseforge_id": 790626,
+      "download_url": "https://edge.forgecdn.net/files/7969/602/modernfix-neoforge-5.27.3%2bmc1.21.1.jar",
+      "file_name": "modernfix-neoforge-5.27.3+mc1.21.1.jar",
+      "version_number": "modernfix-neoforge-5.27.3+mc1.21.1.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/881/436/638311693460984164.png"
     }
   ],
   "extras_version": 118,
   "changelog": [
+    {
+      "date": "2026-07-02T06:23:30.151Z",
+      "author": "Martion000",
+      "changes": [
+        "+ ModernFix"
+      ]
+    },
     {
       "date": "2026-07-02T04:49:44.397Z",
       "author": "Martion000",
