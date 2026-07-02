@@ -1843,10 +1843,25 @@
       "_depends_on": [
         326652
       ]
+    },
+    {
+      "name": "FerriteCore ((Neo)Forge)",
+      "curseforge_id": 429235,
+      "download_url": "https://edge.forgecdn.net/files/7524/151/ferritecore-7.0.3-neoforge.jar",
+      "file_name": "ferritecore-7.0.3-neoforge.jar",
+      "version_number": "ferritecore-7.0.3-neoforge",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/323/941/256/256/637438748346113688.jpeg"
     }
   ],
-  "extras_version": 120,
+  "extras_version": 122,
   "changelog": [
+    {
+      "date": "2026-07-02T06:32:13.292Z",
+      "author": "Martion000",
+      "changes": [
+        "+ FerriteCore ((Neo)Forge)"
+      ]
+    },
     {
       "date": "2026-07-02T06:29:33.484Z",
       "author": "Martion000",
