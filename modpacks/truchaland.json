@@ -1459,10 +1459,397 @@
       "file_name": "createdeco-2.1.3.jar",
       "version_number": "createdeco-2.1.3.jar",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1065/338/256/256/638598933457608969.png"
+    },
+    {
+      "name": "Ars Nouveau",
+      "curseforge_id": 401955,
+      "download_url": "https://edge.forgecdn.net/files/8346/406/ars_nouveau-1.21.1-5.12.1.jar",
+      "file_name": "ars_nouveau-1.21.1-5.12.1.jar",
+      "version_number": "ars_nouveau-1.21.1-5.12.1",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/565/915/256/256/637924211543296813.png"
+    },
+    {
+      "name": "Ars Polymorphia",
+      "curseforge_id": 1197614,
+      "download_url": "https://edge.forgecdn.net/files/6219/409/ars_polymorphia-1.0.3.jar",
+      "file_name": "ars_polymorphia-1.0.3.jar",
+      "version_number": "Ars Polymorphia 1.0.3 for 1.21.1",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1175/686/256/256/638747919257650409.png"
+    },
+    {
+      "name": "Reliquified Ars Nouveau",
+      "curseforge_id": 1196449,
+      "download_url": "https://edge.forgecdn.net/files/8104/341/reliquified_ars_nouveau-1.21.1-0.8.1.jar",
+      "file_name": "reliquified_ars_nouveau-1.21.1-0.8.1.jar",
+      "version_number": "reliquified_ars_nouveau-1.21.1-0.8.1.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1174/478/256/256/638746479887868344_animated.gif"
+    },
+    {
+      "name": "Iron's Spells 'n Spellbooks",
+      "curseforge_id": 855414,
+      "download_url": "https://edge.forgecdn.net/files/8237/97/irons_spellbooks-1.21.1-3.16.1.jar",
+      "file_name": "irons_spellbooks-1.21.1-3.16.1.jar",
+      "version_number": "v1.21.1-3.16.1",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/871/265/256/256/638288661913483053.png",
+      "_depends_on": [
+        309927,
+        388172,
+        1492763,
+        658587
+      ]
+    },
+    {
+      "name": "irons_lib-1.21.1-1.1.0.jar",
+      "curseforge_id": 1492763,
+      "download_url": "https://edge.forgecdn.net/files/8207/94/irons_lib-1.21.1-1.1.0.jar",
+      "file_name": "irons_lib-1.21.1-1.1.0.jar",
+      "version_number": "irons_lib-1.21.1-1.1.0.jar",
+      "_is_dependency": true
+    },
+    {
+      "name": "player-animation-lib-forge-2.0.4+1.21.1.jar",
+      "curseforge_id": 658587,
+      "download_url": "https://edge.forgecdn.net/files/7389/814/player-animation-lib-forge-2.0.4%2B1.21.1.jar",
+      "file_name": "player-animation-lib-forge-2.0.4+1.21.1.jar",
+      "version_number": "player-animation-lib-forge-2.0.4+1.21.1.jar",
+      "_is_dependency": true
+    },
+    {
+      "name": "Iron's Spells 'n Spellbooks-Aeronautics Compatibility",
+      "curseforge_id": 1544353,
+      "download_url": "https://edge.forgecdn.net/files/8284/717/ironssablecompat-1.0.4.jar",
+      "file_name": "ironssablecompat-1.0.4.jar",
+      "version_number": "Irons-sable-compat v1.0.4",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1810/29/256/256/639144868500768399.png"
+    },
+    {
+      "name": "MineColonies Mages (IronSpells integration)",
+      "curseforge_id": 1506482,
+      "download_url": "https://edge.forgecdn.net/files/8309/715/minecolonies-mages-2.2.jar",
+      "file_name": "minecolonies-mages-2.2.jar",
+      "version_number": "minecolonies-mages-2.2.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1748/651/256/256/639112786713547983.png"
+    },
+    {
+      "name": "Create: Interiors",
+      "curseforge_id": 906239,
+      "download_url": "https://edge.forgecdn.net/files/7544/5/interiors-1.21.1-neoforge-0.6.1.jar",
+      "file_name": "interiors-1.21.1-neoforge-0.6.1.jar",
+      "version_number": "Interiors 0.6.1 for NeoForge 1.21.1",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1068/436/256/256/638602929407669140.png"
+    },
+    {
+      "name": "Create: Diesel Generators",
+      "curseforge_id": 869316,
+      "download_url": "https://edge.forgecdn.net/files/8298/898/createdieselgenerators-1.21.1-1.3.14.jar",
+      "file_name": "createdieselgenerators-1.21.1-1.3.14.jar",
+      "version_number": "createdieselgenerators-1.21.1-1.3.14.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1065/563/256/256/638599261172976487.png"
+    },
+    {
+      "name": "Create: Design n' Decor",
+      "curseforge_id": 923238,
+      "download_url": "https://mediafilez.forgecdn.net/files/8156/977/Design-n-Decor-1.21.1-2.2b.jar",
+      "file_name": "Design-n-Decor-1.21.1-2.2b.jar",
+      "version_number": "Design-n-Decor-1.21.1-2.2b",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1293/563/256/256/638840765433611351.png"
+    },
+    {
+      "name": "Create: Trading Floor",
+      "curseforge_id": 1102591,
+      "download_url": "https://edge.forgecdn.net/files/7625/579/trading_floor-3.0.16.jar",
+      "file_name": "trading_floor-3.0.16.jar",
+      "version_number": "Create: Trading Floor 3.0.16 Neoforge 1.21.1",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1080/857/256/256/638620276513777713.png"
+    },
+    {
+      "name": "Create: Oxidized",
+      "curseforge_id": 953729,
+      "download_url": "https://mediafilez.forgecdn.net/files/6286/593/create_oxidized-0.1.3.jar",
+      "file_name": "create_oxidized-0.1.3.jar",
+      "version_number": "Create: Oxidized-1.21.1-0.1.3",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/923/484/256/256/638390204260502314.png"
+    },
+    {
+      "name": "Create: Pattern Schematics",
+      "curseforge_id": 1072349,
+      "download_url": "https://edge.forgecdn.net/files/7155/413/create_pattern_schematics-2.0.10.jar",
+      "file_name": "create_pattern_schematics-2.0.10.jar",
+      "version_number": "Create: Pattern Schematics 2.0.10 NeoForge 1.21.1",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1089/645/256/256/638632784144958497.png"
+    },
+    {
+      "name": "Create: Ender Transmission",
+      "curseforge_id": 737302,
+      "download_url": "https://edge.forgecdn.net/files/7232/820/createendertransmission-2.1.1-1.21.1.jar",
+      "file_name": "createendertransmission-2.1.1-1.21.1.jar",
+      "version_number": "1.21.1 v2.1.1",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/676/189/256/256/638066998336576214.png"
+    },
+    {
+      "name": "Create: Dreams n' Desires",
+      "curseforge_id": 864781,
+      "download_url": "https://mediafilez.forgecdn.net/files/8037/481/DnDesires-1.21.1-2.3a-BETA.jar",
+      "file_name": "DnDesires-1.21.1-2.3a-BETA.jar",
+      "version_number": "DnDesires-1.21.1-2.3a-BETA",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1065/286/256/256/638598847906933576_animated.gif"
+    },
+    {
+      "name": "Create: Framed",
+      "curseforge_id": 953126,
+      "download_url": "https://edge.forgecdn.net/files/7698/798/createframed-1.21.1-1.7.3.jar",
+      "file_name": "createframed-1.21.1-1.7.3.jar",
+      "version_number": "[Neoforge] Create: Framed 1.7.3 for mc1.21.1",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1286/328/256/256/638836511970903030.png"
+    },
+    {
+      "name": "Create: Escalated",
+      "curseforge_id": 1260145,
+      "download_url": "https://edge.forgecdn.net/files/8174/720/escalated-1.3.1-mc.1.21.1.jar",
+      "file_name": "escalated-1.3.1-mc.1.21.1.jar",
+      "version_number": "Create: Escalated v1.3.1 for NeoForge 1.21.1, Create v6.0.7+",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1261/902/256/256/638821569425963837_animated.gif"
+    },
+    {
+      "name": "Create: Some Assembly Required",
+      "curseforge_id": 422951,
+      "download_url": "https://edge.forgecdn.net/files/7701/961/someassemblyrequired-5.2.8.jar",
+      "file_name": "someassemblyrequired-5.2.8.jar",
+      "version_number": "someassemblyrequired-5.2.8.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1627/585/256/256/639044355329342928.webp",
+      "_depends_on": [
+        398521
+      ]
+    },
+    {
+      "name": "Farmer's Delight 1.3.2 - 1.21.1",
+      "curseforge_id": 398521,
+      "download_url": "https://edge.forgecdn.net/files/8083/481/FarmersDelight-1.21.1-1.3.2.jar",
+      "file_name": "FarmersDelight-1.21.1-1.3.2.jar",
+      "version_number": "Farmer's Delight 1.3.2 - 1.21.1",
+      "_is_dependency": true
+    },
+    {
+      "name": "Create: Metallurgy",
+      "curseforge_id": 1007404,
+      "download_url": "https://edge.forgecdn.net/files/8128/243/createmetallurgy-1.0.3-1.21.1.jar",
+      "file_name": "createmetallurgy-1.0.3-1.21.1.jar",
+      "version_number": "Create Metallurgy 1.0.3-1.21.1 for Create 6.0.10",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1067/678/256/256/638601990197055996.png"
+    },
+    {
+      "name": "Create: Structures Arise",
+      "curseforge_id": 1010066,
+      "download_url": "https://mediafilez.forgecdn.net/files/8138/502/create_structures_arise-176.49.48%20NeoForge%201.21.1.jar",
+      "file_name": "create_structures_arise-176.49.48 NeoForge 1.21.1.jar",
+      "version_number": "create_structures_arise-176.49.48 NeoForge 1.21.1.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1067/516/256/256/638601854484952136.png"
+    },
+    {
+      "name": "Create: Easy Structures",
+      "curseforge_id": 949158,
+      "download_url": "https://edge.forgecdn.net/files/6344/382/create_easy_structures-0.2a-neoforge-1.21.1.jar",
+      "file_name": "create_easy_structures-0.2a-neoforge-1.21.1.jar",
+      "version_number": "create_easy_structures-0.2a-neoforge-1.21.1.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1191/411/256/256/638766223397631835.png"
+    },
+    {
+      "name": "Create: Rustic Structures",
+      "curseforge_id": 1232975,
+      "download_url": "https://edge.forgecdn.net/files/8122/33/create_rustic_structures-1.0.1-neoforge-1.21.1.jar",
+      "file_name": "create_rustic_structures-1.0.1-neoforge-1.21.1.jar",
+      "version_number": "create_rustic_structures-1.0.1-neoforge-1.21.1.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1212/509/256/256/638790501713629564.png"
+    },
+    {
+      "name": "Create: Integrated Farming",
+      "curseforge_id": 1249131,
+      "download_url": "https://edge.forgecdn.net/files/8225/206/create-integrated-farming-1.2.6.jar",
+      "file_name": "create-integrated-farming-1.2.6.jar",
+      "version_number": "Create: Integrated Farming 1.2.6 for Create 1.21.1-6.0.10",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1234/923/256/256/638809167037442343.png",
+      "_depends_on": [
+        1216624
+      ]
+    },
+    {
+      "name": "Create: Mobile Packages",
+      "curseforge_id": 1232978,
+      "download_url": "https://edge.forgecdn.net/files/8059/964/create_mobile_packages-1.21.1-0.7.6.jar",
+      "file_name": "create_mobile_packages-1.21.1-0.7.6.jar",
+      "version_number": "Create: Mobile Packages 1.21.1-0.7.6",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1243/148/256/256/638812853709049141.png"
+    },
+    {
+      "name": "Create: Mechanical Botany",
+      "curseforge_id": 1276978,
+      "download_url": "https://edge.forgecdn.net/files/8106/211/mechanical_botany-1.1.3%2B1.21.1-neoforged.jar",
+      "file_name": "mechanical_botany-1.1.3+1.21.1-neoforged.jar",
+      "version_number": "Create: Mechanical Botany 1.1.3 for mc1.21.1",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1295/930/256/256/638842349374482643.png"
+    },
+    {
+      "name": "Create: Power Grid",
+      "curseforge_id": 1321420,
+      "download_url": "https://edge.forgecdn.net/files/7999/916/powergrid-mc1.21.1-0.5.5.1.jar",
+      "file_name": "powergrid-mc1.21.1-0.5.5.1.jar",
+      "version_number": "Power Grid - 0.5.5.1 - NeoForge",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1388/107/256/256/638900061194844298.png",
+      "_depends_on": [
+        328085,
+        419699
+      ]
+    },
+    {
+      "name": "Create Aeronautics x Curios API Compat",
+      "curseforge_id": 1532334,
+      "download_url": "https://edge.forgecdn.net/files/8249/93/createaeronauticscurios-neoforge-1.21.1-2.1.jar",
+      "file_name": "createaeronauticscurios-neoforge-1.21.1-2.1.jar",
+      "version_number": "createaeronauticscurios-neoforge-1.21.1-2.1",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1790/429/256/256/639134569287430816.png"
+    },
+    {
+      "name": "Create  Deep Seas",
+      "curseforge_id": 1533137,
+      "download_url": "https://edge.forgecdn.net/files/8268/622/create_submarine-2.2.4.jar",
+      "file_name": "create_submarine-2.2.4.jar",
+      "version_number": "create_submarine-2.2.4.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1862/784/256/256/639169559332988174.png"
+    },
+    {
+      "name": "Create: Aeroworks",
+      "curseforge_id": 1522473,
+      "download_url": "https://edge.forgecdn.net/files/8185/390/aeroworks-1.2.11.jar",
+      "file_name": "aeroworks-1.2.11.jar",
+      "version_number": "1.2.11+mc1.21.1",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1774/605/256/256/639127090492821570.png"
+    },
+    {
+      "name": "Jade Sable Compat",
+      "curseforge_id": 1530988,
+      "download_url": "https://edge.forgecdn.net/files/8269/260/sablejade-1.2.1.jar",
+      "file_name": "sablejade-1.2.1.jar",
+      "version_number": "sablejade-1.2.1.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1786/297/256/256/639132741709404844.png"
+    },
+    {
+      "name": "Create Aeronautics: Dyeable Components",
+      "curseforge_id": 1518023,
+      "download_url": "https://edge.forgecdn.net/files/8344/761/dyeable-components-1.0.4%2Bmc1.21.1.jar",
+      "file_name": "dyeable-components-1.0.4+mc1.21.1.jar",
+      "version_number": "dyeable-components-1.0.4+mc1.21.1.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1763/463/256/256/639121401338968937.png"
+    },
+    {
+      "name": "Create: Gears and Tavern",
+      "curseforge_id": 1504275,
+      "download_url": "https://edge.forgecdn.net/files/8160/479/creategearsandtavern-1.1.6.jar",
+      "file_name": "creategearsandtavern-1.1.6.jar",
+      "version_number": "Gears and Tavern-1.1.6.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1741/932/256/256/639109010602772335.png",
+      "_depends_on": [
+        1475175,
+        328085
+      ]
+    },
+    {
+      "name": "kaleidoscopetavern-1.2.0-neoforge+mc1.21.1.jar",
+      "curseforge_id": 1475175,
+      "download_url": "https://edge.forgecdn.net/files/8350/856/kaleidoscopetavern-1.2.0-neoforge%2Bmc1.21.1.jar",
+      "file_name": "kaleidoscopetavern-1.2.0-neoforge+mc1.21.1.jar",
+      "version_number": "kaleidoscopetavern-1.2.0-neoforge+mc1.21.1.jar",
+      "_is_dependency": true
+    },
+    {
+      "name": "Create: More Girder",
+      "curseforge_id": 1371561,
+      "download_url": "https://edge.forgecdn.net/files/8140/259/create-more-girder-2.1.1-neo.jar",
+      "file_name": "create-more-girder-2.1.1-neo.jar",
+      "version_number": "create-more-girder-2.1.1-neo",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1491/478/256/256/638969202858469297.png"
+    },
+    {
+      "name": "Create: Colony Logistics",
+      "curseforge_id": 1466643,
+      "download_url": "https://mediafilez.forgecdn.net/files/8351/228/create_colony_logistics-1.3.0.jar",
+      "file_name": "create_colony_logistics-1.3.0.jar",
+      "version_number": "create_colony_logistics-1.3.0.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1686/960/256/256/639071235787684198.png"
+    },
+    {
+      "name": "Kaleidoscope Cookery",
+      "curseforge_id": 1309203,
+      "download_url": "https://edge.forgecdn.net/files/8266/772/kaleidoscopecookery-1.4.1-neoforge%2Bmc1.21.1.jar",
+      "file_name": "kaleidoscopecookery-1.4.1-neoforge+mc1.21.1.jar",
+      "version_number": "kaleidoscopecookery-1.4.1-neoforge+mc1.21.1.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1361/462/256/256/638884307253099520.png"
+    },
+    {
+      "name": "Mutants and Zombies",
+      "curseforge_id": 1204883,
+      "download_url": "https://edge.forgecdn.net/files/7142/128/MutantsZombies-1.3.1-NeoForge-mc1.21.jar",
+      "file_name": "MutantsZombies-1.3.1-NeoForge-mc1.21.jar",
+      "version_number": "1.3.1 (NeoForge 1.21-1.21.1)",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1489/121/256/256/638967592931184371.png"
+    },
+    {
+      "name": "Dungeon Crawl",
+      "curseforge_id": 324973,
+      "download_url": "https://edge.forgecdn.net/files/7887/320/DungeonCrawl-NeoForge-1.21-2.3.17.jar",
+      "file_name": "DungeonCrawl-NeoForge-1.21-2.3.17.jar",
+      "version_number": "mc1.21.1-2.3.17",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/410/569/256/256/637627452553277521.png"
     }
   ],
-  "extras_version": 114,
+  "extras_version": 116,
   "changelog": [
+    {
+      "date": "2026-07-02T04:34:44.934Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Ars Nouveau",
+        "+ Ars Polymorphia",
+        "+ Reliquified Ars Nouveau",
+        "+ Iron's Spells 'n Spellbooks",
+        "+ irons_lib-1.21.1-1.1.0.jar",
+        "+ player-animation-lib-forge-2.0.4+1.21.1.jar",
+        "+ Iron's Spells 'n Spellbooks-Aeronautics Compatibility",
+        "+ MineColonies Mages (IronSpells integration)",
+        "+ Create: Interiors",
+        "+ Create: Diesel Generators",
+        "+ Create: Design n' Decor",
+        "+ Create: Trading Floor",
+        "+ Create: Oxidized",
+        "+ Create: Pattern Schematics",
+        "+ Create: Ender Transmission",
+        "+ Create: Dreams n' Desires",
+        "+ Create: Framed",
+        "+ Create: Escalated",
+        "+ Create: Some Assembly Required",
+        "+ Farmer's Delight 1.3.2 - 1.21.1",
+        "+ Create: Metallurgy",
+        "+ Create: Structures Arise",
+        "+ Create: Easy Structures",
+        "+ Create: Rustic Structures",
+        "+ Create: Integrated Farming",
+        "+ Create: Mobile Packages",
+        "+ Create: Mechanical Botany",
+        "+ Create: Power Grid",
+        "+ Create Aeronautics x Curios API Compat",
+        "+ Create  Deep Seas",
+        "+ Create: Aeroworks",
+        "+ Jade Sable Compat",
+        "+ Create Aeronautics: Dyeable Components",
+        "+ Create: Gears and Tavern",
+        "+ kaleidoscopetavern-1.2.0-neoforge+mc1.21.1.jar",
+        "+ Create: More Girder",
+        "+ Create: Colony Logistics",
+        "+ Kaleidoscope Cookery",
+        "+ Mutants and Zombies",
+        "+ Dungeon Crawl",
+        "+ Create: Create: Dreams n' Desires - No Diamond Recipes (DP)"
+      ]
+    },
     {
       "date": "2026-07-02T03:54:07.534Z",
       "author": "Martion000",
@@ -2197,6 +2584,14 @@
       "file_name": "Tom's Create Style Recipes 1.0 - 1.21.zip",
       "version_number": "Tom's Create Style Recipes 1.0 - 1.21.zip",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1275/833/256/256/638830037377239809.png"
+    },
+    {
+      "name": "Create: Create: Dreams n' Desires - No Diamond Recipes",
+      "curseforge_id": 1455778,
+      "download_url": "https://edge.forgecdn.net/files/7586/38/no_dnd_diamond_1.21.zip",
+      "file_name": "no_dnd_diamond_1.21.zip",
+      "version_number": "no_dnd_diamond_1.21.zip",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1665/33/256/256/639060067460467018.png"
     }
   ],
   "resourcepacks": [
