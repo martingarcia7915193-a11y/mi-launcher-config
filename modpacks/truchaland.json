@@ -1799,10 +1799,25 @@
       "file_name": "DungeonCrawl-NeoForge-1.21-2.3.17.jar",
       "version_number": "mc1.21.1-2.3.17",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/410/569/256/256/637627452553277521.png"
+    },
+    {
+      "name": "AllTheLeaks (Memory Leak Fix)",
+      "curseforge_id": 1091339,
+      "download_url": "https://edge.forgecdn.net/files/8090/653/alltheleaks-1.1.9%2B1.21.1-neoforge.jar",
+      "file_name": "alltheleaks-1.1.9+1.21.1-neoforge.jar",
+      "version_number": "alltheleaks-1.1.9+1.21.1-neoforge.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1068/365/256/256/638602852129913496.png"
     }
   ],
-  "extras_version": 116,
+  "extras_version": 118,
   "changelog": [
+    {
+      "date": "2026-07-02T04:49:44.397Z",
+      "author": "Martion000",
+      "changes": [
+        "+ AllTheLeaks (Memory Leak Fix)"
+      ]
+    },
     {
       "date": "2026-07-02T04:34:44.934Z",
       "author": "Martion000",
