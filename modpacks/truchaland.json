@@ -1851,10 +1851,25 @@
       "file_name": "ferritecore-7.0.3-neoforge.jar",
       "version_number": "ferritecore-7.0.3-neoforge",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/323/941/256/256/637438748346113688.jpeg"
+    },
+    {
+      "name": "Load My F***ing Tags",
+      "curseforge_id": 656346,
+      "download_url": "https://edge.forgecdn.net/files/7084/444/lmft-1.1.1%2B1.21.9-neoforge.jar",
+      "file_name": "lmft-1.1.1+1.21.9-neoforge.jar",
+      "version_number": "LMFT Neoforge 1.1.1 for Minecraft 1.21.9",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/585/887/256/256/637953337792588709.png"
     }
   ],
-  "extras_version": 122,
+  "extras_version": 124,
   "changelog": [
+    {
+      "date": "2026-07-02T06:32:31.182Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Load My F***ing Tags"
+      ]
+    },
     {
       "date": "2026-07-02T06:32:13.292Z",
       "author": "Martion000",
