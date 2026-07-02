@@ -1815,10 +1815,26 @@
       "file_name": "modernfix-neoforge-5.27.3+mc1.21.1.jar",
       "version_number": "modernfix-neoforge-5.27.3+mc1.21.1.jar",
       "icon_url": "https://media.forgecdn.net/avatars/881/436/638311693460984164.png"
+    },
+    {
+      "name": "Crash Assistant",
+      "curseforge_id": 1154099,
+      "download_url": "https://edge.forgecdn.net/files/7913/44/CrashAssistant-neoforge-1.20.6-1.21.4-1.11.8.jar",
+      "file_name": "CrashAssistant-neoforge-1.20.6-1.21.4-1.11.8.jar",
+      "version_number": "CrashAssistant-neoforge-1.20.6-1.21.4-1.11.8.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/1482/227/638963404721998907.png",
+      "client_only": true
     }
   ],
   "extras_version": 118,
   "changelog": [
+    {
+      "date": "2026-07-02T06:23:44.575Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Crash Assistant"
+      ]
+    },
     {
       "date": "2026-07-02T06:23:30.151Z",
       "author": "Martion000",
