@@ -1824,10 +1824,37 @@
       "version_number": "CrashAssistant-neoforge-1.20.6-1.21.4-1.11.8.jar",
       "icon_url": "https://media.forgecdn.net/avatars/1482/227/638963404721998907.png",
       "client_only": true
+    },
+    {
+      "name": "Disconnect Packet Fix",
+      "curseforge_id": 1173964,
+      "download_url": "https://edge.forgecdn.net/files/6064/142/disconnect-packet-fix-neoforge-2.0.1.jar",
+      "file_name": "disconnect-packet-fix-neoforge-2.0.1.jar",
+      "version_number": "Disconnect Packet Fix 2.0.1 for NeoForge",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1151/167/256/256/638718903094235407.png"
+    },
+    {
+      "name": "fix GPU memory leak",
+      "curseforge_id": 882495,
+      "download_url": "https://edge.forgecdn.net/files/5513/549/gpumemleakfix-1.21-1.8.jar",
+      "file_name": "gpumemleakfix-1.21-1.8.jar",
+      "version_number": "gpumemleakfix-1.21-1.8.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/841/827/256/256/638236647684351264.png",
+      "_depends_on": [
+        326652
+      ]
     }
   ],
-  "extras_version": 118,
+  "extras_version": 120,
   "changelog": [
+    {
+      "date": "2026-07-02T06:29:33.484Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Disconnect Packet Fix",
+        "+ fix GPU memory leak"
+      ]
+    },
     {
       "date": "2026-07-02T06:23:44.575Z",
       "author": "Martion000",
