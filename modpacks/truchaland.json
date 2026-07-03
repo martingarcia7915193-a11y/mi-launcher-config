@@ -1859,10 +1859,60 @@
       "file_name": "lmft-1.1.1+1.21.9-neoforge.jar",
       "version_number": "LMFT Neoforge 1.1.1 for Minecraft 1.21.9",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/585/887/256/256/637953337792588709.png"
+    },
+    {
+      "name": "Fuel Goes Here",
+      "curseforge_id": 659090,
+      "download_url": "https://edge.forgecdn.net/files/6003/423/fuelgoeshere-1.21.1-1.2.0.jar",
+      "file_name": "fuelgoeshere-1.21.1-1.2.0.jar",
+      "version_number": "fuelgoeshere-1.21.1-1.2.0.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/589/28/256/256/637959614638135869.png"
+    },
+    {
+      "name": "KubeJS NeoForge 2101.7.2-build.368",
+      "curseforge_id": 238086,
+      "download_url": "https://edge.forgecdn.net/files/8083/208/kubejs-neoforge-2101.7.2-build.368.jar",
+      "file_name": "kubejs-neoforge-2101.7.2-build.368.jar",
+      "version_number": "KubeJS NeoForge 2101.7.2-build.368",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1053/159/256/256/638583716122159056.png",
+      "_depends_on": [
+        416294
+      ],
+      "_is_dependency": true
+    },
+    {
+      "name": "Rhino 2101.2.7-build.85",
+      "curseforge_id": 416294,
+      "download_url": "https://edge.forgecdn.net/files/8218/748/rhino-2101.2.7-build.85.jar",
+      "file_name": "rhino-2101.2.7-build.85.jar",
+      "version_number": "Rhino 2101.2.7-build.85",
+      "_is_dependency": true
+    },
+    {
+      "name": "KubeJS Create",
+      "curseforge_id": 429371,
+      "download_url": "https://edge.forgecdn.net/files/7213/667/kubejs-create-neoforge-2101.3.1-build.18.jar",
+      "file_name": "kubejs-create-neoforge-2101.3.1-build.18.jar",
+      "version_number": "KubeJS Create NeoForge 2101.3.1-build.18",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1053/163/256/256/638583716306077014.png",
+      "_depends_on": [
+        328085,
+        238086
+      ]
     }
   ],
-  "extras_version": 128,
+  "extras_version": 130,
   "changelog": [
+    {
+      "date": "2026-07-03T08:29:22.238Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Fuel Goes Here",
+        "+ KubeJS NeoForge 2101.7.2-build.368",
+        "+ Rhino 2101.2.7-build.85",
+        "+ KubeJS Create"
+      ]
+    },
     {
       "date": "2026-07-03T08:09:43.592Z",
       "author": "Martion000",
