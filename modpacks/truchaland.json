@@ -738,12 +738,15 @@
       "filename": "createtransmission-1.2.1+neoforge-create6-1.21.1.jar"
     },
     {
-      "name": "Cloth Config API (Fabric/Forge/NeoForge)",
+      "name": "[NeoForge 1.21] v15.0.140",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/282/467/256/256/637289313020452406.png",
       "curseforge_id": 348521,
       "version_number": "[NeoForge 1.21] v15.0.140",
       "url": "https://edge.forgecdn.net/files/5729/127/cloth-config-15.0.140-neoforge.jar",
-      "filename": "cloth-config-15.0.140-neoforge.jar"
+      "filename": "cloth-config-15.0.140-neoforge.jar",
+      "download_url": "https://edge.forgecdn.net/files/5729/127/cloth-config-15.0.140-neoforge.jar",
+      "file_name": "cloth-config-15.0.140-neoforge.jar",
+      "_is_dependency": true
     },
     {
       "name": "Framework 0.13.11",
@@ -1899,10 +1902,31 @@
         328085,
         238086
       ]
+    },
+    {
+      "name": "Building Wands",
+      "curseforge_id": 363392,
+      "download_url": "https://edge.forgecdn.net/files/8207/219/BuildingWands-neoforge-MC1.21.1-3.0.5.jar",
+      "file_name": "BuildingWands-neoforge-MC1.21.1-3.0.5.jar",
+      "version_number": "Building Wands 3.0.5 - beta - neoforge - 1.21.1",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/249/945/256/256/637176059718454738.png",
+      "_depends_on": [
+        419699,
+        348521
+      ]
     }
   ],
-  "extras_version": 130,
+  "extras_version": 132,
   "changelog": [
+    {
+      "date": "2026-07-03T08:29:47.162Z",
+      "author": "Martion000",
+      "changes": [
+        "+ [NeoForge 1.21] v15.0.140",
+        "+ Building Wands",
+        "− Cloth Config API (Fabric/Forge/NeoForge)"
+      ]
+    },
     {
       "date": "2026-07-03T08:29:22.238Z",
       "author": "Martion000",
