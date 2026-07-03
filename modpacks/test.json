@@ -1,0 +1,54 @@
+{
+  "id": "test",
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "description_images": [],
+  "minecraft_version": "1.21.1",
+  "modloader": "neoforge",
+  "modloader_version": "21.1.235",
+  "icon": "",
+  "banner": "",
+  "background": "",
+  "server_ip": "",
+  "mods": [
+    {
+      "name": "Create 6.0.10 for mc1.21.1",
+      "curseforge_id": 328085,
+      "download_url": "https://edge.forgecdn.net/files/7963/363/create-1.21.1-6.0.10.jar",
+      "file_name": "create-1.21.1-6.0.10.jar",
+      "version_number": "Create 6.0.10 for mc1.21.1",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1065/184/256/256/638598725500886388.png",
+      "_is_dependency": true
+    },
+    {
+      "name": "Just Enough Items (JEI)",
+      "curseforge_id": 238222,
+      "download_url": "https://edge.forgecdn.net/files/8358/264/jei-1.21.1-neoforge-19.27.0.346.jar",
+      "file_name": "jei-1.21.1-neoforge-19.27.0.346.jar",
+      "version_number": "19.27.0.346 for NeoForge 1.21.1",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg"
+    },
+    {
+      "name": "Steam 'n' Rails Neoforge",
+      "curseforge_id": 1414670,
+      "download_url": "https://edge.forgecdn.net/files/8243/336/railways-0.2.1%2Bneoforge-mc1.21.1.jar",
+      "file_name": "railways-0.2.1+neoforge-mc1.21.1.jar",
+      "version_number": "railways-0.2.1+neoforge-mc1.21.1.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1582/848/256/256/639024674263601857.png",
+      "_depends_on": [
+        328085
+      ]
+    }
+  ],
+  "extras_version": 7,
+  "changelog": [
+    {
+      "date": "2026-07-03T05:35:58.480Z",
+      "author": "Martion000",
+      "changes": [
+        "✦ Modpack creado"
+      ]
+    }
+  ]
+}
