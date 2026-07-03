@@ -1861,8 +1861,15 @@
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/585/887/256/256/637953337792588709.png"
     }
   ],
-  "extras_version": 126,
+  "extras_version": 128,
   "changelog": [
+    {
+      "date": "2026-07-03T08:09:43.592Z",
+      "author": "Martion000",
+      "changes": [
+        "− Mandala's GUI - Dark mode - Utopia extension (RP)"
+      ]
+    },
     {
       "date": "2026-07-02T06:32:31.182Z",
       "author": "Martion000",
@@ -2713,14 +2720,6 @@
       "file_name": "Tom's Create Style 1.2 - 1.21.zip",
       "version_number": "Tom's Create Style 1.2 - 1.21.zip",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1273/480/256/256/638828425709420198.png"
-    },
-    {
-      "name": "Mandala's GUI - Dark mode - Utopia extension",
-      "curseforge_id": 1193697,
-      "download_url": "https://edge.forgecdn.net/files/7570/208/Mandala%20Utopia.zip",
-      "file_name": "Mandala Utopia.zip",
-      "version_number": "Mandala Utopia 0.17",
-      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1171/676/256/256/638742999653038815.png"
     }
   ],
   "extras_url": "https://drive.google.com/file/d/1OUKnB66sxrmjBHBOWuN6EpPUWheNJGw2/view?usp=drivesdk"
