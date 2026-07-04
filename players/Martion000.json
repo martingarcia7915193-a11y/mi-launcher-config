@@ -50,9 +50,9 @@
     "truchaland": 45887385,
     "testforge": 2749013
   },
-  "online": true,
+  "online": false,
   "playing": null,
-  "last_seen": 1783134765703,
+  "last_seen": 1783135216979,
   "playing_name": "test forge 1.20.1",
   "playing_since": 1783132015163
 }
