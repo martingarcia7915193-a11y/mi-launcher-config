@@ -1914,10 +1914,97 @@
         419699,
         348521
       ]
+    },
+    {
+      "name": "Create Aeronautics: Rechiseled Compatibility",
+      "modrinth_id": "create-aeronautics-rechiseled-compatibility",
+      "download_url": "https://cdn.modrinth.com/data/ub0jAGhg/versions/b6O6XLL6/create-aeronautics-rechiseled-compat-1.21.1-1.2.2.jar",
+      "file_name": "create-aeronautics-rechiseled-compat-1.21.1-1.2.2.jar",
+      "version_number": "1.2.2",
+      "icon_url": "https://cdn.modrinth.com/data/ub0jAGhg/ef826f7c5ff57598a8bf2f82a885d2cf1c611400_96.webp"
+    },
+    {
+      "name": "Create More: Vertical Belts",
+      "curseforge_id": 1455587,
+      "download_url": "https://edge.forgecdn.net/files/7584/940/cmverticaladditions-neoforge-1.0.0.jar",
+      "file_name": "cmverticaladditions-neoforge-1.0.0.jar",
+      "version_number": "cmverticaladditions-neoforge-1.0.0.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1664/644/256/256/639059909589577786.png"
+    },
+    {
+      "name": "Create: Aquatic Ambitions",
+      "curseforge_id": 1005676,
+      "download_url": "https://edge.forgecdn.net/files/7192/82/create_aquatic_ambitions-1.21.1-2.0.2.jar",
+      "file_name": "create_aquatic_ambitions-1.21.1-2.0.2.jar",
+      "version_number": "Create Aquatic Ambitions 1.21.1-2.0.2 for Create 6.0.8",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1196/46/256/256/638771655701162572.png"
+    },
+    {
+      "name": "Create: Fishery Industry",
+      "curseforge_id": 1245539,
+      "download_url": "https://edge.forgecdn.net/files/8109/209/createfisheryindustry-5.1.0.jar",
+      "file_name": "createfisheryindustry-5.1.0.jar",
+      "version_number": "Fishery Industry 5.1.0 Neoforge 1.21.1",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1232/331/256/256/638808032433472874.png"
+    },
+    {
+      "name": "Create: Compact Flap",
+      "curseforge_id": 1530869,
+      "download_url": "https://edge.forgecdn.net/files/8031/969/compactflap-neoforge-1.21.1-1.0.4.1.jar",
+      "file_name": "compactflap-neoforge-1.21.1-1.0.4.1.jar",
+      "version_number": "compactflap-neoforge-1.21.1-1.0.4.1.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1786/58/256/256/639132639653127509.png"
+    },
+    {
+      "name": "Create: Tracks",
+      "curseforge_id": 1519765,
+      "download_url": "https://edge.forgecdn.net/files/7968/280/tracks-neoforge-1.21.1-1.0.1.jar",
+      "file_name": "tracks-neoforge-1.21.1-1.0.1.jar",
+      "version_number": "tracks-neoforge-1.21.1-1.0.1.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1766/428/256/256/639122837744390439.png"
+    },
+    {
+      "name": "Display Delight",
+      "curseforge_id": 1144296,
+      "download_url": "https://edge.forgecdn.net/files/8242/893/displaydelight-1.7.0.jar",
+      "file_name": "displaydelight-1.7.0.jar",
+      "version_number": "displaydelight-1.7.0.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1121/885/256/256/638677404619124575.png"
+    },
+    {
+      "name": "Floating Purpur (Sable Addon)",
+      "curseforge_id": 1522908,
+      "download_url": "https://mediafilez.forgecdn.net/files/7973/600/Floaty_Purpur_neoforge_1.21.1_v1.jar",
+      "file_name": "Floaty_Purpur_neoforge_1.21.1_v1.jar",
+      "version_number": "Floaty_Purpur_neoforge_1.21.1_v1.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1771/816/256/256/639125654672621790.png"
+    },
+    {
+      "name": "kaleidoscope_bloodwine",
+      "curseforge_id": 1528435,
+      "download_url": "https://edge.forgecdn.net/files/8009/373/kaleidoscope_bloodwine-1.0.1.jar",
+      "file_name": "kaleidoscope_bloodwine-1.0.1.jar",
+      "version_number": "kaleidoscope_bloodwine-1.0.1-neoforge1.21.1.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1781/843/256/256/639130446189574891.png"
     }
   ],
-  "extras_version": 137,
+  "extras_version": 139,
   "changelog": [
+    {
+      "date": "2026-07-04T22:25:48.807Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Create Aeronautics: Rechiseled Compatibility",
+        "+ Create More: Vertical Belts",
+        "+ Create: Aquatic Ambitions",
+        "+ Create: Fishery Industry",
+        "+ Create: Compact Flap",
+        "+ Create: Tracks",
+        "+ Display Delight",
+        "+ Floating Purpur (Sable Addon)",
+        "+ kaleidoscope_bloodwine"
+      ]
+    },
     {
       "date": "2026-07-03T08:29:47.162Z",
       "author": "Martion000",
