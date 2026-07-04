@@ -1922,10 +1922,25 @@
       "file_name": "cmverticaladditions-neoforge-1.0.0.jar",
       "version_number": "cmverticaladditions-neoforge-1.0.0.jar",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1664/644/256/256/639059909589577786.png"
+    },
+    {
+      "name": "Copycats+ aeronautics weight",
+      "curseforge_id": 1520961,
+      "download_url": "https://mediafilez.forgecdn.net/files/7977/632/aerocopycats-1.1.1.jar",
+      "file_name": "aerocopycats-1.1.1.jar",
+      "version_number": "aerocopycats-1.1.1.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1768/553/256/256/639123919384793160.png"
     }
   ],
-  "extras_version": 143,
+  "extras_version": 145,
   "changelog": [
+    {
+      "date": "2026-07-04T22:54:29.193Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Copycats+ aeronautics weight"
+      ]
+    },
     {
       "date": "2026-07-04T22:34:06.615Z",
       "author": "Martion000",
