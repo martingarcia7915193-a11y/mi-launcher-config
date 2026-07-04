@@ -1922,26 +1922,18 @@
       "file_name": "cmverticaladditions-neoforge-1.0.0.jar",
       "version_number": "cmverticaladditions-neoforge-1.0.0.jar",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1664/644/256/256/639059909589577786.png"
-    },
-    {
-      "name": "Floating Purpur (Sable Addon)",
-      "curseforge_id": 1522908,
-      "download_url": "https://mediafilez.forgecdn.net/files/7973/600/Floaty_Purpur_neoforge_1.21.1_v1.jar",
-      "file_name": "Floaty_Purpur_neoforge_1.21.1_v1.jar",
-      "version_number": "Floaty_Purpur_neoforge_1.21.1_v1.jar",
-      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1771/816/256/256/639125654672621790.png"
-    },
-    {
-      "name": "kaleidoscope_bloodwine",
-      "curseforge_id": 1528435,
-      "download_url": "https://edge.forgecdn.net/files/8009/373/kaleidoscope_bloodwine-1.0.1.jar",
-      "file_name": "kaleidoscope_bloodwine-1.0.1.jar",
-      "version_number": "kaleidoscope_bloodwine-1.0.1-neoforge1.21.1.jar",
-      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1781/843/256/256/639130446189574891.png"
     }
   ],
-  "extras_version": 141,
+  "extras_version": 143,
   "changelog": [
+    {
+      "date": "2026-07-04T22:34:06.615Z",
+      "author": "Martion000",
+      "changes": [
+        "− Floating Purpur (Sable Addon)",
+        "− kaleidoscope_bloodwine"
+      ]
+    },
     {
       "date": "2026-07-04T22:32:33.428Z",
       "author": "Martion000",
