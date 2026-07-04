@@ -1,0 +1,54 @@
+{
+  "id": "testforge",
+  "name": "test forge 1.20.1",
+  "version": "1.0.0",
+  "description": "",
+  "description_images": [],
+  "minecraft_version": "1.20.1",
+  "modloader": "forge",
+  "modloader_version": "47.4.20",
+  "icon": "",
+  "banner": "",
+  "background": "",
+  "server_ip": "",
+  "mods": [
+    {
+      "name": "Create 6.0.8 for mc1.20.1",
+      "curseforge_id": 328085,
+      "download_url": "https://edge.forgecdn.net/files/7178/761/create-1.20.1-6.0.8.jar",
+      "file_name": "create-1.20.1-6.0.8.jar",
+      "version_number": "Create 6.0.8 for mc1.20.1",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1065/184/256/256/638598725500886388.png",
+      "_is_dependency": true
+    },
+    {
+      "name": "Just Enough Items (JEI)",
+      "curseforge_id": 238222,
+      "download_url": "https://edge.forgecdn.net/files/8292/131/jei-1.20.1-forge-15.20.0.132.jar",
+      "file_name": "jei-1.20.1-forge-15.20.0.132.jar",
+      "version_number": "15.20.0.132 for Forge 1.20.1",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg"
+    },
+    {
+      "name": "Create: Steam 'n' Rails",
+      "curseforge_id": 688231,
+      "download_url": "https://edge.forgecdn.net/files/7758/640/Steam_Rails-1.7.2%2Bforge-mc1.20.1.jar",
+      "file_name": "Steam_Rails-1.7.2+forge-mc1.20.1.jar",
+      "version_number": "Steam 'n' Rails 1.7.2 Forge 1.20.1 C6",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1065/609/256/256/638599304770885171.webp",
+      "_depends_on": [
+        328085
+      ]
+    }
+  ],
+  "extras_version": 21,
+  "changelog": [
+    {
+      "date": "2026-07-04T02:24:35.008Z",
+      "author": "Martion000",
+      "changes": [
+        "✦ Modpack creado"
+      ]
+    }
+  ]
+}
