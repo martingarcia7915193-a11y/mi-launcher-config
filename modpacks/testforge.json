@@ -41,7 +41,7 @@
       ]
     }
   ],
-  "extras_version": 22,
+  "extras_version": 23,
   "changelog": [
     {
       "date": "2026-07-04T02:24:35.008Z",
@@ -50,5 +50,6 @@
         "✦ Modpack creado"
       ]
     }
-  ]
+  ],
+  "category": "cementerio"
 }
