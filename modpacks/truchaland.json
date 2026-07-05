@@ -1922,26 +1922,18 @@
       "file_name": "cmverticaladditions-neoforge-1.0.0.jar",
       "version_number": "cmverticaladditions-neoforge-1.0.0.jar",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1664/644/256/256/639059909589577786.png"
-    },
-    {
-      "name": "Immersive Portals for (Neo)Forge",
-      "modrinth_id": "immersive-portals-neoforge",
-      "download_url": "https://cdn.modrinth.com/data/zf4Szzx2/versions/HbBv6YVB/immersive_portals-6.0.7-all.jar",
-      "file_name": "immersive_portals-6.0.7-all.jar",
-      "version_number": "6.0.7",
-      "icon_url": "https://cdn.modrinth.com/data/zf4Szzx2/0b2fa76a843b96f8bba1eb9d41f18f9f8ed4ce18_96.webp"
-    },
-    {
-      "name": "Immersive Portals X Sable Bridge",
-      "modrinth_id": "immersive_portal_sable_bridge",
-      "download_url": "https://cdn.modrinth.com/data/m3fKXkyW/versions/2G04ov0J/immersive_portal_sable_bridge-0.1.jar",
-      "file_name": "immersive_portal_sable_bridge-0.1.jar",
-      "version_number": "0.1",
-      "icon_url": "https://cdn.modrinth.com/data/m3fKXkyW/18815fce6de07a4c56357b917aa0f916080e8e23_96.webp"
     }
   ],
-  "extras_version": 148,
+  "extras_version": 150,
   "changelog": [
+    {
+      "date": "2026-07-05T22:20:41.496Z",
+      "author": "Martion000",
+      "changes": [
+        "− Immersive Portals for (Neo)Forge",
+        "− Immersive Portals X Sable Bridge"
+      ]
+    },
     {
       "date": "2026-07-05T22:17:21.372Z",
       "author": "Martion000",
