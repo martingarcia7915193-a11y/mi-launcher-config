@@ -39,10 +39,25 @@
       "_depends_on": [
         328085
       ]
+    },
+    {
+      "name": "Create Coasters",
+      "modrinth_id": "create-coasters",
+      "download_url": "https://cdn.modrinth.com/data/i6E8U3vp/versions/ssnvgDum/createcoasters-2.0.jar",
+      "file_name": "createcoasters-2.0.jar",
+      "version_number": "2.0",
+      "icon_url": "https://cdn.modrinth.com/data/i6E8U3vp/540fbbefc4ad663cb0238a5f66c18da6466e00e9.png"
     }
   ],
-  "extras_version": 10,
+  "extras_version": 11,
   "changelog": [
+    {
+      "date": "2026-07-05T14:20:36.548Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Create Coasters"
+      ]
+    },
     {
       "date": "2026-07-03T05:35:58.480Z",
       "author": "Martion000",
