@@ -1922,10 +1922,25 @@
       "file_name": "cmverticaladditions-neoforge-1.0.0.jar",
       "version_number": "cmverticaladditions-neoforge-1.0.0.jar",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1664/644/256/256/639059909589577786.png"
+    },
+    {
+      "name": "Immersive Portals for (Neo)Forge",
+      "modrinth_id": "immersive-portals-neoforge",
+      "download_url": "https://cdn.modrinth.com/data/zf4Szzx2/versions/HbBv6YVB/immersive_portals-6.0.7-all.jar",
+      "file_name": "immersive_portals-6.0.7-all.jar",
+      "version_number": "6.0.7",
+      "icon_url": "https://cdn.modrinth.com/data/zf4Szzx2/0b2fa76a843b96f8bba1eb9d41f18f9f8ed4ce18_96.webp"
     }
   ],
-  "extras_version": 144,
+  "extras_version": 146,
   "changelog": [
+    {
+      "date": "2026-07-05T22:13:48.226Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Immersive Portals for (Neo)Forge"
+      ]
+    },
     {
       "date": "2026-07-04T22:56:09.623Z",
       "author": "Martion000",
