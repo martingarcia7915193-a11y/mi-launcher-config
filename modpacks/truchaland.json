@@ -1922,10 +1922,25 @@
       "file_name": "cmverticaladditions-neoforge-1.0.0.jar",
       "version_number": "cmverticaladditions-neoforge-1.0.0.jar",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1664/644/256/256/639059909589577786.png"
+    },
+    {
+      "name": "Sable: Barehanded",
+      "curseforge_id": 1565886,
+      "download_url": "https://mediafilez.forgecdn.net/files/8380/126/barehanded-neoforge-1.21.1-1.6.1.jar",
+      "file_name": "barehanded-neoforge-1.21.1-1.6.1.jar",
+      "version_number": "barehanded-neoforge-1.21.1-1.6.1.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1848/166/256/256/639162797529378880.png"
     }
   ],
-  "extras_version": 150,
+  "extras_version": 152,
   "changelog": [
+    {
+      "date": "2026-07-07T00:08:56.644Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Sable: Barehanded"
+      ]
+    },
     {
       "date": "2026-07-05T22:20:41.496Z",
       "author": "Martion000",
