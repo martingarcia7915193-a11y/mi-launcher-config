@@ -63,10 +63,25 @@
       "file_name": "sable-neoforge-1.21.1-2.0.3.jar",
       "version_number": "Sable NeoForge 2.0.3 for mc1.21.1",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1368/340/256/256/638888491505266312.png"
+    },
+    {
+      "name": "Cloth Config API (Fabric/Forge/NeoForge)",
+      "curseforge_id": 348521,
+      "download_url": "https://edge.forgecdn.net/files/5729/127/cloth-config-15.0.140-neoforge.jar",
+      "file_name": "cloth-config-15.0.140-neoforge.jar",
+      "version_number": "[NeoForge 1.21] v15.0.140",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/282/467/256/256/637289313020452406.png"
     }
   ],
-  "extras_version": 14,
+  "extras_version": 15,
   "changelog": [
+    {
+      "date": "2026-07-07T00:15:13.264Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Cloth Config API (Fabric/Forge/NeoForge)"
+      ]
+    },
     {
       "date": "2026-07-07T00:14:03.872Z",
       "author": "Martion000",
