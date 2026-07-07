@@ -51,8 +51,8 @@
     "testforge": 2749013
   },
   "online": true,
-  "playing": null,
-  "last_seen": 1783383213305,
+  "playing": "test",
+  "last_seen": 1783383254313,
   "playing_name": "test neoforge 1.21.1",
-  "playing_since": 1783383193463
+  "playing_since": 1783383253243
 }
