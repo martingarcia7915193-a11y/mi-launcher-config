@@ -39,10 +39,25 @@
       "_depends_on": [
         328085
       ]
+    },
+    {
+      "name": "Sable: Barehanded",
+      "curseforge_id": 1565886,
+      "download_url": "https://mediafilez.forgecdn.net/files/8380/126/barehanded-neoforge-1.21.1-1.6.1.jar",
+      "file_name": "barehanded-neoforge-1.21.1-1.6.1.jar",
+      "version_number": "barehanded-neoforge-1.21.1-1.6.1.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1848/166/256/256/639162797529378880.png"
     }
   ],
-  "extras_version": 12,
+  "extras_version": 13,
   "changelog": [
+    {
+      "date": "2026-07-07T00:13:04.762Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Sable: Barehanded"
+      ]
+    },
     {
       "date": "2026-07-05T14:21:49.914Z",
       "author": "Martion000",
