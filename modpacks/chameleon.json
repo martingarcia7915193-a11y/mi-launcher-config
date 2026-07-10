@@ -11,9 +11,77 @@
   "banner": "",
   "background": "",
   "server_ip": "",
-  "mods": [],
-  "extras_version": 9,
+  "mods": [
+    {
+      "name": "Sodium",
+      "curseforge_id": 394468,
+      "download_url": "https://edge.forgecdn.net/files/8396/480/sodium-fabric-0.9.1%2Bmc26.1.2.jar",
+      "file_name": "sodium-fabric-0.9.1+mc26.1.2.jar",
+      "version_number": "Sodium 0.9.1 for Fabric 26.1.2",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/284/773/256/256/637298471098686391.png"
+    },
+    {
+      "name": "Controlling",
+      "curseforge_id": 250398,
+      "download_url": "https://edge.forgecdn.net/files/8199/2/Controlling-fabric-26.1.2-26.1.2.4.jar",
+      "file_name": "Controlling-fabric-26.1.2-26.1.2.4.jar",
+      "version_number": "Controlling-fabric-26.1.2-26.1.2.4.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/49/603/256/256/636079972364045115.png",
+      "_depends_on": [
+        858542,
+        306612
+      ]
+    },
+    {
+      "name": "Searchables-fabric-26.1.2-1.0.2.jar",
+      "curseforge_id": 858542,
+      "download_url": "https://edge.forgecdn.net/files/8218/527/Searchables-fabric-26.1.2-1.0.2.jar",
+      "file_name": "Searchables-fabric-26.1.2-1.0.2.jar",
+      "version_number": "Searchables-fabric-26.1.2-1.0.2.jar",
+      "_is_dependency": true
+    },
+    {
+      "name": "[26.1.2] Fabric API 0.154.2+26.1.2",
+      "curseforge_id": 306612,
+      "download_url": "https://edge.forgecdn.net/files/8385/848/fabric-api-0.154.2%2B26.1.2.jar",
+      "file_name": "fabric-api-0.154.2+26.1.2.jar",
+      "version_number": "[26.1.2] Fabric API 0.154.2+26.1.2",
+      "_is_dependency": true
+    },
+    {
+      "name": "Meccha Crafteleon",
+      "curseforge_id": 1592195,
+      "download_url": "https://edge.forgecdn.net/files/8383/471/meccha_chameleon-fabric-26.1.2-1.0.7.jar",
+      "file_name": "meccha_chameleon-fabric-26.1.2-1.0.7.jar",
+      "version_number": "meccha_chameleon-26.1.2-fabric-1.0.7",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1901/442/256/256/639188009963750895.png",
+      "_depends_on": [
+        455508
+      ]
+    },
+    {
+      "name": "Iris 1.10.9 for Fabric 26.1",
+      "curseforge_id": 455508,
+      "download_url": "https://edge.forgecdn.net/files/7867/943/iris-fabric-1.10.9%2Bmc26.1.1.jar",
+      "file_name": "iris-fabric-1.10.9+mc26.1.1.jar",
+      "version_number": "Iris 1.10.9 for Fabric 26.1",
+      "_is_dependency": true
+    }
+  ],
+  "extras_version": 10,
   "changelog": [
+    {
+      "date": "2026-07-10T01:11:24.674Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Sodium",
+        "+ Controlling",
+        "+ Searchables-fabric-26.1.2-1.0.2.jar",
+        "+ [26.1.2] Fabric API 0.154.2+26.1.2",
+        "+ Meccha Crafteleon",
+        "+ Iris 1.10.9 for Fabric 26.1"
+      ]
+    },
     {
       "date": "2026-07-10T01:10:39.562Z",
       "author": "Martion000",
