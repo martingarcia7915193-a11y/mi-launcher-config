@@ -15,9 +15,9 @@
     {
       "name": "Sodium",
       "curseforge_id": 394468,
-      "download_url": "https://edge.forgecdn.net/files/8396/480/sodium-fabric-0.9.1%2Bmc26.1.2.jar",
-      "file_name": "sodium-fabric-0.9.1+mc26.1.2.jar",
-      "version_number": "Sodium 0.9.1 for Fabric 26.1.2",
+      "download_url": "https://edge.forgecdn.net/files/8111/41/sodium-fabric-0.8.12%2bmc26.1.2.jar",
+      "file_name": "sodium-fabric-0.8.12+mc26.1.2.jar",
+      "version_number": "Sodium 0.8.12 for Fabric 26.1.2",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/284/773/256/256/637298471098686391.png"
     },
     {
@@ -68,8 +68,15 @@
       "_is_dependency": true
     }
   ],
-  "extras_version": 10,
+  "extras_version": 11,
   "changelog": [
+    {
+      "date": "2026-07-10T01:13:30.455Z",
+      "author": "Martion000",
+      "changes": [
+        "⬆ Sodium: Sodium 0.9.1 for Fabric 26.1.2 → Sodium 0.8.12 for Fabric 26.1.2"
+      ]
+    },
     {
       "date": "2026-07-10T01:11:24.674Z",
       "author": "Martion000",
