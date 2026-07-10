@@ -14,9 +14,9 @@
     "custom_2026_06_02_22_26_34_tecnoworld_1780454048688": 295836,
     "truchaland": 41896604
   },
-  "online": false,
-  "playing": null,
-  "last_seen": 1783408956209,
+  "online": true,
+  "playing": "truchaland",
+  "last_seen": 1783657994729,
   "playing_name": "Truchaland ",
-  "playing_since": 1783398294294
+  "playing_since": 1783657994083
 }
