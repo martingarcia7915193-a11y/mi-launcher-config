@@ -1,0 +1,25 @@
+{
+  "id": "chameleon",
+  "name": "MECHA",
+  "version": "1.0.0",
+  "description": "",
+  "description_images": [],
+  "minecraft_version": "26.1.2",
+  "modloader": "fabric",
+  "modloader_version": "0.19.3",
+  "icon": "",
+  "banner": "",
+  "background": "",
+  "server_ip": "",
+  "mods": [],
+  "extras_version": 9,
+  "changelog": [
+    {
+      "date": "2026-07-10T01:10:39.562Z",
+      "author": "Martion000",
+      "changes": [
+        "✦ Modpack creado"
+      ]
+    }
+  ]
+}
