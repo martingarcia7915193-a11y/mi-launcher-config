@@ -1804,14 +1804,6 @@
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/410/569/256/256/637627452553277521.png"
     },
     {
-      "name": "AllTheLeaks (Memory Leak Fix)",
-      "curseforge_id": 1091339,
-      "download_url": "https://edge.forgecdn.net/files/8090/653/alltheleaks-1.1.9%2B1.21.1-neoforge.jar",
-      "file_name": "alltheleaks-1.1.9+1.21.1-neoforge.jar",
-      "version_number": "alltheleaks-1.1.9+1.21.1-neoforge.jar",
-      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1068/365/256/256/638602852129913496.png"
-    },
-    {
       "name": "ModernFix",
       "curseforge_id": 790626,
       "download_url": "https://edge.forgecdn.net/files/7969/602/modernfix-neoforge-5.27.3%2bmc1.21.1.jar",
@@ -1924,8 +1916,15 @@
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1664/644/256/256/639059909589577786.png"
     }
   ],
-  "extras_version": 151,
+  "extras_version": 153,
   "changelog": [
+    {
+      "date": "2026-07-12T06:07:43.132Z",
+      "author": "Martion000",
+      "changes": [
+        "− AllTheLeaks (Memory Leak Fix)"
+      ]
+    },
     {
       "date": "2026-07-07T00:12:19.729Z",
       "author": "Martion000",
