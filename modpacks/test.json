@@ -32,21 +32,13 @@
     {
       "name": "Steam 'n' Rails Neoforge",
       "curseforge_id": 1414670,
-      "download_url": "https://edge.forgecdn.net/files/8243/336/railways-0.2.1%2Bneoforge-mc1.21.1.jar",
-      "file_name": "railways-0.2.1+neoforge-mc1.21.1.jar",
-      "version_number": "railways-0.2.1+neoforge-mc1.21.1.jar",
+      "download_url": "https://edge.forgecdn.net/files/8413/883/railways-0.3.0-beta%2bneoforge-mc1.21.1.jar",
+      "file_name": "railways-0.3.0-beta+neoforge-mc1.21.1.jar",
+      "version_number": "railways-0.3.0-beta+neoforge-mc1.21.1.jar",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1582/848/256/256/639024674263601857.png",
       "_depends_on": [
         328085
       ]
-    },
-    {
-      "name": "Sable: Barehanded",
-      "curseforge_id": 1565886,
-      "download_url": "https://mediafilez.forgecdn.net/files/8380/126/barehanded-neoforge-1.21.1-1.6.1.jar",
-      "file_name": "barehanded-neoforge-1.21.1-1.6.1.jar",
-      "version_number": "barehanded-neoforge-1.21.1-1.6.1.jar",
-      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1848/166/256/256/639162797529378880.png"
     },
     {
       "name": "Create Aeronautics",
@@ -73,8 +65,16 @@
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/282/467/256/256/637289313020452406.png"
     }
   ],
-  "extras_version": 15,
+  "extras_version": 16,
   "changelog": [
+    {
+      "date": "2026-07-13T01:21:35.585Z",
+      "author": "Martion000",
+      "changes": [
+        "− Sable: Barehanded",
+        "⬆ Steam 'n' Rails Neoforge: railways-0.2.1+neoforge-mc1.21.1.jar → railways-0.3.0-beta+neoforge-mc1.21.1.jar"
+      ]
+    },
     {
       "date": "2026-07-07T00:15:13.264Z",
       "author": "Martion000",
