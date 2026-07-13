@@ -63,10 +63,25 @@
       "file_name": "cloth-config-15.0.140-neoforge.jar",
       "version_number": "[NeoForge 1.21] v15.0.140",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/282/467/256/256/637289313020452406.png"
+    },
+    {
+      "name": "Better Tag NBT Tips",
+      "curseforge_id": 682363,
+      "download_url": "https://mediafilez.forgecdn.net/files/5964/249/Better%20Tags-1.21.1-NEO-1.5.jar",
+      "file_name": "Better Tags-1.21.1-NEO-1.5.jar",
+      "version_number": "Better Tags-1.21.1-NEO-1.5.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/614/922/256/256/637999611817463037.png"
     }
   ],
-  "extras_version": 16,
+  "extras_version": 17,
   "changelog": [
+    {
+      "date": "2026-07-13T01:36:00.517Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Better Tag NBT Tips"
+      ]
+    },
     {
       "date": "2026-07-13T01:21:35.585Z",
       "author": "Martion000",
