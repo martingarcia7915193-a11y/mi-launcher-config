@@ -1951,14 +1951,6 @@
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/236/269/256/256/637091078382616109.png"
     },
     {
-      "name": "Ender IO",
-      "curseforge_id": 64578,
-      "download_url": "https://edge.forgecdn.net/files/8192/838/enderio-8.2.11-beta.jar",
-      "file_name": "enderio-8.2.11-beta.jar",
-      "version_number": "Ender IO - v8.2.11-beta",
-      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/6/770/256/256/635368290959736289.png"
-    },
-    {
       "name": "Mowzie's Mobs",
       "curseforge_id": 250498,
       "download_url": "https://edge.forgecdn.net/files/7760/267/mowziesmobs-1.21.1-1.8.2.jar",
@@ -2032,8 +2024,15 @@
       ]
     }
   ],
-  "extras_version": 164,
+  "extras_version": 166,
   "changelog": [
+    {
+      "date": "2026-07-13T04:10:11.353Z",
+      "author": "Martion000",
+      "changes": [
+        "− Ender IO"
+      ]
+    },
     {
       "date": "2026-07-13T02:37:41.250Z",
       "author": "Martion000",
