@@ -71,10 +71,37 @@
       "file_name": "Better Tags-1.21.1-NEO-1.5.jar",
       "version_number": "Better Tags-1.21.1-NEO-1.5.jar",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/614/922/256/256/637999611817463037.png"
+    },
+    {
+      "name": "KubeJS",
+      "curseforge_id": 238086,
+      "download_url": "https://edge.forgecdn.net/files/8083/208/kubejs-neoforge-2101.7.2-build.368.jar",
+      "file_name": "kubejs-neoforge-2101.7.2-build.368.jar",
+      "version_number": "KubeJS NeoForge 2101.7.2-build.368",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1053/159/256/256/638583716122159056.png",
+      "_depends_on": [
+        416294
+      ]
+    },
+    {
+      "name": "Rhino 2101.2.7-build.85",
+      "curseforge_id": 416294,
+      "download_url": "https://edge.forgecdn.net/files/8218/748/rhino-2101.2.7-build.85.jar",
+      "file_name": "rhino-2101.2.7-build.85.jar",
+      "version_number": "Rhino 2101.2.7-build.85",
+      "_is_dependency": true
     }
   ],
-  "extras_version": 17,
+  "extras_version": 18,
   "changelog": [
+    {
+      "date": "2026-07-13T01:41:46.478Z",
+      "author": "Martion000",
+      "changes": [
+        "+ KubeJS",
+        "+ Rhino 2101.2.7-build.85"
+      ]
+    },
     {
       "date": "2026-07-13T01:36:00.517Z",
       "author": "Martion000",
