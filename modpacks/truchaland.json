@@ -303,9 +303,9 @@
     {
       "name": "Steam 'n' Rails Neoforge",
       "curseforge_id": 1414670,
-      "download_url": "https://edge.forgecdn.net/files/8261/376/railways-0.3.0-alpha.2%2Bneoforge-mc1.21.1.jar",
-      "file_name": "railways-0.3.0-alpha.2+neoforge-mc1.21.1.jar",
-      "version_number": "railways-0.3.0-alpha.2+neoforge-mc1.21.1.jar",
+      "download_url": "https://edge.forgecdn.net/files/8413/883/railways-0.3.0-beta%2bneoforge-mc1.21.1.jar",
+      "file_name": "railways-0.3.0-beta+neoforge-mc1.21.1.jar",
+      "version_number": "railways-0.3.0-beta+neoforge-mc1.21.1.jar",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1582/848/256/256/639024674263601857.png",
       "_depends_on": [
         328085
@@ -1916,8 +1916,15 @@
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1664/644/256/256/639059909589577786.png"
     }
   ],
-  "extras_version": 153,
+  "extras_version": 156,
   "changelog": [
+    {
+      "date": "2026-07-13T01:51:02.352Z",
+      "author": "Martion000",
+      "changes": [
+        "⬆ Steam 'n' Rails Neoforge: railways-0.3.0-alpha.2+neoforge-mc1.21.1.jar → railways-0.3.0-beta+neoforge-mc1.21.1.jar"
+      ]
+    },
     {
       "date": "2026-07-12T06:07:43.132Z",
       "author": "Martion000",
