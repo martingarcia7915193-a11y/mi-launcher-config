@@ -1914,10 +1914,46 @@
       "file_name": "cmverticaladditions-neoforge-1.0.0.jar",
       "version_number": "cmverticaladditions-neoforge-1.0.0.jar",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1664/644/256/256/639059909589577786.png"
+    },
+    {
+      "name": "Immersive Paintings",
+      "curseforge_id": 639584,
+      "download_url": "https://edge.forgecdn.net/files/8194/870/immersive_paintings-neoforge-1.21.1-0.7.8.jar",
+      "file_name": "immersive_paintings-neoforge-1.21.1-0.7.8.jar",
+      "version_number": "[NeoForge 1.21.1] Immersive Paintings - 0.7.8",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/566/108/256/256/637924664947203365.png",
+      "_depends_on": [
+        1005914
+      ]
+    },
+    {
+      "name": "fzzy_config-0.7.6+1.21+neoforge",
+      "curseforge_id": 1005914,
+      "download_url": "https://edge.forgecdn.net/files/7568/897/fzzy_config-0.7.6%2B1.21%2Bneoforge.jar",
+      "file_name": "fzzy_config-0.7.6+1.21+neoforge.jar",
+      "version_number": "fzzy_config-0.7.6+1.21+neoforge",
+      "_is_dependency": true
+    },
+    {
+      "name": "Joy of Painting Neo",
+      "curseforge_id": 1442522,
+      "download_url": "https://edge.forgecdn.net/files/7670/169/xercapaint-1.21.1-1.1.2.jar",
+      "file_name": "xercapaint-1.21.1-1.1.2.jar",
+      "version_number": "xercapaint-1.21.1-1.1.2.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1637/988/256/256/639048235477517064.png"
     }
   ],
-  "extras_version": 156,
+  "extras_version": 158,
   "changelog": [
+    {
+      "date": "2026-07-13T02:00:02.086Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Immersive Paintings",
+        "+ fzzy_config-0.7.6+1.21+neoforge",
+        "+ Joy of Painting Neo"
+      ]
+    },
     {
       "date": "2026-07-13T01:51:02.352Z",
       "author": "Martion000",
