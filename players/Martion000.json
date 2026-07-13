@@ -51,9 +51,9 @@
     "testforge": 2749013,
     "chameleon": 253905
   },
-  "online": false,
-  "playing": null,
-  "last_seen": 1783906872403,
+  "online": true,
+  "playing": "test",
+  "last_seen": 1783906919966,
   "playing_name": "test neoforge 1.21.1",
-  "playing_since": 1783906566530
+  "playing_since": 1783906918863
 }
