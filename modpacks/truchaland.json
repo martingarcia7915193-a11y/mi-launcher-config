@@ -1949,10 +1949,105 @@
       "file_name": "kotlinforforge-5.12.0-all.jar",
       "version_number": "Kotlin for Forge 5.12.0",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/236/269/256/256/637091078382616109.png"
+    },
+    {
+      "name": "Ender IO",
+      "curseforge_id": 64578,
+      "download_url": "https://edge.forgecdn.net/files/8192/838/enderio-8.2.11-beta.jar",
+      "file_name": "enderio-8.2.11-beta.jar",
+      "version_number": "Ender IO - v8.2.11-beta",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/6/770/256/256/635368290959736289.png"
+    },
+    {
+      "name": "Mowzie's Mobs",
+      "curseforge_id": 250498,
+      "download_url": "https://edge.forgecdn.net/files/7760/267/mowziesmobs-1.21.1-1.8.2.jar",
+      "file_name": "mowziesmobs-1.21.1-1.8.2.jar",
+      "version_number": "Mowzie's Mobs - 1.8.2",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/156/392/256/256/636639048661099951.png",
+      "_depends_on": [
+        388172
+      ]
+    },
+    {
+      "name": "Born in Chaos",
+      "curseforge_id": 686437,
+      "download_url": "https://edge.forgecdn.net/files/8268/280/born_in_chaos_%5BNeoforge%5D_1.21.1_1.7.6.jar",
+      "file_name": "born_in_chaos_[Neoforge]_1.21.1_1.7.6.jar",
+      "version_number": "born_in_chaos_[Neoforge]_1.21.1_1.7.6.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/778/486/256/256/638122554849559119.png",
+      "_depends_on": [
+        388172
+      ]
+    },
+    {
+      "name": "Royal Variations",
+      "curseforge_id": 989611,
+      "download_url": "https://edge.forgecdn.net/files/7536/377/royal-variations-%5BNeoForge%5D_1.21.1_2.0.4.jar",
+      "file_name": "royal-variations-[NeoForge]_1.21.1_2.0.4.jar",
+      "version_number": "royal-variations-[NeoForge]_1.21.1_2.0.4.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1462/912/256/256/638949553597411346.png",
+      "_depends_on": [
+        309927
+      ]
+    },
+    {
+      "name": "Mobs of Mythology",
+      "curseforge_id": 699989,
+      "download_url": "https://edge.forgecdn.net/files/8269/965/mobs_of_mythology-neoforge-1.21.1-3.0.0.jar",
+      "file_name": "mobs_of_mythology-neoforge-1.21.1-3.0.0.jar",
+      "version_number": "Mobs of Mythology  3.0.0",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1042/239/256/256/638568934010652023.webp",
+      "_depends_on": [
+        419699,
+        817423,
+        661293
+      ]
+    },
+    {
+      "name": "azurelib-neo-1.21.1-3.1.11.jar",
+      "curseforge_id": 817423,
+      "download_url": "https://edge.forgecdn.net/files/8367/232/azurelib-neo-1.21.1-3.1.11.jar",
+      "file_name": "azurelib-neo-1.21.1-3.1.11.jar",
+      "version_number": "azurelib-neo-1.21.1-3.1.11.jar",
+      "_is_dependency": true
+    },
+    {
+      "name": "SmartBrainLib NeoForge 1.21.1-1.16.11",
+      "curseforge_id": 661293,
+      "download_url": "https://edge.forgecdn.net/files/7055/149/SmartBrainLib-neoforge-1.21.1-1.16.11.jar",
+      "file_name": "SmartBrainLib-neoforge-1.21.1-1.16.11.jar",
+      "version_number": "SmartBrainLib NeoForge 1.21.1-1.16.11",
+      "_is_dependency": true
+    },
+    {
+      "name": "Mobstein : Revive animals and necromancy!",
+      "curseforge_id": 1193873,
+      "download_url": "https://edge.forgecdn.net/files/8040/734/mobstein-5.4.4-neoforge-1.21.1.jar",
+      "file_name": "mobstein-5.4.4-neoforge-1.21.1.jar",
+      "version_number": "mobstein-5.4.4-neoforge-1.21.1.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1212/593/256/256/638790596071404242.png",
+      "_depends_on": [
+        388172
+      ]
     }
   ],
-  "extras_version": 162,
+  "extras_version": 164,
   "changelog": [
+    {
+      "date": "2026-07-13T02:37:41.250Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Ender IO",
+        "+ Mowzie's Mobs",
+        "+ Born in Chaos",
+        "+ Royal Variations",
+        "+ Mobs of Mythology",
+        "+ azurelib-neo-1.21.1-3.1.11.jar",
+        "+ SmartBrainLib NeoForge 1.21.1-1.16.11",
+        "+ Mobstein : Revive animals and necromancy!"
+      ]
+    },
     {
       "date": "2026-07-13T02:02:01.887Z",
       "author": "Martion000",
