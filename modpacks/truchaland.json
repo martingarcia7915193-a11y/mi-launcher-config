@@ -1960,10 +1960,72 @@
       "_depends_on": [
         388172
       ]
+    },
+    {
+      "name": "Born in Chaos",
+      "curseforge_id": 686437,
+      "download_url": "https://edge.forgecdn.net/files/8268/280/born_in_chaos_%5BNeoforge%5D_1.21.1_1.7.6.jar",
+      "file_name": "born_in_chaos_[Neoforge]_1.21.1_1.7.6.jar",
+      "version_number": "born_in_chaos_[Neoforge]_1.21.1_1.7.6.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/778/486/256/256/638122554849559119.png",
+      "_depends_on": [
+        388172
+      ]
+    },
+    {
+      "name": "Mobs of Mythology",
+      "curseforge_id": 699989,
+      "download_url": "https://edge.forgecdn.net/files/8269/965/mobs_of_mythology-neoforge-1.21.1-3.0.0.jar",
+      "file_name": "mobs_of_mythology-neoforge-1.21.1-3.0.0.jar",
+      "version_number": "Mobs of Mythology  3.0.0",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1042/239/256/256/638568934010652023.webp",
+      "_depends_on": [
+        419699,
+        817423,
+        661293
+      ]
+    },
+    {
+      "name": "azurelib-neo-1.21.1-3.1.11.jar",
+      "curseforge_id": 817423,
+      "download_url": "https://edge.forgecdn.net/files/8367/232/azurelib-neo-1.21.1-3.1.11.jar",
+      "file_name": "azurelib-neo-1.21.1-3.1.11.jar",
+      "version_number": "azurelib-neo-1.21.1-3.1.11.jar",
+      "_is_dependency": true
+    },
+    {
+      "name": "SmartBrainLib NeoForge 1.21.1-1.16.11",
+      "curseforge_id": 661293,
+      "download_url": "https://edge.forgecdn.net/files/7055/149/SmartBrainLib-neoforge-1.21.1-1.16.11.jar",
+      "file_name": "SmartBrainLib-neoforge-1.21.1-1.16.11.jar",
+      "version_number": "SmartBrainLib NeoForge 1.21.1-1.16.11",
+      "_is_dependency": true
+    },
+    {
+      "name": "Royal Variations",
+      "curseforge_id": 989611,
+      "download_url": "https://edge.forgecdn.net/files/7536/377/royal-variations-%5BNeoForge%5D_1.21.1_2.0.4.jar",
+      "file_name": "royal-variations-[NeoForge]_1.21.1_2.0.4.jar",
+      "version_number": "royal-variations-[NeoForge]_1.21.1_2.0.4.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1462/912/256/256/638949553597411346.png",
+      "_depends_on": [
+        309927
+      ]
     }
   ],
-  "extras_version": 167,
+  "extras_version": 169,
   "changelog": [
+    {
+      "date": "2026-07-14T23:11:12.182Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Born in Chaos",
+        "+ Mobs of Mythology",
+        "+ azurelib-neo-1.21.1-3.1.11.jar",
+        "+ SmartBrainLib NeoForge 1.21.1-1.16.11",
+        "+ Royal Variations"
+      ]
+    },
     {
       "date": "2026-07-14T23:07:18.573Z",
       "author": "Martion000",
