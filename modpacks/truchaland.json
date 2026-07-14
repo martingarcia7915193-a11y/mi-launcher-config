@@ -2011,10 +2011,25 @@
       "_depends_on": [
         309927
       ]
+    },
+    {
+      "name": "create aeronautics：toolgun",
+      "curseforge_id": 1521349,
+      "download_url": "https://edge.forgecdn.net/files/8395/628/create_aeronautics_toolgun-0.2.3.jar",
+      "file_name": "create_aeronautics_toolgun-0.2.3.jar",
+      "version_number": "create_aeronautics_toolgun-0.2.3.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1769/312/256/256/639124288308343799.png"
     }
   ],
-  "extras_version": 169,
+  "extras_version": 171,
   "changelog": [
+    {
+      "date": "2026-07-14T23:32:32.232Z",
+      "author": "Martion000",
+      "changes": [
+        "+ create aeronautics：toolgun"
+      ]
+    },
     {
       "date": "2026-07-14T23:11:12.182Z",
       "author": "Martion000",
