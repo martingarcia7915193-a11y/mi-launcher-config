@@ -1949,10 +1949,40 @@
       "file_name": "kotlinforforge-5.12.0-all.jar",
       "version_number": "Kotlin for Forge 5.12.0",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/236/269/256/256/637091078382616109.png"
+    },
+    {
+      "name": "Mowzie's Mobs",
+      "curseforge_id": 250498,
+      "download_url": "https://edge.forgecdn.net/files/7760/267/mowziesmobs-1.21.1-1.8.2.jar",
+      "file_name": "mowziesmobs-1.21.1-1.8.2.jar",
+      "version_number": "Mowzie's Mobs - 1.8.2",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/156/392/256/256/636639048661099951.png",
+      "_depends_on": [
+        388172
+      ]
+    },
+    {
+      "name": "Mobstein : Revive animals and necromancy!",
+      "curseforge_id": 1193873,
+      "download_url": "https://edge.forgecdn.net/files/8040/734/mobstein-5.4.4-neoforge-1.21.1.jar",
+      "file_name": "mobstein-5.4.4-neoforge-1.21.1.jar",
+      "version_number": "mobstein-5.4.4-neoforge-1.21.1.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1212/593/256/256/638790596071404242.png",
+      "_depends_on": [
+        388172
+      ]
     }
   ],
-  "extras_version": 163,
+  "extras_version": 165,
   "changelog": [
+    {
+      "date": "2026-07-14T23:03:29.229Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Mowzie's Mobs",
+        "+ Mobstein : Revive animals and necromancy!"
+      ]
+    },
     {
       "date": "2026-07-14T22:59:28.716Z",
       "author": "Martion000",
