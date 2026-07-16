@@ -10,9 +10,9 @@
     "TWO": 1420334,
     "truchaland": 73810642
   },
-  "online": false,
-  "playing": null,
+  "online": true,
+  "playing": "truchaland",
   "playing_name": "Truchaland ",
-  "playing_since": 1784002893463,
-  "last_seen": 1784174369003
+  "playing_since": 1784174731359,
+  "last_seen": 1784174731904
 }
