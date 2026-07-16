@@ -2019,10 +2019,25 @@
       "file_name": "create_aeronautics_toolgun-0.2.3.jar",
       "version_number": "create_aeronautics_toolgun-0.2.3.jar",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1769/312/256/256/639124288308343799.png"
+    },
+    {
+      "name": "Cluttered",
+      "curseforge_id": 826308,
+      "download_url": "https://edge.forgecdn.net/files/7385/620/cluttered-%5BNeoForge%5D-3.0.3-1.21.1.jar",
+      "file_name": "cluttered-[NeoForge]-3.0.3-1.21.1.jar",
+      "version_number": "cluttered-[NeoForge]-3.0.3-1.21.1.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/807/43/256/256/638175657688618710.png"
     }
   ],
-  "extras_version": 173,
+  "extras_version": 175,
   "changelog": [
+    {
+      "date": "2026-07-16T23:39:15.151Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Cluttered"
+      ]
+    },
     {
       "date": "2026-07-15T00:23:51.866Z",
       "author": "Martion000",
