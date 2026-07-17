@@ -2019,10 +2019,38 @@
       "file_name": "create_aeronautics_toolgun-0.2.3.jar",
       "version_number": "create_aeronautics_toolgun-0.2.3.jar",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1769/312/256/256/639124288308343799.png"
+    },
+    {
+      "name": "FancyMenu",
+      "curseforge_id": 367706,
+      "download_url": "https://edge.forgecdn.net/files/8440/213/fancymenu_neoforge_3.9.8_MC_1.21.1.jar",
+      "file_name": "fancymenu_neoforge_3.9.8_MC_1.21.1.jar",
+      "version_number": "[NeoForge] v3.9.8 MC 1.21.1",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/935/544/256/256/638412386316055428.png",
+      "_depends_on": [
+        410295,
+        938643
+      ]
+    },
+    {
+      "name": "[NeoForge] v1.0.10 MC 1.21",
+      "curseforge_id": 938643,
+      "download_url": "https://edge.forgecdn.net/files/5453/382/melody_neoforge_1.0.10_MC_1.21.jar",
+      "file_name": "melody_neoforge_1.0.10_MC_1.21.jar",
+      "version_number": "[NeoForge] v1.0.10 MC 1.21",
+      "_is_dependency": true
     }
   ],
-  "extras_version": 177,
+  "extras_version": 179,
   "changelog": [
+    {
+      "date": "2026-07-17T23:36:43.471Z",
+      "author": "Martion000",
+      "changes": [
+        "+ FancyMenu",
+        "+ [NeoForge] v1.0.10 MC 1.21"
+      ]
+    },
     {
       "date": "2026-07-16T23:49:49.247Z",
       "author": "Martion000",
