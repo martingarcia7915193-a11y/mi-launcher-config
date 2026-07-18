@@ -2049,8 +2049,21 @@
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1213/205/256/256/638791356836156269.jpg"
     }
   ],
-  "extras_version": 183,
+  "extras_version": 185,
   "changelog": [
+    {
+      "date": "2026-07-18T00:50:22.442Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Euphoria Patches (Opcional)",
+        "+ Complementary Shaders - Reimagined (Shader)",
+        "+ Complementary Shaders - Unbound (Shader)",
+        "+ BSL Shaders (Shader)",
+        "+ MakeUp - Ultra Fast | Shaders (Shader)",
+        "+ Bliss Shaders (Shader)",
+        "+ Sildur's Vibrant shaders (Shader)"
+      ]
+    },
     {
       "date": "2026-07-18T00:49:31.902Z",
       "author": "Martion000",
@@ -3137,6 +3150,64 @@
       "file_name": "colorwheel-neoforge-1.2.9+mc1.21.1.jar",
       "version_number": "1.2.9+mc1.21.1-neoforge",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1286/627/256/256/638836764954331397.png"
+    },
+    {
+      "name": "Euphoria Patches",
+      "curseforge_id": 915902,
+      "download_url": "https://edge.forgecdn.net/files/8177/588/EuphoriaPatcher-1.9.3-r5.8.1-neoforge.jar",
+      "file_name": "EuphoriaPatcher-1.9.3-r5.8.1-neoforge.jar",
+      "version_number": "Euphoria Patcher 1.9.3-r5.8.1-neoforge",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1198/673/256/256/638774916393051591.png"
+    }
+  ],
+  "shaders": [
+    {
+      "name": "Complementary Shaders - Reimagined",
+      "curseforge_id": 627557,
+      "download_url": "https://edge.forgecdn.net/files/8123/287/ComplementaryReimagined_r5.8.1.zip",
+      "file_name": "ComplementaryReimagined_r5.8.1.zip",
+      "version_number": "Complementary Reimagined r5.8.1",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/875/481/256/256/638298072734336144.png"
+    },
+    {
+      "name": "Complementary Shaders - Unbound",
+      "curseforge_id": 385587,
+      "download_url": "https://edge.forgecdn.net/files/8123/288/ComplementaryUnbound_r5.8.1.zip",
+      "file_name": "ComplementaryUnbound_r5.8.1.zip",
+      "version_number": "Complementary Unbound r5.8.1",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/875/480/256/256/638298072228596362.png"
+    },
+    {
+      "name": "BSL Shaders",
+      "curseforge_id": 322506,
+      "download_url": "https://edge.forgecdn.net/files/7588/844/BSL_v10.1.1.zip",
+      "file_name": "BSL_v10.1.1.zip",
+      "version_number": "BSL v10.1.1",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1130/670/256/256/638689862356749182.png"
+    },
+    {
+      "name": "MakeUp - Ultra Fast | Shaders",
+      "curseforge_id": 431203,
+      "download_url": "https://edge.forgecdn.net/files/8330/757/MakeUp-UltraFast-9.5c.zip",
+      "file_name": "MakeUp-UltraFast-9.5c.zip",
+      "version_number": "MakeUp-UltraFast-9.5c.zip",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1044/516/256/256/638572074817465930.webp"
+    },
+    {
+      "name": "Bliss Shaders",
+      "curseforge_id": 610844,
+      "download_url": "https://edge.forgecdn.net/files/7251/787/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
+      "file_name": "Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
+      "version_number": "Bliss v2.1.2",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/848/186/256/256/638248048963999686.png"
+    },
+    {
+      "name": "Sildur's Vibrant shaders",
+      "curseforge_id": 544096,
+      "download_url": "https://edge.forgecdn.net/files/8302/648/Sildur's%20Vibrant%20Shaders%20v2.01%20Extreme.zip",
+      "file_name": "Sildur's Vibrant Shaders v2.01 Extreme.zip",
+      "version_number": "Sildur's Vibrant Shaders v2.01 Extreme.zip",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/452/333/256/256/637716089787270743.png"
     }
   ]
 }
