@@ -2039,10 +2039,25 @@
       "file_name": "melody_neoforge_1.0.10_MC_1.21.jar",
       "version_number": "[NeoForge] v1.0.10 MC 1.21",
       "_is_dependency": true
+    },
+    {
+      "name": "Fancy Entity Renderer",
+      "curseforge_id": 1173643,
+      "download_url": "https://edge.forgecdn.net/files/8257/275/fancy-entity-renderer-neoforge-1.21-0.4.8.jar",
+      "file_name": "fancy-entity-renderer-neoforge-1.21-0.4.8.jar",
+      "version_number": "[NeoForge - 1.21] Fancy Entity Renderer v0.4.8",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1213/205/256/256/638791356836156269.jpg"
     }
   ],
-  "extras_version": 179,
+  "extras_version": 181,
   "changelog": [
+    {
+      "date": "2026-07-18T00:21:45.114Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Fancy Entity Renderer"
+      ]
+    },
     {
       "date": "2026-07-17T23:36:43.471Z",
       "author": "Martion000",
