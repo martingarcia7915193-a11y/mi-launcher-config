@@ -2049,8 +2049,15 @@
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1213/205/256/256/638791356836156269.jpg"
     }
   ],
-  "extras_version": 185,
+  "extras_version": 187,
   "changelog": [
+    {
+      "date": "2026-07-18T00:59:48.083Z",
+      "author": "Martion000",
+      "changes": [
+        "⬆ Iris Shaders: Iris 1.8.8 for NeoForge 1.21.1 → Iris 1.8.14 Beta 1 for NeoForge 1.21.1"
+      ]
+    },
     {
       "date": "2026-07-18T00:50:22.442Z",
       "author": "Martion000",
@@ -3136,11 +3143,19 @@
   "extras_url": "https://drive.google.com/file/d/1OUKnB66sxrmjBHBOWuN6EpPUWheNJGw2/view?usp=drivesdk",
   "optional_mods": [
     {
+      "name": "Euphoria Patches",
+      "curseforge_id": 915902,
+      "download_url": "https://edge.forgecdn.net/files/8177/588/EuphoriaPatcher-1.9.3-r5.8.1-neoforge.jar",
+      "file_name": "EuphoriaPatcher-1.9.3-r5.8.1-neoforge.jar",
+      "version_number": "Euphoria Patcher 1.9.3-r5.8.1-neoforge",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1198/673/256/256/638774916393051591.png"
+    },
+    {
       "name": "Iris Shaders",
       "curseforge_id": 455508,
-      "download_url": "https://edge.forgecdn.net/files/6213/632/iris-neoforge-1.8.8%2Bmc1.21.1.jar",
-      "file_name": "iris-neoforge-1.8.8+mc1.21.1.jar",
-      "version_number": "Iris 1.8.8 for NeoForge 1.21.1",
+      "download_url": "https://edge.forgecdn.net/files/8242/804/iris-neoforge-1.8.14-beta.1%2Bmc1.21.1.jar",
+      "file_name": "iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+      "version_number": "Iris 1.8.14 Beta 1 for NeoForge 1.21.1",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1002/450/256/256/638522657871453967.png"
     },
     {
@@ -3150,14 +3165,6 @@
       "file_name": "colorwheel-neoforge-1.2.9+mc1.21.1.jar",
       "version_number": "1.2.9+mc1.21.1-neoforge",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1286/627/256/256/638836764954331397.png"
-    },
-    {
-      "name": "Euphoria Patches",
-      "curseforge_id": 915902,
-      "download_url": "https://edge.forgecdn.net/files/8177/588/EuphoriaPatcher-1.9.3-r5.8.1-neoforge.jar",
-      "file_name": "EuphoriaPatcher-1.9.3-r5.8.1-neoforge.jar",
-      "version_number": "Euphoria Patcher 1.9.3-r5.8.1-neoforge",
-      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1198/673/256/256/638774916393051591.png"
     }
   ],
   "shaders": [
