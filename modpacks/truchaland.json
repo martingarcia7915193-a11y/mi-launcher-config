@@ -2049,8 +2049,16 @@
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1213/205/256/256/638791356836156269.jpg"
     }
   ],
-  "extras_version": 181,
+  "extras_version": 183,
   "changelog": [
+    {
+      "date": "2026-07-18T00:49:31.902Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Iris Shaders (Opcional)",
+        "+ Colorwheel (Opcional)"
+      ]
+    },
     {
       "date": "2026-07-18T00:21:45.114Z",
       "author": "Martion000",
@@ -3112,5 +3120,23 @@
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1273/480/256/256/638828425709420198.png"
     }
   ],
-  "extras_url": "https://drive.google.com/file/d/1OUKnB66sxrmjBHBOWuN6EpPUWheNJGw2/view?usp=drivesdk"
+  "extras_url": "https://drive.google.com/file/d/1OUKnB66sxrmjBHBOWuN6EpPUWheNJGw2/view?usp=drivesdk",
+  "optional_mods": [
+    {
+      "name": "Iris Shaders",
+      "curseforge_id": 455508,
+      "download_url": "https://edge.forgecdn.net/files/6213/632/iris-neoforge-1.8.8%2Bmc1.21.1.jar",
+      "file_name": "iris-neoforge-1.8.8+mc1.21.1.jar",
+      "version_number": "Iris 1.8.8 for NeoForge 1.21.1",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1002/450/256/256/638522657871453967.png"
+    },
+    {
+      "name": "Colorwheel",
+      "curseforge_id": 1254143,
+      "download_url": "https://edge.forgecdn.net/files/8206/645/colorwheel-neoforge-1.2.9%2Bmc1.21.1.jar",
+      "file_name": "colorwheel-neoforge-1.2.9+mc1.21.1.jar",
+      "version_number": "1.2.9+mc1.21.1-neoforge",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1286/627/256/256/638836764954331397.png"
+    }
+  ]
 }
