@@ -51,9 +51,9 @@
     "testforge": 2749013,
     "chameleon": 253905
   },
-  "online": false,
-  "playing": null,
-  "last_seen": 1784448338690,
+  "online": true,
+  "playing": "truchaland",
+  "last_seen": 1784527603746,
   "playing_name": "Truchaland ",
-  "playing_since": 1784444131419
+  "playing_since": 1784527602243
 }
