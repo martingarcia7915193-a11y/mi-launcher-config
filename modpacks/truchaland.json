@@ -293,11 +293,11 @@
       "_is_dependency": true
     },
     {
-      "name": "[NeoForge 1.21(.1)] v13.0.8",
+      "name": "[NeoForge 1.21] v13.0.11",
       "curseforge_id": 419699,
-      "download_url": "https://edge.forgecdn.net/files/5786/327/architectury-13.0.8-neoforge.jar",
-      "file_name": "architectury-13.0.8-neoforge.jar",
-      "version_number": "[NeoForge 1.21(.1)] v13.0.8",
+      "download_url": "https://edge.forgecdn.net/files/8492/726/architectury-13.0.11-neoforge.jar",
+      "file_name": "architectury-13.0.11-neoforge.jar",
+      "version_number": "[NeoForge 1.21] v13.0.11",
       "_is_dependency": true
     },
     {
@@ -2059,10 +2059,32 @@
       "_depends_on": [
         351264
       ]
+    },
+    {
+      "name": "Block Pops",
+      "curseforge_id": 1394429,
+      "download_url": "https://edge.forgecdn.net/files/7771/511/BlockPops%20-%20Neoforge%20-%201.21.1-1.5.0.jar",
+      "file_name": "BlockPops - Neoforge - 1.21.1-1.5.0.jar",
+      "version_number": "BlockPops - Neoforge - 1.21.1-1.5.0.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1540/605/256/256/639000275902470588_animated.gif",
+      "_depends_on": [
+        388172,
+        419699
+      ]
     }
   ],
-  "extras_version": 193,
+  "extras_version": 195,
   "changelog": [
+    {
+      "date": "2026-07-24T09:01:31.255Z",
+      "author": "Martion000",
+      "changes": [
+        "+ [NeoForge 1.21] v13.0.11",
+        "+ Block Pops",
+        "− [NeoForge 1.21(.1)] v13.0.8",
+        "⬆ [NeoForge 1.21] v13.0.11: [NeoForge 1.21(.1)] v13.0.8 → [NeoForge 1.21] v13.0.11"
+      ]
+    },
     {
       "date": "2026-07-24T01:06:01.340Z",
       "author": "Martion000",
