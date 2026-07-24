@@ -1943,12 +1943,13 @@
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1637/988/256/256/639048235477517064.png"
     },
     {
-      "name": "Kotlin for Forge",
+      "name": "Kotlin for Forge 5.12.0",
       "curseforge_id": 351264,
       "download_url": "https://edge.forgecdn.net/files/8335/665/kotlinforforge-5.12.0-all.jar",
       "file_name": "kotlinforforge-5.12.0-all.jar",
       "version_number": "Kotlin for Forge 5.12.0",
-      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/236/269/256/256/637091078382616109.png"
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/236/269/256/256/637091078382616109.png",
+      "_is_dependency": true
     },
     {
       "name": "Mowzie's Mobs",
@@ -2047,10 +2048,30 @@
       "file_name": "fancy-entity-renderer-neoforge-1.21-0.4.8.jar",
       "version_number": "[NeoForge - 1.21] Fancy Entity Renderer v0.4.8",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1213/205/256/256/638791356836156269.jpg"
+    },
+    {
+      "name": "Elytra Trims",
+      "curseforge_id": 876199,
+      "download_url": "https://edge.forgecdn.net/files/8011/736/elytratrims-neoforge-3.10.0%2B1.21.1.jar",
+      "file_name": "elytratrims-neoforge-3.10.0+1.21.1.jar",
+      "version_number": "Elytra Trims Neoforge 3.10.0 for 1.21",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/834/579/256/256/638225413143731230.png",
+      "_depends_on": [
+        351264
+      ]
     }
   ],
-  "extras_version": 191,
+  "extras_version": 193,
   "changelog": [
+    {
+      "date": "2026-07-24T01:06:01.340Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Kotlin for Forge 5.12.0",
+        "+ Elytra Trims",
+        "− Kotlin for Forge"
+      ]
+    },
     {
       "date": "2026-07-18T00:59:48.083Z",
       "author": "Martion000",
