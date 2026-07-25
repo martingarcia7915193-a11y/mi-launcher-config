@@ -50,11 +50,12 @@
     "truchaland": 188253245,
     "testforge": 2749013,
     "chameleon": 253905,
-    "pasto": 1247601
+    "pasto": 1247601,
+    "ftb-skies-2-aero": 404557
   },
   "online": true,
-  "playing": "ftb-skies-2-aero",
-  "last_seen": 1784962156520,
+  "playing": null,
+  "last_seen": 1784962561501,
   "playing_name": "FTB Skies 2: Aero",
   "playing_since": 1784962155342
 }
