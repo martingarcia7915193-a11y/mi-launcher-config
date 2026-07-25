@@ -52,9 +52,9 @@
     "chameleon": 253905,
     "pasto": 1247601
   },
-  "online": true,
+  "online": false,
   "playing": null,
-  "last_seen": 1784948497438,
+  "last_seen": 1784948540317,
   "playing_name": "Pasto",
   "playing_since": 1784947415114
 }
