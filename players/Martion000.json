@@ -52,9 +52,9 @@
     "chameleon": 253905,
     "pasto": 1247601
   },
-  "online": false,
-  "playing": null,
-  "last_seen": 1784959764159,
-  "playing_name": "Pasto",
-  "playing_since": 1784947415114
+  "online": true,
+  "playing": "ftb-skies-2-aero",
+  "last_seen": 1784962156520,
+  "playing_name": "FTB Skies 2: Aero",
+  "playing_since": 1784962155342
 }
