@@ -53,8 +53,8 @@
     "pasto": 166994
   },
   "online": true,
-  "playing": null,
-  "last_seen": 1784947401966,
+  "playing": "pasto",
+  "last_seen": 1784947417624,
   "playing_name": "Pasto",
-  "playing_since": 1784947233452
+  "playing_since": 1784947415114
 }
