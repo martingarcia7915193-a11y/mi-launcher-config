@@ -1,0 +1,3155 @@
+{
+  "id": "ftb-skies-2-aero",
+  "name": "FTB Skies 2: Aero",
+  "version": "1.0.3",
+  "description": "",
+  "minecraft_version": "1.21.1",
+  "modloader": "neoforge",
+  "modloader_version": "21.1.235",
+  "icon": "",
+  "banner": "",
+  "background": "",
+  "server_ip": "",
+  "mods": [
+    {
+      "name": "FramedBlocks",
+      "curseforge_id": 441647,
+      "download_url": "https://edge.forgecdn.net/files/8349/218/FramedBlocks-10.6.1.jar",
+      "file_name": "FramedBlocks-10.6.1.jar",
+      "version_number": "FramedBlocks-10.6.1.jar"
+    },
+    {
+      "name": "Replication",
+      "curseforge_id": 638351,
+      "download_url": "https://edge.forgecdn.net/files/7662/870/Replication-1.21.1-1.2.7.jar",
+      "file_name": "Replication-1.21.1-1.2.7.jar",
+      "version_number": "Replication-1.21.1-1.2.7.jar"
+    },
+    {
+      "name": "Ars Sable",
+      "curseforge_id": 1565815,
+      "download_url": "https://edge.forgecdn.net/files/8229/967/ars_sable-1.21.1-1.1.2.jar",
+      "file_name": "ars_sable-1.21.1-1.1.2.jar",
+      "version_number": "ars_sable-1.21.1-1.1.2"
+    },
+    {
+      "name": "Compact Machines",
+      "curseforge_id": 224218,
+      "download_url": "https://edge.forgecdn.net/files/7621/553/compactmachines-neoforge-7.0.81.jar",
+      "file_name": "compactmachines-neoforge-7.0.81.jar",
+      "version_number": "compactmachines-neoforge-7.0.81.jar"
+    },
+    {
+      "name": "Entangled",
+      "curseforge_id": 301034,
+      "download_url": "https://edge.forgecdn.net/files/7783/144/entangled-1.3.21-neoforge-mc1.21.jar",
+      "file_name": "entangled-1.3.21-neoforge-mc1.21.jar",
+      "version_number": "Entangled 1.3.21 for NeoForge 1.21"
+    },
+    {
+      "name": "iChunUtil",
+      "curseforge_id": 229060,
+      "download_url": "https://edge.forgecdn.net/files/6000/439/iChunUtil-1.21-NeoForge-1.0.3.jar",
+      "file_name": "iChunUtil-1.21-NeoForge-1.0.3.jar",
+      "version_number": "[1.21 NeoForge] v 1.0.3"
+    },
+    {
+      "name": "McJtyLib",
+      "curseforge_id": 233105,
+      "download_url": "https://edge.forgecdn.net/files/8256/201/mcjtylib-1.21-9.0.21.jar",
+      "file_name": "mcjtylib-1.21-9.0.21.jar",
+      "version_number": "McJtyLib - 1.21-9.0.21"
+    },
+    {
+      "name": "Steam 'n' Rails Neoforge",
+      "curseforge_id": 1414670,
+      "download_url": "https://edge.forgecdn.net/files/8413/883/railways-0.3.0-beta%2Bneoforge-mc1.21.1.jar",
+      "file_name": "railways-0.3.0-beta+neoforge-mc1.21.1.jar",
+      "version_number": "railways-0.3.0-beta+neoforge-mc1.21.1.jar"
+    },
+    {
+      "name": "Sophisticated Storage in Motion",
+      "curseforge_id": 1166930,
+      "download_url": "https://edge.forgecdn.net/files/8434/254/sophisticatedstorageinmotion-1.21.1-0.10.33.324.jar",
+      "file_name": "sophisticatedstorageinmotion-1.21.1-0.10.33.324.jar",
+      "version_number": "sophisticatedstorageinmotion-1.21.1-0.10.33.324.jar"
+    },
+    {
+      "name": "AE2 Things [Forge]",
+      "curseforge_id": 609977,
+      "download_url": "https://edge.forgecdn.net/files/5637/783/AE2-Things-1.4.2-beta.jar",
+      "file_name": "AE2-Things-1.4.2-beta.jar",
+      "version_number": "AE2 Things v1.4.2-beta"
+    },
+    {
+      "name": "Gateways to Eternity",
+      "curseforge_id": 417802,
+      "download_url": "https://edge.forgecdn.net/files/6926/284/GatewaysToEternity-1.21.1-5.1.0.jar",
+      "file_name": "GatewaysToEternity-1.21.1-5.1.0.jar",
+      "version_number": "GatewaysToEternity-1.21.1-5.1.0.jar"
+    },
+    {
+      "name": "Scalable Cat's Force",
+      "curseforge_id": 320926,
+      "download_url": "https://edge.forgecdn.net/files/6737/240/ScalableCatsForce-NeoForge-3.7.1-build-11-with-library.jar",
+      "file_name": "ScalableCatsForce-NeoForge-3.7.1-build-11-with-library.jar",
+      "version_number": "3.7.1-build-11-neoforge"
+    },
+    {
+      "name": "Ars Unification",
+      "curseforge_id": 1165429,
+      "download_url": "https://edge.forgecdn.net/files/8391/937/ars_unification-1.2.19.jar",
+      "file_name": "ars_unification-1.2.19.jar",
+      "version_number": "Ars Unification 1.2.19 for 1.21.1"
+    },
+    {
+      "name": "Connected Glass",
+      "curseforge_id": 383129,
+      "download_url": "https://edge.forgecdn.net/files/6811/960/connectedglass-1.1.14-neoforge-mc1.21.jar",
+      "file_name": "connectedglass-1.1.14-neoforge-mc1.21.jar",
+      "version_number": "Connected Glass 1.1.14 for NeoForge 1.21"
+    },
+    {
+      "name": "EntityGuardian",
+      "curseforge_id": 1313091,
+      "download_url": "https://edge.forgecdn.net/files/6806/54/entityguardian-1.0.jar",
+      "file_name": "entityguardian-1.0.jar",
+      "version_number": "entityguardian-1.0.jar"
+    },
+    {
+      "name": "I'm Fast",
+      "curseforge_id": 1111501,
+      "download_url": "https://mediafilez.forgecdn.net/files/5991/453/imfast-NEOFORGE-1.0.2.jar",
+      "file_name": "imfast-NEOFORGE-1.0.2.jar",
+      "version_number": "imfast-NEOFORGE-1.0.2"
+    },
+    {
+      "name": "Macaw's Furniture",
+      "curseforge_id": 359540,
+      "download_url": "https://edge.forgecdn.net/files/7255/584/mcw-furniture-3.4.1-mc1.21.1neoforge.jar",
+      "file_name": "mcw-furniture-3.4.1-mc1.21.1neoforge.jar",
+      "version_number": "v3.4.1 / mc1.21.1 - NeoForge"
+    },
+    {
+      "name": "Random Bone Meal Flowers",
+      "curseforge_id": 345572,
+      "download_url": "https://edge.forgecdn.net/files/6185/337/randombonemealflowers-1.21.1-4.7.jar",
+      "file_name": "randombonemealflowers-1.21.1-4.7.jar",
+      "version_number": "[Fabric/Forge/Neo] 1.21.1-4.7 | Random Bone Meal Flowers"
+    },
+    {
+      "name": "Soul Bound Enchantment",
+      "curseforge_id": 888668,
+      "download_url": "https://edge.forgecdn.net/files/5968/259/soulbound-neoforge-1.0.1%2B1.21.1.jar",
+      "file_name": "soulbound-neoforge-1.0.1+1.21.1.jar",
+      "version_number": "NeoForge-1.0.1+1.21.1"
+    },
+    {
+      "name": "AE2 Network Analyser",
+      "curseforge_id": 961856,
+      "download_url": "https://edge.forgecdn.net/files/7622/554/AE2NetworkAnalyzer-1.21-2.1.5-neoforge.jar",
+      "file_name": "AE2NetworkAnalyzer-1.21-2.1.5-neoforge.jar",
+      "version_number": "AE2NetworkAnalyzer-1.21-2.1.5-neoforge.jar"
+    },
+    {
+      "name": "GeOre",
+      "curseforge_id": 530544,
+      "download_url": "https://edge.forgecdn.net/files/7966/801/GeOre-1.21.1-6.2.3.jar",
+      "file_name": "GeOre-1.21.1-6.2.3.jar",
+      "version_number": "GeOre-1.21.1-6.2.3.jar"
+    },
+    {
+      "name": "Searchables",
+      "curseforge_id": 858542,
+      "download_url": "https://edge.forgecdn.net/files/5831/692/Searchables-neoforge-1.21.1-1.0.2.jar",
+      "file_name": "Searchables-neoforge-1.21.1-1.0.2.jar",
+      "version_number": "Searchables-neoforge-1.21.1-1.0.2.jar"
+    },
+    {
+      "name": "Ars Nouveau's Flavors & Delight",
+      "curseforge_id": 1131668,
+      "download_url": "https://edge.forgecdn.net/files/8297/420/arsdelight-2.2.2.jar",
+      "file_name": "arsdelight-2.2.2.jar",
+      "version_number": "arsdelight-2.2.2.jar"
+    },
+    {
+      "name": "Cooking for Blockheads",
+      "curseforge_id": 231484,
+      "download_url": "https://edge.forgecdn.net/files/8404/453/cookingforblockheads-neoforge-1.21.1-21.1.24.jar",
+      "file_name": "cookingforblockheads-neoforge-1.21.1-21.1.24.jar",
+      "version_number": "cookingforblockheads-neoforge-1.21.1-21.1.24.jar"
+    },
+    {
+      "name": "EventsLib",
+      "curseforge_id": 1122002,
+      "download_url": "https://mediafilez.forgecdn.net/files/6831/134/eventslib-1.0.57.jar",
+      "file_name": "eventslib-1.0.57.jar",
+      "version_number": "eventslib-1.0.57.jar"
+    },
+    {
+      "name": "Integrated Crafting",
+      "curseforge_id": 287357,
+      "download_url": "https://edge.forgecdn.net/files/7988/198/integratedcrafting-1.21.1-neoforge-1.4.6.jar",
+      "file_name": "integratedcrafting-1.21.1-neoforge-1.4.6.jar",
+      "version_number": "integratedcrafting-1.21.1-neoforge-1.4.6.jar"
+    },
+    {
+      "name": "Macaw's Lights and Lamps",
+      "curseforge_id": 502372,
+      "download_url": "https://edge.forgecdn.net/files/7304/75/mcw-lights-1.1.5-mc1.21.1neoforge.jar",
+      "file_name": "mcw-lights-1.1.5-mc1.21.1neoforge.jar",
+      "version_number": "v1.1.5 / mc1.21.1 - NeoForge"
+    },
+    {
+      "name": "Redstone Pen",
+      "curseforge_id": 461710,
+      "download_url": "https://edge.forgecdn.net/files/6102/752/redstonepen-1.21-neoforge-1.11.42.jar",
+      "file_name": "redstonepen-1.21-neoforge-1.11.42.jar",
+      "version_number": "redstonepen-1.21-neoforge-1.11.42.jar"
+    },
+    {
+      "name": "spark",
+      "curseforge_id": 361579,
+      "download_url": "https://edge.forgecdn.net/files/6225/208/spark-1.10.124-neoforge.jar",
+      "file_name": "spark-1.10.124-neoforge.jar",
+      "version_number": "1.10.124 (NeoForge 1.21.1)"
+    },
+    {
+      "name": "AdvancedAE",
+      "curseforge_id": 1084104,
+      "download_url": "https://edge.forgecdn.net/files/7849/217/AdvancedAE-1.6.11-1.21.1.jar",
+      "file_name": "AdvancedAE-1.6.11-1.21.1.jar",
+      "version_number": "AdvancedAE-1.6.11-1.21.1"
+    },
+    {
+      "name": "GeOre Nouveau",
+      "curseforge_id": 667803,
+      "download_url": "https://edge.forgecdn.net/files/7966/736/GeOre_Nouveau-1.21.1-0.5.9.jar",
+      "file_name": "GeOre_Nouveau-1.21.1-0.5.9.jar",
+      "version_number": "GeOre_Nouveau-1.21.1-0.5.9.jar"
+    },
+    {
+      "name": "Simple Discord Rich Presence (Forge /  Fabric)",
+      "curseforge_id": 334853,
+      "download_url": "https://edge.forgecdn.net/files/7505/758/SimpleDiscordRichPresence-neoforge-88.0.1-build.54%2Bmc1.21.1.jar",
+      "file_name": "SimpleDiscordRichPresence-neoforge-88.0.1-build.54+mc1.21.1.jar",
+      "version_number": "[NEOFORGE][1.21.1] SimpleDiscordRichPresence 88.0.1"
+    },
+    {
+      "name": "Ars Énergistique",
+      "curseforge_id": 905641,
+      "download_url": "https://edge.forgecdn.net/files/6203/425/arseng-2.1.1-beta.jar",
+      "file_name": "arseng-2.1.1-beta.jar",
+      "version_number": "2.1.1-beta (NeoForge 1.21.1)"
+    },
+    {
+      "name": "Create: Copycats+",
+      "curseforge_id": 968398,
+      "download_url": "https://edge.forgecdn.net/files/7251/823/copycats-3.0.4%2Bmc.1.21.1-neoforge.jar",
+      "file_name": "copycats-3.0.4+mc.1.21.1-neoforge.jar",
+      "version_number": "copycats-3.0.4+mc.1.21.1-neoforge"
+    },
+    {
+      "name": "Excessive Utilities",
+      "curseforge_id": 1482270,
+      "download_url": "https://edge.forgecdn.net/files/8364/135/excessive-utilities-1.21.1-1.7.0-build.3.jar",
+      "file_name": "excessive-utilities-1.21.1-1.7.0-build.3.jar",
+      "version_number": "Excessive Utilities 1.21.1 1.7.0-build.3"
+    },
+    {
+      "name": "Integrated Dynamics",
+      "curseforge_id": 236307,
+      "download_url": "https://edge.forgecdn.net/files/8258/353/integrateddynamics-1.21.1-neoforge-1.33.3.jar",
+      "file_name": "integrateddynamics-1.21.1-neoforge-1.33.3.jar",
+      "version_number": "integrateddynamics-1.21.1-neoforge-1.33.3.jar"
+    },
+    {
+      "name": "Mechanicals Lib",
+      "curseforge_id": 1253573,
+      "download_url": "https://edge.forgecdn.net/files/8418/818/mechanicals-1.21.1-1.1.6.jar",
+      "file_name": "mechanicals-1.21.1-1.1.6.jar",
+      "version_number": "Mechanicals Lib 1.1.6 for mc1.21.1"
+    },
+    {
+      "name": "Refined Types",
+      "curseforge_id": 1327983,
+      "download_url": "https://edge.forgecdn.net/files/8121/752/refined-types-1.21.1-0.3.2.jar",
+      "file_name": "refined-types-1.21.1-0.3.2.jar",
+      "version_number": "refined-types-1.21.1-0.3.2.jar"
+    },
+    {
+      "name": "Squat Grow (Shift / Twerk to grow plants)",
+      "curseforge_id": 515698,
+      "download_url": "https://edge.forgecdn.net/files/7935/191/squatgrow-neoforge-21.1.3%2Bmc1.21.1.jar",
+      "file_name": "squatgrow-neoforge-21.1.3+mc1.21.1.jar",
+      "version_number": "squatgrow NeoForged 21.1.3+mc1.21.1"
+    },
+    {
+      "name": "Advanced Loot Info (ALI)",
+      "curseforge_id": 1205426,
+      "download_url": "https://edge.forgecdn.net/files/8168/901/AdvancedLootInfo-neoforge-1.21.1-1.12.0.jar",
+      "file_name": "AdvancedLootInfo-neoforge-1.21.1-1.12.0.jar",
+      "version_number": "AdvancedLootInfo-neoforge-1.21.1-1.12.0.jar"
+    },
+    {
+      "name": "Glassential Renewed",
+      "curseforge_id": 945149,
+      "download_url": "https://edge.forgecdn.net/files/8440/850/Glassential-renewed-1.21.1-3.4.5.jar",
+      "file_name": "Glassential-renewed-1.21.1-3.4.5.jar",
+      "version_number": "Glassential-renewed-1.21.1-3.4.5"
+    },
+    {
+      "name": "Simple Teleporters Reforged",
+      "curseforge_id": 998602,
+      "download_url": "https://edge.forgecdn.net/files/8125/319/SimpleTeleportersReforged-1.21.1-2.2.0.jar",
+      "file_name": "SimpleTeleportersReforged-1.21.1-2.2.0.jar",
+      "version_number": "SimpleTeleportersReforged-1.21.1-2.2.0.jar"
+    },
+    {
+      "name": "Ash API",
+      "curseforge_id": 838498,
+      "download_url": "https://edge.forgecdn.net/files/6856/728/ash_api-neoforge-21.1.1.jar",
+      "file_name": "ash_api-neoforge-21.1.1.jar",
+      "version_number": "[NeoForge 1.21.1] v21.1.1"
+    },
+    {
+      "name": "CoroUtil",
+      "curseforge_id": 237749,
+      "download_url": "https://edge.forgecdn.net/files/7796/187/coroutil-neoforge-1.21.0-1.3.9.jar",
+      "file_name": "coroutil-neoforge-1.21.0-1.3.9.jar",
+      "version_number": "coroutil-neoforge-1.21.0-1.3.9.jar"
+    },
+    {
+      "name": "Explosive Enhancement: Reforged",
+      "curseforge_id": 1036246,
+      "download_url": "https://edge.forgecdn.net/files/6520/579/explosiveenhancement-neoforge-1.21.1-1.1.2.jar",
+      "file_name": "explosiveenhancement-neoforge-1.21.1-1.1.2.jar",
+      "version_number": "Explosive CLIENT ONLY NeoForge [1.21-1.1.2]"
+    },
+    {
+      "name": "Integrated Terminals",
+      "curseforge_id": 295910,
+      "download_url": "https://edge.forgecdn.net/files/8285/958/integratedterminals-1.21.1-neoforge-1.7.0.jar",
+      "file_name": "integratedterminals-1.21.1-neoforge-1.7.0.jar",
+      "version_number": "integratedterminals-1.21.1-neoforge-1.7.0.jar"
+    },
+    {
+      "name": "MEGA Cells",
+      "curseforge_id": 622112,
+      "download_url": "https://edge.forgecdn.net/files/7952/621/megacells-4.11.0.jar",
+      "file_name": "megacells-4.11.0.jar",
+      "version_number": "4.11.0 (NeoForge 1.21.1)"
+    },
+    {
+      "name": "Refined Storage - Curios Integration",
+      "curseforge_id": 1230729,
+      "download_url": "https://edge.forgecdn.net/files/6360/514/refinedstorage-curios-integration-1.0.0.jar",
+      "file_name": "refinedstorage-curios-integration-1.0.0.jar",
+      "version_number": "v1.0.0"
+    },
+    {
+      "name": "StarbuncleMania",
+      "curseforge_id": 746215,
+      "download_url": "https://edge.forgecdn.net/files/8243/791/starbunclemania-1.21.1-1.5.7.jar",
+      "file_name": "starbunclemania-1.21.1-1.5.7.jar",
+      "version_number": "starbunclemania-1.21.1-1.5.7.jar"
+    },
+    {
+      "name": "Advanced Peripherals",
+      "curseforge_id": 431725,
+      "download_url": "https://edge.forgecdn.net/files/8228/816/AdvancedPeripherals-1.21.1-0.7.62b.jar",
+      "file_name": "AdvancedPeripherals-1.21.1-0.7.62b.jar",
+      "version_number": "AdvancedPeripherals-1.21.1-0.7.62b.jar"
+    },
+    {
+      "name": "Glodium",
+      "curseforge_id": 957920,
+      "download_url": "https://edge.forgecdn.net/files/5821/676/Glodium-1.21-2.2-neoforge.jar",
+      "file_name": "Glodium-1.21-2.2-neoforge.jar",
+      "version_number": "Glodium-1.21-2.2-neoforge.jar"
+    },
+    {
+      "name": "SmartBrainLib (Forge/Fabric/Quilt)",
+      "curseforge_id": 661293,
+      "download_url": "https://edge.forgecdn.net/files/7055/149/SmartBrainLib-neoforge-1.21.1-1.16.11.jar",
+      "file_name": "SmartBrainLib-neoforge-1.21.1-1.16.11.jar",
+      "version_number": "SmartBrainLib NeoForge 1.21.1-1.16.11"
+    },
+    {
+      "name": "Async Locator Refined",
+      "curseforge_id": 1331921,
+      "download_url": "https://edge.forgecdn.net/files/8312/789/async-locator-refined-neoforge-1.21.1-1.5.4.jar",
+      "file_name": "async-locator-refined-neoforge-1.21.1-1.5.4.jar",
+      "version_number": "1.21.1-1.5.4 NeoForge"
+    },
+    {
+      "name": "Cosmetic Armor Reworked",
+      "curseforge_id": 237307,
+      "download_url": "https://edge.forgecdn.net/files/5610/814/cosmeticarmorreworked-1.21.1-v1-neoforge.jar",
+      "file_name": "cosmeticarmorreworked-1.21.1-v1-neoforge.jar",
+      "version_number": "cosmeticarmorreworked-1.21.1-v1-neoforge.jar"
+    },
+    {
+      "name": "Extended Industrialization",
+      "curseforge_id": 1068418,
+      "download_url": "https://edge.forgecdn.net/files/8406/699/extended-industrialization-1.15.45-1.21.1.jar",
+      "file_name": "extended-industrialization-1.15.45-1.21.1.jar",
+      "version_number": "extended-industrialization-1.15.45-1.21.1.jar"
+    },
+    {
+      "name": "Integrated Tunnels",
+      "curseforge_id": 251389,
+      "download_url": "https://edge.forgecdn.net/files/8057/867/integratedtunnels-1.21.1-neoforge-1.9.4-632.jar",
+      "file_name": "integratedtunnels-1.21.1-neoforge-1.9.4-632.jar",
+      "version_number": "integratedtunnels-1.21.1-neoforge-1.9.4-632.jar"
+    },
+    {
+      "name": "Mekanism Unleashed",
+      "curseforge_id": 1072209,
+      "download_url": "https://edge.forgecdn.net/files/7801/278/mekanism_unleashed-0.3.4.jar",
+      "file_name": "mekanism_unleashed-0.3.4.jar",
+      "version_number": "mekanism_unleashed-0.3.4.jar"
+    },
+    {
+      "name": "Refined Storage - JEI Integration",
+      "curseforge_id": 1230497,
+      "download_url": "https://edge.forgecdn.net/files/6359/14/refinedstorage-jei-integration-neoforge-1.0.0.jar",
+      "file_name": "refinedstorage-jei-integration-neoforge-1.0.0.jar",
+      "version_number": "v1.0.0"
+    },
+    {
+      "name": "StateObserver",
+      "curseforge_id": 701213,
+      "download_url": "https://edge.forgecdn.net/files/7357/57/stateobserver-neoforge-1.21.1-1.6.4.jar",
+      "file_name": "stateobserver-neoforge-1.21.1-1.6.4.jar",
+      "version_number": "stateobserver-neoforge-1.21.1-1.6.4.jar"
+    },
+    {
+      "name": "Almanac Lib",
+      "curseforge_id": 1115285,
+      "download_url": "https://edge.forgecdn.net/files/7489/91/Almanac-1.21.1-2-neoforge-1.5.2.jar",
+      "file_name": "Almanac-1.21.1-2-neoforge-1.5.2.jar",
+      "version_number": "Almanac-1.21.1-2-neoforge-1.5.2.jar"
+    },
+    {
+      "name": "Gravitational Modulating Additional Unit",
+      "curseforge_id": 656136,
+      "download_url": "https://edge.forgecdn.net/files/6895/172/GravitationalModulatingAdditionalUnit-1.21.1-6.4.jar",
+      "file_name": "GravitationalModulatingAdditionalUnit-1.21.1-6.4.jar",
+      "version_number": "1.21.1-6.4"
+    },
+    {
+      "name": "Super Factory Manager ( SFM )",
+      "curseforge_id": 306935,
+      "download_url": "https://edge.forgecdn.net/files/8370/241/Super%20Factory%20Manager%20(SFM)-MC1.21.1-4.34.0.jar",
+      "file_name": "Super Factory Manager (SFM)-MC1.21.1-4.34.0.jar",
+      "version_number": "Super Factory Manager MC1.21.1 v4.34.0"
+    },
+    {
+      "name": "Async Logger",
+      "curseforge_id": 1491426,
+      "download_url": "https://edge.forgecdn.net/files/8358/178/asynclogger-2.1.2%2B1.21.1-neoforge.jar",
+      "file_name": "asynclogger-2.1.2+1.21.1-neoforge.jar",
+      "version_number": "Async Logger 2.1.2+1.21.1-neoforge"
+    },
+    {
+      "name": "Crafting Station: J/EMI Edition Updated",
+      "curseforge_id": 1127715,
+      "download_url": "https://edge.forgecdn.net/files/7932/261/craftingstationjei-1.21.1-NeoForge-2.1.1.jar",
+      "file_name": "craftingstationjei-1.21.1-NeoForge-2.1.1.jar",
+      "version_number": "craftingstationjei-1.21.1-NeoForge-2.1.1.jar"
+    },
+    {
+      "name": "FancyMenu",
+      "curseforge_id": 367706,
+      "download_url": "https://edge.forgecdn.net/files/8420/116/fancymenu_neoforge_3.9.7_MC_1.21.1.jar",
+      "file_name": "fancymenu_neoforge_3.9.7_MC_1.21.1.jar",
+      "version_number": "[NeoForge] v3.9.7 MC 1.21.1"
+    },
+    {
+      "name": "Interdimensional Wireless Transmitter",
+      "curseforge_id": 452645,
+      "download_url": "https://edge.forgecdn.net/files/6845/967/interdimensionalwirelesstransmitter-neoforge-1.21.1-0.1.5.jar",
+      "file_name": "interdimensionalwirelesstransmitter-neoforge-1.21.1-0.1.5.jar",
+      "version_number": "interdimensionalwirelesstransmitter-neoforge-1.21.1-0.1.5.jar"
+    },
+    {
+      "name": "Mekanism Weaponry",
+      "curseforge_id": 1127676,
+      "download_url": "https://edge.forgecdn.net/files/7124/299/mekanism_weaponry-2.1.4.jar",
+      "file_name": "mekanism_weaponry-2.1.4.jar",
+      "version_number": "mekanism_weaponry-2.1.4.jar"
+    },
+    {
+      "name": "Refined Storage - Mekanism Integration",
+      "curseforge_id": 1230504,
+      "download_url": "https://edge.forgecdn.net/files/7163/500/refinedstorage-mekanism-integration-1.1.1.jar",
+      "file_name": "refinedstorage-mekanism-integration-1.1.1.jar",
+      "version_number": "v1.1.1"
+    },
+    {
+      "name": "Step Crafter",
+      "curseforge_id": 1398054,
+      "download_url": "https://edge.forgecdn.net/files/8364/982/stepcrafter-neoforge-1.21.1-0.1.6.jar",
+      "file_name": "stepcrafter-neoforge-1.21.1-0.1.6.jar",
+      "version_number": "stepcrafter-neoforge-1.21.1-0.1.6.jar"
+    },
+    {
+      "name": "Ambient Environment",
+      "curseforge_id": 320163,
+      "download_url": "https://edge.forgecdn.net/files/5799/489/AmbientEnvironment-neoforge-1.21.1-18.0.0.2.jar",
+      "file_name": "AmbientEnvironment-neoforge-1.21.1-18.0.0.2.jar",
+      "version_number": "AmbientEnvironment-neoforge-1.21.1-18.0.0.2.jar"
+    },
+    {
+      "name": "Hang Glider",
+      "curseforge_id": 852668,
+      "download_url": "https://edge.forgecdn.net/files/5733/836/HangGlider-v21.1.0-1.21.1-NeoForge.jar",
+      "file_name": "HangGlider-v21.1.0-1.21.1-NeoForge.jar",
+      "version_number": "[NEOFORGE] [1.21.1] HangGlider-v21.1.0"
+    },
+    {
+      "name": "TelePastries",
+      "curseforge_id": 319466,
+      "download_url": "https://edge.forgecdn.net/files/6948/488/TelePastries-1.21.1-0.11.2.jar",
+      "file_name": "TelePastries-1.21.1-0.11.2.jar",
+      "version_number": "TelePastries-1.21.1-0.11.2.jar"
+    },
+    {
+      "name": "Athena",
+      "curseforge_id": 841890,
+      "download_url": "https://edge.forgecdn.net/files/8061/947/athena-neoforge-1.21.1-4.0.6.jar",
+      "file_name": "athena-neoforge-1.21.1-4.0.6.jar",
+      "version_number": "[NeoForge] Athena 4.0.6"
+    },
+    {
+      "name": "Crafting Tweaks",
+      "curseforge_id": 233071,
+      "download_url": "https://edge.forgecdn.net/files/8019/498/craftingtweaks-neoforge-1.21.1-21.1.10.jar",
+      "file_name": "craftingtweaks-neoforge-1.21.1-21.1.10.jar",
+      "version_number": "craftingtweaks-neoforge-1.21.1-21.1.10.jar"
+    },
+    {
+      "name": "Fargo's Talismans",
+      "curseforge_id": 950292,
+      "download_url": "https://edge.forgecdn.net/files/6745/673/fargostalismans-1.21.1-2.3.1.jar",
+      "file_name": "fargostalismans-1.21.1-2.3.1.jar",
+      "version_number": "fargostalismans-1.21.1-2.3.1.jar"
+    },
+    {
+      "name": "Inventory Essentials",
+      "curseforge_id": 368825,
+      "download_url": "https://edge.forgecdn.net/files/8362/286/inventoryessentials-neoforge-1.21.1-21.1.17.jar",
+      "file_name": "inventoryessentials-neoforge-1.21.1-21.1.17.jar",
+      "version_number": "inventoryessentials-neoforge-1.21.1-21.1.17.jar"
+    },
+    {
+      "name": "Melody",
+      "curseforge_id": 938643,
+      "download_url": "https://edge.forgecdn.net/files/5453/382/melody_neoforge_1.0.10_MC_1.21.jar",
+      "file_name": "melody_neoforge_1.0.10_MC_1.21.jar",
+      "version_number": "[NeoForge] v1.0.10 MC 1.21"
+    },
+    {
+      "name": "Refined Storage",
+      "curseforge_id": 243076,
+      "download_url": "https://edge.forgecdn.net/files/8211/701/refinedstorage-neoforge-2.0.9.jar",
+      "file_name": "refinedstorage-neoforge-2.0.9.jar",
+      "version_number": "v2.0.9"
+    },
+    {
+      "name": "Structure Expansion",
+      "curseforge_id": 398430,
+      "download_url": "https://edge.forgecdn.net/files/6753/853/structure-expansion-neoforge-88.0.1.jar",
+      "file_name": "structure-expansion-neoforge-88.0.1.jar",
+      "version_number": "[NEOFORGE][1.21.1] StructureExpansion 88.0.1"
+    },
+    {
+      "name": "Apotheosis",
+      "curseforge_id": 313970,
+      "download_url": "https://edge.forgecdn.net/files/8182/695/Apotheosis-1.21.1-8.5.4.jar",
+      "file_name": "Apotheosis-1.21.1-8.5.4.jar",
+      "version_number": "Apotheosis-1.21.1-8.5.4.jar"
+    },
+    {
+      "name": "Hostile Neural Networks",
+      "curseforge_id": 552574,
+      "download_url": "https://edge.forgecdn.net/files/8321/864/HostileNeuralNetworks-1.21.1-6.4.2.jar",
+      "file_name": "HostileNeuralNetworks-1.21.1-6.4.2.jar",
+      "version_number": "Hostile-Neural-Networks 1.21.1-6.4.2"
+    },
+    {
+      "name": "Tool Belt",
+      "curseforge_id": 260262,
+      "download_url": "https://edge.forgecdn.net/files/8309/722/ToolBelt-1.21.1-2.2.10.jar",
+      "file_name": "ToolBelt-1.21.1-2.2.10.jar",
+      "version_number": "ToolBelt-1.21.1-2.2.10.jar"
+    },
+    {
+      "name": "Atlas API",
+      "curseforge_id": 1145462,
+      "download_url": "https://edge.forgecdn.net/files/6880/789/atlas_api-1.21.1-1.2.0.jar",
+      "file_name": "atlas_api-1.21.1-1.2.0.jar",
+      "version_number": "atlas_api-1.21.1-1.2.0.jar"
+    },
+    {
+      "name": "Crash Utilities",
+      "curseforge_id": 371813,
+      "download_url": "https://edge.forgecdn.net/files/5993/450/crashutilities-9.0.4.jar",
+      "file_name": "crashutilities-9.0.4.jar",
+      "version_number": "crashutilities-9.0.4.jar"
+    },
+    {
+      "name": "Farming for Blockheads",
+      "curseforge_id": 261924,
+      "download_url": "https://edge.forgecdn.net/files/7966/196/farmingforblockheads-neoforge-1.21.1-21.1.13.jar",
+      "file_name": "farmingforblockheads-neoforge-1.21.1-21.1.13.jar",
+      "version_number": "farmingforblockheads-neoforge-1.21.1-21.1.13.jar"
+    },
+    {
+      "name": "Inventory Sorter",
+      "curseforge_id": 240633,
+      "download_url": "https://edge.forgecdn.net/files/7188/660/inventorysorter-1.21.1-24.0.24.jar",
+      "file_name": "inventorysorter-1.21.1-24.0.24.jar",
+      "version_number": "inventorysorter 24.0.24"
+    },
+    {
+      "name": "ME Requester",
+      "curseforge_id": 688367,
+      "download_url": "https://edge.forgecdn.net/files/8285/803/merequester-neoforge-1.21.1-1.4.3.jar",
+      "file_name": "merequester-neoforge-1.21.1-1.4.3.jar",
+      "version_number": "MERequester-NeoForge-1.21.1-1.4.3"
+    },
+    {
+      "name": "Refined Storage - Quartz Arsenal",
+      "curseforge_id": 1230483,
+      "download_url": "https://edge.forgecdn.net/files/8103/101/refinedstorage-quartz-arsenal-neoforge-1.0.8.jar",
+      "file_name": "refinedstorage-quartz-arsenal-neoforge-1.0.8.jar",
+      "version_number": "v1.0.8"
+    },
+    {
+      "name": "Structurify - Structure Control",
+      "curseforge_id": 1087551,
+      "download_url": "https://edge.forgecdn.net/files/8310/951/structurify-neoforge-2.0.28%2Bmc1.21.1.jar",
+      "file_name": "structurify-neoforge-2.0.28+mc1.21.1.jar",
+      "version_number": "Structurify 2.0.28"
+    },
+    {
+      "name": "Apothic Attributes",
+      "curseforge_id": 898963,
+      "download_url": "https://edge.forgecdn.net/files/7445/79/ApothicAttributes-1.21.1-2.9.1.jar",
+      "file_name": "ApothicAttributes-1.21.1-2.9.1.jar",
+      "version_number": "ApothicAttributes-1.21.1-2.9.1.jar"
+    },
+    {
+      "name": "ImmediatelyFast",
+      "curseforge_id": 686911,
+      "download_url": "https://edge.forgecdn.net/files/8348/515/ImmediatelyFast-NeoForge-1.6.11%2B1.21.1.jar",
+      "file_name": "ImmediatelyFast-NeoForge-1.6.11+1.21.1.jar",
+      "version_number": "ImmediatelyFast 1.6.11"
+    },
+    {
+      "name": "Tool Kit",
+      "curseforge_id": 324888,
+      "download_url": "https://edge.forgecdn.net/files/8216/546/ToolKit-neoforge-87.0.3.jar",
+      "file_name": "ToolKit-neoforge-87.0.3.jar",
+      "version_number": "[NEOFORGE][1.21.1] ToolKit 87.0.3"
+    },
+    {
+      "name": "AttributeFix",
+      "curseforge_id": 280510,
+      "download_url": "https://edge.forgecdn.net/files/7115/922/attributefix-neoforge-1.21.1-21.1.3.jar",
+      "file_name": "attributefix-neoforge-1.21.1-21.1.3.jar",
+      "version_number": "attributefix-neoforge-1.21.1-21.1.3.jar"
+    },
+    {
+      "name": "Create",
+      "curseforge_id": 328085,
+      "download_url": "https://edge.forgecdn.net/files/7963/363/create-1.21.1-6.0.10.jar",
+      "file_name": "create-1.21.1-6.0.10.jar",
+      "version_number": "Create 6.0.10 for mc1.21.1"
+    },
+    {
+      "name": "Fast Async World Save[Forge/Neo/Fabric]",
+      "curseforge_id": 951499,
+      "download_url": "https://edge.forgecdn.net/files/6935/204/fastasyncworldsave-1.21-2.6.jar",
+      "file_name": "fastasyncworldsave-1.21-2.6.jar",
+      "version_number": "fastasyncworldsave-1.21-2.6.jar"
+    },
+    {
+      "name": "Inventory Totem",
+      "curseforge_id": 349071,
+      "download_url": "https://edge.forgecdn.net/files/6185/649/inventorytotem-1.21.1-3.4.jar",
+      "file_name": "inventorytotem-1.21.1-3.4.jar",
+      "version_number": "[Fabric/Forge/Neo] 1.21.1-3.4 | Inventory Totem"
+    },
+    {
+      "name": "MI Tweaks",
+      "curseforge_id": 1068413,
+      "download_url": "https://edge.forgecdn.net/files/8333/408/mi-tweaks-1.9.2-1.21.1.jar",
+      "file_name": "mi-tweaks-1.9.2-1.21.1.jar",
+      "version_number": "mi-tweaks-1.9.2-1.21.1.jar"
+    },
+    {
+      "name": "Relics",
+      "curseforge_id": 445274,
+      "download_url": "https://edge.forgecdn.net/files/8158/315/relics-1.21.1-0.12.8.jar",
+      "file_name": "relics-1.21.1-0.12.8.jar",
+      "version_number": "relics-1.21.1-0.12.8.jar"
+    },
+    {
+      "name": "Summoning Rituals",
+      "curseforge_id": 671040,
+      "download_url": "https://edge.forgecdn.net/files/8147/571/summoningrituals-neoforge-1.21.1-3.14.1.jar",
+      "file_name": "summoningrituals-neoforge-1.21.1-3.14.1.jar",
+      "version_number": "SummoningRituals-NeoForge-1.21.1-3.14.1"
+    },
+    {
+      "name": "Apothic Enchanting",
+      "curseforge_id": 1063926,
+      "download_url": "https://edge.forgecdn.net/files/8107/222/ApothicEnchanting-1.21.1-1.5.3.jar",
+      "file_name": "ApothicEnchanting-1.21.1-1.5.3.jar",
+      "version_number": "ApothicEnchanting-1.21.1-1.5.3.jar"
+    },
+    {
+      "name": "Jade 🔍",
+      "curseforge_id": 324717,
+      "download_url": "https://edge.forgecdn.net/files/7545/219/Jade-1.21.1-NeoForge-15.10.5.jar",
+      "file_name": "Jade-1.21.1-NeoForge-15.10.5.jar",
+      "version_number": "[NeoForge 1.21.1] 15.10.5"
+    },
+    {
+      "name": "Traveler's Titles (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+      "curseforge_id": 1015155,
+      "download_url": "https://edge.forgecdn.net/files/6294/123/TravelersTitles-1.21.1-NeoForge-5.1.3.jar",
+      "file_name": "TravelersTitles-1.21.1-NeoForge-5.1.3.jar",
+      "version_number": "[1.21.1] Traveler's Titles v5.1.3 (NeoForge)"
+    },
+    {
+      "name": "Auroral",
+      "curseforge_id": 1422678,
+      "download_url": "https://edge.forgecdn.net/files/8124/617/auroral-1.21.1-1.1.1.jar",
+      "file_name": "auroral-1.21.1-1.1.1.jar",
+      "version_number": "auroral 1.21.1-1.1.1"
+    },
+    {
+      "name": "Create Aeronautics",
+      "curseforge_id": 676721,
+      "download_url": "https://mediafilez.forgecdn.net/files/8240/58/create-aeronautics-bundled-1.21.1-1.3.0.jar",
+      "file_name": "create-aeronautics-bundled-1.21.1-1.3.0.jar",
+      "version_number": "Create Aeronautics 1.3.0 for mc1.21.1"
+    },
+    {
+      "name": "FerriteCore ((Neo)Forge)",
+      "curseforge_id": 429235,
+      "download_url": "https://edge.forgecdn.net/files/7524/151/ferritecore-7.0.3-neoforge.jar",
+      "file_name": "ferritecore-7.0.3-neoforge.jar",
+      "version_number": "ferritecore-7.0.3-neoforge"
+    },
+    {
+      "name": "Iris Shaders",
+      "curseforge_id": 455508,
+      "download_url": "https://edge.forgecdn.net/files/8242/804/iris-neoforge-1.8.14-beta.1%2Bmc1.21.1.jar",
+      "file_name": "iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+      "version_number": "Iris 1.8.14 Beta 1 for NeoForge 1.21.1"
+    },
+    {
+      "name": "Modern Industrialization Sound Addon",
+      "curseforge_id": 910125,
+      "download_url": "https://edge.forgecdn.net/files/7319/383/mi_sound_addon-1.2.0-1.21.1.jar",
+      "file_name": "mi_sound_addon-1.2.0-1.21.1.jar",
+      "version_number": "MI Sound Addon 1.2.0-1.21.1"
+    },
+    {
+      "name": "Reliquary Reincarnations",
+      "curseforge_id": 241319,
+      "download_url": "https://edge.forgecdn.net/files/8398/726/reliquary-1.21.1-2.0.77.1537.jar",
+      "file_name": "reliquary-1.21.1-2.0.77.1537.jar",
+      "version_number": "reliquary-1.21.1-2.0.77.1537.jar"
+    },
+    {
+      "name": "SuperMartijn642's Config Lib",
+      "curseforge_id": 438332,
+      "download_url": "https://edge.forgecdn.net/files/5546/996/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
+      "file_name": "supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
+      "version_number": "SuperMartijn642's Config Library 1.1.8 for NeoForge 1.21"
+    },
+    {
+      "name": "Apothic Spawners",
+      "curseforge_id": 986583,
+      "download_url": "https://edge.forgecdn.net/files/7492/121/ApothicSpawners-1.21.1-1.3.4.jar",
+      "file_name": "ApothicSpawners-1.21.1-1.3.4.jar",
+      "version_number": "ApothicSpawners-1.21.1-1.3.4.jar"
+    },
+    {
+      "name": "Jade Addons (Neo/Forge)",
+      "curseforge_id": 583345,
+      "download_url": "https://edge.forgecdn.net/files/6315/149/JadeAddons-1.21.1-NeoForge-6.1.0.jar",
+      "file_name": "JadeAddons-1.21.1-NeoForge-6.1.0.jar",
+      "version_number": "[NeoForge 1.21.1] 6.1.0"
+    },
+    {
+      "name": "Tropicraft",
+      "curseforge_id": 254794,
+      "download_url": "https://edge.forgecdn.net/files/6600/109/Tropicraft-9.8.1.jar",
+      "file_name": "Tropicraft-9.8.1.jar",
+      "version_number": "9.8.1-1.21.1"
+    },
+    {
+      "name": "AzureLib",
+      "curseforge_id": 817423,
+      "download_url": "https://edge.forgecdn.net/files/8367/232/azurelib-neo-1.21.1-3.1.11.jar",
+      "file_name": "azurelib-neo-1.21.1-3.1.11.jar",
+      "version_number": "azurelib-neo-1.21.1-3.1.11.jar"
+    },
+    {
+      "name": "Create: New Age",
+      "curseforge_id": 905861,
+      "download_url": "https://edge.forgecdn.net/files/8215/216/create-new-age-1.2.0%2Bneoforge-mc1.21.1.jar",
+      "file_name": "create-new-age-1.2.0+neoforge-mc1.21.1.jar",
+      "version_number": "1.2.0 for Neoforge 1.21.1"
+    },
+    {
+      "name": "Fishing Overhaul",
+      "curseforge_id": 491332,
+      "download_url": "https://edge.forgecdn.net/files/6297/564/fishingoverhaul-1.21.1-1.2.1.jar",
+      "file_name": "fishingoverhaul-1.21.1-1.2.1.jar",
+      "version_number": "1.21.1-1.2.1"
+    },
+    {
+      "name": "Iron Furnaces",
+      "curseforge_id": 237664,
+      "download_url": "https://edge.forgecdn.net/files/7034/259/ironfurnaces-neoforge-1.21.1-4.3.2.jar",
+      "file_name": "ironfurnaces-neoforge-1.21.1-4.3.2.jar",
+      "version_number": "ironfurnaces-neoforge-1.21.1-4.3.2.jar"
+    },
+    {
+      "name": "Mob Grinding Utils",
+      "curseforge_id": 254241,
+      "download_url": "https://edge.forgecdn.net/files/6804/869/mob_grinding_utils-1.1.10%2Bmc1.21.1.jar",
+      "file_name": "mob_grinding_utils-1.1.10+mc1.21.1.jar",
+      "version_number": "mob_grinding_utils-1.1.10+mc1.21.1.jar"
+    },
+    {
+      "name": "RenderJS",
+      "curseforge_id": 1064413,
+      "download_url": "https://edge.forgecdn.net/files/7667/747/renderjs-neoforge-2101.2.4.jar",
+      "file_name": "renderjs-neoforge-2101.2.4.jar",
+      "version_number": "renderjs-neoforge-2101.2.4.jar"
+    },
+    {
+      "name": "SuperMartijn642's Core Lib",
+      "curseforge_id": 454372,
+      "download_url": "https://edge.forgecdn.net/files/7783/425/supermartijn642corelib-1.1.21-neoforge-mc1.21.jar",
+      "file_name": "supermartijn642corelib-1.1.21-neoforge-mc1.21.jar",
+      "version_number": "SuperMartijn642's Core Lib 1.1.21 for NeoForge 1.21"
+    },
+    {
+      "name": "Applied Mekanistics",
+      "curseforge_id": 574300,
+      "download_url": "https://edge.forgecdn.net/files/7096/962/Applied-Mekanistics-1.6.3.jar",
+      "file_name": "Applied-Mekanistics-1.6.3.jar",
+      "version_number": "1.6.3"
+    },
+    {
+      "name": "Just Enough Mekanism Multiblocks",
+      "curseforge_id": 898746,
+      "download_url": "https://edge.forgecdn.net/files/7921/149/JustEnoughMekanismMultiblocks-1.21.1-7.15.jar",
+      "file_name": "JustEnoughMekanismMultiblocks-1.21.1-7.15.jar",
+      "version_number": "1.21.1-7.15"
+    },
+    {
+      "name": "Vanilla Backport",
+      "curseforge_id": 417430,
+      "download_url": "https://edge.forgecdn.net/files/8229/724/VanillaBackport-neoforge-1.21.1-1.1.7.10.jar",
+      "file_name": "VanillaBackport-neoforge-1.21.1-1.1.7.10.jar",
+      "version_number": "VanillaBackport-neoforge-1.21.1-1.1.7.10.jar"
+    },
+    {
+      "name": "BaguetteLib",
+      "curseforge_id": 1264423,
+      "download_url": "https://edge.forgecdn.net/files/7880/467/baguettelib-1.21.1-NeoForge-2.0.3.jar",
+      "file_name": "baguettelib-1.21.1-NeoForge-2.0.3.jar",
+      "version_number": "baguettelib-1.21.1-NeoForge-2.0.3.jar"
+    },
+    {
+      "name": "Create Aeronautics: Automated Logistics",
+      "curseforge_id": 1537420,
+      "download_url": "https://edge.forgecdn.net/files/8348/610/create_aeronautics_automated_logistics-0.5.2.jar",
+      "file_name": "create_aeronautics_automated_logistics-0.5.2.jar",
+      "version_number": "create_aeronautics_automated_logistics-0.5.2.jar"
+    },
+    {
+      "name": "FlickerFix",
+      "curseforge_id": 431430,
+      "download_url": "https://edge.forgecdn.net/files/7413/25/flickerfix-1.21.1-6.1.0.jar",
+      "file_name": "flickerfix-1.21.1-6.1.0.jar",
+      "version_number": "flickerfix-1.21.1-6.1.0.jar"
+    },
+    {
+      "name": "Iron's Gems 'n Jewelry",
+      "curseforge_id": 1101111,
+      "download_url": "https://edge.forgecdn.net/files/8365/16/irons_jewelry-1.21.1-2.0.2.jar",
+      "file_name": "irons_jewelry-1.21.1-2.0.2.jar",
+      "version_number": "irons_jewelry-1.21.1-2.0.2.jar"
+    },
+    {
+      "name": "Model Gap Fix",
+      "curseforge_id": 676136,
+      "download_url": "https://edge.forgecdn.net/files/5591/286/modelfix-1.21-1.10.jar",
+      "file_name": "modelfix-1.21-1.10.jar",
+      "version_number": "modelfix-1.21-1.10.jar"
+    },
+    {
+      "name": "Repeatable Trial Vaults",
+      "curseforge_id": 1070541,
+      "download_url": "https://edge.forgecdn.net/files/8020/541/repeatable_trial_vaults-neoforge-1.21-1.0.3.jar",
+      "file_name": "repeatable_trial_vaults-neoforge-1.21-1.0.3.jar",
+      "version_number": "repeatable_trial_vaults-neoforge-1.21-1.0.3.jar"
+    },
+    {
+      "name": "Supplementaries",
+      "curseforge_id": 412082,
+      "download_url": "https://edge.forgecdn.net/files/8419/225/supplementaries-neoforge-1.21.1-3.8.0.jar",
+      "file_name": "supplementaries-neoforge-1.21.1-3.8.0.jar",
+      "version_number": "supplementaries-1.21.1-3.8.0-neoforge"
+    },
+    {
+      "name": "Applied Replicatics",
+      "curseforge_id": 1440118,
+      "download_url": "https://edge.forgecdn.net/files/7714/240/Applied-Replicatics-21.1-1.0.4.jar",
+      "file_name": "Applied-Replicatics-21.1-1.0.4.jar",
+      "version_number": "[1.21.1] v21.1-1.0.4"
+    },
+    {
+      "name": "Just Enough Professions (JEP)",
+      "curseforge_id": 417645,
+      "download_url": "https://edge.forgecdn.net/files/7966/681/JustEnoughProfessions-neoforge-1.21.1-4.0.5.jar",
+      "file_name": "JustEnoughProfessions-neoforge-1.21.1-4.0.5.jar",
+      "version_number": "JustEnoughProfessions-neoforge-1.21.1-4.0.5.jar"
+    },
+    {
+      "name": "YUNG's API (NeoForge) [1.20.4-1.21.1 ONLY]",
+      "curseforge_id": 1015100,
+      "download_url": "https://edge.forgecdn.net/files/6715/463/YungsApi-1.21.1-NeoForge-5.1.6.jar",
+      "file_name": "YungsApi-1.21.1-NeoForge-5.1.6.jar",
+      "version_number": "[1.21.1] YUNG's API v5.1.6 (NeoForge)"
+    },
+    {
+      "name": "Balm",
+      "curseforge_id": 531761,
+      "download_url": "https://edge.forgecdn.net/files/8424/824/balm-neoforge-1.21.1-21.0.63.jar",
+      "file_name": "balm-neoforge-1.21.1-21.0.63.jar",
+      "version_number": "balm-neoforge-1.21.1-21.0.63.jar"
+    },
+    {
+      "name": "Create Aeronautics: FTB Chunks",
+      "curseforge_id": 1530014,
+      "download_url": "https://edge.forgecdn.net/files/8420/412/create_aeronautics_ftb_chunks-1.21.1-NeoForge-1.1.1.jar",
+      "file_name": "create_aeronautics_ftb_chunks-1.21.1-NeoForge-1.1.1.jar",
+      "version_number": "create_aeronautics_ftb_chunks-1.21.1-NeoForge-1.1.1.jar"
+    },
+    {
+      "name": "Flourish",
+      "curseforge_id": 332831,
+      "download_url": "https://edge.forgecdn.net/files/6563/663/flourish-neoforge-21.1.0.jar",
+      "file_name": "flourish-neoforge-21.1.0.jar",
+      "version_number": "[NeoForge 1.21.1] v21.1.0"
+    },
+    {
+      "name": "Iron's Lib",
+      "curseforge_id": 1492763,
+      "download_url": "https://edge.forgecdn.net/files/8364/894/irons_lib-1.21.1-2.1.0.jar",
+      "file_name": "irons_lib-1.21.1-2.1.0.jar",
+      "version_number": "irons_lib-1.21.1-2.1.0.jar"
+    },
+    {
+      "name": "ModernFix",
+      "curseforge_id": 790626,
+      "download_url": "https://edge.forgecdn.net/files/8360/807/modernfix-neoforge-5.27.15%2Bmc1.21.1.jar",
+      "file_name": "modernfix-neoforge-5.27.15+mc1.21.1.jar",
+      "version_number": "modernfix-neoforge-5.27.15+mc1.21.1.jar"
+    },
+    {
+      "name": "Replication RS2 Bridge",
+      "curseforge_id": 1381503,
+      "download_url": "https://edge.forgecdn.net/files/8274/610/replication_rs2_bridge-1.21.1-NeoForge-1.2.6.jar",
+      "file_name": "replication_rs2_bridge-1.21.1-NeoForge-1.2.6.jar",
+      "version_number": "replication_rs2_bridge-1.21.1-NeoForge-1.2.6.jar"
+    },
+    {
+      "name": "Synesthesia: Sound Visualizer",
+      "curseforge_id": 1402473,
+      "download_url": "https://edge.forgecdn.net/files/7944/216/synesthesia-1.21.1-NeoForge-1.1.0.jar",
+      "file_name": "synesthesia-1.21.1-NeoForge-1.1.0.jar",
+      "version_number": "synesthesia-1.21.1-NeoForge-1.1.0.jar"
+    },
+    {
+      "name": "Applied Flux",
+      "curseforge_id": 965012,
+      "download_url": "https://edge.forgecdn.net/files/8204/513/AppliedFlux-1.21-2.1.5-neoforge.jar",
+      "file_name": "AppliedFlux-1.21-2.1.5-neoforge.jar",
+      "version_number": "AppliedFlux-1.21-2.1.5-neoforge.jar"
+    },
+    {
+      "name": "Kiwi 🥝 (Neo/Forge)",
+      "curseforge_id": 303657,
+      "download_url": "https://edge.forgecdn.net/files/8423/62/Kiwi-1.21.1-NeoForge-15.8.7.jar",
+      "file_name": "Kiwi-1.21.1-NeoForge-15.8.7.jar",
+      "version_number": "[NeoForge 1.21.1] 15.8.7"
+    },
+    {
+      "name": "YUNG's Better Nether Fortresses (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+      "curseforge_id": 1015118,
+      "download_url": "https://edge.forgecdn.net/files/6606/621/YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
+      "file_name": "YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
+      "version_number": "[1.21.1] YUNG's Better Nether Fortresses v3.1.5 (NeoForge)"
+    },
+    {
+      "name": "Baubley Heart Canisters",
+      "curseforge_id": 282947,
+      "download_url": "https://edge.forgecdn.net/files/8267/921/baubley-heart-canisters-1.21.1-1.4.1.jar",
+      "file_name": "baubley-heart-canisters-1.21.1-1.4.1.jar",
+      "version_number": "baubley-heart-canisters-1.21.1-1.4.1.jar"
+    },
+    {
+      "name": "Create Aeronautics: Throwable Rope Connector",
+      "curseforge_id": 1529882,
+      "download_url": "https://edge.forgecdn.net/files/8368/780/create_aeronautics_throwable_rope_connector-0.4.1.jar",
+      "file_name": "create_aeronautics_throwable_rope_connector-0.4.1.jar",
+      "version_number": "create_aeronautics_throwable_rope_connector-0.4.1.jar"
+    },
+    {
+      "name": "Forgiving Void",
+      "curseforge_id": 271009,
+      "download_url": "https://edge.forgecdn.net/files/7966/159/forgivingvoid-neoforge-1.21.1-21.1.7.jar",
+      "file_name": "forgivingvoid-neoforge-1.21.1-21.1.7.jar",
+      "version_number": "forgivingvoid-neoforge-1.21.1-21.1.7.jar"
+    },
+    {
+      "name": "Iron's Spells 'n Spellbooks",
+      "curseforge_id": 855414,
+      "download_url": "https://edge.forgecdn.net/files/8364/935/irons_spellbooks-1.21.1-3.16.2.jar",
+      "file_name": "irons_spellbooks-1.21.1-3.16.2.jar",
+      "version_number": "v1.21.1-3.16.2"
+    },
+    {
+      "name": "Modern World Creation",
+      "curseforge_id": 485245,
+      "download_url": "https://edge.forgecdn.net/files/6119/761/modernworldcreation_neoforge_2.0.1_MC_1.21.1.jar",
+      "file_name": "modernworldcreation_neoforge_2.0.1_MC_1.21.1.jar",
+      "version_number": "[NeoForge] v2.0.1 MC 1.21.1"
+    },
+    {
+      "name": "Resourceful Config",
+      "curseforge_id": 714059,
+      "download_url": "https://edge.forgecdn.net/files/6467/772/resourcefulconfig-neoforge-1.21-3.0.11.jar",
+      "file_name": "resourcefulconfig-neoforge-1.21-3.0.11.jar",
+      "version_number": "[NeoForge] Resourceful Config 3.0.11"
+    },
+    {
+      "name": "Tempad",
+      "curseforge_id": 514923,
+      "download_url": "https://edge.forgecdn.net/files/6517/779/tempad-1.21.1-3.0.4-all.jar",
+      "file_name": "tempad-1.21.1-3.0.4-all.jar",
+      "version_number": "Tempad 3.0.4"
+    },
+    {
+      "name": "Armor Poser",
+      "curseforge_id": 450663,
+      "download_url": "https://edge.forgecdn.net/files/7258/882/ArmorPoser-neoforge-1.21.1-6.2.3.jar",
+      "file_name": "ArmorPoser-neoforge-1.21.1-6.2.3.jar",
+      "version_number": "ArmorPoser-neoforge-1.21.1-6.2.3.jar"
+    },
+    {
+      "name": "LlamaPalooza",
+      "curseforge_id": 970051,
+      "download_url": "https://edge.forgecdn.net/files/8418/769/LLamaPalooza-1.21.1-0.0.4.jar",
+      "file_name": "LLamaPalooza-1.21.1-0.0.4.jar",
+      "version_number": "LLamaPalooza-1.21.1-0.0.4.jar"
+    },
+    {
+      "name": "Gauges, Switches & Modules",
+      "curseforge_id": 1529530,
+      "download_url": "https://mediafilez.forgecdn.net/files/8226/654/%5B1.21-1.21.1%5D%20rsgauges%20ported%20v.1.2.1.jar",
+      "file_name": "[1.21-1.21.1] rsgauges ported v.1.2.1.jar",
+      "version_number": "[1.21-1.21.1] rsgauges ported v.1.2.1.jar"
+    },
+    {
+      "name": "Bookshelf Extended Enchanting Reach",
+      "curseforge_id": 1274736,
+      "download_url": "https://edge.forgecdn.net/files/6968/233/beer-1.21.1-1.4.1.jar",
+      "file_name": "beer-1.21.1-1.4.1.jar",
+      "version_number": "Beer 1.4.1"
+    },
+    {
+      "name": "Create:  Chipped",
+      "curseforge_id": 1321045,
+      "download_url": "https://edge.forgecdn.net/files/7985/40/create_chipped-1.2.0-neoforge-1.21.1.jar",
+      "file_name": "create_chipped-1.2.0-neoforge-1.21.1.jar",
+      "version_number": "create_chipped-1.1.0-neoforge-1.21.1.jar"
+    },
+    {
+      "name": "Iron's Spells 'n Spellbooks-Aeronautics Compatibility",
+      "curseforge_id": 1544353,
+      "download_url": "https://edge.forgecdn.net/files/8284/717/ironssablecompat-1.0.4.jar",
+      "file_name": "ironssablecompat-1.0.4.jar",
+      "version_number": "Irons-sable-compat v1.0.4"
+    },
+    {
+      "name": "Modonomicon",
+      "curseforge_id": 538392,
+      "download_url": "https://edge.forgecdn.net/files/8430/376/modonomicon-1.21.1-neoforge-1.120.3.jar",
+      "file_name": "modonomicon-1.21.1-neoforge-1.120.3.jar",
+      "version_number": "modonomicon-1.21.1-neoforge-1.120.3.jar"
+    },
+    {
+      "name": "Resourceful Lib",
+      "curseforge_id": 570073,
+      "download_url": "https://edge.forgecdn.net/files/5973/188/resourcefullib-neoforge-1.21-3.0.12.jar",
+      "file_name": "resourcefullib-neoforge-1.21-3.0.12.jar",
+      "version_number": "[NeoForge] Resourceful Lib 3.0.12"
+    },
+    {
+      "name": "Tesseract API (NeoForge)",
+      "curseforge_id": 1067672,
+      "download_url": "https://edge.forgecdn.net/files/8439/721/tesseract-api-neoforge-1.12.9-1.21.1.jar",
+      "file_name": "tesseract-api-neoforge-1.12.9-1.21.1.jar",
+      "version_number": "tesseract-api-neoforge-1.12.9-1.21.1.jar"
+    },
+    {
+      "name": "BisectHosting Server Integration Menu [NEOFORGE]",
+      "curseforge_id": 1084468,
+      "download_url": "https://edge.forgecdn.net/files/7205/496/BHMenu-NeoForge-1.21-2.4.4.jar",
+      "file_name": "BHMenu-NeoForge-1.21-2.4.4.jar",
+      "version_number": "BH Menu 1.21.1 V2.4.4"
+    },
+    {
+      "name": "L_Ender 's Cataclysm",
+      "curseforge_id": 551586,
+      "download_url": "https://edge.forgecdn.net/files/8364/209/L_Ender's%20Cataclysm%201.21.1-3.32.jar",
+      "file_name": "L_Ender's Cataclysm 1.21.1-3.32.jar",
+      "version_number": "L_Ender's Cataclysm 1.21.1-3.32.jar"
+    },
+    {
+      "name": "Aaron",
+      "curseforge_id": 1384284,
+      "download_url": "https://edge.forgecdn.net/files/8364/83/aaron-1.21.1-1.17.0-build.310.jar",
+      "file_name": "aaron-1.21.1-1.17.0-build.310.jar",
+      "version_number": "Aaron 1.21.1 1.17.0-build.310"
+    },
+    {
+      "name": "Simple Conveyor Belts",
+      "curseforge_id": 1292980,
+      "download_url": "https://edge.forgecdn.net/files/7195/755/belts-neoforge-0.2.2.jar",
+      "file_name": "belts-neoforge-0.2.2.jar",
+      "version_number": "neoforge 0.2.2"
+    },
+    {
+      "name": "Create: Connected",
+      "curseforge_id": 947914,
+      "download_url": "https://edge.forgecdn.net/files/8299/240/create_connected-1.3.2-mc1.21.1.jar",
+      "file_name": "create_connected-1.3.2-mc1.21.1.jar",
+      "version_number": "create_connected 1.3.2-mc1.21.1"
+    },
+    {
+      "name": "FTB Backups 3",
+      "curseforge_id": 1294188,
+      "download_url": "https://edge.forgecdn.net/files/8078/605/ftb-backups-3-21.1.5.jar",
+      "file_name": "ftb-backups-3-21.1.5.jar",
+      "version_number": "FTB Backups 3 21.1.5"
+    },
+    {
+      "name": "Irregular Implements",
+      "curseforge_id": 1340717,
+      "download_url": "https://edge.forgecdn.net/files/8364/422/irregular-implements-1.21.1-1.10.4-build.243.jar",
+      "file_name": "irregular-implements-1.21.1-1.10.4-build.243.jar",
+      "version_number": "Irregular Implements 1.21.1 1.10.4-build.243"
+    },
+    {
+      "name": "Modopedia",
+      "curseforge_id": 1132038,
+      "download_url": "https://edge.forgecdn.net/files/8043/293/modopedia-neoforge-1.21.1-1.1.11.jar",
+      "file_name": "modopedia-neoforge-1.21.1-1.1.11.jar",
+      "version_number": "modopedia-neoforge-1.21.1-1.1.11.jar"
+    },
+    {
+      "name": "RFTools Base",
+      "curseforge_id": 326041,
+      "download_url": "https://edge.forgecdn.net/files/8256/204/rftoolsbase-1.21-6.0.11.jar",
+      "file_name": "rftoolsbase-1.21-6.0.11.jar",
+      "version_number": "RFToolsBase - 1.21-6.0.11"
+    },
+    {
+      "name": "Titanium",
+      "curseforge_id": 287342,
+      "download_url": "https://edge.forgecdn.net/files/8426/819/titanium-1.21-4.0.45.jar",
+      "file_name": "titanium-1.21-4.0.45.jar",
+      "version_number": "titanium-1.21-4.0.45.jar"
+    },
+    {
+      "name": "BetterF3",
+      "curseforge_id": 401648,
+      "download_url": "https://edge.forgecdn.net/files/5873/258/BetterF3-11.0.3-NeoForge-1.21.1.jar",
+      "file_name": "BetterF3-11.0.3-NeoForge-1.21.1.jar",
+      "version_number": "BetterF3 NeoForge v11.0.3 (1.21.1)"
+    },
+    {
+      "name": "Lychee (Neo/Forge)",
+      "curseforge_id": 567403,
+      "download_url": "https://edge.forgecdn.net/files/8410/524/Lychee-1.21.1-NeoForge-6.5.2.jar",
+      "file_name": "Lychee-1.21.1-NeoForge-6.5.2.jar",
+      "version_number": "[NeoForge 1.21.1] 6.5.2"
+    },
+    {
+      "name": "Accelerated Decay",
+      "curseforge_id": 699872,
+      "download_url": "https://edge.forgecdn.net/files/5433/36/accelerated-decay-neoforge-21.0.0.jar",
+      "file_name": "accelerated-decay-neoforge-21.0.0.jar",
+      "version_number": "[NEOFORGE] accelerated-decay 21.0.0"
+    },
+    {
+      "name": "Better Compatibility Checker",
+      "curseforge_id": 551894,
+      "download_url": "https://edge.forgecdn.net/files/7404/415/better-compatability-checker-neoforge-21.1.8.jar",
+      "file_name": "better-compatability-checker-neoforge-21.1.8.jar",
+      "version_number": "Better Compatability Checker - 21.1.8 - NeoForge"
+    },
+    {
+      "name": "Create: Hypertubes",
+      "curseforge_id": 1281336,
+      "download_url": "https://edge.forgecdn.net/files/8281/768/create_hypertube-0.5.0-ALPHA-NEOFORGE.jar",
+      "file_name": "create_hypertube-0.5.0-ALPHA-NEOFORGE.jar",
+      "version_number": "Hypertubes 0.5.0-ALPHA NEOFORGE"
+    },
+    {
+      "name": "FTB Chunks (NeoForge)",
+      "curseforge_id": 314906,
+      "download_url": "https://edge.forgecdn.net/files/8317/865/ftb-chunks-neoforge-2101.1.20.jar",
+      "file_name": "ftb-chunks-neoforge-2101.1.20.jar",
+      "version_number": "[NEOFORGE][1.21.1] FTB Chunks 2101.1.20"
+    },
+    {
+      "name": "Item Collectors",
+      "curseforge_id": 395620,
+      "download_url": "https://edge.forgecdn.net/files/5550/187/itemcollectors-1.1.10-neoforge-mc1.21.jar",
+      "file_name": "itemcollectors-1.1.10-neoforge-mc1.21.jar",
+      "version_number": "Item Collectors 1.1.10 for NeoForge 1.21"
+    },
+    {
+      "name": "Modular Routers",
+      "curseforge_id": 250294,
+      "download_url": "https://edge.forgecdn.net/files/8429/333/modular-routers-13.2.6%2Bmc1.21.1.jar",
+      "file_name": "modular-routers-13.2.6+mc1.21.1.jar",
+      "version_number": "\"Modular Routers\" 13.2.6 MC-1.21.1"
+    },
+    {
+      "name": "RFTools Builder",
+      "curseforge_id": 347706,
+      "download_url": "https://edge.forgecdn.net/files/8256/217/rftoolsbuilder-1.21-7.0.5.jar",
+      "file_name": "rftoolsbuilder-1.21-7.0.5.jar",
+      "version_number": "RFToolsBuilder - 1.21-7.0.5"
+    },
+    {
+      "name": "Tooltip Overhaul",
+      "curseforge_id": 1327508,
+      "download_url": "https://edge.forgecdn.net/files/8376/246/tooltipoverhaul-neoforge-1.21.1-1.5.1.jar",
+      "file_name": "tooltipoverhaul-neoforge-1.21.1-1.5.1.jar",
+      "version_number": "[NEOFORGE] Tooltip Overhaul 1.5.1-1.21.1"
+    },
+    {
+      "name": "Brandon's Core",
+      "curseforge_id": 231382,
+      "download_url": "https://edge.forgecdn.net/files/7130/990/BrandonsCore-1.21.1-3.2.1.309.jar",
+      "file_name": "BrandonsCore-1.21.1-3.2.1.309.jar",
+      "version_number": "Brandons Core 1.21.1-3.2.1.309"
+    },
+    {
+      "name": "Moderately Enough Effect Descriptions (MEED)",
+      "curseforge_id": 918638,
+      "download_url": "https://edge.forgecdn.net/files/8441/96/MEED-1.21.1-8.0.jar",
+      "file_name": "MEED-1.21.1-8.0.jar",
+      "version_number": "MEED-1.21.1-8.0 (100+ Update)"
+    },
+    {
+      "name": "Actually Additions",
+      "curseforge_id": 228404,
+      "download_url": "https://edge.forgecdn.net/files/8281/896/actuallyadditions-1.3.26%2Bmc1.21.1.jar",
+      "file_name": "actuallyadditions-1.3.26+mc1.21.1.jar",
+      "version_number": "Actually Additions 1.3.26"
+    },
+    {
+      "name": "BetterBlockZ",
+      "curseforge_id": 1361873,
+      "download_url": "https://mediafilez.forgecdn.net/files/8077/446/betterblockz-0.2.9-1.21.1-neoforge.jar",
+      "file_name": "betterblockz-0.2.9-1.21.1-neoforge.jar",
+      "version_number": "betterblockz-0.2.9-1.21.1-neoforge.jar"
+    },
+    {
+      "name": "Create Aeronautics: Mekanism Compatibility",
+      "curseforge_id": 1536749,
+      "download_url": "https://edge.forgecdn.net/files/8299/825/create_mekanism_compat-0.1.21.jar",
+      "file_name": "create_mekanism_compat-0.1.21.jar",
+      "version_number": "create_mekanism_compat-0.1.21.jar"
+    },
+    {
+      "name": "FTB Echoes",
+      "curseforge_id": 1369870,
+      "download_url": "https://edge.forgecdn.net/files/8443/93/ftb-echoes-21.1.10.jar",
+      "file_name": "ftb-echoes-21.1.10.jar",
+      "version_number": "[NEOFORGE] FTB Echoes 21.1.10"
+    },
+    {
+      "name": "JAGS",
+      "curseforge_id": 517003,
+      "download_url": "https://edge.forgecdn.net/files/6717/206/jags-neo-21.1.5%2Bmc1.21.1.jar",
+      "file_name": "jags-neo-21.1.5+mc1.21.1.jar",
+      "version_number": "JAGS Neo 21.1.5+mc1.21.1"
+    },
+    {
+      "name": "Moog's Structure Lib (moogs_structures)",
+      "curseforge_id": 1337167,
+      "download_url": "https://edge.forgecdn.net/files/8419/493/moogs_structures-neoforge-1.21.1-3.0.2.jar",
+      "file_name": "moogs_structures-neoforge-1.21.1-3.0.2.jar",
+      "version_number": "Moog's Structure Lib 3.0.2-1.21.1 (NeoForge)"
+    },
+    {
+      "name": "RFTools Power",
+      "curseforge_id": 290209,
+      "download_url": "https://edge.forgecdn.net/files/8256/213/rftoolspower-1.21-7.0.6.jar",
+      "file_name": "rftoolspower-1.21-7.0.6.jar",
+      "version_number": "RFToolsPower - 1.21-7.0.6"
+    },
+    {
+      "name": "Torchmaster",
+      "curseforge_id": 254268,
+      "download_url": "https://edge.forgecdn.net/files/7197/218/torchmaster-neoforge-1.21.1-21.1.9.jar",
+      "file_name": "torchmaster-neoforge-1.21.1-21.1.9.jar",
+      "version_number": "torchmaster-neoforge-1.21.1-21.1.9"
+    },
+    {
+      "name": "Bridging Mod",
+      "curseforge_id": 533942,
+      "download_url": "https://edge.forgecdn.net/files/6269/728/BridgingMod-2.6.2%2B1.21.1.neoforge-release.jar",
+      "file_name": "BridgingMod-2.6.2+1.21.1.neoforge-release.jar",
+      "version_number": "[NeoForge 1.21.1] v2.6.2 Bridging Mod"
+    },
+    {
+      "name": "Measurements",
+      "curseforge_id": 478559,
+      "download_url": "https://edge.forgecdn.net/files/6956/811/Measurements-neoforge-1.21.1-3.0.3.jar",
+      "file_name": "Measurements-neoforge-1.21.1-3.0.3.jar",
+      "version_number": "Measurements-neoforge-1.21.1-3.0.3.jar"
+    },
+    {
+      "name": "Actually Additions: Tiers",
+      "curseforge_id": 1549640,
+      "download_url": "https://edge.forgecdn.net/files/8358/554/actuallyadditionstiers-21.1.1.0.1.jar",
+      "file_name": "actuallyadditionstiers-21.1.1.0.1.jar",
+      "version_number": "actuallyadditionstiers 21.1.1.0.1"
+    },
+    {
+      "name": "Better P2P",
+      "curseforge_id": 538092,
+      "download_url": "https://edge.forgecdn.net/files/7140/376/betterp2p-1.5.2.jar",
+      "file_name": "betterp2p-1.5.2.jar",
+      "version_number": "[NeoForge 1.21.1] v1.5.2"
+    },
+    {
+      "name": "Create: Liquid Fuel",
+      "curseforge_id": 840734,
+      "download_url": "https://edge.forgecdn.net/files/6521/990/createliquidfuel-2.1.1-1.21.1.jar",
+      "file_name": "createliquidfuel-2.1.1-1.21.1.jar",
+      "version_number": "1.21.1 v2.1.1"
+    },
+    {
+      "name": "FTB Essentials (Forge & Fabric)",
+      "curseforge_id": 410811,
+      "download_url": "https://edge.forgecdn.net/files/8442/866/ftb-essentials-neoforge-2101.1.10.jar",
+      "file_name": "ftb-essentials-neoforge-2101.1.10.jar",
+      "version_number": "[NEOFORGE][1.21.1] FTB Essentials 2101.1.10"
+    },
+    {
+      "name": "JAMD",
+      "curseforge_id": 422981,
+      "download_url": "https://edge.forgecdn.net/files/6280/200/jamd-neo-21.1.1%2Bmc1.21.1.jar",
+      "file_name": "jamd-neo-21.1.1+mc1.21.1.jar",
+      "version_number": "JAMD Neo 21.1.1+mc1.21.1"
+    },
+    {
+      "name": "Moonlight Lib",
+      "curseforge_id": 499980,
+      "download_url": "https://edge.forgecdn.net/files/8426/304/moonlight-neoforge-1.21.1-3.1.1.jar",
+      "file_name": "moonlight-neoforge-1.21.1-3.1.1.jar",
+      "version_number": "moonlight-1.21.1-3.1.1-neoforge"
+    },
+    {
+      "name": "RFTools Storage",
+      "curseforge_id": 350006,
+      "download_url": "https://edge.forgecdn.net/files/8256/218/rftoolsstorage-1.21-6.0.5.jar",
+      "file_name": "rftoolsstorage-1.21-6.0.5.jar",
+      "version_number": "RFToolsStorage - 1.21-6.0.5"
+    },
+    {
+      "name": "TrashSlot",
+      "curseforge_id": 235577,
+      "download_url": "https://edge.forgecdn.net/files/8163/135/trashslot-neoforge-1.21.1-21.1.11.jar",
+      "file_name": "trashslot-neoforge-1.21.1-21.1.11.jar",
+      "version_number": "trashslot-neoforge-1.21.1-21.1.11.jar"
+    },
+    {
+      "name": "ConnectedTexturesMod",
+      "curseforge_id": 267602,
+      "download_url": "https://edge.forgecdn.net/files/5587/515/CTM-1.21-1.2.1%2B3.jar",
+      "file_name": "CTM-1.21-1.2.1+3.jar",
+      "version_number": "CTM - 1.21-1.2.1+3"
+    },
+    {
+      "name": "Mekanism",
+      "curseforge_id": 268560,
+      "download_url": "https://edge.forgecdn.net/files/7904/58/Mekanism-1.21.1-10.7.19.85.jar",
+      "file_name": "Mekanism-1.21.1-10.7.19.85.jar",
+      "version_number": "Mekanism-1.21.1-10.7.19.85.jar"
+    },
+    {
+      "name": "AE2 Draconic Fusion Autocrafter",
+      "curseforge_id": 1521464,
+      "download_url": "https://edge.forgecdn.net/files/8319/416/ae2-draconic-fusion-autocrafter-neoforge-mc1.21.1-0.1.4.jar",
+      "file_name": "ae2-draconic-fusion-autocrafter-neoforge-mc1.21.1-0.1.4.jar",
+      "version_number": "AE2 Draconic Fusion Autocrafter - 0.1.4"
+    },
+    {
+      "name": "Create: Bits 'n' Bobs",
+      "curseforge_id": 1398383,
+      "download_url": "https://edge.forgecdn.net/files/7591/460/bits_n_bobs-0.0.44.jar",
+      "file_name": "bits_n_bobs-0.0.44.jar",
+      "version_number": "Create Bits 'n' Bobs 0.0.44 NeoForge 1.21.1"
+    },
+    {
+      "name": "Create Nuclear",
+      "curseforge_id": 989797,
+      "download_url": "https://edge.forgecdn.net/files/7329/38/createnuclear-1.3.2-beta.3-neoforge.jar",
+      "file_name": "createnuclear-1.3.2-beta.3-neoforge.jar",
+      "version_number": "createnuclear-1.3.2-beta.3-neoforge.jar"
+    },
+    {
+      "name": "FTB Ez Crystals",
+      "curseforge_id": 1271909,
+      "download_url": "https://edge.forgecdn.net/files/7565/280/ftb-ez-crystals-21.1.1.jar",
+      "file_name": "ftb-ez-crystals-21.1.1.jar",
+      "version_number": "[NEOFORGE] FTB EZ Crystals 21.1.1"
+    },
+    {
+      "name": "JamLib",
+      "curseforge_id": 623764,
+      "download_url": "https://edge.forgecdn.net/files/7766/752/jamlib-neoforge-1.3.6%2B1.21.1.jar",
+      "file_name": "jamlib-neoforge-1.3.6+1.21.1.jar",
+      "version_number": "V1.3.6+1.21.1 (NeoForge 1.21.1)"
+    },
+    {
+      "name": "More Overlays Updated",
+      "curseforge_id": 391382,
+      "download_url": "https://mediafilez.forgecdn.net/files/6981/252/moreoverlays-1.24.2-mc1.21.1-neoforge.jar",
+      "file_name": "moreoverlays-1.24.2-mc1.21.1-neoforge.jar",
+      "version_number": "[1.21.1 NeoForge] MoreOverlays v1.24.2"
+    },
+    {
+      "name": "RFTools Utility",
+      "curseforge_id": 342466,
+      "download_url": "https://edge.forgecdn.net/files/8256/212/rftoolsutility-1.21-7.0.12.jar",
+      "file_name": "rftoolsutility-1.21-7.0.12.jar",
+      "version_number": "RFToolsUtility - 1.21-7.0.12"
+    },
+    {
+      "name": "Trenzalore",
+      "curseforge_id": 870210,
+      "download_url": "https://edge.forgecdn.net/files/5623/160/trenzalore-neo-6.1.1%2Bmc1.21.1.jar",
+      "file_name": "trenzalore-neo-6.1.1+mc1.21.1.jar",
+      "version_number": "Trenzalore Neo 6.1.1+mc1.21.1"
+    },
+    {
+      "name": "Carbon Config",
+      "curseforge_id": 898104,
+      "download_url": "https://edge.forgecdn.net/files/8119/979/CarbonConfig-Neoforge-1.21.1-2.0.2.1.jar",
+      "file_name": "CarbonConfig-Neoforge-1.21.1-2.0.2.1.jar",
+      "version_number": "CarbonConfig-Neoforge-1.21.1-2.0.2.1"
+    },
+    {
+      "name": "Mekanism Additions",
+      "curseforge_id": 345425,
+      "download_url": "https://edge.forgecdn.net/files/7904/60/MekanismAdditions-1.21.1-10.7.19.85.jar",
+      "file_name": "MekanismAdditions-1.21.1-10.7.19.85.jar",
+      "version_number": "MekanismAdditions-1.21.1-10.7.19.85.jar"
+    },
+    {
+      "name": "AE2: Crafting Tree",
+      "curseforge_id": 1086241,
+      "download_url": "https://edge.forgecdn.net/files/7182/163/ae2ct-1.21.1-1.1.1.jar",
+      "file_name": "ae2ct-1.21.1-1.1.1.jar",
+      "version_number": "ae2ct-1.21.1-1.1.1.jar"
+    },
+    {
+      "name": "Bonsai Trees 4",
+      "curseforge_id": 278993,
+      "download_url": "https://edge.forgecdn.net/files/7094/632/bonsaitrees4-4.0.9.jar",
+      "file_name": "bonsaitrees4-4.0.9.jar",
+      "version_number": "bonsaitrees4-4.0.9.jar"
+    },
+    {
+      "name": "Create Propulsion: Simulated",
+      "curseforge_id": 1522736,
+      "download_url": "https://edge.forgecdn.net/files/8099/955/createpropulsion-1.1.4.jar",
+      "file_name": "createpropulsion-1.1.4.jar",
+      "version_number": "1.1.4"
+    },
+    {
+      "name": "FTB Filter System",
+      "curseforge_id": 943925,
+      "download_url": "https://edge.forgecdn.net/files/7429/11/ftb-filter-system-neoforge-21.1.4.jar",
+      "file_name": "ftb-filter-system-neoforge-21.1.4.jar",
+      "version_number": "[NEOFORGE][1.21.1] FTB Filter System 21.1.4"
+    },
+    {
+      "name": "Just Enough Items (JEI)",
+      "curseforge_id": 238222,
+      "download_url": "https://edge.forgecdn.net/files/8438/425/jei-1.21.1-neoforge-19.39.0.368.jar",
+      "file_name": "jei-1.21.1-neoforge-19.39.0.368.jar",
+      "version_number": "19.39.0.368 for NeoForge 1.21.1"
+    },
+    {
+      "name": "More Red",
+      "curseforge_id": 387638,
+      "download_url": "https://edge.forgecdn.net/files/5763/286/morered-1.21.1-6.0.0.3.jar",
+      "file_name": "morered-1.21.1-6.0.0.3.jar",
+      "version_number": "morered-1.21.1-6.0.0.3.jar"
+    },
+    {
+      "name": "TrimsEffects - 2.1 NOW AVAILABLE!",
+      "curseforge_id": 870275,
+      "download_url": "https://edge.forgecdn.net/files/6159/954/trimeffects-neoforge-mc1.21-2.1.1.jar",
+      "file_name": "trimeffects-neoforge-mc1.21-2.1.1.jar",
+      "version_number": "[NEO] TrimsEffects - MC 1.21.1 - 2.1.1"
+    },
+    {
+      "name": "Chance Cubes",
+      "curseforge_id": 233113,
+      "download_url": "https://edge.forgecdn.net/files/6558/787/ChanceCubes-1.21.1-5.0.2.517.jar",
+      "file_name": "ChanceCubes-1.21.1-5.0.2.517.jar",
+      "version_number": "ChanceCubes 1.21.1-5.0.2.517"
+    },
+    {
+      "name": "Mekanism Generators",
+      "curseforge_id": 268566,
+      "download_url": "https://edge.forgecdn.net/files/7904/61/MekanismGenerators-1.21.1-10.7.19.85.jar",
+      "file_name": "MekanismGenerators-1.21.1-10.7.19.85.jar",
+      "version_number": "MekanismGenerators-1.21.1-10.7.19.85.jar"
+    },
+    {
+      "name": "ae2helpers",
+      "curseforge_id": 1450496,
+      "download_url": "https://edge.forgecdn.net/files/7634/384/ae2helpers-1.0.1.jar",
+      "file_name": "ae2helpers-1.0.1.jar",
+      "version_number": "ae2helpers-1.0.1.jar"
+    },
+    {
+      "name": "Bookshelf",
+      "curseforge_id": 228525,
+      "download_url": "https://edge.forgecdn.net/files/7606/240/bookshelf-neoforge-1.21.1-21.1.81.jar",
+      "file_name": "bookshelf-neoforge-1.21.1-21.1.81.jar",
+      "version_number": "bookshelf-neoforge-1.21.1-21.1.81.jar"
+    },
+    {
+      "name": "Create: Train Track Rail Grinding",
+      "curseforge_id": 1545733,
+      "download_url": "https://edge.forgecdn.net/files/8250/233/createrailgrinding-1.2.1.jar",
+      "file_name": "createrailgrinding-1.2.1.jar",
+      "version_number": "Create Rail Grinding 1.2.1 For mc1.21.1"
+    },
+    {
+      "name": "FTB JEI Extras",
+      "curseforge_id": 1103259,
+      "download_url": "https://edge.forgecdn.net/files/6695/679/ftb-jei-extras-21.1.7.jar",
+      "file_name": "ftb-jei-extras-21.1.7.jar",
+      "version_number": "[NEOFORGE][1.21.1] FTB JEI Extras 21.1.7"
+    },
+    {
+      "name": "Jumbo Furnace",
+      "curseforge_id": 390880,
+      "download_url": "https://edge.forgecdn.net/files/7477/280/jumbofurnace-5.0.0.9.jar",
+      "file_name": "jumbofurnace-5.0.0.9.jar",
+      "version_number": "jumbofurnace-5.0.0.9.jar"
+    },
+    {
+      "name": "M.R.U",
+      "curseforge_id": 669659,
+      "download_url": "https://edge.forgecdn.net/files/8438/485/mru-1.0.31%2B1.21.1-neoforge.jar",
+      "file_name": "mru-1.0.31+1.21.1-neoforge.jar",
+      "version_number": "MRU 1.0.31 for 1.21.1 NeoForge"
+    },
+    {
+      "name": "Rhino",
+      "curseforge_id": 416294,
+      "download_url": "https://edge.forgecdn.net/files/8218/748/rhino-2101.2.7-build.85.jar",
+      "file_name": "rhino-2101.2.7-build.85.jar",
+      "version_number": "Rhino 2101.2.7-build.85"
+    },
+    {
+      "name": "Twemoji",
+      "curseforge_id": 1543001,
+      "download_url": "https://edge.forgecdn.net/files/8155/573/twemoji-1.21.1-NeoForge-1.0.2.jar",
+      "file_name": "twemoji-1.21.1-NeoForge-1.0.2.jar",
+      "version_number": "twemoji-1.21.1-NeoForge-1.0.2.jar"
+    },
+    {
+      "name": "Chipped Express",
+      "curseforge_id": 938916,
+      "download_url": "https://edge.forgecdn.net/files/6362/997/ChippedExpress-universal-21x.jar",
+      "file_name": "ChippedExpress-universal-21x.jar",
+      "version_number": "1.3.2-21x"
+    },
+    {
+      "name": "Mekanism Tools",
+      "curseforge_id": 268567,
+      "download_url": "https://edge.forgecdn.net/files/7904/62/MekanismTools-1.21.1-10.7.19.85.jar",
+      "file_name": "MekanismTools-1.21.1-10.7.19.85.jar",
+      "version_number": "MekanismTools-1.21.1-10.7.19.85.jar"
+    },
+    {
+      "name": "AE2 JEI Integration",
+      "curseforge_id": 1074338,
+      "download_url": "https://edge.forgecdn.net/files/7727/898/ae2jeiintegration-1.2.1.jar",
+      "file_name": "ae2jeiintegration-1.2.1.jar",
+      "version_number": "ae2jeiintegration-1.2.1.jar"
+    },
+    {
+      "name": "BucketLib",
+      "curseforge_id": 560156,
+      "download_url": "https://edge.forgecdn.net/files/8061/863/bucketlib-neoforge-1.21-4.1.7.2.jar",
+      "file_name": "bucketlib-neoforge-1.21-4.1.7.2.jar",
+      "version_number": "neoforge-1.21-4.1.7.2"
+    },
+    {
+      "name": "Create Sifting",
+      "curseforge_id": 661938,
+      "download_url": "https://edge.forgecdn.net/files/8418/559/createsifter-1.21.1-2.3.0.jar",
+      "file_name": "createsifter-1.21.1-2.3.0.jar",
+      "version_number": "Create: Sifter 2.3.0 for mc1.21.1"
+    },
+    {
+      "name": "FTB Library (NeoForge)",
+      "curseforge_id": 404465,
+      "download_url": "https://edge.forgecdn.net/files/8438/216/ftb-library-neoforge-2101.1.33.jar",
+      "file_name": "ftb-library-neoforge-2101.1.33.jar",
+      "version_number": "[NEOFORGE][1.21.1] FTB Library 2101.1.33"
+    },
+    {
+      "name": "Jump Over Fences",
+      "curseforge_id": 423421,
+      "download_url": "https://mediafilez.forgecdn.net/files/6897/510/jumpoverfences-neoforge-1.21.1-1.6.1.jar",
+      "file_name": "jumpoverfences-neoforge-1.21.1-1.6.1.jar",
+      "version_number": "jumpoverfences-neoforge-1.21.1-1.6.1.jar"
+    },
+    {
+      "name": "Neo Vitae",
+      "curseforge_id": 1404763,
+      "download_url": "https://edge.forgecdn.net/files/8444/408/neovitae-1.21.1-1.0.27.jar",
+      "file_name": "neovitae-1.21.1-1.0.27.jar",
+      "version_number": "neovitae 1.21.1-1.0.27"
+    },
+    {
+      "name": "RSInfinityBooster",
+      "curseforge_id": 446870,
+      "download_url": "https://edge.forgecdn.net/files/6487/415/rsinfinitybooster-neoforge-1.21.1-1.0.0.48.jar",
+      "file_name": "rsinfinitybooster-neoforge-1.21.1-1.0.0.48.jar",
+      "version_number": "RSInfinityBooster 1.21.1-1.0.0.48"
+    },
+    {
+      "name": "Utilitarian",
+      "curseforge_id": 929559,
+      "download_url": "https://edge.forgecdn.net/files/7973/750/utilitarian-1.21.1-0.19.2.jar",
+      "file_name": "utilitarian-1.21.1-0.19.2.jar",
+      "version_number": "utilitarian-1.21.1-0.19.2.jar"
+    },
+    {
+      "name": "Cloud Glass",
+      "curseforge_id": 1157074,
+      "download_url": "https://edge.forgecdn.net/files/7966/728/CloudGlass-1.21.1-1.0.2.jar",
+      "file_name": "CloudGlass-1.21.1-1.0.2.jar",
+      "version_number": "CloudGlass-1.21.1-1.0.2.jar"
+    },
+    {
+      "name": "Modern Industrialization",
+      "curseforge_id": 405388,
+      "download_url": "https://edge.forgecdn.net/files/8439/736/Modern-Industrialization-2.5.3.jar",
+      "file_name": "Modern-Industrialization-2.5.3.jar",
+      "version_number": "Modern Industrialization v2.5.3"
+    },
+    {
+      "name": "AE2 Labeled Patterns",
+      "curseforge_id": 1305877,
+      "download_url": "https://edge.forgecdn.net/files/6867/561/ae2labeledpatterns-1.0.5.jar",
+      "file_name": "ae2labeledpatterns-1.0.5.jar",
+      "version_number": "ae2labeledpatterns-1.0.5.jar"
+    },
+    {
+      "name": "Building Gadgets",
+      "curseforge_id": 298187,
+      "download_url": "https://edge.forgecdn.net/files/6850/515/buildinggadgets2-1.3.9.jar",
+      "file_name": "buildinggadgets2-1.3.9.jar",
+      "version_number": "BuildingGadgets2-1.3.9"
+    },
+    {
+      "name": "Create Stock Bridge",
+      "curseforge_id": 1256341,
+      "download_url": "https://edge.forgecdn.net/files/8044/769/createstockbridge-1.21.1-0.2.0.jar",
+      "file_name": "createstockbridge-1.21.1-0.2.0.jar",
+      "version_number": "[NeoForge] Create Stock Bridge 1.21.1-0.2.0"
+    },
+    {
+      "name": "FTB Materials",
+      "curseforge_id": 1124942,
+      "download_url": "https://edge.forgecdn.net/files/8400/478/ftb-materials-21.1.4.jar",
+      "file_name": "ftb-materials-21.1.4.jar",
+      "version_number": "[NEOFORGE] FTB Materials 21.1.4"
+    },
+    {
+      "name": "Just Dire Fuels",
+      "curseforge_id": 1554863,
+      "download_url": "https://edge.forgecdn.net/files/8150/494/justdirefuels-1.0.0.jar",
+      "file_name": "justdirefuels-1.0.0.jar",
+      "version_number": "justdirefuels-1.0.0.jar"
+    },
+    {
+      "name": "Not Enough Glyphs",
+      "curseforge_id": 1023517,
+      "download_url": "https://edge.forgecdn.net/files/8305/680/not_enough_glyphs-1.21.1-4.6.1.jar",
+      "file_name": "not_enough_glyphs-1.21.1-4.6.1.jar",
+      "version_number": "not_enough_glyphs-1.21.1-4.6.1"
+    },
+    {
+      "name": "Sable",
+      "curseforge_id": 1312371,
+      "download_url": "https://edge.forgecdn.net/files/8263/584/sable-neoforge-1.21.1-2.0.3.jar",
+      "file_name": "sable-neoforge-1.21.1-2.0.3.jar",
+      "version_number": "Sable NeoForge 2.0.3 for mc1.21.1"
+    },
+    {
+      "name": "Valhelsia Core",
+      "curseforge_id": 416935,
+      "download_url": "https://edge.forgecdn.net/files/6296/775/valhelsia_core-neoforge-1.21.1-1.1.5.jar",
+      "file_name": "valhelsia_core-neoforge-1.21.1-1.1.5.jar",
+      "version_number": "[NeoForge] Valhelsia Core - 1.1.5"
+    },
+    {
+      "name": "Clumps",
+      "curseforge_id": 256717,
+      "download_url": "https://edge.forgecdn.net/files/5623/731/Clumps-neoforge-1.21.1-19.0.0.1.jar",
+      "file_name": "Clumps-neoforge-1.21.1-19.0.0.1.jar",
+      "version_number": "Clumps-neoforge-1.21.1-19.0.0.1.jar"
+    },
+    {
+      "name": "MSS - Moog's Soaring Structures",
+      "curseforge_id": 1040210,
+      "download_url": "https://edge.forgecdn.net/files/8128/62/MoogsSoaringStructures-1.21-2.1.2.jar",
+      "file_name": "MoogsSoaringStructures-1.21-2.1.2.jar",
+      "version_number": "MSS 2.1.2-1.21 [UNIVERSAL]"
+    },
+    {
+      "name": "AE2 Lightning Tech",
+      "curseforge_id": 1527395,
+      "download_url": "https://edge.forgecdn.net/files/8422/767/ae2lt-1.1.3-fix.jar",
+      "file_name": "ae2lt-1.1.3-fix.jar",
+      "version_number": "ae2lt-1.1.3-fix.jar"
+    },
+    {
+      "name": "Cable Facades",
+      "curseforge_id": 1140577,
+      "download_url": "https://edge.forgecdn.net/files/8271/740/cable_facades-1.21.1-NeoForge-2.1.3.jar",
+      "file_name": "cable_facades-1.21.1-NeoForge-2.1.3.jar",
+      "version_number": "cable_facades-1.21.1-NeoForge-2.1.3.jar"
+    },
+    {
+      "name": "Create: Transmission!",
+      "curseforge_id": 1354280,
+      "download_url": "https://edge.forgecdn.net/files/8186/85/createtransmission-1.2.1%2Bneoforge-create6-1.21.1.jar",
+      "file_name": "createtransmission-1.2.1+neoforge-create6-1.21.1.jar",
+      "version_number": "createtransmission-1.2.1+neoforge-create6-1.21.1.jar"
+    },
+    {
+      "name": "FTB Obsidian",
+      "curseforge_id": 1448262,
+      "download_url": "https://edge.forgecdn.net/files/7546/33/ftb-obsidian-21.1.0.jar",
+      "file_name": "ftb-obsidian-21.1.0.jar",
+      "version_number": "FTB Obsidian 21.1.0"
+    },
+    {
+      "name": "Just Dire Things",
+      "curseforge_id": 1002348,
+      "download_url": "https://edge.forgecdn.net/files/7463/40/justdirethings-1.5.7.jar",
+      "file_name": "justdirethings-1.5.7.jar",
+      "version_number": "JustDireThings-1.5.7"
+    },
+    {
+      "name": "Oracle Index",
+      "curseforge_id": 1206582,
+      "download_url": "https://edge.forgecdn.net/files/8414/532/oracle_index-neoforge-1.3.1.jar",
+      "file_name": "oracle_index-neoforge-1.3.1.jar",
+      "version_number": "neoforge 1.3.1"
+    },
+    {
+      "name": "Jade Sable Compat",
+      "curseforge_id": 1530988,
+      "download_url": "https://edge.forgecdn.net/files/8269/260/sablejade-1.2.1.jar",
+      "file_name": "sablejade-1.2.1.jar",
+      "version_number": "sablejade-1.2.1.jar"
+    },
+    {
+      "name": "What Are They Up To (Watut)",
+      "curseforge_id": 945479,
+      "download_url": "https://edge.forgecdn.net/files/6418/577/watut-neoforge-1.21.0-1.2.7.jar",
+      "file_name": "watut-neoforge-1.21.0-1.2.7.jar",
+      "version_number": "watut-neoforge-1.21.0-1.2.7.jar"
+    },
+    {
+      "name": "CodeChicken Lib 1.8.+",
+      "curseforge_id": 242818,
+      "download_url": "https://edge.forgecdn.net/files/7281/427/CodeChickenLib-1.21.1-4.6.1.526.jar",
+      "file_name": "CodeChickenLib-1.21.1-4.6.1.526.jar",
+      "version_number": "CodeChicken Lib 1.21.1-4.6.1.526"
+    },
+    {
+      "name": "More Red x CC:Tweaked Compat",
+      "curseforge_id": 867286,
+      "download_url": "https://edge.forgecdn.net/files/6165/477/MoreRed-CCT-Compat-1.21.1-1.3.0.jar",
+      "file_name": "MoreRed-CCT-Compat-1.21.1-1.3.0.jar",
+      "version_number": "MoreRed-CCT-Compat-1.21.1-1.3.0.jar"
+    },
+    {
+      "name": "Applied Energistics 2 Wireless Terminals",
+      "curseforge_id": 459929,
+      "download_url": "https://edge.forgecdn.net/files/8048/692/ae2wtlib-19.5.0.jar",
+      "file_name": "ae2wtlib-19.5.0.jar",
+      "version_number": "ae2wtlib-19.5.0.jar"
+    },
+    {
+      "name": "Cable Tiers",
+      "curseforge_id": 454382,
+      "download_url": "https://edge.forgecdn.net/files/8401/812/cabletiers-neoforge-1.21.1-0.6.13.jar",
+      "file_name": "cabletiers-neoforge-1.21.1-0.6.13.jar",
+      "version_number": "cabletiers-neoforge-1.21.1-0.6.13.jar"
+    },
+    {
+      "name": "Create Ultimine",
+      "curseforge_id": 1231381,
+      "download_url": "https://edge.forgecdn.net/files/8086/425/createultimine-1.21.1-neoforge-1.3.2.jar",
+      "file_name": "createultimine-1.21.1-neoforge-1.3.2.jar",
+      "version_number": "createultimine-1.21.1-neoforge-1.3.2.jar"
+    },
+    {
+      "name": "FTB Pack Companion",
+      "curseforge_id": 693963,
+      "download_url": "https://edge.forgecdn.net/files/8445/899/ftb-pack-companion-21.1.22.jar",
+      "file_name": "ftb-pack-companion-21.1.22.jar",
+      "version_number": "FTB Pack Companion NeoForge 21.1.22"
+    },
+    {
+      "name": "Just Dyna Things (Just Dire Things addon)",
+      "curseforge_id": 1189855,
+      "download_url": "https://edge.forgecdn.net/files/7851/999/justdynathings-1.19.6.jar",
+      "file_name": "justdynathings-1.19.6.jar",
+      "version_number": "1.19.6"
+    },
+    {
+      "name": "Oritech",
+      "curseforge_id": 1030830,
+      "download_url": "https://edge.forgecdn.net/files/8426/648/oritech-neoforge-1.21.1-1.2.9.jar",
+      "file_name": "oritech-neoforge-1.21.1-1.2.9.jar",
+      "version_number": "neoforge 1.2.9"
+    },
+    {
+      "name": "Sable: Mass view (Create Aeronautics)",
+      "curseforge_id": 1518454,
+      "download_url": "https://edge.forgecdn.net/files/7948/985/sablemassview-1.0.0.jar",
+      "file_name": "sablemassview-1.0.0.jar",
+      "version_number": "sablemassview-1.0.0.jar"
+    },
+    {
+      "name": "Waystones",
+      "curseforge_id": 245755,
+      "download_url": "https://edge.forgecdn.net/files/8404/393/waystones-neoforge-1.21.1-21.1.36.jar",
+      "file_name": "waystones-neoforge-1.21.1-21.1.36.jar",
+      "version_number": "waystones-neoforge-1.21.1-21.1.36.jar"
+    },
+    {
+      "name": "Cognition (Experience Obelisk)",
+      "curseforge_id": 579484,
+      "download_url": "https://edge.forgecdn.net/files/8406/272/Cognition-v2.4.13-1.21.1.jar",
+      "file_name": "Cognition-v2.4.13-1.21.1.jar",
+      "version_number": "Cognition-v2.4.13-1.21.1.jar"
+    },
+    {
+      "name": "Mouse Tweaks",
+      "curseforge_id": 60089,
+      "download_url": "https://edge.forgecdn.net/files/5637/846/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+      "file_name": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+      "version_number": "[1.21+ NeoForge] Mouse Tweaks 2.26.1"
+    },
+    {
+      "name": "Copycats+ aeronautics weight",
+      "curseforge_id": 1520961,
+      "download_url": "https://mediafilez.forgecdn.net/files/7977/632/aerocopycats-1.1.1.jar",
+      "file_name": "aerocopycats-1.1.1.jar",
+      "version_number": "aerocopycats-1.1.1.jar"
+    },
+    {
+      "name": "Caelus API",
+      "curseforge_id": 308989,
+      "download_url": "https://edge.forgecdn.net/files/5694/215/caelus-neoforge-7.0.1%2B1.21.1.jar",
+      "file_name": "caelus-neoforge-7.0.1+1.21.1.jar",
+      "version_number": "caelus-neoforge-7.0.1+1.21.1.jar"
+    },
+    {
+      "name": "Cristel Lib",
+      "curseforge_id": 856996,
+      "download_url": "https://edge.forgecdn.net/files/8241/767/cristellib-neoforge-1.21.1-3.1.7.jar",
+      "file_name": "cristellib-neoforge-1.21.1-3.1.7.jar",
+      "version_number": "Cristel Lib 3.1.7"
+    },
+    {
+      "name": "FTB Pause Menu API",
+      "curseforge_id": 1197864,
+      "download_url": "https://edge.forgecdn.net/files/6695/262/ftb-pause-menu-api-21.1.3.jar",
+      "file_name": "ftb-pause-menu-api-21.1.3.jar",
+      "version_number": "FTB Pause Menu API 21.1.3"
+    },
+    {
+      "name": "Just Enough Breeding (JEBr)",
+      "curseforge_id": 899386,
+      "download_url": "https://edge.forgecdn.net/files/8138/627/justenoughbreeding-neoforge-1.21.1-3.1.0.jar",
+      "file_name": "justenoughbreeding-neoforge-1.21.1-3.1.0.jar",
+      "version_number": "justenoughbreeding-neoforge-1.21.1-3.1.0.jar"
+    },
+    {
+      "name": "Oritech Things",
+      "curseforge_id": 1166849,
+      "download_url": "https://edge.forgecdn.net/files/8241/992/oritechthings-0.0.44.jar",
+      "file_name": "oritechthings-0.0.44.jar",
+      "version_number": "oritechthings-0.0.44.jar"
+    },
+    {
+      "name": "ServerCore",
+      "curseforge_id": 550579,
+      "download_url": "https://mediafilez.forgecdn.net/files/8312/220/servercore-neoforge-1.5.19%2B1.21.1.jar",
+      "file_name": "servercore-neoforge-1.5.19+1.21.1.jar",
+      "version_number": "ServerCore NeoForge 1.5.19+1.21.1"
+    },
+    {
+      "name": "Waystones: Sable (Create Aeronautics Addon)",
+      "curseforge_id": 1524471,
+      "download_url": "https://edge.forgecdn.net/files/8404/634/waystonessable-1.0.5.jar",
+      "file_name": "waystonessable-1.0.5.jar",
+      "version_number": "waystonessable-1.0.5"
+    },
+    {
+      "name": "Configured Defaults",
+      "curseforge_id": 930131,
+      "download_url": "https://edge.forgecdn.net/files/6060/28/ConfiguredDefaults-v21.1.3-1.21.1-NeoForge.jar",
+      "file_name": "ConfiguredDefaults-v21.1.3-1.21.1-NeoForge.jar",
+      "version_number": "[NEOFORGE] [1.21.1] ConfiguredDefaults-v21.1.3"
+    },
+    {
+      "name": "Mystical Agradditions",
+      "curseforge_id": 256247,
+      "download_url": "https://edge.forgecdn.net/files/7802/27/MysticalAgradditions-1.21.1-8.0.13.jar",
+      "file_name": "MysticalAgradditions-1.21.1-8.0.13.jar",
+      "version_number": "MysticalAgradditions-1.21.1-8.0.13.jar"
+    },
+    {
+      "name": "Create Aeronautics: Covers",
+      "curseforge_id": 1518758,
+      "download_url": "https://edge.forgecdn.net/files/7971/997/aeronauticscovers-1.21.1-NeoForge-1.0.1.jar",
+      "file_name": "aeronauticscovers-1.21.1-NeoForge-1.0.1.jar",
+      "version_number": "aeronauticscovers-1.21.1-NeoForge-1.0.1.jar"
+    },
+    {
+      "name": "Cupboard",
+      "curseforge_id": 326652,
+      "download_url": "https://edge.forgecdn.net/files/8260/590/cupboard-1.21.1-3.8.jar",
+      "file_name": "cupboard-1.21.1-3.8.jar",
+      "version_number": "cupboard-1.21.1-3.8.jar"
+    },
+    {
+      "name": "FTB Quests (NeoForge)",
+      "curseforge_id": 289412,
+      "download_url": "https://edge.forgecdn.net/files/8253/474/ftb-quests-neoforge-2101.1.27.jar",
+      "file_name": "ftb-quests-neoforge-2101.1.27.jar",
+      "version_number": "[NEOFORGE][1.21.1] FTB Quests 2101.1.27"
+    },
+    {
+      "name": "Just Enough Spirits",
+      "curseforge_id": 1601380,
+      "download_url": "https://edge.forgecdn.net/files/8387/682/justenoughspirits-1.21.1-1.0.0.jar",
+      "file_name": "justenoughspirits-1.21.1-1.0.0.jar",
+      "version_number": "justenoughspirits-1.21.1-1.0.0.jar"
+    },
+    {
+      "name": "Overloaded Armor Bar",
+      "curseforge_id": 314002,
+      "download_url": "https://edge.forgecdn.net/files/5537/850/overloadedarmorbar-neoforge-1.21-2.jar",
+      "file_name": "overloadedarmorbar-neoforge-1.21-2.jar",
+      "version_number": "overloadedarmorbar-neoforge-1.21-2.jar"
+    },
+    {
+      "name": "SG-Economy API",
+      "curseforge_id": 1446971,
+      "download_url": "https://edge.forgecdn.net/files/8176/623/sg_economy-1.0.5.jar",
+      "file_name": "sg_economy-1.0.5.jar",
+      "version_number": "sg_economy-1.0.5.jar"
+    },
+    {
+      "name": "WeatherGate",
+      "curseforge_id": 1048090,
+      "download_url": "https://edge.forgecdn.net/files/5712/24/weathergate-neo-2.0.0%2Bmc1.21.1.jar",
+      "file_name": "weathergate-neo-2.0.0+mc1.21.1.jar",
+      "version_number": "WeatherGate Neo 2.0.0+mc1.21.1"
+    },
+    {
+      "name": "Construction Sticks",
+      "curseforge_id": 1156098,
+      "download_url": "https://edge.forgecdn.net/files/8287/281/ConstructionSticks-1.21.1-1.4.1.jar",
+      "file_name": "ConstructionSticks-1.21.1-1.4.1.jar",
+      "version_number": "ConstructionSticks-1.21.1-1.4.1.jar"
+    },
+    {
+      "name": "Mystical Agriculture",
+      "curseforge_id": 246640,
+      "download_url": "https://edge.forgecdn.net/files/8344/249/MysticalAgriculture-1.21.1-8.0.27.jar",
+      "file_name": "MysticalAgriculture-1.21.1-8.0.27.jar",
+      "version_number": "MysticalAgriculture-1.21.1-8.0.27.jar"
+    },
+    {
+      "name": "Aeronaut's Compass",
+      "curseforge_id": 1539399,
+      "download_url": "https://mediafilez.forgecdn.net/files/8074/616/aeronautscompass-1.1.0.jar",
+      "file_name": "aeronautscompass-1.1.0.jar",
+      "version_number": "aeronautscompass-1.1.0.jar"
+    },
+    {
+      "name": "Ceramic Bucket",
+      "curseforge_id": 363799,
+      "download_url": "https://edge.forgecdn.net/files/5676/627/ceramicbucket-neoforge-1.21-6.1.1.0.jar",
+      "file_name": "ceramicbucket-neoforge-1.21-6.1.1.0.jar",
+      "version_number": "neoforge-1.21-6.1.1.0"
+    },
+    {
+      "name": "Curios API",
+      "curseforge_id": 309927,
+      "download_url": "https://edge.forgecdn.net/files/6529/130/curios-neoforge-9.5.1%2B1.21.1.jar",
+      "file_name": "curios-neoforge-9.5.1+1.21.1.jar",
+      "version_number": "curios-neoforge-9.5.1+1.21.1.jar"
+    },
+    {
+      "name": "FTB Ranks (NeoForge)",
+      "curseforge_id": 314905,
+      "download_url": "https://edge.forgecdn.net/files/6431/744/ftb-ranks-neoforge-2101.1.3.jar",
+      "file_name": "ftb-ranks-neoforge-2101.1.3.jar",
+      "version_number": "[NEOFORGE][1.21.1] FTB Ranks 2101.1.3"
+    },
+    {
+      "name": "Just Zoom",
+      "curseforge_id": 561885,
+      "download_url": "https://edge.forgecdn.net/files/6290/230/justzoom_neoforge_2.1.0_MC_1.21.1.jar",
+      "file_name": "justzoom_neoforge_2.1.0_MC_1.21.1.jar",
+      "version_number": "[NeoForge] v2.1.0 MC 1.21.1"
+    },
+    {
+      "name": "oωo (owo-lib)",
+      "curseforge_id": 532610,
+      "download_url": "https://edge.forgecdn.net/files/6785/734/owo-lib-neoforge-0.12.15.5-beta.1%2B1.21.jar",
+      "file_name": "owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
+      "version_number": "[1.21.1] oωo - neo - 0.12.15.5-beta.1+1.21"
+    },
+    {
+      "name": "Showcase Item",
+      "curseforge_id": 627196,
+      "download_url": "https://edge.forgecdn.net/files/6426/184/showcaseitem-1.21.1-1.1.0.jar",
+      "file_name": "showcaseitem-1.21.1-1.1.0.jar",
+      "version_number": "showcaseitem-1.21.1-1.1.0.jar"
+    },
+    {
+      "name": "What The Bucket",
+      "curseforge_id": 633747,
+      "download_url": "https://edge.forgecdn.net/files/5945/593/whatthebucket-neoforge-1.21.1-21.1.1.jar",
+      "file_name": "whatthebucket-neoforge-1.21.1-21.1.1.jar",
+      "version_number": "whatthebucket-neoforge-1.21.1-21.1.1.jar"
+    },
+    {
+      "name": "Controlling",
+      "curseforge_id": 250398,
+      "download_url": "https://edge.forgecdn.net/files/6368/976/Controlling-neoforge-1.21.1-19.0.5.jar",
+      "file_name": "Controlling-neoforge-1.21.1-19.0.5.jar",
+      "version_number": "Controlling-neoforge-1.21.1-19.0.5.jar"
+    },
+    {
+      "name": "Mystical Customization",
+      "curseforge_id": 280441,
+      "download_url": "https://edge.forgecdn.net/files/7666/340/MysticalCustomization-1.21.1-6.0.2.jar",
+      "file_name": "MysticalCustomization-1.21.1-6.0.2.jar",
+      "version_number": "MysticalCustomization-1.21.1-6.0.2.jar"
+    },
+    {
+      "name": "Create: AeroPortals",
+      "curseforge_id": 1549100,
+      "download_url": "https://edge.forgecdn.net/files/8441/755/aeroportals-1.21.1-1.2.0.jar",
+      "file_name": "aeroportals-1.21.1-1.2.0.jar",
+      "version_number": "aeroportals 1.21.1-1.2.0"
+    },
+    {
+      "name": "Ceramic Shears",
+      "curseforge_id": 363553,
+      "download_url": "https://edge.forgecdn.net/files/6290/122/ceramicshears-neoforge-1.21-3.2.1.1.jar",
+      "file_name": "ceramicshears-neoforge-1.21-3.2.1.1.jar",
+      "version_number": "neoforge-1.21-3.2.1.1"
+    },
+    {
+      "name": "Cyclops Core",
+      "curseforge_id": 232758,
+      "download_url": "https://edge.forgecdn.net/files/8006/281/cyclopscore-1.21.1-neoforge-1.29.1.jar",
+      "file_name": "cyclopscore-1.21.1-neoforge-1.29.1.jar",
+      "version_number": "cyclopscore-1.21.1-neoforge-1.29.1.jar"
+    },
+    {
+      "name": "FTB Skies 2: Aero Companion",
+      "curseforge_id": 1611134,
+      "download_url": "https://edge.forgecdn.net/files/8444/105/ftb-skies-2-aero-companion-21.1.36.jar",
+      "file_name": "ftb-skies-2-aero-companion-21.1.36.jar",
+      "version_number": "FTB Skies 2: Aero Companion Neoforge 21.1.36"
+    },
+    {
+      "name": "Konkrete",
+      "curseforge_id": 410295,
+      "download_url": "https://edge.forgecdn.net/files/5453/385/konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "file_name": "konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "version_number": "[NeoForge] v1.9.9 MC 1.21"
+    },
+    {
+      "name": "Particular ✨ Reforged",
+      "curseforge_id": 1219053,
+      "download_url": "https://edge.forgecdn.net/files/8275/91/particular-1.21.1-NeoForge-1.5.5.jar",
+      "file_name": "particular-1.21.1-NeoForge-1.5.5.jar",
+      "version_number": "particular-1.21.1-NeoForge-1.5.5.jar"
+    },
+    {
+      "name": "Shrink.",
+      "curseforge_id": 426386,
+      "download_url": "https://edge.forgecdn.net/files/6194/54/shrink-2.0.1.47-neoforge.jar",
+      "file_name": "shrink-2.0.1.47-neoforge.jar",
+      "version_number": "1.21-2.0.1.47 [NeoForge]"
+    },
+    {
+      "name": "WITS (What Is This Structure?)",
+      "curseforge_id": 909375,
+      "download_url": "https://edge.forgecdn.net/files/8412/915/wits-neoforge-1.3.1.jar",
+      "file_name": "wits-neoforge-1.3.1.jar",
+      "version_number": "WITS (1.21 - MC Neoforge)"
+    },
+    {
+      "name": "CorgiLib",
+      "curseforge_id": 693313,
+      "download_url": "https://edge.forgecdn.net/files/7773/534/Corgilib-NeoForge-1.21.1-5.0.0.9.jar",
+      "file_name": "Corgilib-NeoForge-1.21.1-5.0.0.9.jar",
+      "version_number": "CorgiLib-NeoForge-1.21.1-5.0.0.9"
+    },
+    {
+      "name": "NaNny (Fix NaN Health / Absorption)",
+      "curseforge_id": 634392,
+      "download_url": "https://edge.forgecdn.net/files/5728/615/NaNny-1.21.1-1.0.1.jar",
+      "file_name": "NaNny-1.21.1-1.0.1.jar",
+      "version_number": "1.0.1"
+    },
+    {
+      "name": "Create: Aeroworks",
+      "curseforge_id": 1522473,
+      "download_url": "https://edge.forgecdn.net/files/8409/91/aeroworks-1.3.0.jar",
+      "file_name": "aeroworks-1.3.0.jar",
+      "version_number": "1.3.0+mc1.21.1"
+    },
+    {
+      "name": "Charm of Undying (Fabric/Forge/Quilt)",
+      "curseforge_id": 316873,
+      "download_url": "https://edge.forgecdn.net/files/5846/603/charmofundying-neoforge-9.1.0%2B1.21.1.jar",
+      "file_name": "charmofundying-neoforge-9.1.0+1.21.1.jar",
+      "version_number": "charmofundying-neoforge-9.1.0+1.21.1.jar"
+    },
+    {
+      "name": "Default Server Properties",
+      "curseforge_id": 676811,
+      "download_url": "https://edge.forgecdn.net/files/5433/7/default-server-properties-neoforge-21.0.0.jar",
+      "file_name": "default-server-properties-neoforge-21.0.0.jar",
+      "version_number": "[NEOFORGE] Default Server Properties 21.0.0"
+    },
+    {
+      "name": "FTB Stuff & Things",
+      "curseforge_id": 1197860,
+      "download_url": "https://edge.forgecdn.net/files/8265/322/ftb-stuff-things-21.1.18.jar",
+      "file_name": "ftb-stuff-things-21.1.18.jar",
+      "version_number": "[NEOFORGE] FTB Stuff & Things 21.1.18"
+    },
+    {
+      "name": "Kotlin for Forge",
+      "curseforge_id": 351264,
+      "download_url": "https://edge.forgecdn.net/files/8335/665/kotlinforforge-5.12.0-all.jar",
+      "file_name": "kotlinforforge-5.12.0-all.jar",
+      "version_number": "Kotlin for Forge 5.12.0"
+    },
+    {
+      "name": "Pipe Connector",
+      "curseforge_id": 846168,
+      "download_url": "https://edge.forgecdn.net/files/7946/261/pipe_connector-neoforge-0.5.28.jar",
+      "file_name": "pipe_connector-neoforge-0.5.28.jar",
+      "version_number": "pipe_connector-neoforge-0.5.28.jar"
+    },
+    {
+      "name": "Shtreimel - Sable Utility",
+      "curseforge_id": 1529625,
+      "download_url": "https://edge.forgecdn.net/files/8020/847/shtreimel-neoforge-1.21.1-0.3.1-obf.jar",
+      "file_name": "shtreimel-neoforge-1.21.1-0.3.1-obf.jar",
+      "version_number": "shtreimel-neoforge-1.21.1-0.3.1-obf.jar"
+    },
+    {
+      "name": "Wooden Shears",
+      "curseforge_id": 443192,
+      "download_url": "https://edge.forgecdn.net/files/8085/969/woodenshears-neoforge-1.21-3.2.3.0.jar",
+      "file_name": "woodenshears-neoforge-1.21-3.2.3.0.jar",
+      "version_number": "neoforge-1.21-3.2.3.0"
+    },
+    {
+      "name": "Crash Assistant",
+      "curseforge_id": 1154099,
+      "download_url": "https://edge.forgecdn.net/files/8422/746/CrashAssistant-neoforge-1.20.6-1.21.4-1.11.11.jar",
+      "file_name": "CrashAssistant-neoforge-1.20.6-1.21.4-1.11.11.jar",
+      "version_number": "CrashAssistant-neoforge-1.20.6-1.21.4-1.11.11.jar"
+    },
+    {
+      "name": "Nature's Compass",
+      "curseforge_id": 252848,
+      "download_url": "https://edge.forgecdn.net/files/7892/954/NaturesCompass-1.21.1-3.4.0-neoforge.jar",
+      "file_name": "NaturesCompass-1.21.1-3.4.0-neoforge.jar",
+      "version_number": "NaturesCompass-1.21.1-3.4.0-neoforge.jar"
+    },
+    {
+      "name": "All Arrows Infinity Fix",
+      "curseforge_id": 543652,
+      "download_url": "https://edge.forgecdn.net/files/5536/663/allarrowsinfinityfix-1.7-neoforge-mc1.21.jar",
+      "file_name": "allarrowsinfinityfix-1.7-neoforge-mc1.21.jar",
+      "version_number": "[NeoForge 1.21/1.21.1] All Arrows Infinity Fix 1.7"
+    },
+    {
+      "name": "Chipped",
+      "curseforge_id": 456956,
+      "download_url": "https://edge.forgecdn.net/files/5813/117/chipped-neoforge-1.21.1-4.0.2.jar",
+      "file_name": "chipped-neoforge-1.21.1-4.0.2.jar",
+      "version_number": "[NeoForge] Chipped 4.0.2"
+    },
+    {
+      "name": "Deimos Lib",
+      "curseforge_id": 1158094,
+      "download_url": "https://edge.forgecdn.net/files/8237/493/deimos-1.21.1-neoforge-2.7.jar",
+      "file_name": "deimos-1.21.1-neoforge-2.7.jar",
+      "version_number": "deimos-1.21.1-neoforge-2.7"
+    },
+    {
+      "name": "FTB Team Bases",
+      "curseforge_id": 1197857,
+      "download_url": "https://edge.forgecdn.net/files/8443/296/ftb-team-bases-21.1.15.jar",
+      "file_name": "ftb-team-bases-21.1.15.jar",
+      "version_number": "[NEOFORGE] FTB Team Bases 21.1.15"
+    },
+    {
+      "name": "Kube Utils",
+      "curseforge_id": 678815,
+      "download_url": "https://edge.forgecdn.net/files/7210/381/kube-utils-21.1.3.jar",
+      "file_name": "kube-utils-21.1.3.jar",
+      "version_number": "[1.21.1] KubeUtils 21.1.3"
+    },
+    {
+      "name": "Pipez",
+      "curseforge_id": 443900,
+      "download_url": "https://edge.forgecdn.net/files/8351/631/pipez-neoforge-1.21.1-1.2.31.jar",
+      "file_name": "pipez-neoforge-1.21.1-1.2.31.jar",
+      "version_number": "[NEOFORGE][1.21.1] Pipez 1.21.1-1.2.31"
+    },
+    {
+      "name": "Simple Weather",
+      "curseforge_id": 983390,
+      "download_url": "https://edge.forgecdn.net/files/7436/830/simple_weather-1.0.13-hotfix.jar",
+      "file_name": "simple_weather-1.0.13-hotfix.jar",
+      "version_number": "Simple Weather 1.0.13 Hotfix"
+    },
+    {
+      "name": "XyCraft",
+      "curseforge_id": 653786,
+      "download_url": "https://edge.forgecdn.net/files/6872/525/xycraft_core-0.7.53-all.jar",
+      "file_name": "xycraft_core-0.7.53-all.jar",
+      "version_number": "XyCraft Core v0.7.53 - Hot Fix"
+    },
+    {
+      "name": "Cucumber Library",
+      "curseforge_id": 272335,
+      "download_url": "https://edge.forgecdn.net/files/8035/802/Cucumber-1.21.1-8.0.16.jar",
+      "file_name": "Cucumber-1.21.1-8.0.16.jar",
+      "version_number": "Cucumber-1.21.1-8.0.16.jar"
+    },
+    {
+      "name": "Neat",
+      "curseforge_id": 238372,
+      "download_url": "https://edge.forgecdn.net/files/7774/2/Neat-1.21-47-NEOFORGE.jar",
+      "file_name": "Neat-1.21-47-NEOFORGE.jar",
+      "version_number": "Neat-1.21-47-NEOFORGE.jar"
+    },
+    {
+      "name": "AllTheLeaks (Memory Leak Fix)",
+      "curseforge_id": 1091339,
+      "download_url": "https://edge.forgecdn.net/files/8409/394/alltheleaks-1.1.10%2B1.21.1-neoforge.jar",
+      "file_name": "alltheleaks-1.1.10+1.21.1-neoforge.jar",
+      "version_number": "alltheleaks-1.1.10+1.21.1-neoforge.jar"
+    },
+    {
+      "name": "Chisel Modern",
+      "curseforge_id": 1392308,
+      "download_url": "https://edge.forgecdn.net/files/8164/428/chisel-1.21.1-NeoForge-1.3.4.jar",
+      "file_name": "chisel-1.21.1-NeoForge-1.3.4.jar",
+      "version_number": "chisel-1.21.1-NeoForge-1.3.4.jar"
+    },
+    {
+      "name": "Draconic Evolution Render Patcher",
+      "curseforge_id": 1383702,
+      "download_url": "https://edge.forgecdn.net/files/8277/268/derenderpatcher-2.0.0.jar",
+      "file_name": "derenderpatcher-2.0.0.jar",
+      "version_number": "derenderpatcher-2.0.0.jar"
+    },
+    {
+      "name": "FTB Teams (NeoForge)",
+      "curseforge_id": 404468,
+      "download_url": "https://edge.forgecdn.net/files/7878/281/ftb-teams-neoforge-2101.1.10.jar",
+      "file_name": "ftb-teams-neoforge-2101.1.10.jar",
+      "version_number": "[NEOFORGE][1.21.1] FTB Teams 2101.1.10"
+    },
+    {
+      "name": "KubeJS Mekanism",
+      "curseforge_id": 418651,
+      "download_url": "https://edge.forgecdn.net/files/7213/666/kubejs-mekanism-neoforge-2101.1.7-build.18.jar",
+      "file_name": "kubejs-mekanism-neoforge-2101.1.7-build.18.jar",
+      "version_number": "KubeJS Mekanism NeoForge 2101.1.7-build.18"
+    },
+    {
+      "name": "Pipez Lag Fix",
+      "curseforge_id": 1446489,
+      "download_url": "https://edge.forgecdn.net/files/8113/984/pipezlagfix-1.21.1-1.1.0.jar",
+      "file_name": "pipezlagfix-1.21.1-1.1.0.jar",
+      "version_number": "PipezLagFix - 1.21.1-1.1.0"
+    },
+    {
+      "name": "Simple Magnets",
+      "curseforge_id": 394140,
+      "download_url": "https://edge.forgecdn.net/files/6316/527/simplemagnets-1.1.12c-neoforge-mc1.21.jar",
+      "file_name": "simplemagnets-1.1.12c-neoforge-mc1.21.jar",
+      "version_number": "Simple Magnets 1.1.12c for NeoForge 1.21"
+    },
+    {
+      "name": "XyCraft: Machines",
+      "curseforge_id": 653791,
+      "download_url": "https://edge.forgecdn.net/files/6872/530/xycraft_machines-0.7.53.jar",
+      "file_name": "xycraft_machines-0.7.53.jar",
+      "version_number": "XyCraft Machines v0.7.53 - Hot Fix"
+    },
+    {
+      "name": "Draconic Evolution",
+      "curseforge_id": 223565,
+      "download_url": "https://edge.forgecdn.net/files/7584/459/Draconic-Evolution-1.21.1-3.1.4.632.jar",
+      "file_name": "Draconic-Evolution-1.21.1-3.1.4.632.jar",
+      "version_number": "Draconic Evolution 1.21.1-3.1.4.632"
+    },
+    {
+      "name": "NeoAuth",
+      "curseforge_id": 1140741,
+      "download_url": "https://edge.forgecdn.net/files/7069/504/NeoAuth-1.21.1-1.0.1.jar",
+      "file_name": "NeoAuth-1.21.1-1.0.1.jar",
+      "version_number": "NeoAuth-1.21.1-1.0.1.jar"
+    },
+    {
+      "name": "Apothic Category Compat",
+      "curseforge_id": 1516278,
+      "download_url": "https://edge.forgecdn.net/files/8219/980/apothic_compat-2.0.2.jar",
+      "file_name": "apothic_compat-2.0.2.jar",
+      "version_number": "Apothic Compat 2.0.2 NeoForge (1.21.1)"
+    },
+    {
+      "name": "Clean Swing Through Grass",
+      "curseforge_id": 915308,
+      "download_url": "https://edge.forgecdn.net/files/6153/780/cleanswing-1.9.jar",
+      "file_name": "cleanswing-1.9.jar",
+      "version_number": "Clean Swing 1.21 1.9"
+    },
+    {
+      "name": "Savage Ender Dragon",
+      "curseforge_id": 523327,
+      "download_url": "https://edge.forgecdn.net/files/6828/602/dragonfight-1.21-4.7.jar",
+      "file_name": "dragonfight-1.21-4.7.jar",
+      "version_number": "dragonfight-1.21-4.7.jar"
+    },
+    {
+      "name": "FTB Ultimine (NeoForge)",
+      "curseforge_id": 386134,
+      "download_url": "https://edge.forgecdn.net/files/8231/400/ftb-ultimine-neoforge-2101.1.15.jar",
+      "file_name": "ftb-ultimine-neoforge-2101.1.15.jar",
+      "version_number": "[NEOFORGE][1.21.1] FTB Ultimine 2101.1.15"
+    },
+    {
+      "name": "KubeJS",
+      "curseforge_id": 238086,
+      "download_url": "https://edge.forgecdn.net/files/8083/208/kubejs-neoforge-2101.7.2-build.368.jar",
+      "file_name": "kubejs-neoforge-2101.7.2-build.368.jar",
+      "version_number": "KubeJS NeoForge 2101.7.2-build.368"
+    },
+    {
+      "name": "playerAnimator",
+      "curseforge_id": 658587,
+      "download_url": "https://edge.forgecdn.net/files/7389/814/player-animation-lib-forge-2.0.4%2B1.21.1.jar",
+      "file_name": "player-animation-lib-forge-2.0.4+1.21.1.jar",
+      "version_number": "player-animation-lib-forge-2.0.4+1.21.1.jar"
+    },
+    {
+      "name": "Simple Tomb",
+      "curseforge_id": 399669,
+      "download_url": "https://edge.forgecdn.net/files/7222/249/simpletomb-1.21.1-1.4.4.jar",
+      "file_name": "simpletomb-1.21.1-1.4.4.jar",
+      "version_number": "simpletomb-1.21.1-1.4.4.jar"
+    },
+    {
+      "name": "XyCraft: World",
+      "curseforge_id": 653789,
+      "download_url": "https://edge.forgecdn.net/files/6872/532/xycraft_world-0.7.53.jar",
+      "file_name": "xycraft_world-0.7.53.jar",
+      "version_number": "XyCraft World v0.7.53 - Hot Fix"
+    },
+    {
+      "name": "EdivadLib",
+      "curseforge_id": 638508,
+      "download_url": "https://edge.forgecdn.net/files/5491/721/EdivadLib-1.21-3.0.0.jar",
+      "file_name": "EdivadLib-1.21-3.0.0.jar",
+      "version_number": "EdivadLib-1.21-3.0.0"
+    },
+    {
+      "name": "NeoSync",
+      "curseforge_id": 1521718,
+      "download_url": "https://edge.forgecdn.net/files/8233/799/NeoSync-1.21.1-1.2.1.jar",
+      "file_name": "NeoSync-1.21.1-1.2.1.jar",
+      "version_number": "NeoSync 1.21.1-1.2.1"
+    },
+    {
+      "name": "Apothic Tooltip Cleanup",
+      "curseforge_id": 1536956,
+      "download_url": "https://edge.forgecdn.net/files/8270/836/apothic_tooltip_cleanup-1.3.0.jar",
+      "file_name": "apothic_tooltip_cleanup-1.3.0.jar",
+      "version_number": "Apothic Tooltip Cleanup (NeoForge 1.21.1)"
+    },
+    {
+      "name": "CleanView",
+      "curseforge_id": 226889,
+      "download_url": "https://edge.forgecdn.net/files/5610/807/cleanview-1.21.1-v1-neoforge.jar",
+      "file_name": "cleanview-1.21.1-v1-neoforge.jar",
+      "version_number": "cleanview-1.21.1-v1-neoforge.jar"
+    },
+    {
+      "name": "Drive-By-Wire With Sable",
+      "curseforge_id": 1520378,
+      "download_url": "https://edge.forgecdn.net/files/8247/104/drivebywire-0.3.0.jar",
+      "file_name": "drivebywire-0.3.0.jar",
+      "version_number": "drivebywire-0.3.0.jar"
+    },
+    {
+      "name": "FTB XMod Compat",
+      "curseforge_id": 889915,
+      "download_url": "https://edge.forgecdn.net/files/8438/602/ftb-xmod-compat-neoforge-21.1.9.jar",
+      "file_name": "ftb-xmod-compat-neoforge-21.1.9.jar",
+      "version_number": "[NEOFORGE][1.21.1] FTB XMod Compat 21.1.9"
+    },
+    {
+      "name": "Laser Bridges & Doors [Fabric/Forge/NeoForge]",
+      "curseforge_id": 776337,
+      "download_url": "https://edge.forgecdn.net/files/7150/38/laserbridges-1.21.1-neoforge-5.3.jar",
+      "file_name": "laserbridges-1.21.1-neoforge-5.3.jar",
+      "version_number": "laserbridges-1.21.1-neoforge-5.3"
+    },
+    {
+      "name": "PneumaticCraft: Repressurized",
+      "curseforge_id": 281849,
+      "download_url": "https://edge.forgecdn.net/files/8436/524/pneumaticcraft-repressurized-8.2.21%2Bmc1.21.1.jar",
+      "file_name": "pneumaticcraft-repressurized-8.2.21+mc1.21.1.jar",
+      "version_number": "\"PneumaticCraft: Repressurized\" 8.2.21 MC-1.21.1"
+    },
+    {
+      "name": "Simply Light",
+      "curseforge_id": 300331,
+      "download_url": "https://edge.forgecdn.net/files/6219/29/simplylight-1.5.3%2B1.21.1-b4.jar",
+      "file_name": "simplylight-1.5.3+1.21.1-b4.jar",
+      "version_number": "simplylight 1.5.3+1.21.1-b4"
+    },
+    {
+      "name": "Yeetus Experimentus",
+      "curseforge_id": 635427,
+      "download_url": "https://edge.forgecdn.net/files/5444/189/yeetusexperimentus-neoforge-87.0.0.jar",
+      "file_name": "yeetusexperimentus-neoforge-87.0.0.jar",
+      "version_number": "[NEOFORGE][1.21] YeetusExperimentus 87.0.0"
+    },
+    {
+      "name": "Ender Storage 1.8.+",
+      "curseforge_id": 245174,
+      "download_url": "https://edge.forgecdn.net/files/6159/37/EnderStorage-1.21.1-2.13.0.191.jar",
+      "file_name": "EnderStorage-1.21.1-2.13.0.191.jar",
+      "version_number": "Ender Storage 1.21.1-2.13.0.191"
+    },
+    {
+      "name": "Not Enough Recipe Book [NERB]",
+      "curseforge_id": 738663,
+      "download_url": "https://edge.forgecdn.net/files/6880/47/Not%20Enough%20Recipe%20Book-NEOFORGE-0.4.3%2B1.21.jar",
+      "file_name": "Not Enough Recipe Book-NEOFORGE-0.4.3+1.21.jar",
+      "version_number": "Not Enough Recipe Book-NEOFORGE-0.4.3+1.21.jar"
+    },
+    {
+      "name": "AppleSkin",
+      "curseforge_id": 248787,
+      "download_url": "https://edge.forgecdn.net/files/7854/442/appleskin-neoforge-mc1.21-3.0.9.jar",
+      "file_name": "appleskin-neoforge-mc1.21-3.0.9.jar",
+      "version_number": "appleskin-neoforge-mc1.21-3.0.9.jar"
+    },
+    {
+      "name": "Clickable advancements",
+      "curseforge_id": 511733,
+      "download_url": "https://edge.forgecdn.net/files/5551/404/clickadv-1.21-3.8.jar",
+      "file_name": "clickadv-1.21-3.8.jar",
+      "version_number": "clickadv-1.21-3.8.jar"
+    },
+    {
+      "name": "Durability Tooltip",
+      "curseforge_id": 511040,
+      "download_url": "https://edge.forgecdn.net/files/6833/316/durabilitytooltip-1.1.6-neoforge-mc1.21.jar",
+      "file_name": "durabilitytooltip-1.1.6-neoforge-mc1.21.jar",
+      "version_number": "Durability Tooltip 1.1.6 for NeoForge 1.21"
+    },
+    {
+      "name": "FTB Promoter",
+      "curseforge_id": 1194001,
+      "download_url": "https://edge.forgecdn.net/files/8164/122/ftbpromoter-21.1.62.jar",
+      "file_name": "ftbpromoter-21.1.62.jar",
+      "version_number": "FTB Promoter NeoForge 21.1.62"
+    },
+    {
+      "name": "LaserIO",
+      "curseforge_id": 626839,
+      "download_url": "https://edge.forgecdn.net/files/5730/7/laserio-1.9.11.jar",
+      "file_name": "laserio-1.9.11.jar",
+      "version_number": "LaserIO-1.9.11"
+    },
+    {
+      "name": "Pocket Storage",
+      "curseforge_id": 367734,
+      "download_url": "https://edge.forgecdn.net/files/6834/323/pocketstorage-1.2.5%2B1.21.1-b3.jar",
+      "file_name": "pocketstorage-1.2.5+1.21.1-b3.jar",
+      "version_number": "pocketstorage 1.2.5+1.21.1-b3"
+    },
+    {
+      "name": "Sky Archipelago",
+      "curseforge_id": 1528077,
+      "download_url": "https://edge.forgecdn.net/files/8383/558/sky_archipelago-1.3.5.jar",
+      "file_name": "sky_archipelago-1.3.5.jar",
+      "version_number": "Sky Archipelago v1.3.5"
+    },
+    {
+      "name": "YetAnotherConfigLib",
+      "curseforge_id": 667299,
+      "download_url": "https://edge.forgecdn.net/files/7437/845/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar",
+      "file_name": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+      "version_number": "3.8.2 for neoforge 1.21.1"
+    },
+    {
+      "name": "Explorer's Compass",
+      "curseforge_id": 491794,
+      "download_url": "https://edge.forgecdn.net/files/7892/943/ExplorersCompass-1.21.1-3.4.0-neoforge.jar",
+      "file_name": "ExplorersCompass-1.21.1-3.4.0-neoforge.jar",
+      "version_number": "ExplorersCompass-1.21.1-3.4.0-neoforge.jar"
+    },
+    {
+      "name": "ShatterLib | OctoLib",
+      "curseforge_id": 916747,
+      "download_url": "https://edge.forgecdn.net/files/8040/848/OctoLib-NEOFORGE-0.6.2%2B1.21.jar",
+      "file_name": "OctoLib-NEOFORGE-0.6.2+1.21.jar",
+      "version_number": "OctoLib-NEOFORGE-0.6.2+1.21.jar"
+    },
+    {
+      "name": "Applied Energistics 2",
+      "curseforge_id": 223794,
+      "download_url": "https://edge.forgecdn.net/files/7027/323/appliedenergistics2-19.2.17.jar",
+      "file_name": "appliedenergistics2-19.2.17.jar",
+      "version_number": "AE2 19.2.17 [NEOFORGE]"
+    },
+    {
+      "name": "Climbable Ropes for Create Aeronautics",
+      "curseforge_id": 1528764,
+      "download_url": "https://edge.forgecdn.net/files/8293/428/climbable_ropes-2.1.0.jar",
+      "file_name": "climbable_ropes-2.1.0.jar",
+      "version_number": "[2.1.0] Climbable Ropes"
+    },
+    {
+      "name": "Dyson Cube Project",
+      "curseforge_id": 1345066,
+      "download_url": "https://edge.forgecdn.net/files/8082/907/dysoncubeproject-1.0.5.jar",
+      "file_name": "dysoncubeproject-1.0.5.jar",
+      "version_number": "dysoncubeproject-1.0.5.jar"
+    },
+    {
+      "name": "Functional Storage",
+      "curseforge_id": 556861,
+      "download_url": "https://edge.forgecdn.net/files/8179/577/functionalstorage-1.21.1-1.5.7.jar",
+      "file_name": "functionalstorage-1.21.1-1.5.7.jar",
+      "version_number": "functionalstorage-1.21.1-1.5.7.jar"
+    },
+    {
+      "name": "Leaderboards",
+      "curseforge_id": 1367888,
+      "download_url": "https://edge.forgecdn.net/files/8201/377/leaderboards-1.21.1-NeoForge-2.0.4.jar",
+      "file_name": "leaderboards-1.21.1-NeoForge-2.0.4.jar",
+      "version_number": "leaderboards-1.21.1-NeoForge-2.0.4.jar"
+    },
+    {
+      "name": "PolyLib",
+      "curseforge_id": 576589,
+      "download_url": "https://edge.forgecdn.net/files/7140/477/polylib-2100.1.0-build.183-neoforge.jar",
+      "file_name": "polylib-2100.1.0-build.183-neoforge.jar",
+      "version_number": "0.3.183 [NeoForge]"
+    },
+    {
+      "name": "Smithing Template Viewer for JEI/EMI",
+      "curseforge_id": 1133580,
+      "download_url": "https://edge.forgecdn.net/files/7452/53/smithingtemplateviewer-1.0.4.jar",
+      "file_name": "smithingtemplateviewer-1.0.4.jar",
+      "version_number": "smithingtemplateviewer-1.0.4.jar"
+    },
+    {
+      "name": "ExtendedAE",
+      "curseforge_id": 892005,
+      "download_url": "https://edge.forgecdn.net/files/8273/365/ExtendedAE-1.21-2.2.33-neoforge.jar",
+      "file_name": "ExtendedAE-1.21-2.2.33-neoforge.jar",
+      "version_number": "ExtendedAE-1.21-2.2.33-neoforge.jar"
+    },
+    {
+      "name": "PackagedAuto",
+      "curseforge_id": 308380,
+      "download_url": "https://edge.forgecdn.net/files/7329/743/PackagedAuto-1.21.1-4.0.8.21.jar",
+      "file_name": "PackagedAuto-1.21.1-4.0.8.21.jar",
+      "version_number": "1.21.1-4.0.8.21"
+    },
+    {
+      "name": "Applied Pneumatics",
+      "curseforge_id": 1355087,
+      "download_url": "https://edge.forgecdn.net/files/7723/695/appliedpneumatics-1.21.1-neoforge-1.0.8.jar",
+      "file_name": "appliedpneumatics-1.21.1-neoforge-1.0.8.jar",
+      "version_number": "Applied Pneumatics 1.0.8"
+    },
+    {
+      "name": "Cloth Config API (Fabric/Forge/NeoForge)",
+      "curseforge_id": 348521,
+      "download_url": "https://edge.forgecdn.net/files/5729/127/cloth-config-15.0.140-neoforge.jar",
+      "file_name": "cloth-config-15.0.140-neoforge.jar",
+      "version_number": "[NeoForge 1.21] v15.0.140"
+    },
+    {
+      "name": "Easy Villagers",
+      "curseforge_id": 400514,
+      "download_url": "https://edge.forgecdn.net/files/8066/730/easy-villagers-neoforge-1.21.1-1.1.42.jar",
+      "file_name": "easy-villagers-neoforge-1.21.1-1.1.42.jar",
+      "version_number": "[NEOFORGE][1.21.1] Easy Villagers 1.21.1-1.1.42"
+    },
+    {
+      "name": "Fusion (Connected Textures)",
+      "curseforge_id": 854949,
+      "download_url": "https://edge.forgecdn.net/files/8355/160/fusion-1.3.5-neoforge-mc1.21.1.jar",
+      "file_name": "fusion-1.3.5-neoforge-mc1.21.1.jar",
+      "version_number": "Fusion 1.3.5 for NeoForge 1.21.1"
+    },
+    {
+      "name": "LibrarianLib",
+      "curseforge_id": 252910,
+      "download_url": "https://edge.forgecdn.net/files/6635/493/librarianlib-5.0.0-neoforge.jar",
+      "file_name": "librarianlib-5.0.0-neoforge.jar",
+      "version_number": "librarianlib-5.0.0-neoforge"
+    },
+    {
+      "name": "Pop (up)",
+      "curseforge_id": 1231826,
+      "download_url": "https://edge.forgecdn.net/files/7219/399/pop-21.1.3.jar",
+      "file_name": "pop-21.1.3.jar",
+      "version_number": "Pop 21.1.3"
+    },
+    {
+      "name": "Sodium",
+      "curseforge_id": 394468,
+      "download_url": "https://edge.forgecdn.net/files/8382/328/sodium-neoforge-0.8.12%2Bmc1.21.1.jar",
+      "file_name": "sodium-neoforge-0.8.12+mc1.21.1.jar",
+      "version_number": "Sodium 0.8.12 for NeoForge 1.21.1"
+    },
+    {
+      "name": "ExtraStorage",
+      "curseforge_id": 410168,
+      "download_url": "https://edge.forgecdn.net/files/8330/353/ExtraStorage-1.21.1-5.0.10.jar",
+      "file_name": "ExtraStorage-1.21.1-5.0.10.jar",
+      "version_number": "ExtraStorage-1.21.1-5.0.10"
+    },
+    {
+      "name": "Patchouli",
+      "curseforge_id": 306770,
+      "download_url": "https://edge.forgecdn.net/files/7730/942/Patchouli-1.21.1-93-NEOFORGE.jar",
+      "file_name": "Patchouli-1.21.1-93-NEOFORGE.jar",
+      "version_number": "Patchouli-1.21.1-93-NEOFORGE.jar"
+    },
+    {
+      "name": "Applied Schematicannon",
+      "curseforge_id": 1269760,
+      "download_url": "https://edge.forgecdn.net/files/6584/437/appliedschematicannon-1.0.4.jar",
+      "file_name": "appliedschematicannon-1.0.4.jar",
+      "version_number": "appliedschematicannon-1.0.4.jar"
+    },
+    {
+      "name": "Compact Machines Preview Fixer",
+      "curseforge_id": 1548811,
+      "download_url": "https://edge.forgecdn.net/files/8133/423/cmpreviewfixer-21.1-1.1.0.jar",
+      "file_name": "cmpreviewfixer-21.1-1.1.0.jar",
+      "version_number": "cmpreviewfixer-21.1-1.1.0.jar"
+    },
+    {
+      "name": "Eccentric Tome Updated",
+      "curseforge_id": 1116447,
+      "download_url": "https://edge.forgecdn.net/files/7045/757/eccentrictome-1.21.1-1.2.0.jar",
+      "file_name": "eccentrictome-1.21.1-1.2.0.jar",
+      "version_number": "eccentrictome-1.21.1-1.2.0.jar"
+    },
+    {
+      "name": "Fzzy Config",
+      "curseforge_id": 1005914,
+      "download_url": "https://edge.forgecdn.net/files/7568/897/fzzy_config-0.7.6%2B1.21%2Bneoforge.jar",
+      "file_name": "fzzy_config-0.7.6+1.21+neoforge.jar",
+      "version_number": "fzzy_config-0.7.6+1.21+neoforge"
+    },
+    {
+      "name": "Lionfish API",
+      "curseforge_id": 1001614,
+      "download_url": "https://edge.forgecdn.net/files/8345/326/lionfishapi-3.1.jar",
+      "file_name": "lionfishapi-3.1.jar",
+      "version_number": "lionfishapi-3.1.jar"
+    },
+    {
+      "name": "Create Aeronautics: Portable Engine Liquid Fuel",
+      "curseforge_id": 1521213,
+      "download_url": "https://edge.forgecdn.net/files/8002/670/portable_engine_liquid_fuel-2.0.0-neoforge-1.21.1.jar",
+      "file_name": "portable_engine_liquid_fuel-2.0.0-neoforge-1.21.1.jar",
+      "version_number": "portable_engine_liquid_fuel-2.0.0-neoforge-1.21.1.jar"
+    },
+    {
+      "name": "Spice of Life: Carrot Edition",
+      "curseforge_id": 277616,
+      "download_url": "https://edge.forgecdn.net/files/7374/98/solcarrot-1.21.1-1.16.6.jar",
+      "file_name": "solcarrot-1.21.1-1.16.6.jar",
+      "version_number": "solcarrot-1.21.1-1.16.6.jar"
+    },
+    {
+      "name": "Extreme sound muffler - (Neo)Forge",
+      "curseforge_id": 363363,
+      "download_url": "https://edge.forgecdn.net/files/7895/926/ExtremeSoundMuffler-3.56_NeoForge-1.21.jar",
+      "file_name": "ExtremeSoundMuffler-3.56_NeoForge-1.21.jar",
+      "version_number": "Extreme sound muffler 3.56 - NeoForge 1.21.1"
+    },
+    {
+      "name": "Pick Up Notifier",
+      "curseforge_id": 351441,
+      "download_url": "https://edge.forgecdn.net/files/6409/785/PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar",
+      "file_name": "PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar",
+      "version_number": "[NEOFORGE] [1.21.1] PickUpNotifier-v21.1.1"
+    },
+    {
+      "name": "Applied Construction Sticks",
+      "curseforge_id": 1452253,
+      "download_url": "https://edge.forgecdn.net/files/7689/717/appliedsticks-1.21.1-1.2.0.jar",
+      "file_name": "appliedsticks-1.21.1-1.2.0.jar",
+      "version_number": "appliedsticks-1.21.1-1.2.0.jar"
+    },
+    {
+      "name": "Collapsible Groups (JEI)",
+      "curseforge_id": 1495382,
+      "download_url": "https://edge.forgecdn.net/files/8413/909/collapsible_groups-neoforge-1.21.1-1.3.0.jar",
+      "file_name": "collapsible_groups-neoforge-1.21.1-1.3.0.jar",
+      "version_number": "collapsible_groups-neoforge-1.21.1-1.3.0.jar"
+    },
+    {
+      "name": "OpenBlocks Elevator",
+      "curseforge_id": 250832,
+      "download_url": "https://edge.forgecdn.net/files/6199/696/elevatorid-neoforge-1.21.1-1.11.4.jar",
+      "file_name": "elevatorid-neoforge-1.21.1-1.11.4.jar",
+      "version_number": "elevatorid-neoforge-1.21.1-1.11.4.jar"
+    },
+    {
+      "name": "Gadgets Against Grind",
+      "curseforge_id": 694962,
+      "download_url": "https://edge.forgecdn.net/files/7261/542/gag-neoforge-1.21.1-5.2.0.jar",
+      "file_name": "gag-neoforge-1.21.1-5.2.0.jar",
+      "version_number": "GAG-NeoForge-1.21.1-5.2.0"
+    },
+    {
+      "name": "Lithostitched",
+      "curseforge_id": 936015,
+      "download_url": "https://edge.forgecdn.net/files/8378/498/lithostitched-1.7.13-neoforge-21.1.jar",
+      "file_name": "lithostitched-1.7.13-neoforge-21.1.jar",
+      "version_number": "v1.7.13 ~ Neoforge 21.1"
+    },
+    {
+      "name": "Prickle",
+      "curseforge_id": 1023259,
+      "download_url": "https://edge.forgecdn.net/files/6961/457/prickle-neoforge-1.21.1-21.1.11.jar",
+      "file_name": "prickle-neoforge-1.21.1-21.1.11.jar",
+      "version_number": "prickle-neoforge-1.21.1-21.1.11.jar"
+    },
+    {
+      "name": "Sophisticated Backpacks",
+      "curseforge_id": 422301,
+      "download_url": "https://edge.forgecdn.net/files/8440/487/sophisticatedbackpacks-1.21.1-3.25.71.1997.jar",
+      "file_name": "sophisticatedbackpacks-1.21.1-3.25.71.1997.jar",
+      "version_number": "sophisticatedbackpacks-1.21.1-3.25.71.1997.jar"
+    },
+    {
+      "name": "Farmer's Delight",
+      "curseforge_id": 398521,
+      "download_url": "https://edge.forgecdn.net/files/8083/481/FarmersDelight-1.21.1-1.3.2.jar",
+      "file_name": "FarmersDelight-1.21.1-1.3.2.jar",
+      "version_number": "Farmer's Delight 1.3.2 - 1.21.1"
+    },
+    {
+      "name": "Placebo",
+      "curseforge_id": 283644,
+      "download_url": "https://edge.forgecdn.net/files/6926/281/Placebo-1.21.1-9.9.1.jar",
+      "file_name": "Placebo-1.21.1-9.9.1.jar",
+      "version_number": "Placebo-1.21.1-9.9.1.jar"
+    },
+    {
+      "name": "Architectury API",
+      "curseforge_id": 419699,
+      "download_url": "https://edge.forgecdn.net/files/5786/327/architectury-13.0.8-neoforge.jar",
+      "file_name": "architectury-13.0.8-neoforge.jar",
+      "version_number": "[NeoForge 1.21(.1)] v13.0.8"
+    },
+    {
+      "name": "Collective",
+      "curseforge_id": 342584,
+      "download_url": "https://edge.forgecdn.net/files/8341/460/collective-1.21.1-8.39.jar",
+      "file_name": "collective-1.21.1-8.39.jar",
+      "version_number": "[Fabric/Forge/Neo] 1.21.1-8.39 | Collective"
+    },
+    {
+      "name": "Enchanted: Witchcraft",
+      "curseforge_id": 560363,
+      "download_url": "https://edge.forgecdn.net/files/8055/168/enchanted-neoforge-1.21.1-4.2.7.jar",
+      "file_name": "enchanted-neoforge-1.21.1-4.2.7.jar",
+      "version_number": "enchanted-neoforge-1.21.1-4.2.7.jar"
+    },
+    {
+      "name": "Gaze - A Malum Addon",
+      "curseforge_id": 1273454,
+      "download_url": "https://edge.forgecdn.net/files/7261/638/gaze-1.1.7.1.jar",
+      "file_name": "gaze-1.1.7.1.jar",
+      "version_number": "gaze-1.21.1-1.1.7.1.jar"
+    },
+    {
+      "name": "Lodestone",
+      "curseforge_id": 616457,
+      "download_url": "https://edge.forgecdn.net/files/7264/731/lodestone-1.21.1-1.8.2.jar",
+      "file_name": "lodestone-1.21.1-1.8.2.jar",
+      "version_number": "lodestone-1.21.1-1.8.2.jar"
+    },
+    {
+      "name": "Productive Bees",
+      "curseforge_id": 377897,
+      "download_url": "https://edge.forgecdn.net/files/8022/994/productivebees-1.21.1-13.13.5.jar",
+      "file_name": "productivebees-1.21.1-13.13.5.jar",
+      "version_number": "productivebees-1.21.1-13.13.5.jar"
+    },
+    {
+      "name": "Sophisticated Backpacks Create Integration",
+      "curseforge_id": 1238567,
+      "download_url": "https://edge.forgecdn.net/files/8398/818/sophisticatedbackpackscreateintegration-1.21.1-0.1.8.134.jar",
+      "file_name": "sophisticatedbackpackscreateintegration-1.21.1-0.1.8.134.jar",
+      "version_number": "sophisticatedbackpackscreateintegration-1.21.1-0.1.8.134.jar"
+    },
+    {
+      "name": "Fast Item Frames",
+      "curseforge_id": 1210171,
+      "download_url": "https://edge.forgecdn.net/files/6963/18/FastItemFrames-v21.1.6-1.21.1-NeoForge.jar",
+      "file_name": "FastItemFrames-v21.1.6-1.21.1-NeoForge.jar",
+      "version_number": "[NEOFORGE] [1.21.1] FastItemFrames-v21.1.6"
+    },
+    {
+      "name": "Platform",
+      "curseforge_id": 997634,
+      "download_url": "https://edge.forgecdn.net/files/8075/942/Platform-neoforge-1.21.1-1.3.3.jar",
+      "file_name": "Platform-neoforge-1.21.1-1.3.3.jar",
+      "version_number": "Platform-neoforge-1.21.1-1.3.3.jar"
+    },
+    {
+      "name": "Ars Additions",
+      "curseforge_id": 974408,
+      "download_url": "https://edge.forgecdn.net/files/7646/325/ars_additions-1.21.1-21.3.0.jar",
+      "file_name": "ars_additions-1.21.1-21.3.0.jar",
+      "version_number": "ars_additions-1.21.1-21.3.0"
+    },
+    {
+      "name": "Colorful Allays",
+      "curseforge_id": 1329263,
+      "download_url": "https://edge.forgecdn.net/files/6897/98/colorfulallays-1.21.1-1.0.0.jar",
+      "file_name": "colorfulallays-1.21.1-1.0.0.jar",
+      "version_number": "Colorful Allays 1.0"
+    },
+    {
+      "name": "Enchantment Descriptions",
+      "curseforge_id": 250419,
+      "download_url": "https://edge.forgecdn.net/files/8240/827/enchdesc-neoforge-1.21.1-21.1.10.jar",
+      "file_name": "enchdesc-neoforge-1.21.1-21.1.10.jar",
+      "version_number": "enchdesc-neoforge-1.21.1-21.1.10.jar"
+    },
+    {
+      "name": "GeckoLib",
+      "curseforge_id": 388172,
+      "download_url": "https://edge.forgecdn.net/files/8350/73/geckolib-neoforge-1.21.1-4.9.2.jar",
+      "file_name": "geckolib-neoforge-1.21.1-4.9.2.jar",
+      "version_number": "NeoForge 1.21.1 4.9.2"
+    },
+    {
+      "name": "Loot Integrations",
+      "curseforge_id": 580689,
+      "download_url": "https://edge.forgecdn.net/files/6640/970/lootintegrations-1.21.1-4.7.jar",
+      "file_name": "lootintegrations-1.21.1-4.7.jar",
+      "version_number": "lootintegrations-1.21.1-4.7.jar"
+    },
+    {
+      "name": "Productive Metalworks",
+      "curseforge_id": 1184570,
+      "download_url": "https://edge.forgecdn.net/files/7884/786/productivemetalworks-1.21.1-1.15.0.jar",
+      "file_name": "productivemetalworks-1.21.1-1.15.0.jar",
+      "version_number": "productivemetalworks-1.21.1-1.15.0.jar"
+    },
+    {
+      "name": "Sophisticated Core",
+      "curseforge_id": 618298,
+      "download_url": "https://edge.forgecdn.net/files/8440/438/sophisticatedcore-1.21.1-1.4.75.2161.jar",
+      "file_name": "sophisticatedcore-1.21.1-1.4.75.2161.jar",
+      "version_number": "sophisticatedcore-1.21.1-1.4.75.2161.jar"
+    },
+    {
+      "name": "FastSuite",
+      "curseforge_id": 475117,
+      "download_url": "https://edge.forgecdn.net/files/7527/945/FastSuite-1.21.1-6.0.7.jar",
+      "file_name": "FastSuite-1.21.1-6.0.7.jar",
+      "version_number": "FastSuite-1.21.1-6.0.7.jar"
+    },
+    {
+      "name": "Powah! (Rearchitected)",
+      "curseforge_id": 633483,
+      "download_url": "https://edge.forgecdn.net/files/8011/715/Powah-6.2.10.jar",
+      "file_name": "Powah-6.2.10.jar",
+      "version_number": "[NEOFORGE 1.21.1] v6.2.10"
+    },
+    {
+      "name": "Ars Caelum",
+      "curseforge_id": 821651,
+      "download_url": "https://edge.forgecdn.net/files/6172/865/ars_caelum-1.21.1-3.0.0.jar",
+      "file_name": "ars_caelum-1.21.1-3.0.0.jar",
+      "version_number": "ars_caelum-1.21.1-3.0.0.jar"
+    },
+    {
+      "name": "Colorful Hearts",
+      "curseforge_id": 854213,
+      "download_url": "https://edge.forgecdn.net/files/6830/399/colorfulhearts-neoforge-1.21.1-10.5.9.jar",
+      "file_name": "colorfulhearts-neoforge-1.21.1-10.5.9.jar",
+      "version_number": "[NeoForge] 1.21.1-v10.5.9"
+    },
+    {
+      "name": "EnderDrives",
+      "curseforge_id": 1226739,
+      "download_url": "https://edge.forgecdn.net/files/7033/446/enderdrives-neoforge-1.21.1-1.4.4.jar",
+      "file_name": "enderdrives-neoforge-1.21.1-1.4.4.jar",
+      "version_number": "enderdrives-neoforge-1.21.1-1.4.4.jar"
+    },
+    {
+      "name": "Growth Accelerator Tiers",
+      "curseforge_id": 1316818,
+      "download_url": "https://edge.forgecdn.net/files/7092/792/growthacceleratortiers-1.0.4_neoforge_1.21.1.jar",
+      "file_name": "growthacceleratortiers-1.0.4_neoforge_1.21.1.jar",
+      "version_number": "[Neoforge] Growth Accelerator Tiers 1.0.4-1.21.1"
+    },
+    {
+      "name": "LootJS: KubeJS Addon",
+      "curseforge_id": 570630,
+      "download_url": "https://edge.forgecdn.net/files/8009/262/lootjs-neoforge-1.21.1-3.7.0.jar",
+      "file_name": "lootjs-neoforge-1.21.1-3.7.0.jar",
+      "version_number": "LootJS-NeoForge-1.21.1-3.7.0"
+    },
+    {
+      "name": "Pufferfish's Attributes [Fabric & Forge & NeoForge]",
+      "curseforge_id": 991341,
+      "download_url": "https://edge.forgecdn.net/files/7551/339/puffish_attributes-0.8.2-1.21-neoforge.jar",
+      "file_name": "puffish_attributes-0.8.2-1.21-neoforge.jar",
+      "version_number": "puffish_attributes-0.8.2-1.21-neoforge.jar"
+    },
+    {
+      "name": "Sophisticated Item Actions",
+      "curseforge_id": 1419142,
+      "download_url": "https://edge.forgecdn.net/files/8398/890/sophisticateditemactions-1.21.1-0.5.8.342.jar",
+      "file_name": "sophisticateditemactions-1.21.1-0.5.8.342.jar",
+      "version_number": "sophisticateditemactions-1.21.1-0.5.8.342.jar"
+    },
+    {
+      "name": "Flux Networks",
+      "curseforge_id": 248020,
+      "download_url": "https://edge.forgecdn.net/files/6089/446/FluxNetworks-1.21.1-8.0.0.jar",
+      "file_name": "FluxNetworks-1.21.1-8.0.0.jar",
+      "version_number": "Flux-Networks-1.21.1-8.0.0"
+    },
+    {
+      "name": "Prism [Neo/Forge]",
+      "curseforge_id": 638111,
+      "download_url": "https://edge.forgecdn.net/files/6372/979/Prism-1.21.1-neoforge-1.0.11.jar",
+      "file_name": "Prism-1.21.1-neoforge-1.0.11.jar",
+      "version_number": "Prism-1.21.1-neoforge-1.0.11.jar"
+    },
+    {
+      "name": "Ars Elemental",
+      "curseforge_id": 561470,
+      "download_url": "https://edge.forgecdn.net/files/8399/862/ars_elemental-1.21.1-0.7.10.1.jar",
+      "file_name": "ars_elemental-1.21.1-0.7.10.1.jar",
+      "version_number": "ars_elemental-1.21.1-0.7.10.1.jar"
+    },
+    {
+      "name": "Common Capabilities",
+      "curseforge_id": 247007,
+      "download_url": "https://edge.forgecdn.net/files/8247/199/commoncapabilities-1.21.1-neoforge-2.11.5.jar",
+      "file_name": "commoncapabilities-1.21.1-neoforge-2.11.5.jar",
+      "version_number": "commoncapabilities-1.21.1-neoforge-2.11.5.jar"
+    },
+    {
+      "name": "Ender IO",
+      "curseforge_id": 64578,
+      "download_url": "https://edge.forgecdn.net/files/8192/838/enderio-8.2.11-beta.jar",
+      "file_name": "enderio-8.2.11-beta.jar",
+      "version_number": "Ender IO - v8.2.11-beta"
+    },
+    {
+      "name": "GuideME",
+      "curseforge_id": 1173950,
+      "download_url": "https://edge.forgecdn.net/files/8420/861/guideme-21.1.17.jar",
+      "file_name": "guideme-21.1.17.jar",
+      "version_number": "GuideME 21.1.17"
+    },
+    {
+      "name": "Lootr (Forge & NeoForge)",
+      "curseforge_id": 361276,
+      "download_url": "https://edge.forgecdn.net/files/8428/25/lootr-neoforge-1.21.1-1.11.37.122.jar",
+      "file_name": "lootr-neoforge-1.21.1-1.11.37.122.jar",
+      "version_number": "lootr-neoforge-1.21.1-1.11.37.122"
+    },
+    {
+      "name": "Pufferfish's Skills [Fabric & Forge & NeoForge]",
+      "curseforge_id": 835091,
+      "download_url": "https://edge.forgecdn.net/files/8408/176/puffish_skills-0.18.1-1.21-neoforge.jar",
+      "file_name": "puffish_skills-0.18.1-1.21-neoforge.jar",
+      "version_number": "puffish_skills-0.18.1-1.21-neoforge.jar"
+    },
+    {
+      "name": "Sophisticated Storage",
+      "curseforge_id": 619320,
+      "download_url": "https://edge.forgecdn.net/files/8440/527/sophisticatedstorage-1.21.1-1.5.77.1982.jar",
+      "file_name": "sophisticatedstorage-1.21.1-1.5.77.1982.jar",
+      "version_number": "sophisticatedstorage-1.21.1-1.5.77.1982.jar"
+    },
+    {
+      "name": "ForgedPaginatedAdvancements",
+      "curseforge_id": 1264512,
+      "download_url": "https://edge.forgecdn.net/files/7127/823/ForgedPaginatedAdvancements-0.0.2%2B1.21.1.jar",
+      "file_name": "ForgedPaginatedAdvancements-0.0.2+1.21.1.jar",
+      "version_number": "ForgedPaginatedAdvancements 0.0.2+1.21.1"
+    },
+    {
+      "name": "Puzzles Lib",
+      "curseforge_id": 495476,
+      "download_url": "https://edge.forgecdn.net/files/8251/525/PuzzlesLib-v21.1.52-1.21.1-NeoForge.jar",
+      "file_name": "PuzzlesLib-v21.1.52-1.21.1-NeoForge.jar",
+      "version_number": "[NEOFORGE] [1.21.1] PuzzlesLib-v21.1.52"
+    },
+    {
+      "name": "Ars Nouveau",
+      "curseforge_id": 401955,
+      "download_url": "https://edge.forgecdn.net/files/8346/406/ars_nouveau-1.21.1-5.12.1.jar",
+      "file_name": "ars_nouveau-1.21.1-5.12.1.jar",
+      "version_number": "ars_nouveau-1.21.1-5.12.1"
+    },
+    {
+      "name": "Compact Crafting Updated",
+      "curseforge_id": 1355698,
+      "download_url": "https://edge.forgecdn.net/files/7077/89/compactcrafting-4.0.1.jar",
+      "file_name": "compactcrafting-4.0.1.jar",
+      "version_number": "compactcrafting-4.0.1.jar"
+    },
+    {
+      "name": "Energy Meter",
+      "curseforge_id": 532169,
+      "download_url": "https://edge.forgecdn.net/files/8098/986/energymeter-neoforge-1.21.1-0.4.1.jar",
+      "file_name": "energymeter-neoforge-1.21.1-0.4.1.jar",
+      "version_number": "EnergyMeter-NeoForge-1.21.1-0.4.1"
+    },
+    {
+      "name": "Hooked",
+      "curseforge_id": 297209,
+      "download_url": "https://edge.forgecdn.net/files/7131/932/hooked-neoforge-2.0.2.jar",
+      "file_name": "hooked-neoforge-2.0.2.jar",
+      "version_number": "Hooked 2.0.2 - NeoForge"
+    },
+    {
+      "name": "Malum",
+      "curseforge_id": 484064,
+      "download_url": "https://edge.forgecdn.net/files/7307/339/malum-1.21.1-1.8.2.jar",
+      "file_name": "malum-1.21.1-1.8.2.jar",
+      "version_number": "malum-1.21.1-1.8.2.jar"
+    },
+    {
+      "name": "Pylons",
+      "curseforge_id": 518211,
+      "download_url": "https://edge.forgecdn.net/files/7589/396/pylons-1.21.1-5.4.2.jar",
+      "file_name": "pylons-1.21.1-5.4.2.jar",
+      "version_number": "pylons-1.21.1-5.4.2.jar"
+    },
+    {
+      "name": "Sophisticated Storage Create Integration",
+      "curseforge_id": 1226755,
+      "download_url": "https://edge.forgecdn.net/files/8434/252/sophisticatedstoragecreateintegration-1.21.1-0.1.20.192.jar",
+      "file_name": "sophisticatedstoragecreateintegration-1.21.1-0.1.20.192.jar",
+      "version_number": "sophisticatedstoragecreateintegration-1.21.1-0.1.20.192.jar"
+    }
+  ],
+  "extras_version": 2,
+  "extras_url": "https://drive.google.com/file/d/1hZQFTmUcBR0RMBhgCLGIhmfc3IMncqMC/view?usp=drivesdk",
+  "changelog": [
+    {
+      "date": "2026-07-25T06:44:50.427Z",
+      "author": "Martion000",
+      "changes": [
+        "✦ Modpack creado"
+      ]
+    }
+  ]
+}
