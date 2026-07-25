@@ -49,11 +49,12 @@
     "custom_aoc_aeronautics_1780719445699": 2246805,
     "truchaland": 188253245,
     "testforge": 2749013,
-    "chameleon": 253905
+    "chameleon": 253905,
+    "pasto": 166994
   },
   "online": true,
-  "playing": "pasto",
-  "last_seen": 1784947235263,
+  "playing": null,
+  "last_seen": 1784947401966,
   "playing_name": "Pasto",
   "playing_since": 1784947233452
 }
