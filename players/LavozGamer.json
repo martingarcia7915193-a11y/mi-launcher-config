@@ -8,11 +8,12 @@
     "createmon2": 31503255,
     "v": 20240103,
     "TWO": 1420334,
-    "truchaland": 117525142
+    "truchaland": 117525142,
+    "ftb-skies-2-aero": 82580
   },
   "online": true,
-  "playing": "ftb-skies-2-aero",
+  "playing": null,
   "playing_name": "FTB Skies 2: Aero",
   "playing_since": 1784962827481,
-  "last_seen": 1784962828097
+  "last_seen": 1784962910858
 }
