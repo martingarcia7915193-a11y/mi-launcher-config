@@ -12,11 +12,12 @@
     "aviones": 105529434,
     "TWO": 917423,
     "truchaland": 147674190,
-    "ftb-skies-2-aero": 1164983
+    "ftb-skies-2-aero": 1164983,
+    "vanilla26": 321764
   },
   "online": true,
-  "playing": "vanilla26",
-  "last_seen": 1785036656882,
+  "playing": null,
+  "last_seen": 1785036978910,
   "playing_name": "Vanilla 26.1.2",
   "playing_since": 1785036656385
 }
