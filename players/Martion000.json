@@ -53,9 +53,9 @@
     "pasto": 1247601,
     "ftb-skies-2-aero": 2753038
   },
-  "online": false,
-  "playing": null,
-  "last_seen": 1785036462026,
-  "playing_name": "FTB Skies 2: Aero",
-  "playing_since": 1784963333540
+  "online": true,
+  "playing": "vanilla26",
+  "last_seen": 1785037069322,
+  "playing_name": "Vanilla 26.1.2",
+  "playing_since": 1785037067690
 }
