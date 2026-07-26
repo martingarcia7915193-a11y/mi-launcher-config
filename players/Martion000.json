@@ -51,11 +51,12 @@
     "testforge": 2749013,
     "chameleon": 253905,
     "pasto": 1247601,
-    "ftb-skies-2-aero": 2753038
+    "ftb-skies-2-aero": 2753038,
+    "vanilla26": 53175
   },
   "online": true,
-  "playing": "vanilla26",
-  "last_seen": 1785037069322,
+  "playing": null,
+  "last_seen": 1785037122973,
   "playing_name": "Vanilla 26.1.2",
   "playing_since": 1785037067690
 }
