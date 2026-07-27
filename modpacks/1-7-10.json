@@ -1,0 +1,25 @@
+{
+  "id": "1-7-10",
+  "name": "1.7.10",
+  "version": "1.0.0",
+  "description": "",
+  "description_images": [],
+  "minecraft_version": "1.7.10",
+  "modloader": "forge",
+  "modloader_version": "10.13.4.1614-1.7.10",
+  "icon": "",
+  "banner": "",
+  "background": "",
+  "server_ip": "",
+  "mods": [],
+  "extras_version": 8,
+  "changelog": [
+    {
+      "date": "2026-07-27T04:28:43.539Z",
+      "author": "Martion000",
+      "changes": [
+        "✦ Modpack creado"
+      ]
+    }
+  ]
+}
