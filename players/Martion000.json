@@ -52,11 +52,12 @@
     "chameleon": 253905,
     "pasto": 1247601,
     "ftb-skies-2-aero": 2871479,
-    "vanilla26": 53175
+    "vanilla26": 53175,
+    "testeando-config-global": 77250
   },
   "online": true,
-  "playing": "testeando-config-global",
-  "last_seen": 1785126346455,
+  "playing": null,
+  "last_seen": 1785126425848,
   "playing_name": "1.21.1 TEST CONFIG GLOBAL",
   "playing_since": 1785126345545
 }
