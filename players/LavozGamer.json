@@ -11,9 +11,9 @@
     "truchaland": 117525142,
     "ftb-skies-2-aero": 1862493
   },
-  "online": false,
-  "playing": null,
+  "online": true,
+  "playing": "ftb-skies-2-aero",
   "playing_name": "FTB Skies 2: Aero",
-  "playing_since": 1785136291571,
-  "last_seen": 1785136518929
+  "playing_since": 1785136574819,
+  "last_seen": 1785136575471
 }
