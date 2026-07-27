@@ -56,9 +56,9 @@
     "testeando-config-global": 101607,
     "1-7-10": 123250
   },
-  "online": false,
-  "playing": null,
-  "last_seen": 1785136276195,
-  "playing_name": "1.7.10",
-  "playing_since": 1785127214804
+  "online": true,
+  "playing": "ftb-skies-2-aero",
+  "last_seen": 1785136302751,
+  "playing_name": "FTB Skies 2: Aero",
+  "playing_since": 1785136301518
 }
