@@ -11,9 +11,25 @@
   "banner": "",
   "background": "",
   "server_ip": "",
-  "mods": [],
-  "extras_version": 8,
+  "mods": [
+    {
+      "name": "SoundReload",
+      "curseforge_id": 1355578,
+      "download_url": "https://edge.forgecdn.net/files/7047/510/soundreload-1.0.jar",
+      "file_name": "soundreload-1.0.jar",
+      "version_number": "soundreload-1.0.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1459/588/256/256/638947295853914110.png"
+    }
+  ],
+  "extras_version": 9,
   "changelog": [
+    {
+      "date": "2026-07-29T01:11:04.050Z",
+      "author": "Martion000",
+      "changes": [
+        "+ SoundReload"
+      ]
+    },
     {
       "date": "2026-07-27T04:28:43.539Z",
       "author": "Martion000",
