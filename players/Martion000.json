@@ -56,9 +56,9 @@
     "testeando-config-global": 101607,
     "1-7-10": 239934
   },
-  "online": false,
-  "playing": null,
-  "last_seen": 1785285379508,
+  "online": true,
+  "playing": "1-7-10",
+  "last_seen": 1785285684433,
   "playing_name": "1.7.10",
-  "playing_since": 1785285165124
+  "playing_since": 1785285683514
 }
