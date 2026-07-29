@@ -3139,19 +3139,18 @@
       "download_url": "https://edge.forgecdn.net/files/8434/252/sophisticatedstoragecreateintegration-1.21.1-0.1.20.192.jar",
       "file_name": "sophisticatedstoragecreateintegration-1.21.1-0.1.20.192.jar",
       "version_number": "sophisticatedstoragecreateintegration-1.21.1-0.1.20.192.jar"
-    },
-    {
-      "name": "Chloride (Previously Embeddium++/Sodium++)",
-      "curseforge_id": 931925,
-      "download_url": "https://edge.forgecdn.net/files/8462/29/chloride-NEOFORGE-mc1.21.1-v1.8.1.jar",
-      "file_name": "chloride-NEOFORGE-mc1.21.1-v1.8.1.jar",
-      "version_number": "chloride-1.8.1-NEOFORGE-1.21.1",
-      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1253/722/256/256/638817503210307664.png"
     }
   ],
-  "extras_version": 31,
+  "extras_version": 33,
   "extras_url": "https://drive.google.com/file/d/12Fk6TQ2L0yg_JTPQF_IG3ksenoIv5n2M/view?usp=drivesdk",
   "changelog": [
+    {
+      "date": "2026-07-29T02:49:58.835Z",
+      "author": "Martion000",
+      "changes": [
+        "− Chloride (Previously Embeddium++/Sodium++)"
+      ]
+    },
     {
       "date": "2026-07-25T06:50:16.828Z",
       "author": "Martion000",
