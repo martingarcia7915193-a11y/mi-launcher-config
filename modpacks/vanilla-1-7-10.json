@@ -1,0 +1,25 @@
+{
+  "id": "vanilla-1-7-10",
+  "name": "1.7.10 vanilla",
+  "version": "1.0.0",
+  "description": "",
+  "description_images": [],
+  "minecraft_version": "1.7.10",
+  "modloader": "vanilla",
+  "modloader_version": "",
+  "icon": "",
+  "banner": "",
+  "background": "",
+  "server_ip": "",
+  "mods": [],
+  "extras_version": 6,
+  "changelog": [
+    {
+      "date": "2026-07-29T00:56:25.984Z",
+      "author": "Martion000",
+      "changes": [
+        "✦ Modpack creado"
+      ]
+    }
+  ]
+}
