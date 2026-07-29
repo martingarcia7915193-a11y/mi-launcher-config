@@ -57,9 +57,9 @@
     "1-7-10": 490970,
     "vanilla-1-7-10": 188197
   },
-  "online": true,
+  "online": false,
   "playing": null,
-  "last_seen": 1785286960586,
+  "last_seen": 1785287094721,
   "playing_name": "1.7.10",
   "playing_since": 1785286908335
 }
