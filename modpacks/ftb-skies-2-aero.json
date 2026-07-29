@@ -2693,11 +2693,14 @@
       "version_number": "Pop 21.1.3"
     },
     {
-      "name": "Sodium",
+      "name": "Sodium 0.8.12 for NeoForge 1.21.1",
       "curseforge_id": 394468,
       "download_url": "https://edge.forgecdn.net/files/8382/328/sodium-neoforge-0.8.12%2Bmc1.21.1.jar",
       "file_name": "sodium-neoforge-0.8.12+mc1.21.1.jar",
-      "version_number": "Sodium 0.8.12 for NeoForge 1.21.1"
+      "version_number": "Sodium 0.8.12 for NeoForge 1.21.1",
+      "_is_dependency": true,
+      "added_by": "Martion000",
+      "added_at": "2026-07-29T02:52:23.746Z"
     },
     {
       "name": "ExtraStorage",
@@ -3139,11 +3142,33 @@
       "download_url": "https://edge.forgecdn.net/files/8434/252/sophisticatedstoragecreateintegration-1.21.1-0.1.20.192.jar",
       "file_name": "sophisticatedstoragecreateintegration-1.21.1-0.1.20.192.jar",
       "version_number": "sophisticatedstoragecreateintegration-1.21.1-0.1.20.192.jar"
+    },
+    {
+      "name": "(Sodium) Chloride",
+      "curseforge_id": 931925,
+      "download_url": "https://edge.forgecdn.net/files/8462/29/chloride-NEOFORGE-mc1.21.1-v1.8.1.jar",
+      "file_name": "chloride-NEOFORGE-mc1.21.1-v1.8.1.jar",
+      "version_number": "chloride-1.8.1-NEOFORGE-1.21.1",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1253/722/256/256/638817503210307664.png",
+      "_depends_on": [
+        394468
+      ],
+      "added_by": "Martion000",
+      "added_at": "2026-07-29T02:52:23.746Z"
     }
   ],
-  "extras_version": 33,
+  "extras_version": 35,
   "extras_url": "https://drive.google.com/file/d/12Fk6TQ2L0yg_JTPQF_IG3ksenoIv5n2M/view?usp=drivesdk",
   "changelog": [
+    {
+      "date": "2026-07-29T02:53:33.126Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Sodium 0.8.12 for NeoForge 1.21.1",
+        "+ (Sodium) Chloride",
+        "− Sodium"
+      ]
+    },
     {
       "date": "2026-07-29T02:50:57.361Z",
       "author": "Martion000",
