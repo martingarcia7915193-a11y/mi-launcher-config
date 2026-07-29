@@ -54,11 +54,12 @@
     "ftb-skies-2-aero": 9842040,
     "vanilla26": 53175,
     "testeando-config-global": 101607,
-    "1-7-10": 440587
+    "1-7-10": 440587,
+    "vanilla-1-7-10": 34416
   },
   "online": true,
-  "playing": "vanilla-1-7-10",
-  "last_seen": 1785286624090,
+  "playing": null,
+  "last_seen": 1785286659394,
   "playing_name": "1.7.10 vanilla",
   "playing_since": 1785286623161
 }
