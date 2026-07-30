@@ -56,11 +56,12 @@
     "testeando-config-global": 101607,
     "1-7-10": 941828,
     "vanilla-1-7-10": 188197,
-    "keo_optimized_26_1_2": 361221
+    "keo_optimized_26_1_2": 361221,
+    "custom_fabulously_optimized_1785377048186": 63414
   },
   "online": true,
-  "playing": "custom_fabulously_optimized_1785377048186",
-  "last_seen": 1785377087741,
+  "playing": null,
+  "last_seen": 1785377152014,
   "playing_name": "Fabulously Optimized",
   "playing_since": 1785377086716
 }
