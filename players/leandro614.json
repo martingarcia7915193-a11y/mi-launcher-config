@@ -15,9 +15,9 @@
     "ftb-skies-2-aero": 23119014,
     "vanilla26": 321764
   },
-  "online": false,
-  "playing": null,
-  "last_seen": 1785386013045,
+  "online": true,
+  "playing": "ftb-skies-2-aero",
+  "last_seen": 1785386600029,
   "playing_name": "FTB Skies 2: Aero",
-  "playing_since": 1785306540113
+  "playing_since": 1785386599523
 }
