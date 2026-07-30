@@ -52,7 +52,7 @@
     "chameleon": 253905,
     "pasto": 1247601,
     "ftb-skies-2-aero": 9954212,
-    "vanilla26": 53175,
+    "vanilla26": 646679,
     "testeando-config-global": 101607,
     "1-7-10": 941828,
     "vanilla-1-7-10": 188197,
@@ -60,8 +60,8 @@
     "custom_fabulously_optimized_1785377048186": 63414
   },
   "online": true,
-  "playing": "vanilla26",
-  "last_seen": 1785377165593,
+  "playing": null,
+  "last_seen": 1785377759592,
   "playing_name": "Vanilla 26.1.2",
   "playing_since": 1785377164349
 }
