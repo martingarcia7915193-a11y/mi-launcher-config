@@ -57,11 +57,12 @@
     "1-7-10": 941828,
     "vanilla-1-7-10": 188197,
     "keo_optimized_26_1_2": 361221,
-    "custom_fabulously_optimized_1785377048186": 63414
+    "custom_fabulously_optimized_1785377048186": 63414,
+    "vanilla26-2": 25951
   },
   "online": true,
-  "playing": "vanilla26-2",
-  "last_seen": 1785378241376,
+  "playing": null,
+  "last_seen": 1785378268345,
   "playing_name": "26.2",
   "playing_since": 1785378240456
 }
