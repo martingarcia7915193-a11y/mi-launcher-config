@@ -61,9 +61,9 @@
     "vanilla26-2": 25951,
     "fabric26-2": 28092
   },
-  "online": true,
+  "online": false,
   "playing": null,
-  "last_seen": 1785473050434,
+  "last_seen": 1785473062726,
   "playing_name": "1.7.10",
   "playing_since": 1785473029064
 }
