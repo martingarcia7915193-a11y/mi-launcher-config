@@ -61,9 +61,9 @@
     "vanilla26-2": 25951,
     "fabric26-2": 28092
   },
-  "online": true,
-  "playing": "ftb-skies-2-aero",
-  "last_seen": 1785388121592,
+  "online": false,
+  "playing": null,
+  "last_seen": 1785472986041,
   "playing_name": "FTB Skies 2: Aero",
   "playing_since": 1785388120029
 }
