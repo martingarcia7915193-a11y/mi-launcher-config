@@ -357,9 +357,9 @@
     {
       "name": "MCA Reborn [Fabric/Forge]",
       "curseforge_id": 535291,
-      "download_url": "https://edge.forgecdn.net/files/8325/524/mca-neoforge-7.7.17%2B1.21.1.jar",
-      "file_name": "mca-neoforge-7.7.17+1.21.1.jar",
-      "version_number": "[NeoForge 1.21.1] MCAR - 7.7.17",
+      "download_url": "https://edge.forgecdn.net/files/8547/552/mca-neoforge-7.7.32%2b1.21.1.jar",
+      "file_name": "mca-neoforge-7.7.32+1.21.1.jar",
+      "version_number": "[NeoForge 1.21.1] MCAR - 7.7.32",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1008/780/256/256/638531792918357805.jpg",
       "_depends_on": [
         419699
@@ -648,9 +648,9 @@
     {
       "name": "MineColonies",
       "curseforge_id": 245506,
-      "download_url": "https://edge.forgecdn.net/files/8344/688/minecolonies-1.1.1343-1.21.1-snapshot.jar",
-      "file_name": "minecolonies-1.1.1343-1.21.1-snapshot.jar",
-      "version_number": "minecolonies-1.1.1343-1.21.1-snapshot.jar",
+      "download_url": "https://edge.forgecdn.net/files/8537/675/minecolonies-1.1.1367-1.21.1-snapshot.jar",
+      "file_name": "minecolonies-1.1.1367-1.21.1-snapshot.jar",
+      "version_number": "minecolonies-1.1.1367-1.21.1-snapshot.jar",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/41/680/256/256/635999200063962019.png",
       "_depends_on": [
         298744,
@@ -2073,8 +2073,16 @@
       ]
     }
   ],
-  "extras_version": 195,
+  "extras_version": 197,
   "changelog": [
+    {
+      "date": "2026-08-01T22:23:53.589Z",
+      "author": "Martion000",
+      "changes": [
+        "⬆ MCA Reborn [Fabric/Forge]: [NeoForge 1.21.1] MCAR - 7.7.17 → [NeoForge 1.21.1] MCAR - 7.7.32",
+        "⬆ MineColonies: minecolonies-1.1.1343-1.21.1-snapshot.jar → minecolonies-1.1.1367-1.21.1-snapshot.jar"
+      ]
+    },
     {
       "date": "2026-07-24T09:01:31.255Z",
       "author": "Martion000",
