@@ -2037,14 +2037,6 @@
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1812/539/256/256/639146075490528148.png"
     },
     {
-      "name": "Create : Linear Motion Simulated",
-      "curseforge_id": 1541640,
-      "download_url": "https://mediafilez.forgecdn.net/files/8100/524/create_linear_motion_simulated-0.2.1.jar",
-      "file_name": "create_linear_motion_simulated-0.2.1.jar",
-      "version_number": "Create : Linear Motion Simulated 0.2.1",
-      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1805/152/256/256/639142262843159149.png"
-    },
-    {
       "name": "Aeronautics: simulated copycats",
       "modrinth_id": "simulated-copycats",
       "download_url": "https://cdn.modrinth.com/data/NYBH9vVY/versions/xgzZOELL/sim_copycats-1.1.5.jar",
@@ -2054,6 +2046,13 @@
     }
   ],
   "changelog": [
+    {
+      "date": "2026-08-01T23:38:31.676Z",
+      "author": "Martion000",
+      "changes": [
+        "− Create : Linear Motion Simulated"
+      ]
+    },
     {
       "date": "2026-07-01T17:13:10.523Z",
       "author": "Martion000",
@@ -3306,7 +3305,7 @@
       ]
     }
   ],
-  "extras_version": 143,
+  "extras_version": 144,
   "extras_url": "",
   "resourcepacks": [
     {
