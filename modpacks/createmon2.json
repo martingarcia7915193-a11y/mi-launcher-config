@@ -1351,17 +1351,6 @@
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/914/901/256/256/638372366819318973.png"
     },
     {
-      "name": "Sable Schematics",
-      "curseforge_id": 1519112,
-      "download_url": "https://edge.forgecdn.net/files/7955/239/sableschem-neoforge-1.21.1-0.1.1.jar",
-      "file_name": "sableschem-neoforge-1.21.1-0.1.1.jar",
-      "version_number": "sableschem-neoforge-1.21.1-0.1.1.jar",
-      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1765/329/256/256/639122233960953579.png",
-      "_depends_on": [
-        1312371
-      ]
-    },
-    {
       "name": "Create Aeronautics",
       "curseforge_id": 676721,
       "download_url": "https://mediafilez.forgecdn.net/files/7964/998/create-aeronautics-bundled-1.21.1-1.1.3.jar",
@@ -1418,6 +1407,13 @@
     }
   ],
   "changelog": [
+    {
+      "date": "2026-08-01T23:40:35.726Z",
+      "author": "Martion000",
+      "changes": [
+        "− Sable Schematics"
+      ]
+    },
     {
       "date": "2026-04-25T04:28:46.318Z",
       "author": "Martion000",
@@ -2000,7 +1996,7 @@
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1273/480/256/256/638828425709420198.png"
     }
   ],
-  "extras_version": 98,
+  "extras_version": 100,
   "extras_url": "https://drive.google.com/file/d/1nDF3KO6vydch4WP6xuHYbFiLLKdEKPJ5/view?usp=drivesdk",
   "optional_mods": [
     {
