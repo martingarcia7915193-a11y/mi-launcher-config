@@ -663,9 +663,9 @@
     {
       "name": "structurize-1.0.831-1.21.1-snapshot.jar",
       "curseforge_id": 298744,
-      "download_url": "https://edge.forgecdn.net/files/8171/741/structurize-1.0.831-1.21.1-snapshot.jar",
-      "file_name": "structurize-1.0.831-1.21.1-snapshot.jar",
-      "version_number": "structurize-1.0.831-1.21.1-snapshot.jar",
+      "download_url": "https://edge.forgecdn.net/files/8398/574/structurize-1.0.832-1.21.1-snapshot.jar",
+      "file_name": "structurize-1.0.832-1.21.1-snapshot.jar",
+      "version_number": "structurize-1.0.832-1.21.1-snapshot.jar",
       "_is_dependency": true
     },
     {
@@ -2073,8 +2073,15 @@
       ]
     }
   ],
-  "extras_version": 197,
+  "extras_version": 199,
   "changelog": [
+    {
+      "date": "2026-08-01T22:25:11.289Z",
+      "author": "Martion000",
+      "changes": [
+        "⬆ structurize-1.0.831-1.21.1-snapshot.jar: structurize-1.0.831-1.21.1-snapshot.jar → structurize-1.0.832-1.21.1-snapshot.jar"
+      ]
+    },
     {
       "date": "2026-08-01T22:23:53.589Z",
       "author": "Martion000",
