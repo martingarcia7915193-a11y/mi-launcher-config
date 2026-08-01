@@ -2177,17 +2177,16 @@
       "file_name": "createidlx-1.21.1-1.5.jar",
       "version_number": "Create: IDLX 1.5 for Minecraft 1.21.1 & Create 6.0.X",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1667/40/256/256/639060997684227810.png"
-    },
-    {
-      "name": "Create : Linear Motion Simulated",
-      "curseforge_id": 1541640,
-      "download_url": "https://mediafilez.forgecdn.net/files/8100/524/create_linear_motion_simulated-0.2.1.jar",
-      "file_name": "create_linear_motion_simulated-0.2.1.jar",
-      "version_number": "Create : Linear Motion Simulated 0.2.1",
-      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1805/152/256/256/639142262843159149.png"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-08-01T23:38:42.766Z",
+      "author": "Martion000",
+      "changes": [
+        "− Create : Linear Motion Simulated"
+      ]
+    },
     {
       "date": "2026-06-13T20:38:06.500Z",
       "author": "Martion000",
@@ -2577,7 +2576,7 @@
       ]
     }
   ],
-  "extras_version": 212,
+  "extras_version": 213,
   "extras_url": "",
   "resourcepacks": [
     {
