@@ -51,7 +51,7 @@
     "testforge": 2749013,
     "chameleon": 253905,
     "pasto": 1247601,
-    "ftb-skies-2-aero": 9954212,
+    "ftb-skies-2-aero": 16419405,
     "vanilla26": 646679,
     "testeando-config-global": 101607,
     "1-7-10": 961441,
@@ -62,8 +62,8 @@
     "fabric26-2": 28092
   },
   "online": true,
-  "playing": "ftb-skies-2-aero",
-  "last_seen": 1785997992423,
+  "playing": null,
+  "last_seen": 1786004458159,
   "playing_name": "FTB Skies 2: Aero",
   "playing_since": 1785997991238
 }
