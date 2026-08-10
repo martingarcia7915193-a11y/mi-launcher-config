@@ -19,10 +19,38 @@
       "file_name": "soundreload-1.0.jar",
       "version_number": "soundreload-1.0.jar",
       "icon_url": "https://media.forgecdn.net/avatars/thumbnails/1459/588/256/256/638947295853914110.png"
+    },
+    {
+      "name": "Decocraft",
+      "curseforge_id": 79616,
+      "download_url": "https://mediafilez.forgecdn.net/files/2414/535/Decocraft-2.4.2_1.7.10.jar",
+      "file_name": "Decocraft-2.4.2_1.7.10.jar",
+      "version_number": "Decocraft-2.4.2_1.7.10.jar",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/915/598/256/256/638373717924319380.png",
+      "added_by": "Martion000",
+      "added_at": "2026-08-10T07:15:17.778Z"
+    },
+    {
+      "name": "Buildcraft",
+      "curseforge_id": 61811,
+      "download_url": "https://edge.forgecdn.net/files/6240/755/buildcraft-7.1.27.jar",
+      "file_name": "buildcraft-7.1.27.jar",
+      "version_number": "7.1.27",
+      "icon_url": "https://media.forgecdn.net/avatars/thumbnails/5/621/256/256/635351431641884479.png",
+      "added_by": "Martion000",
+      "added_at": "2026-08-10T07:15:25.382Z"
     }
   ],
-  "extras_version": 9,
+  "extras_version": 10,
   "changelog": [
+    {
+      "date": "2026-08-10T07:15:37.752Z",
+      "author": "Martion000",
+      "changes": [
+        "+ Decocraft",
+        "+ Buildcraft"
+      ]
+    },
     {
       "date": "2026-07-29T01:11:04.050Z",
       "author": "Martion000",
