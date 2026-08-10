@@ -54,7 +54,7 @@
     "ftb-skies-2-aero": 32542356,
     "vanilla26": 646679,
     "testeando-config-global": 101607,
-    "1-7-10": 961441,
+    "1-7-10": 1200103,
     "vanilla-1-7-10": 188197,
     "keo_optimized_26_1_2": 361221,
     "custom_fabulously_optimized_1785377048186": 141610,
@@ -62,8 +62,8 @@
     "fabric26-2": 28092
   },
   "online": true,
-  "playing": "1-7-10",
-  "last_seen": 1786346144893,
+  "playing": null,
+  "last_seen": 1786346383774,
   "playing_name": "1.7.10",
   "playing_since": 1786346144339
 }
