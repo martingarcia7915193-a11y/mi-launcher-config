@@ -65,5 +65,11 @@
         "✦ Modpack creado"
       ]
     }
+  ],
+  "resourcepacks": [
+    {
+      "name": "Soartex Fanver - Vanilla",
+      "curseforge_id": 42794
+    }
   ]
 }
