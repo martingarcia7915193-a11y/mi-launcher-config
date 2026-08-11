@@ -16,6 +16,10 @@
       "name": "(Sodium) Chloride",
       "curseforge_id": 931925,
       "version_id": "8468849"
+    },
+    {
+      "name": "Fabric API",
+      "curseforge_id": 306612
     }
   ]
 }
