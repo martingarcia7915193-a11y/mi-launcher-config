@@ -19,5 +19,7 @@
       "name": "Just Enough Items (JEI)",
       "curseforge_id": 238222
     }
-  ]
+  ],
+  "extras_url": "https://github.com/martingarcia7915193-a11y/mi-launcher-config/releases/download/extras/test-extras-v1.zip",
+  "extras_version": 1
 }
