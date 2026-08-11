@@ -1,0 +1,21 @@
+{
+  "id": "test",
+  "name": "test",
+  "version": "1.0.0",
+  "minecraft_version": "26.2",
+  "modloader": "fabric",
+  "category": "oficiales",
+  "modloader_version": "0.19.3",
+  "mods": [
+    {
+      "name": "Sodium",
+      "curseforge_id": 394468,
+      "version_id": "8591742"
+    },
+    {
+      "name": "(Sodium) Chloride",
+      "curseforge_id": 931925,
+      "version_id": "8468849"
+    }
+  ]
+}
