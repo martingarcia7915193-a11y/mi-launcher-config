@@ -1,0 +1,2427 @@
+{
+  "id": "all-the-mods-10-atm10-oficial",
+  "name": "ATM 10",
+  "version": "7.3",
+  "minecraft_version": "1.21.1",
+  "modloader": "neoforge",
+  "category": "oficiales",
+  "modloader_version": "21.1.247",
+  "description": "Importado de curseforge. Autor: ATMTeam",
+  "override_mod_files": [
+    "cc-tweaked-1.21.1-forge-1.120.0.jar"
+  ],
+  "mods": [
+    {
+      "name": "TownTalk",
+      "curseforge_id": 900364,
+      "version_id": "5653504"
+    },
+    {
+      "name": "Rechiseled: Chipped",
+      "curseforge_id": 1007578,
+      "version_id": "7524185"
+    },
+    {
+      "name": "Searchables",
+      "curseforge_id": 858542,
+      "version_id": "5831692"
+    },
+    {
+      "name": "Bibliowoods Legacy",
+      "curseforge_id": 1122764,
+      "version_id": "7577860"
+    },
+    {
+      "name": "Modern Industrialization",
+      "curseforge_id": 405388,
+      "version_id": "8516475"
+    },
+    {
+      "name": "Ars Unification",
+      "curseforge_id": 1165429,
+      "version_id": "8391937"
+    },
+    {
+      "name": "Crash Utilities",
+      "curseforge_id": 371813,
+      "version_id": "5993450"
+    },
+    {
+      "name": "Just Enough Archaeology",
+      "curseforge_id": 890755,
+      "version_id": "7768445"
+    },
+    {
+      "name": "FTB JEI Extras",
+      "curseforge_id": 1103259,
+      "version_id": "6695679"
+    },
+    {
+      "name": "Framework",
+      "curseforge_id": 549225,
+      "version_id": "7530361"
+    },
+    {
+      "name": "oωo (owo-lib)",
+      "curseforge_id": 532610,
+      "version_id": "6785734"
+    },
+    {
+      "name": "Macaw's Stairs",
+      "curseforge_id": 1119394,
+      "version_id": "7317479"
+    },
+    {
+      "name": "KeyBind Bundles",
+      "curseforge_id": 1172594,
+      "version_id": "7508312"
+    },
+    {
+      "name": "More Industrial Foregoing Addons (MIFA)",
+      "curseforge_id": 1086142,
+      "version_id": "6288756"
+    },
+    {
+      "name": "I'm Fast",
+      "curseforge_id": 1111501,
+      "version_id": "5991453"
+    },
+    {
+      "name": "Silent Lib (silentlib)",
+      "curseforge_id": 242998,
+      "version_id": "7935618"
+    },
+    {
+      "name": "Sodium Extra",
+      "curseforge_id": 447673,
+      "version_id": "8403576"
+    },
+    {
+      "name": "The Undergarden",
+      "curseforge_id": 379849,
+      "version_id": "7862546"
+    },
+    {
+      "name": "Simply Light",
+      "curseforge_id": 300331,
+      "version_id": "6219029"
+    },
+    {
+      "name": "Trash Cans",
+      "curseforge_id": 394535,
+      "version_id": "5891067"
+    },
+    {
+      "name": "Ars Controle",
+      "curseforge_id": 1061812,
+      "version_id": "7534518"
+    },
+    {
+      "name": "Supplementaries",
+      "curseforge_id": 412082,
+      "version_id": "8539821"
+    },
+    {
+      "name": "Rechiseled",
+      "curseforge_id": 558998,
+      "version_id": "8301793"
+    },
+    {
+      "name": "Structurize",
+      "curseforge_id": 298744,
+      "version_id": "8398574"
+    },
+    {
+      "name": "Nullscape",
+      "curseforge_id": 570354,
+      "version_id": "7078265"
+    },
+    {
+      "name": "Ars Énergistique",
+      "curseforge_id": 905641,
+      "version_id": "6203425"
+    },
+    {
+      "name": "Occultism",
+      "curseforge_id": 361026,
+      "version_id": "8546488"
+    },
+    {
+      "name": "Sodium",
+      "curseforge_id": 394468,
+      "version_id": "8537390"
+    },
+    {
+      "name": "Iron's Gems 'n Jewelry",
+      "curseforge_id": 1101111,
+      "version_id": "8365016"
+    },
+    {
+      "name": "Integrated Scripting",
+      "curseforge_id": 889785,
+      "version_id": "8520044"
+    },
+    {
+      "name": "Silent Gear Metalworks",
+      "curseforge_id": 1199188,
+      "version_id": "7897500"
+    },
+    {
+      "name": "YUNG's Better Dungeons (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+      "curseforge_id": 1015112,
+      "version_id": "5954804"
+    },
+    {
+      "name": "Forbidden and Arcanus",
+      "curseforge_id": 309858,
+      "version_id": "6875895"
+    },
+    {
+      "name": "Refined Storage - JEI Integration",
+      "curseforge_id": 1230497,
+      "version_id": "6359014"
+    },
+    {
+      "name": "Ars Elemental",
+      "curseforge_id": 561470,
+      "version_id": "8399862"
+    },
+    {
+      "name": "Ars Additions",
+      "curseforge_id": 974408,
+      "version_id": "7646325"
+    },
+    {
+      "name": "Refined Storage - Quartz Arsenal",
+      "curseforge_id": 1230483,
+      "version_id": "8103101"
+    },
+    {
+      "name": "Atlas API",
+      "curseforge_id": 1145462,
+      "version_id": "6880789"
+    },
+    {
+      "name": "Farming for Blockheads",
+      "curseforge_id": 261924,
+      "version_id": "7966196"
+    },
+    {
+      "name": "spark",
+      "curseforge_id": 361579,
+      "version_id": "6225208"
+    },
+    {
+      "name": "Mekanism",
+      "curseforge_id": 268560,
+      "version_id": "7904058"
+    },
+    {
+      "name": "Balm",
+      "curseforge_id": 531761,
+      "version_id": "8545422"
+    },
+    {
+      "name": "Sophisticated Storage Create Integration",
+      "curseforge_id": 1226755,
+      "version_id": "8503147"
+    },
+    {
+      "name": "Macaw's Furniture",
+      "curseforge_id": 359540,
+      "version_id": "7255584"
+    },
+    {
+      "name": "Apothic Enchanting",
+      "curseforge_id": 1063926,
+      "version_id": "8469450"
+    },
+    {
+      "name": "Yeetus Experimentus",
+      "curseforge_id": 635427,
+      "version_id": "5444189"
+    },
+    {
+      "name": "Shiny! Mobs",
+      "curseforge_id": 552172,
+      "version_id": "8262268"
+    },
+    {
+      "name": "Repeatable Trial Vaults",
+      "curseforge_id": 1070541,
+      "version_id": "8020541"
+    },
+    {
+      "name": "Sophisticated Backpacks Create Integration",
+      "curseforge_id": 1238567,
+      "version_id": "8398818"
+    },
+    {
+      "name": "Theurgy",
+      "curseforge_id": 430636,
+      "version_id": "8499344"
+    },
+    {
+      "name": "Iris & Oculus Search",
+      "curseforge_id": 1583035,
+      "version_id": "8480805"
+    },
+    {
+      "name": "Euphoria Patches",
+      "curseforge_id": 915902,
+      "version_id": "8177588"
+    },
+    {
+      "name": "Little Big Redstone",
+      "curseforge_id": 1180560,
+      "version_id": "8550720"
+    },
+    {
+      "name": "McJtyLib",
+      "curseforge_id": 233105,
+      "version_id": "8256201"
+    },
+    {
+      "name": "FTB Filter System",
+      "curseforge_id": 943925,
+      "version_id": "7429011"
+    },
+    {
+      "name": "Mystical Agriculture",
+      "curseforge_id": 246640,
+      "version_id": "8344249"
+    },
+    {
+      "name": "JourneyMap",
+      "curseforge_id": 32274,
+      "version_id": "8523102"
+    },
+    {
+      "name": "RFTools Power",
+      "curseforge_id": 290209,
+      "version_id": "8256213"
+    },
+    {
+      "name": "Invasive Optimizations",
+      "curseforge_id": 1528432,
+      "version_id": "8505075"
+    },
+    {
+      "name": "Bridging Mod",
+      "curseforge_id": 533942,
+      "version_id": "6269728"
+    },
+    {
+      "name": "Camol",
+      "curseforge_id": 1214396,
+      "version_id": "7976624"
+    },
+    {
+      "name": "Integrated Terminals",
+      "curseforge_id": 295910,
+      "version_id": "8533011"
+    },
+    {
+      "name": "Create: Bells & Whistles",
+      "curseforge_id": 905040,
+      "version_id": "6299879"
+    },
+    {
+      "name": "Variants&Ventures",
+      "curseforge_id": 981139,
+      "version_id": "8190696"
+    },
+    {
+      "name": "Cooking for Blockheads",
+      "curseforge_id": 231484,
+      "version_id": "8404453"
+    },
+    {
+      "name": "FTB Library (NeoForge)",
+      "curseforge_id": 404465,
+      "version_id": "8519365"
+    },
+    {
+      "name": "Theurgy KubeJS",
+      "curseforge_id": 963206,
+      "version_id": "7128751"
+    },
+    {
+      "name": "Botany Pots - Mystical Agriculture Compat",
+      "curseforge_id": 1329409,
+      "version_id": "8177218"
+    },
+    {
+      "name": "Ars Ocultas",
+      "curseforge_id": 907843,
+      "version_id": "8516622"
+    },
+    {
+      "name": "YUNG's Better Nether Fortresses (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+      "curseforge_id": 1015118,
+      "version_id": "6606621"
+    },
+    {
+      "name": "Jade 🔍",
+      "curseforge_id": 324717,
+      "version_id": "7545219"
+    },
+    {
+      "name": "Industrialization Overdrive",
+      "curseforge_id": 1089065,
+      "version_id": "8409629"
+    },
+    {
+      "name": "Polymorphic Energistics",
+      "curseforge_id": 941096,
+      "version_id": "5545923"
+    },
+    {
+      "name": "Applied Flux",
+      "curseforge_id": 965012,
+      "version_id": "8204513"
+    },
+    {
+      "name": "Mystical Customization",
+      "curseforge_id": 280441,
+      "version_id": "7666340"
+    },
+    {
+      "name": "Apothic Spawners",
+      "curseforge_id": 986583,
+      "version_id": "8469405"
+    },
+    {
+      "name": "GuideME",
+      "curseforge_id": 1173950,
+      "version_id": "8420861"
+    },
+    {
+      "name": "Create: Aquatic Ambitions",
+      "curseforge_id": 1005676,
+      "version_id": "8466444"
+    },
+    {
+      "name": "Botany Pots",
+      "curseforge_id": 353928,
+      "version_id": "8243851"
+    },
+    {
+      "name": "Luminax",
+      "curseforge_id": 1165932,
+      "version_id": "6924618"
+    },
+    {
+      "name": "ModernFix",
+      "curseforge_id": 790626,
+      "version_id": "8459650"
+    },
+    {
+      "name": "Athena",
+      "curseforge_id": 841890,
+      "version_id": "8061947"
+    },
+    {
+      "name": "More Overlays Updated",
+      "curseforge_id": 391382,
+      "version_id": "6981252"
+    },
+    {
+      "name": "Integrated Crafting",
+      "curseforge_id": 287357,
+      "version_id": "8533575"
+    },
+    {
+      "name": "XyCraft: Override",
+      "curseforge_id": 653790,
+      "version_id": "6872531"
+    },
+    {
+      "name": "Integrated Tunnels",
+      "curseforge_id": 251389,
+      "version_id": "8512611"
+    },
+    {
+      "name": "Botany Trees",
+      "curseforge_id": 411357,
+      "version_id": "8188485"
+    },
+    {
+      "name": "Relics",
+      "curseforge_id": 445274,
+      "version_id": "8158315"
+    },
+    {
+      "name": "Tree Tap",
+      "curseforge_id": 927874,
+      "version_id": "8146520"
+    },
+    {
+      "name": "Nature's Compass",
+      "curseforge_id": 252848,
+      "version_id": "7892954"
+    },
+    {
+      "name": "Architectury API",
+      "curseforge_id": 419699,
+      "version_id": "8492726"
+    },
+    {
+      "name": "Tesseract API (NeoForge)",
+      "curseforge_id": 1067672,
+      "version_id": "8489885"
+    },
+    {
+      "name": "EdivadLib",
+      "curseforge_id": 638508,
+      "version_id": "5491721"
+    },
+    {
+      "name": "Blue Flame Burning",
+      "curseforge_id": 656551,
+      "version_id": "5958721"
+    },
+    {
+      "name": "PneumaticCraft: Repressurized",
+      "curseforge_id": 281849,
+      "version_id": "8519226"
+    },
+    {
+      "name": "OpenBlocks Elevator",
+      "curseforge_id": 250832,
+      "version_id": "6199696"
+    },
+    {
+      "name": "Pocket Storage",
+      "curseforge_id": 367734,
+      "version_id": "6834323"
+    },
+    {
+      "name": "Jupiter",
+      "curseforge_id": 1072905,
+      "version_id": "7738312"
+    },
+    {
+      "name": "YUNG's Better Strongholds (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+      "curseforge_id": 1015105,
+      "version_id": "6272264"
+    },
+    {
+      "name": "MrCrayfish's Furniture Mod: Refurbished",
+      "curseforge_id": 897116,
+      "version_id": "7473565"
+    },
+    {
+      "name": "Bibliocraft Legacy",
+      "curseforge_id": 1122260,
+      "version_id": "7740866"
+    },
+    {
+      "name": "CodeChicken Lib 1.8.+",
+      "curseforge_id": 242818,
+      "version_id": "8491811"
+    },
+    {
+      "name": "Just Enough Mekanism Multiblocks",
+      "curseforge_id": 898746,
+      "version_id": "8551854"
+    },
+    {
+      "name": "AttributeFix",
+      "curseforge_id": 280510,
+      "version_id": "7115922"
+    },
+    {
+      "name": "Utilitarian",
+      "curseforge_id": 929559,
+      "version_id": "7973750"
+    },
+    {
+      "name": "Wireless Chargers",
+      "curseforge_id": 510656,
+      "version_id": "5551798"
+    },
+    {
+      "name": "Handcrafted",
+      "curseforge_id": 538214,
+      "version_id": "6330030"
+    },
+    {
+      "name": "Ponder for KubeJS",
+      "curseforge_id": 622888,
+      "version_id": "7436813"
+    },
+    {
+      "name": "Melody",
+      "curseforge_id": 938643,
+      "version_id": "5453382"
+    },
+    {
+      "name": "AllTheLeaks (Memory Leak Fix)",
+      "curseforge_id": 1091339,
+      "version_id": "8553655"
+    },
+    {
+      "name": "Complementary Shaders - Reimagined",
+      "curseforge_id": 627557,
+      "version_id": "8123287"
+    },
+    {
+      "name": "Cat Jammies",
+      "curseforge_id": 430906,
+      "version_id": "5806687"
+    },
+    {
+      "name": "The Bumblezone (NeoForge/Forge)",
+      "curseforge_id": 362479,
+      "version_id": "8548224"
+    },
+    {
+      "name": "Chroma Carvings",
+      "curseforge_id": 1283857,
+      "version_id": "6921832"
+    },
+    {
+      "name": "Expanded AE",
+      "curseforge_id": 1213351,
+      "version_id": "6910849"
+    },
+    {
+      "name": "Auroras",
+      "curseforge_id": 1105290,
+      "version_id": "6040674"
+    },
+    {
+      "name": "Dyson Cube Project",
+      "curseforge_id": 1345066,
+      "version_id": "8082907"
+    },
+    {
+      "name": "Villages&Pillages",
+      "curseforge_id": 915531,
+      "version_id": "6266438"
+    },
+    {
+      "name": "MEGA Cells",
+      "curseforge_id": 622112,
+      "version_id": "7952621"
+    },
+    {
+      "name": "Cyclops Core",
+      "curseforge_id": 232758,
+      "version_id": "8527422"
+    },
+    {
+      "name": "Complementary Shaders - Unbound",
+      "curseforge_id": 385587,
+      "version_id": "8123288"
+    },
+    {
+      "name": "Simple Weather",
+      "curseforge_id": 983390,
+      "version_id": "7436830"
+    },
+    {
+      "name": "Modonomicon",
+      "curseforge_id": 538392,
+      "version_id": "8532346"
+    },
+    {
+      "name": "WITS (What Is This Structure?)",
+      "curseforge_id": 909375,
+      "version_id": "8412915"
+    },
+    {
+      "name": "AdvancedAE",
+      "curseforge_id": 1084104,
+      "version_id": "7849217"
+    },
+    {
+      "name": "The Twilight Forest",
+      "curseforge_id": 227639,
+      "version_id": "7797302"
+    },
+    {
+      "name": "ME Requester",
+      "curseforge_id": 688367,
+      "version_id": "8285803"
+    },
+    {
+      "name": "Integrated Dynamics",
+      "curseforge_id": 236307,
+      "version_id": "8512614"
+    },
+    {
+      "name": "Colorful Hearts",
+      "curseforge_id": 854213,
+      "version_id": "6830399"
+    },
+    {
+      "name": "Prism [Neo/Forge]",
+      "curseforge_id": 638111,
+      "version_id": "6372979"
+    },
+    {
+      "name": "Mekanism Tools",
+      "curseforge_id": 268567,
+      "version_id": "7904062"
+    },
+    {
+      "name": "Silent Gear",
+      "curseforge_id": 297039,
+      "version_id": "8095210"
+    },
+    {
+      "name": "CC: Tweaked",
+      "curseforge_id": 282001,
+      "version_id": "5714512"
+    },
+    {
+      "name": "Occultism KubeJS",
+      "curseforge_id": 525693,
+      "version_id": "7472859"
+    },
+    {
+      "name": "Sushi Go Crafting",
+      "curseforge_id": 452500,
+      "version_id": "6626716"
+    },
+    {
+      "name": "Aquaculture 2",
+      "curseforge_id": 60028,
+      "version_id": "7901588"
+    },
+    {
+      "name": "ExperienceLib",
+      "curseforge_id": 1156551,
+      "version_id": "7705470"
+    },
+    {
+      "name": "Formations (Structure Library)",
+      "curseforge_id": 915115,
+      "version_id": "6789388"
+    },
+    {
+      "name": "XyCraft: World",
+      "curseforge_id": 653789,
+      "version_id": "6872532"
+    },
+    {
+      "name": "Mo' Structures (NeoForge/Fabric)",
+      "curseforge_id": 378266,
+      "version_id": "6857966"
+    },
+    {
+      "name": "Iron's Spells 'n Spellbooks",
+      "curseforge_id": 855414,
+      "version_id": "8364935"
+    },
+    {
+      "name": "Mining Gadgets",
+      "curseforge_id": 351748,
+      "version_id": "8414578"
+    },
+    {
+      "name": "KeybindsPurger",
+      "curseforge_id": 1099143,
+      "version_id": "7733186"
+    },
+    {
+      "name": "YUNG's Extras (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+      "curseforge_id": 1015146,
+      "version_id": "5812546"
+    },
+    {
+      "name": "Actually Additions",
+      "curseforge_id": 228404,
+      "version_id": "8281896"
+    },
+    {
+      "name": "Simple Backups",
+      "curseforge_id": 583228,
+      "version_id": "7965880"
+    },
+    {
+      "name": "Powah! (Rearchitected)",
+      "curseforge_id": 633483,
+      "version_id": "8011715"
+    },
+    {
+      "name": "Mystical Agradditions",
+      "curseforge_id": 256247,
+      "version_id": "8515974"
+    },
+    {
+      "name": "Caelus API",
+      "curseforge_id": 308989,
+      "version_id": "5694215"
+    },
+    {
+      "name": "Measurements",
+      "curseforge_id": 478559,
+      "version_id": "6956811"
+    },
+    {
+      "name": "Reap Mod",
+      "curseforge_id": 244256,
+      "version_id": "5608983"
+    },
+    {
+      "name": "Extra Disks",
+      "curseforge_id": 351491,
+      "version_id": "8031115"
+    },
+    {
+      "name": "No Chat Reports",
+      "curseforge_id": 634062,
+      "version_id": "5885735"
+    },
+    {
+      "name": "Crafting on a stick",
+      "curseforge_id": 577850,
+      "version_id": "8382581"
+    },
+    {
+      "name": "Soulplied Energistics",
+      "curseforge_id": 1143614,
+      "version_id": "8333758"
+    },
+    {
+      "name": "Multi-Piston",
+      "curseforge_id": 303278,
+      "version_id": "7097877"
+    },
+    {
+      "name": "MNS - Moog's Nether Structures",
+      "curseforge_id": 967466,
+      "version_id": "8298675"
+    },
+    {
+      "name": "All the Wizard Gear",
+      "curseforge_id": 927064,
+      "version_id": "7564322"
+    },
+    {
+      "name": "Baubley Heart Canisters",
+      "curseforge_id": 282947,
+      "version_id": "8267921"
+    },
+    {
+      "name": "Gateways to Eternity",
+      "curseforge_id": 417802,
+      "version_id": "6926284"
+    },
+    {
+      "name": "Rhino",
+      "curseforge_id": 416294,
+      "version_id": "7104526"
+    },
+    {
+      "name": "EvilCraft",
+      "curseforge_id": 74610,
+      "version_id": "8533918"
+    },
+    {
+      "name": "Modular Routers",
+      "curseforge_id": 250294,
+      "version_id": "8478801"
+    },
+    {
+      "name": "Sawmill",
+      "curseforge_id": 964817,
+      "version_id": "8279292"
+    },
+    {
+      "name": "Dungeon Crawl",
+      "curseforge_id": 324973,
+      "version_id": "7887320"
+    },
+    {
+      "name": "Mekanism:More Machine",
+      "curseforge_id": 1275257,
+      "version_id": "7919872"
+    },
+    {
+      "name": "SuperMartijn642's Config Lib",
+      "curseforge_id": 438332,
+      "version_id": "5546996"
+    },
+    {
+      "name": "Extended Industrialization",
+      "curseforge_id": 1068418,
+      "version_id": "8406699"
+    },
+    {
+      "name": "Regions Unexplored",
+      "curseforge_id": 659110,
+      "version_id": "7492526"
+    },
+    {
+      "name": "Macaw's Trapdoors",
+      "curseforge_id": 400933,
+      "version_id": "7256148"
+    },
+    {
+      "name": "Overloaded Armor Bar",
+      "curseforge_id": 314002,
+      "version_id": "5537850"
+    },
+    {
+      "name": "Ars Creo",
+      "curseforge_id": 575698,
+      "version_id": "8139067"
+    },
+    {
+      "name": "Controlling",
+      "curseforge_id": 250398,
+      "version_id": "6368976"
+    },
+    {
+      "name": "Allthemodium",
+      "curseforge_id": 364466,
+      "version_id": "7974403"
+    },
+    {
+      "name": "Crystalix",
+      "curseforge_id": 1187033,
+      "version_id": "7824153"
+    },
+    {
+      "name": "Dyenamics",
+      "curseforge_id": 509276,
+      "version_id": "7138991"
+    },
+    {
+      "name": "Deeper and Darker",
+      "curseforge_id": 659011,
+      "version_id": "8201775"
+    },
+    {
+      "name": "Applied Mekanistics",
+      "curseforge_id": 574300,
+      "version_id": "7096962"
+    },
+    {
+      "name": "Drippy Loading Screen",
+      "curseforge_id": 511770,
+      "version_id": "8552907"
+    },
+    {
+      "name": "Curios API",
+      "curseforge_id": 309927,
+      "version_id": "6529130"
+    },
+    {
+      "name": "Refined Types",
+      "curseforge_id": 1327983,
+      "version_id": "8121752"
+    },
+    {
+      "name": "Living Things",
+      "curseforge_id": 397252,
+      "version_id": "6672681"
+    },
+    {
+      "name": "Nature's Aura",
+      "curseforge_id": 306626,
+      "version_id": "6948833"
+    },
+    {
+      "name": "Modular Force Field Systems (MFFS)",
+      "curseforge_id": 238546,
+      "version_id": "8512536"
+    },
+    {
+      "name": "Potions Master",
+      "curseforge_id": 356801,
+      "version_id": "7703983"
+    },
+    {
+      "name": "Kotlin for Forge",
+      "curseforge_id": 351264,
+      "version_id": "8335665"
+    },
+    {
+      "name": "Rechiseled: Create",
+      "curseforge_id": 888624,
+      "version_id": "8302843"
+    },
+    {
+      "name": "Silent's Gems",
+      "curseforge_id": 220311,
+      "version_id": "7512691"
+    },
+    {
+      "name": "Patchouli",
+      "curseforge_id": 306770,
+      "version_id": "7730942"
+    },
+    {
+      "name": "Crafting Tweaks",
+      "curseforge_id": 233071,
+      "version_id": "8019498"
+    },
+    {
+      "name": "Create: Hypertubes",
+      "curseforge_id": 1281336,
+      "version_id": "8541877"
+    },
+    {
+      "name": "TerraBlender (NeoForge)",
+      "curseforge_id": 940057,
+      "version_id": "6054947"
+    },
+    {
+      "name": "SmartBrainLib (Forge/Fabric/Quilt)",
+      "curseforge_id": 661293,
+      "version_id": "7055149"
+    },
+    {
+      "name": "Nether Trials & Chambers",
+      "curseforge_id": 1414295,
+      "version_id": "7445277"
+    },
+    {
+      "name": "Glassential Renewed",
+      "curseforge_id": 945149,
+      "version_id": "8440850"
+    },
+    {
+      "name": "Create: Enchantment Industry",
+      "curseforge_id": 688768,
+      "version_id": "8553189"
+    },
+    {
+      "name": "Almost Unified",
+      "curseforge_id": 633823,
+      "version_id": "8127603"
+    },
+    {
+      "name": "Interdimensional Wireless Transmitter",
+      "curseforge_id": 452645,
+      "version_id": "6845967"
+    },
+    {
+      "name": "Toast Control",
+      "curseforge_id": 271740,
+      "version_id": "6751464"
+    },
+    {
+      "name": "Ender Storage 1.8.+",
+      "curseforge_id": 245174,
+      "version_id": "6159037"
+    },
+    {
+      "name": "Load My F***ing Tags",
+      "curseforge_id": 656346,
+      "version_id": "7084444"
+    },
+    {
+      "name": "Easy Villagers",
+      "curseforge_id": 400514,
+      "version_id": "8066730"
+    },
+    {
+      "name": "Resourceful Lib",
+      "curseforge_id": 570073,
+      "version_id": "5973188"
+    },
+    {
+      "name": "Better Compatibility Checker",
+      "curseforge_id": 551894,
+      "version_id": "7404415"
+    },
+    {
+      "name": "Iron's Lib",
+      "curseforge_id": 1492763,
+      "version_id": "8364894"
+    },
+    {
+      "name": "Cloud Glass",
+      "curseforge_id": 1157074,
+      "version_id": "7966728"
+    },
+    {
+      "name": "BlockUI",
+      "curseforge_id": 522992,
+      "version_id": "7790469"
+    },
+    {
+      "name": "Not Enough Glyphs",
+      "curseforge_id": 1023517,
+      "version_id": "8305680"
+    },
+    {
+      "name": "Macaw's Lights and Lamps",
+      "curseforge_id": 502372,
+      "version_id": "7304075"
+    },
+    {
+      "name": "Amendments",
+      "curseforge_id": 896746,
+      "version_id": "8415430"
+    },
+    {
+      "name": "YUNG's Better Mineshafts (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+      "curseforge_id": 1015096,
+      "version_id": "5812193"
+    },
+    {
+      "name": "AI Improvements",
+      "curseforge_id": 233019,
+      "version_id": "5426792"
+    },
+    {
+      "name": "Repurposed Structures (Neoforge/Forge)",
+      "curseforge_id": 368293,
+      "version_id": "8237901"
+    },
+    {
+      "name": "Macaw's Fences and Walls",
+      "curseforge_id": 453925,
+      "version_id": "7308338"
+    },
+    {
+      "name": "Dyenamics and Friends",
+      "curseforge_id": 709617,
+      "version_id": "7204108"
+    },
+    {
+      "name": "DimStorage",
+      "curseforge_id": 353882,
+      "version_id": "7333077"
+    },
+    {
+      "name": "ATO - All the Ores",
+      "curseforge_id": 405593,
+      "version_id": "7825464"
+    },
+    {
+      "name": "Productive Metalworks",
+      "curseforge_id": 1184570,
+      "version_id": "7884786"
+    },
+    {
+      "name": "Reliquary Reincarnations",
+      "curseforge_id": 241319,
+      "version_id": "8398726"
+    },
+    {
+      "name": "Formations Overworld",
+      "curseforge_id": 915324,
+      "version_id": "8457252"
+    },
+    {
+      "name": "No Villager Death Messages",
+      "curseforge_id": 451682,
+      "version_id": "5812197"
+    },
+    {
+      "name": "Pipez",
+      "curseforge_id": 443900,
+      "version_id": "8351631"
+    },
+    {
+      "name": "MVS - Moog's Voyager Structures",
+      "curseforge_id": 656977,
+      "version_id": "8370969"
+    },
+    {
+      "name": "All The Tweaks",
+      "curseforge_id": 364120,
+      "version_id": "8100595"
+    },
+    {
+      "name": "Just Dire Things",
+      "curseforge_id": 1002348,
+      "version_id": "7463040"
+    },
+    {
+      "name": "FTB Essentials (Forge & Fabric)",
+      "curseforge_id": 410811,
+      "version_id": "8442866"
+    },
+    {
+      "name": "Mahou Tsukai",
+      "curseforge_id": 342543,
+      "version_id": "8212674"
+    },
+    {
+      "name": "Pam's HarvestCraft 2 - Trees",
+      "curseforge_id": 365460,
+      "version_id": "7847533"
+    },
+    {
+      "name": "CorgiLib",
+      "curseforge_id": 693313,
+      "version_id": "7773534"
+    },
+    {
+      "name": "KubeJS",
+      "curseforge_id": 238086,
+      "version_id": "8083208"
+    },
+    {
+      "name": "Iris Shaders",
+      "curseforge_id": 455508,
+      "version_id": "8242804"
+    },
+    {
+      "name": "Konkrete",
+      "curseforge_id": 410295,
+      "version_id": "5453385"
+    },
+    {
+      "name": "Transfer Labels",
+      "curseforge_id": 1184406,
+      "version_id": "8334598"
+    },
+    {
+      "name": "BSL Shaders",
+      "curseforge_id": 322506,
+      "version_id": "7588844"
+    },
+    {
+      "name": "Tool Belt",
+      "curseforge_id": 260262,
+      "version_id": "8309722"
+    },
+    {
+      "name": "Cobweb",
+      "curseforge_id": 968456,
+      "version_id": "7186943"
+    },
+    {
+      "name": "Macaw's Paths and Pavings",
+      "curseforge_id": 629153,
+      "version_id": "7029451"
+    },
+    {
+      "name": "Industrial Foregoing",
+      "curseforge_id": 266515,
+      "version_id": "8370717"
+    },
+    {
+      "name": "Clumps",
+      "curseforge_id": 256717,
+      "version_id": "5623731"
+    },
+    {
+      "name": "Mekanism Covers",
+      "curseforge_id": 1119874,
+      "version_id": "6071684"
+    },
+    {
+      "name": "TrashSlot",
+      "curseforge_id": 235577,
+      "version_id": "8163135"
+    },
+    {
+      "name": "Enchantment Descriptions",
+      "curseforge_id": 250419,
+      "version_id": "8240827"
+    },
+    {
+      "name": "Accelerated Decay",
+      "curseforge_id": 699872,
+      "version_id": "5433036"
+    },
+    {
+      "name": "FTB Ranks (NeoForge)",
+      "curseforge_id": 314905,
+      "version_id": "8519426"
+    },
+    {
+      "name": "Underground Villages",
+      "curseforge_id": 606989,
+      "version_id": "6722723"
+    },
+    {
+      "name": "Just Enough Breeding (JEBr)",
+      "curseforge_id": 899386,
+      "version_id": "8539619"
+    },
+    {
+      "name": "Refined Storage - Mekanism Integration",
+      "curseforge_id": 1230504,
+      "version_id": "7163500"
+    },
+    {
+      "name": "Apotheosis",
+      "curseforge_id": 313970,
+      "version_id": "8525273"
+    },
+    {
+      "name": "Cable Tiers",
+      "curseforge_id": 454382,
+      "version_id": "8401812"
+    },
+    {
+      "name": "Inventory Tweaks - ReFoxed",
+      "curseforge_id": 976858,
+      "version_id": "6407807"
+    },
+    {
+      "name": "FerriteCore ((Neo)Forge)",
+      "curseforge_id": 429235,
+      "version_id": "7524151"
+    },
+    {
+      "name": "Model Gap Fix",
+      "curseforge_id": 676136,
+      "version_id": "5591286"
+    },
+    {
+      "name": "Mama's Merrymaking - A Minecraft Christmas and Winter Holiday Mod",
+      "curseforge_id": 430867,
+      "version_id": "8186250"
+    },
+    {
+      "name": "Restrictions",
+      "curseforge_id": 282805,
+      "version_id": "6009445"
+    },
+    {
+      "name": "FastSuite",
+      "curseforge_id": 475117,
+      "version_id": "7527945"
+    },
+    {
+      "name": "Gravitational Modulating Additional Unit",
+      "curseforge_id": 656136,
+      "version_id": "6895172"
+    },
+    {
+      "name": "MSS - Moog's Soaring Structures",
+      "curseforge_id": 1040210,
+      "version_id": "8128062"
+    },
+    {
+      "name": "Deimos Lib",
+      "curseforge_id": 1158094,
+      "version_id": "8237493"
+    },
+    {
+      "name": "RFTools Builder",
+      "curseforge_id": 347706,
+      "version_id": "8256217"
+    },
+    {
+      "name": "Clean Swing Through Grass",
+      "curseforge_id": 915308,
+      "version_id": "6153780"
+    },
+    {
+      "name": "Charging Gadgets",
+      "curseforge_id": 399757,
+      "version_id": "5615790"
+    },
+    {
+      "name": "Rebind Narrator",
+      "curseforge_id": 296996,
+      "version_id": "7370951"
+    },
+    {
+      "name": "YUNG's Better Witch Huts (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+      "curseforge_id": 1015144,
+      "version_id": "5812532"
+    },
+    {
+      "name": "ShatterLib | OctoLib",
+      "curseforge_id": 916747,
+      "version_id": "8040848"
+    },
+    {
+      "name": "Cobblegen Galore",
+      "curseforge_id": 1108467,
+      "version_id": "8523192"
+    },
+    {
+      "name": "Time in a Bottle",
+      "curseforge_id": 895919,
+      "version_id": "7555622"
+    },
+    {
+      "name": "FTB Chunks (NeoForge)",
+      "curseforge_id": 314906,
+      "version_id": "8520252"
+    },
+    {
+      "name": "Valhelsia Core",
+      "curseforge_id": 416935,
+      "version_id": "6296775"
+    },
+    {
+      "name": "Cucumber Library",
+      "curseforge_id": 272335,
+      "version_id": "8035802"
+    },
+    {
+      "name": "YUNG's Better Jungle Temples (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+      "curseforge_id": 1015123,
+      "version_id": "5924482"
+    },
+    {
+      "name": "Advanced Peripherals",
+      "curseforge_id": 431725,
+      "version_id": "8228816"
+    },
+    {
+      "name": "Polymorph (Fabric/Forge/Quilt)",
+      "curseforge_id": 388800,
+      "version_id": "6794589"
+    },
+    {
+      "name": "Domum Ornamentum",
+      "curseforge_id": 527361,
+      "version_id": "8311478"
+    },
+    {
+      "name": "Comforts",
+      "curseforge_id": 276951,
+      "version_id": "7515858"
+    },
+    {
+      "name": "Just Enough Professions (JEP)",
+      "curseforge_id": 417645,
+      "version_id": "7966681"
+    },
+    {
+      "name": "Pam's HarvestCraft 2 - Food Extended",
+      "curseforge_id": 402231,
+      "version_id": "6221521"
+    },
+    {
+      "name": "More Dragon Eggs",
+      "curseforge_id": 358700,
+      "version_id": "5746086"
+    },
+    {
+      "name": "Spice of Life: Carrot Edition",
+      "curseforge_id": 277616,
+      "version_id": "7374098"
+    },
+    {
+      "name": "RFTools Utility",
+      "curseforge_id": 342466,
+      "version_id": "8256212"
+    },
+    {
+      "name": "Immersive Energistics",
+      "curseforge_id": 992377,
+      "version_id": "6131911"
+    },
+    {
+      "name": "Cupboard",
+      "curseforge_id": 326652,
+      "version_id": "8481114"
+    },
+    {
+      "name": "Sophisticated Backpacks",
+      "curseforge_id": 422301,
+      "version_id": "8503096"
+    },
+    {
+      "name": "Ars Technica",
+      "curseforge_id": 1096161,
+      "version_id": "7642730"
+    },
+    {
+      "name": "Refined Storage - Curios Integration",
+      "curseforge_id": 1230729,
+      "version_id": "6360514"
+    },
+    {
+      "name": "Macaw's Holidays",
+      "curseforge_id": 930232,
+      "version_id": "7304374"
+    },
+    {
+      "name": "Industrial Foregoing Souls",
+      "curseforge_id": 904394,
+      "version_id": "7441306"
+    },
+    {
+      "name": "Macaw's Roofs",
+      "curseforge_id": 352039,
+      "version_id": "6494399"
+    },
+    {
+      "name": "Macaw's Windows",
+      "curseforge_id": 363569,
+      "version_id": "7317672"
+    },
+    {
+      "name": "Productive Bees",
+      "curseforge_id": 377897,
+      "version_id": "8022994"
+    },
+    {
+      "name": "YUNG's Better Desert Temples (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+      "curseforge_id": 1015114,
+      "version_id": "6276955"
+    },
+    {
+      "name": "Enderman Overhaul",
+      "curseforge_id": 574409,
+      "version_id": "7661859"
+    },
+    {
+      "name": "RFTools Base",
+      "curseforge_id": 326041,
+      "version_id": "8256204"
+    },
+    {
+      "name": "Uranus",
+      "curseforge_id": 1010827,
+      "version_id": "8008516"
+    },
+    {
+      "name": "YUNG's Better Ocean Monuments (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+      "curseforge_id": 1015115,
+      "version_id": "5924487"
+    },
+    {
+      "name": "Hostile Neural Networks",
+      "curseforge_id": 552574,
+      "version_id": "8525006"
+    },
+    {
+      "name": "Bibliobiomes Legacy",
+      "curseforge_id": 1230590,
+      "version_id": "7577850"
+    },
+    {
+      "name": "Ars Elemancy",
+      "curseforge_id": 1153666,
+      "version_id": "8349780"
+    },
+    {
+      "name": "Corail Tombstone",
+      "curseforge_id": 243707,
+      "version_id": "8425866"
+    },
+    {
+      "name": "Macaw's Bridges",
+      "curseforge_id": 351725,
+      "version_id": "7627896"
+    },
+    {
+      "name": "YUNG's API (NeoForge) [1.20.4-1.21.1 ONLY]",
+      "curseforge_id": 1015100,
+      "version_id": "6715463"
+    },
+    {
+      "name": "MonoLib",
+      "curseforge_id": 968432,
+      "version_id": "8543133"
+    },
+    {
+      "name": "Cosmetic Armor Reworked",
+      "curseforge_id": 237307,
+      "version_id": "5610814"
+    },
+    {
+      "name": "RFTools Storage",
+      "curseforge_id": 350006,
+      "version_id": "8256218"
+    },
+    {
+      "name": "Mouse Tweaks",
+      "curseforge_id": 60089,
+      "version_id": "5637846"
+    },
+    {
+      "name": "Create",
+      "curseforge_id": 328085,
+      "version_id": "7963363"
+    },
+    {
+      "name": "Laser Bridges & Doors [Fabric/Forge/NeoForge]",
+      "curseforge_id": 776337,
+      "version_id": "7150038"
+    },
+    {
+      "name": "Observable",
+      "curseforge_id": 509575,
+      "version_id": "6697124"
+    },
+    {
+      "name": "Formations Nether",
+      "curseforge_id": 918840,
+      "version_id": "8451735"
+    },
+    {
+      "name": "Ranged Pumps",
+      "curseforge_id": 247496,
+      "version_id": "5508029"
+    },
+    {
+      "name": "Super Factory Manager ( SFM )",
+      "curseforge_id": 306935,
+      "version_id": "8370241"
+    },
+    {
+      "name": "Pam's HarvestCraft 2 - Crops",
+      "curseforge_id": 361385,
+      "version_id": "8064883"
+    },
+    {
+      "name": "Refined Storage",
+      "curseforge_id": 243076,
+      "version_id": "8211701"
+    },
+    {
+      "name": "Moog's Structure Lib (moogs_structures)",
+      "curseforge_id": 1337167,
+      "version_id": "8463709"
+    },
+    {
+      "name": "Jumpy Boats",
+      "curseforge_id": 542110,
+      "version_id": "5439938"
+    },
+    {
+      "name": "Iron Jetpacks",
+      "curseforge_id": 284497,
+      "version_id": "7105279"
+    },
+    {
+      "name": "Everything is Copper",
+      "curseforge_id": 579545,
+      "version_id": "6958511"
+    },
+    {
+      "name": "Colorwheel Patcher",
+      "curseforge_id": 1285475,
+      "version_id": "7924942"
+    },
+    {
+      "name": "ChoiceTheorem's Overhauled Village",
+      "curseforge_id": 623908,
+      "version_id": "7788733"
+    },
+    {
+      "name": "Lootr (Forge & NeoForge)",
+      "curseforge_id": 361276,
+      "version_id": "8428025"
+    },
+    {
+      "name": "Better Advancements",
+      "curseforge_id": 272515,
+      "version_id": "5850587"
+    },
+    {
+      "name": "The Aether",
+      "curseforge_id": 255308,
+      "version_id": "7043502"
+    },
+    {
+      "name": "All The Arcanist Gear",
+      "curseforge_id": 1094032,
+      "version_id": "6928639"
+    },
+    {
+      "name": "Placebo",
+      "curseforge_id": 283644,
+      "version_id": "8463693"
+    },
+    {
+      "name": "Structory: Towers",
+      "curseforge_id": 783522,
+      "version_id": "7842394"
+    },
+    {
+      "name": "Farmer's Delight",
+      "curseforge_id": 398521,
+      "version_id": "8083481"
+    },
+    {
+      "name": "Mekanism Generators",
+      "curseforge_id": 268566,
+      "version_id": "7904061"
+    },
+    {
+      "name": "Create: Dragons Plus",
+      "curseforge_id": 1216624,
+      "version_id": "8532254"
+    },
+    {
+      "name": "Smithing Template Viewer for JEI/EMI",
+      "curseforge_id": 1133580,
+      "version_id": "7452053"
+    },
+    {
+      "name": "StarbuncleMania",
+      "curseforge_id": 746215,
+      "version_id": "8243791"
+    },
+    {
+      "name": "ConnectedTexturesMod",
+      "curseforge_id": 267602,
+      "version_id": "5587515"
+    },
+    {
+      "name": "ExtendedAE",
+      "curseforge_id": 892005,
+      "version_id": "8511901"
+    },
+    {
+      "name": "Resourceful Config",
+      "curseforge_id": 714059,
+      "version_id": "6467772"
+    },
+    {
+      "name": "Brandon's Core",
+      "curseforge_id": 231382,
+      "version_id": "7130990"
+    },
+    {
+      "name": "AllTheCompressed",
+      "curseforge_id": 514045,
+      "version_id": "7361502"
+    },
+    {
+      "name": "AppleSkin",
+      "curseforge_id": 248787,
+      "version_id": "7854442"
+    },
+    {
+      "name": "FTB Teams (NeoForge)",
+      "curseforge_id": 404468,
+      "version_id": "7878281"
+    },
+    {
+      "name": "Fireproof Boats",
+      "curseforge_id": 830962,
+      "version_id": "6426055"
+    },
+    {
+      "name": "Waystones",
+      "curseforge_id": 245755,
+      "version_id": "8545676"
+    },
+    {
+      "name": "Sophisticated Storage",
+      "curseforge_id": 619320,
+      "version_id": "8503122"
+    },
+    {
+      "name": "Akashic Tome",
+      "curseforge_id": 250577,
+      "version_id": "7773841"
+    },
+    {
+      "name": "Iceberg [Neo/Forge]",
+      "curseforge_id": 520110,
+      "version_id": "6423863"
+    },
+    {
+      "name": "Artifacts",
+      "curseforge_id": 312353,
+      "version_id": "7875426"
+    },
+    {
+      "name": "Sophisticated Storage in Motion",
+      "curseforge_id": 1166930,
+      "version_id": "8434254"
+    },
+    {
+      "name": "Productive Trees",
+      "curseforge_id": 867074,
+      "version_id": "8190022"
+    },
+    {
+      "name": "Shrink.",
+      "curseforge_id": 426386,
+      "version_id": "6194054"
+    },
+    {
+      "name": "Wither Skeleton Tweaks",
+      "curseforge_id": 255902,
+      "version_id": "6751432"
+    },
+    {
+      "name": "Illager Warship",
+      "curseforge_id": 1091632,
+      "version_id": "6561660"
+    },
+    {
+      "name": "Bookshelf",
+      "curseforge_id": 228525,
+      "version_id": "7606240"
+    },
+    {
+      "name": "FTB Ultimine (NeoForge)",
+      "curseforge_id": 386134,
+      "version_id": "8231400"
+    },
+    {
+      "name": "Fzzy Config",
+      "curseforge_id": 1005914,
+      "version_id": "7568897"
+    },
+    {
+      "name": "FlickerFix",
+      "curseforge_id": 431430,
+      "version_id": "7413025"
+    },
+    {
+      "name": "ZeroCore 2",
+      "curseforge_id": 247921,
+      "version_id": "7344742"
+    },
+    {
+      "name": "Mama's Herbs and Harvest",
+      "curseforge_id": 1130473,
+      "version_id": "8459600"
+    },
+    {
+      "name": "Explorify – Dungeons & Structures",
+      "curseforge_id": 698309,
+      "version_id": "8082824"
+    },
+    {
+      "name": "FTB XMod Compat",
+      "curseforge_id": 889915,
+      "version_id": "8520191"
+    },
+    {
+      "name": "Xtones Reworked",
+      "curseforge_id": 694231,
+      "version_id": "7032490"
+    },
+    {
+      "name": "NetherPortalFix",
+      "curseforge_id": 241160,
+      "version_id": "5623547"
+    },
+    {
+      "name": "Ars Polymorphia",
+      "curseforge_id": 1197614,
+      "version_id": "6219409"
+    },
+    {
+      "name": "Explorer's Compass",
+      "curseforge_id": 491794,
+      "version_id": "7892943"
+    },
+    {
+      "name": "MmmMmmMmmMmm (Target Dummy)",
+      "curseforge_id": 225738,
+      "version_id": "8510632"
+    },
+    {
+      "name": "Scalable Cat's Force",
+      "curseforge_id": 320926,
+      "version_id": "6737240"
+    },
+    {
+      "name": "Stylecolonies",
+      "curseforge_id": 827507,
+      "version_id": "8422813"
+    },
+    {
+      "name": "Hardened Armadillos",
+      "curseforge_id": 1001266,
+      "version_id": "5939448"
+    },
+    {
+      "name": "Reliquified Artifacts",
+      "curseforge_id": 1100379,
+      "version_id": "8215303"
+    },
+    {
+      "name": "Just Zoom",
+      "curseforge_id": 561885,
+      "version_id": "6290230"
+    },
+    {
+      "name": "GeckoLib",
+      "curseforge_id": 388172,
+      "version_id": "8350073"
+    },
+    {
+      "name": "Chisel Reborn [Forge/Fabric/NeoForge]",
+      "curseforge_id": 551763,
+      "version_id": "8288925"
+    },
+    {
+      "name": "KubeJS Tweaks",
+      "curseforge_id": 1306367,
+      "version_id": "7516288"
+    },
+    {
+      "name": "Dis-Enchanting Table",
+      "curseforge_id": 933354,
+      "version_id": "6581607"
+    },
+    {
+      "name": "Torchmaster",
+      "curseforge_id": 254268,
+      "version_id": "7197218"
+    },
+    {
+      "name": "Extreme Reactors",
+      "curseforge_id": 250277,
+      "version_id": "7344744"
+    },
+    {
+      "name": "Colorwheel",
+      "curseforge_id": 1254143,
+      "version_id": "8206645"
+    },
+    {
+      "name": "FramedBlocks",
+      "curseforge_id": 441647,
+      "version_id": "8349218"
+    },
+    {
+      "name": "Ars Nouveau",
+      "curseforge_id": 401955,
+      "version_id": "8517890"
+    },
+    {
+      "name": "Mob Grinding Utils",
+      "curseforge_id": 254241,
+      "version_id": "6804869"
+    },
+    {
+      "name": "Railcraft Reborn",
+      "curseforge_id": 901491,
+      "version_id": "7393678"
+    },
+    {
+      "name": "Functional Storage",
+      "curseforge_id": 556861,
+      "version_id": "8459097"
+    },
+    {
+      "name": "FTB Quests (NeoForge)",
+      "curseforge_id": 289412,
+      "version_id": "8534556"
+    },
+    {
+      "name": "Macaw's Doors",
+      "curseforge_id": 378646,
+      "version_id": "7618651"
+    },
+    {
+      "name": "Common Capabilities",
+      "curseforge_id": 247007,
+      "version_id": "8469575"
+    },
+    {
+      "name": "Just Enough Items (JEI)",
+      "curseforge_id": 238222,
+      "version_id": "8555356"
+    },
+    {
+      "name": "AEInfinityBooster",
+      "curseforge_id": 559313,
+      "version_id": "8377914"
+    },
+    {
+      "name": "LaserIO",
+      "curseforge_id": 626839,
+      "version_id": "5730007"
+    },
+    {
+      "name": "playerAnimator",
+      "curseforge_id": 658587,
+      "version_id": "7389814"
+    },
+    {
+      "name": "Cristel Lib",
+      "curseforge_id": 856996,
+      "version_id": "8241767"
+    },
+    {
+      "name": "EnderDrives",
+      "curseforge_id": 1226739,
+      "version_id": "7033446"
+    },
+    {
+      "name": "Pylons",
+      "curseforge_id": 518211,
+      "version_id": "7589396"
+    },
+    {
+      "name": "YUNG's Better End Island (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+      "curseforge_id": 1015127,
+      "version_id": "6300968"
+    },
+    {
+      "name": "Flux Networks",
+      "curseforge_id": 248020,
+      "version_id": "6089446"
+    },
+    {
+      "name": "Generator Galore",
+      "curseforge_id": 691049,
+      "version_id": "6799851"
+    },
+    {
+      "name": "IceAndFire Community Edition",
+      "curseforge_id": 1040076,
+      "version_id": "8147245"
+    },
+    {
+      "name": "More Red x CC:Tweaked Compat",
+      "curseforge_id": 867286,
+      "version_id": "6165477"
+    },
+    {
+      "name": "Universal Grid",
+      "curseforge_id": 536160,
+      "version_id": "8145488"
+    },
+    {
+      "name": "Hey Berry! SHUT UP",
+      "curseforge_id": 634227,
+      "version_id": "5517177"
+    },
+    {
+      "name": "Oh The Trees You'll Grow",
+      "curseforge_id": 962544,
+      "version_id": "8096180"
+    },
+    {
+      "name": "NeoAuth",
+      "curseforge_id": 1140741,
+      "version_id": "7069504"
+    },
+    {
+      "name": "Quests Lang Splitter",
+      "curseforge_id": 1326856,
+      "version_id": "8553627"
+    },
+    {
+      "name": "Dark Mode Everywhere",
+      "curseforge_id": 574123,
+      "version_id": "8345670"
+    },
+    {
+      "name": "Lionfish API",
+      "curseforge_id": 1001614,
+      "version_id": "8345326"
+    },
+    {
+      "name": "Titanium",
+      "curseforge_id": 287342,
+      "version_id": "8426819"
+    },
+    {
+      "name": "Extreme sound muffler - (Neo)Forge",
+      "curseforge_id": 363363,
+      "version_id": "7895926"
+    },
+    {
+      "name": "Apothic Attributes",
+      "curseforge_id": 898963,
+      "version_id": "8502288"
+    },
+    {
+      "name": "AE2: Crafting Tree",
+      "curseforge_id": 1086241,
+      "version_id": "7182163"
+    },
+    {
+      "name": "Sussy Sniffers",
+      "curseforge_id": 1083346,
+      "version_id": "6679817"
+    },
+    {
+      "name": "Creeper Overhaul",
+      "curseforge_id": 561625,
+      "version_id": "6051279"
+    },
+    {
+      "name": "Construction Sticks",
+      "curseforge_id": 1156098,
+      "version_id": "8287281"
+    },
+    {
+      "name": "Connectivity",
+      "curseforge_id": 470193,
+      "version_id": "7367221"
+    },
+    {
+      "name": "Open Loader",
+      "curseforge_id": 354339,
+      "version_id": "6546293"
+    },
+    {
+      "name": "ExtraStorage",
+      "curseforge_id": 410168,
+      "version_id": "8330353"
+    },
+    {
+      "name": "Entangled",
+      "curseforge_id": 301034,
+      "version_id": "7783144"
+    },
+    {
+      "name": "Modular Bees",
+      "curseforge_id": 1350380,
+      "version_id": "8363289"
+    },
+    {
+      "name": "Item Collectors",
+      "curseforge_id": 395620,
+      "version_id": "5550187"
+    },
+    {
+      "name": "Fusion (Connected Textures)",
+      "curseforge_id": 854949,
+      "version_id": "8536618"
+    },
+    {
+      "name": "Bad Wither No Cookie - Reloaded",
+      "curseforge_id": 261251,
+      "version_id": "8135209"
+    },
+    {
+      "name": "Not Enough Animations",
+      "curseforge_id": 433760,
+      "version_id": "8274908"
+    },
+    {
+      "name": "Structory",
+      "curseforge_id": 636540,
+      "version_id": "8396883"
+    },
+    {
+      "name": "Glodium",
+      "curseforge_id": 957920,
+      "version_id": "5821676"
+    },
+    {
+      "name": "Oritech",
+      "curseforge_id": 1030830,
+      "version_id": "8556549"
+    },
+    {
+      "name": "Omega Config",
+      "curseforge_id": 558000,
+      "version_id": "6857924"
+    },
+    {
+      "name": "Towns and Towers",
+      "curseforge_id": 626761,
+      "version_id": "8130049"
+    },
+    {
+      "name": "Modern Dynamics",
+      "curseforge_id": 552758,
+      "version_id": "6787236"
+    },
+    {
+      "name": "Immersive Engineering",
+      "curseforge_id": 231951,
+      "version_id": "6733669"
+    },
+    {
+      "name": "Moonlight Lib",
+      "curseforge_id": 499980,
+      "version_id": "8510630"
+    },
+    {
+      "name": "L_Ender 's Cataclysm",
+      "curseforge_id": 551586,
+      "version_id": "8364209"
+    },
+    {
+      "name": "Redstone Pen",
+      "curseforge_id": 461710,
+      "version_id": "6102752"
+    },
+    {
+      "name": "More Red",
+      "curseforge_id": 387638,
+      "version_id": "5763286"
+    },
+    {
+      "name": "XNet",
+      "curseforge_id": 260912,
+      "version_id": "8256226"
+    },
+    {
+      "name": "XyCraft",
+      "curseforge_id": 653786,
+      "version_id": "6872525"
+    },
+    {
+      "name": "Oracle Index",
+      "curseforge_id": 1206582,
+      "version_id": "8414532"
+    },
+    {
+      "name": "Compact Machines",
+      "curseforge_id": 224218,
+      "version_id": "7621553"
+    },
+    {
+      "name": "Fuel Goes Here",
+      "curseforge_id": 659090,
+      "version_id": "6003423"
+    },
+    {
+      "name": "CreeperHost Presents Steve's Carts",
+      "curseforge_id": 551524,
+      "version_id": "7368915"
+    },
+    {
+      "name": "Tempad",
+      "curseforge_id": 514923,
+      "version_id": "6517779"
+    },
+    {
+      "name": "Oh The Biomes We've Gone",
+      "curseforge_id": 1070751,
+      "version_id": "8245253"
+    },
+    {
+      "name": "SuperMartijn642's Core Lib",
+      "curseforge_id": 454372,
+      "version_id": "8526794"
+    },
+    {
+      "name": "FastFurnace",
+      "curseforge_id": 299540,
+      "version_id": "6751551"
+    },
+    {
+      "name": "In Control!",
+      "curseforge_id": 257356,
+      "version_id": "7436215"
+    },
+    {
+      "name": "Building Gadgets",
+      "curseforge_id": 298187,
+      "version_id": "6850515"
+    },
+    {
+      "name": "AE2 JEI Integration",
+      "curseforge_id": 1074338,
+      "version_id": "7727898"
+    },
+    {
+      "name": "Lithostitched",
+      "curseforge_id": 936015,
+      "version_id": "8378498"
+    },
+    {
+      "name": "Factory Blocks [Forge/Fabric/NeoForge]",
+      "curseforge_id": 640001,
+      "version_id": "6266334"
+    },
+    {
+      "name": "AE2 Network Analyser",
+      "curseforge_id": 961856,
+      "version_id": "7622554"
+    },
+    {
+      "name": "Eternal Starlight",
+      "curseforge_id": 1080592,
+      "version_id": "8109479"
+    },
+    {
+      "name": "Simple Magnets",
+      "curseforge_id": 394140,
+      "version_id": "6316527"
+    },
+    {
+      "name": "Security Craft",
+      "curseforge_id": 64760,
+      "version_id": "8336498"
+    },
+    {
+      "name": "Create Crafts & Additions",
+      "curseforge_id": 439890,
+      "version_id": "8188476"
+    },
+    {
+      "name": "Get It Together, Drops!",
+      "curseforge_id": 411045,
+      "version_id": "6775278"
+    },
+    {
+      "name": "PolyLib",
+      "curseforge_id": 576589,
+      "version_id": "7140477"
+    },
+    {
+      "name": "MineColonies",
+      "curseforge_id": 245506,
+      "version_id": "8537675"
+    },
+    {
+      "name": "Roots Classic",
+      "curseforge_id": 295780,
+      "version_id": "7886347"
+    },
+    {
+      "name": "Utility Vest",
+      "curseforge_id": 1284144,
+      "version_id": "8059165"
+    },
+    {
+      "name": "Mekanistic Routers",
+      "curseforge_id": 1148201,
+      "version_id": "7511369"
+    },
+    {
+      "name": "FancyMenu",
+      "curseforge_id": 367706,
+      "version_id": "8544949"
+    },
+    {
+      "name": "Connected Glass",
+      "curseforge_id": 383129,
+      "version_id": "6811960"
+    },
+    {
+      "name": "ImmediatelyFast",
+      "curseforge_id": 686911,
+      "version_id": "8348515"
+    },
+    {
+      "name": "MakeUp - Ultra Fast | Shaders",
+      "curseforge_id": 431203,
+      "version_id": "8330757"
+    },
+    {
+      "name": "Additional Lights",
+      "curseforge_id": 384991,
+      "version_id": "6841545"
+    },
+    {
+      "name": "Cloth Config API (Fabric/Forge/NeoForge)",
+      "curseforge_id": 348521,
+      "version_id": "5729127"
+    },
+    {
+      "name": "When Dungeons Arise - Forge!",
+      "curseforge_id": 442508,
+      "version_id": "7150870"
+    },
+    {
+      "name": "YetAnotherConfigLib",
+      "curseforge_id": 667299,
+      "version_id": "7437845"
+    },
+    {
+      "name": "Applied Energistics 2 Wireless Terminals",
+      "curseforge_id": 459929,
+      "version_id": "8450398"
+    },
+    {
+      "name": "Crash Assistant",
+      "curseforge_id": 1154099,
+      "version_id": "8422746"
+    },
+    {
+      "name": "XyCraft: Machines",
+      "curseforge_id": 653791,
+      "version_id": "6872530"
+    },
+    {
+      "name": "Applied Energistics 2",
+      "curseforge_id": 223794,
+      "version_id": "7027323"
+    },
+    {
+      "name": "Energy Meter",
+      "curseforge_id": 532169,
+      "version_id": "8539110"
+    },
+    {
+      "name": "Jonn's Trophies",
+      "curseforge_id": 510170,
+      "version_id": "8274338"
+    },
+    {
+      "name": "Pam's HarvestCraft 2 - Food Core",
+      "curseforge_id": 372534,
+      "version_id": "6919485"
+    },
+    {
+      "name": "Iron Furnaces",
+      "curseforge_id": 237664,
+      "version_id": "7034259"
+    },
+    {
+      "name": "AE2 Import Export Card",
+      "curseforge_id": 982512,
+      "version_id": "8033654"
+    },
+    {
+      "name": "MES - Moog's End Structures",
+      "curseforge_id": 892382,
+      "version_id": "8128039"
+    },
+    {
+      "name": "Sophisticated Core",
+      "curseforge_id": 618298,
+      "version_id": "8503041"
+    },
+    {
+      "name": "Byzantine Styles Pack for Minecolonies",
+      "curseforge_id": 974855,
+      "version_id": "8111937"
+    },
+    {
+      "name": "Draconic Evolution",
+      "curseforge_id": 223565,
+      "version_id": "7584459"
+    },
+    {
+      "name": "Additional Enchanted Miner",
+      "curseforge_id": 282837,
+      "version_id": "8381464"
+    },
+    {
+      "name": "Chipped",
+      "curseforge_id": 456956,
+      "version_id": "5813117"
+    },
+    {
+      "name": "Memory Settings",
+      "curseforge_id": 526901,
+      "version_id": "7934534"
+    },
+    {
+      "name": "Cryonic Config",
+      "curseforge_id": 1208896,
+      "version_id": "7344729"
+    },
+    {
+      "name": "Rainbows!",
+      "curseforge_id": 1121832,
+      "version_id": "6416604"
+    },
+    {
+      "name": "Storage Delight (Forge & Neoforge)",
+      "curseforge_id": 979761,
+      "version_id": "8390991"
+    },
+    {
+      "name": "Prickle",
+      "curseforge_id": 1023259,
+      "version_id": "6961457"
+    },
+    {
+      "name": "Ender IO",
+      "curseforge_id": 64578,
+      "version_id": "8192838"
+    },
+    {
+      "name": "FastWorkbench",
+      "curseforge_id": 288885,
+      "version_id": "6751534"
+    }
+  ],
+  "extras_url": "https://drive.google.com/file/d/1bKj2vhs_hQ2hxDiTw06xHBAHbbPBJHp6/view?usp=sharing",
+  "extras_version": 1
+}
