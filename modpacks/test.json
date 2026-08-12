@@ -10,7 +10,7 @@
     {
       "name": "Sodium",
       "curseforge_id": 394468,
-      "version_id": "8591742"
+      "version_id": "8396428"
     },
     {
       "name": "Fabric API",
@@ -34,6 +34,32 @@
   ],
   "description": "MODPACK DE TESTEO",
   "changelog": [
+    {
+      "date": "2026-08-12T01:50:36.109Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "1 actualizados",
+      "changes": [
+        "~ Sodium (8591742 → 8396428)"
+      ],
+      "cambios": {
+        "agregados": [],
+        "quitados": [],
+        "actualizados": [
+          {
+            "nombre": "Sodium",
+            "lista": "mods",
+            "clave": "c:394468",
+            "de": "8591742",
+            "a": "8396428"
+          }
+        ],
+        "campos": [],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-08-12T01:49:48.922Z",
       "version": "1.0.0",
