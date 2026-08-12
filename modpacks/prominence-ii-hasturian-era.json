@@ -3817,8 +3817,30 @@
     }
   ],
   "extras_url": "https://drive.google.com/file/d/1AZarH1V-BrwHTpxP2hw0Dk1LqROsz9gz/view?usp=sharing",
-  "extras_version": 1,
+  "extras_version": 2,
   "changelog": [
+    {
+      "date": "2026-08-12T04:33:49.814Z",
+      "version": "v4.0.0",
+      "author": "Martion000",
+      "resumen": "configs",
+      "changes": [
+        "~ Configs actualizados"
+      ],
+      "cambios": {
+        "agregados": [],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": {
+          "de": 1,
+          "a": 2,
+          "primeraVez": false
+        },
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-08-12T03:40:22.909Z",
       "version": "v4.0.0",
