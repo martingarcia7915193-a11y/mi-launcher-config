@@ -13,17 +13,70 @@
       "version_id": "8591742"
     },
     {
-      "name": "(Sodium) Chloride",
-      "curseforge_id": 931925,
-      "version_id": "8468849"
-    },
-    {
       "name": "Fabric API",
       "curseforge_id": 306612
+    },
+    {
+      "name": "Just Enough Items (JEI)",
+      "curseforge_id": 238222,
+      "version_id": "8625300"
+    },
+    {
+      "name": "Mouse Tweaks",
+      "curseforge_id": 60089,
+      "version_id": "8260318"
+    },
+    {
+      "name": "AppleSkin",
+      "curseforge_id": 248787,
+      "version_id": "8271985"
     }
   ],
   "description": "MODPACK DE TESTEO",
   "changelog": [
+    {
+      "date": "2026-08-12T01:49:48.922Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+3 · −1",
+      "changes": [
+        "+ Just Enough Items (JEI)",
+        "+ Mouse Tweaks",
+        "+ AppleSkin",
+        "− (Sodium) Chloride"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Just Enough Items (JEI)",
+            "lista": "mods",
+            "clave": "c:238222"
+          },
+          {
+            "nombre": "Mouse Tweaks",
+            "lista": "mods",
+            "clave": "c:60089"
+          },
+          {
+            "nombre": "AppleSkin",
+            "lista": "mods",
+            "clave": "c:248787"
+          }
+        ],
+        "quitados": [
+          {
+            "nombre": "(Sodium) Chloride",
+            "lista": "mods",
+            "clave": "c:931925"
+          }
+        ],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 4,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-08-12T01:49:01.744Z",
       "version": "1.0.0",
