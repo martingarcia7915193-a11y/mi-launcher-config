@@ -1746,12 +1746,6 @@
       "version": "Fabric-1.20.1-6.19"
     },
     {
-      "name": "Drippy Loading Screen",
-      "curseforge_id": 511770,
-      "version_id": "8552901",
-      "version": "[Fabric] v3.1.5 MC 1.20.1"
-    },
-    {
       "name": "Boat Item View",
       "curseforge_id": 482160,
       "version_id": "4590983",
@@ -3825,6 +3819,30 @@
   "extras_url": "https://drive.google.com/file/d/1AZarH1V-BrwHTpxP2hw0Dk1LqROsz9gz/view?usp=sharing",
   "extras_version": 1,
   "changelog": [
+    {
+      "date": "2026-08-12T03:40:22.909Z",
+      "version": "v4.0.0",
+      "author": "Martion000",
+      "resumen": "−1",
+      "changes": [
+        "− Drippy Loading Screen"
+      ],
+      "cambios": {
+        "agregados": [],
+        "quitados": [
+          {
+            "nombre": "Drippy Loading Screen",
+            "lista": "mods",
+            "clave": "c:511770"
+          }
+        ],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-08-12T03:36:50.412Z",
       "version": "v4.0.0",
