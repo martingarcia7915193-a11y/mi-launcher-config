@@ -20,15 +20,39 @@
     {
       "name": "Fabric API",
       "curseforge_id": 306612
-    },
-    {
-      "name": "Xaero's World Map",
-      "curseforge_id": 317780
-    },
-    {
-      "name": "Xaero's Minimap",
-      "curseforge_id": 263420
     }
   ],
-  "description": "MODPACK DE TESTEO"
+  "description": "MODPACK DE TESTEO",
+  "changelog": [
+    {
+      "date": "2026-08-12T01:49:01.744Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "−2",
+      "changes": [
+        "− Xaero's World Map",
+        "− Xaero's Minimap"
+      ],
+      "cambios": {
+        "agregados": [],
+        "quitados": [
+          {
+            "nombre": "Xaero's World Map",
+            "lista": "mods",
+            "clave": "c:317780"
+          },
+          {
+            "nombre": "Xaero's Minimap",
+            "lista": "mods",
+            "clave": "c:263420"
+          }
+        ],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 2,
+        "hayCambios": true
+      }
+    }
+  ]
 }
