@@ -1,0 +1,486 @@
+{
+  "id": "diosesmon-oficial-pro",
+  "name": "Diosesmon Oficial - Pro",
+  "version": "1.0.7",
+  "minecraft_version": "1.21.1",
+  "modloader": "fabric",
+  "category": "oficiales",
+  "modloader_version": "0.19.2",
+  "override_mod_files": [
+    "cobblemon-additions-4.3.0.jar",
+    "JeiTweaker-fabric-1.21.1-8.0.jar",
+    "togglenametags-2.1.1.jar"
+  ],
+  "mods": [
+    {
+      "name": "Cinematic Zoom (Fabric)",
+      "curseforge_id": 1322972,
+      "version_id": "7770709"
+    },
+    {
+      "name": "GeckoLib",
+      "curseforge_id": 388172,
+      "version_id": "7707138"
+    },
+    {
+      "name": "Falling Leaves (Fabric)",
+      "curseforge_id": 417510,
+      "version_id": "6835273"
+    },
+    {
+      "name": "Cobblemon Battle Extras",
+      "curseforge_id": 1396525,
+      "version_id": "7968868"
+    },
+    {
+      "name": "Accessories",
+      "curseforge_id": 938917,
+      "version_id": "7583323"
+    },
+    {
+      "name": "Language Reload",
+      "curseforge_id": 527334,
+      "version_id": "7805852"
+    },
+    {
+      "name": "Item Borders [Fabric]",
+      "curseforge_id": 541604,
+      "version_id": "5591003"
+    },
+    {
+      "name": "Presence Footsteps",
+      "curseforge_id": 334259,
+      "version_id": "5956107"
+    },
+    {
+      "name": "Patchouli (Fabric/Quilt)",
+      "curseforge_id": 393236,
+      "version_id": "7730941"
+    },
+    {
+      "name": "Visuality",
+      "curseforge_id": 521126,
+      "version_id": "5537576"
+    },
+    {
+      "name": "Complementary Shaders - Unbound",
+      "curseforge_id": 385587,
+      "version_id": "6137622"
+    },
+    {
+      "name": "E19 - Cobblemon Minimap Icons",
+      "curseforge_id": 958737,
+      "version_id": "7585194"
+    },
+    {
+      "name": "Smart Particles",
+      "curseforge_id": 1420751,
+      "version_id": "7469319"
+    },
+    {
+      "name": "Very Many Players (Fabric)",
+      "curseforge_id": 552542,
+      "version_id": "6422133"
+    },
+    {
+      "name": "Dynamic Lighting (Entities)",
+      "curseforge_id": 1426436,
+      "version_id": "7447078"
+    },
+    {
+      "name": "Navas ZA Megas",
+      "curseforge_id": 1452045,
+      "version_id": "7961235"
+    },
+    {
+      "name": "Perception",
+      "curseforge_id": 1112793,
+      "version_id": "7761240"
+    },
+    {
+      "name": "AmbientSounds 6",
+      "curseforge_id": 254284,
+      "version_id": "7976554"
+    },
+    {
+      "name": "Chat Animation [Smooth Chat]",
+      "curseforge_id": 892086,
+      "version_id": "7325661"
+    },
+    {
+      "name": "Cobblemon: Mega Showdown",
+      "curseforge_id": 1189523,
+      "version_id": "7961213"
+    },
+    {
+      "name": "Fresh Animations: Player Extension",
+      "curseforge_id": 1281029,
+      "version_id": "7420591"
+    },
+    {
+      "name": "Mouse Tweaks",
+      "curseforge_id": 60089,
+      "version_id": "5437294"
+    },
+    {
+      "name": "Xaero's World Map",
+      "curseforge_id": 317780,
+      "version_id": "7598489"
+    },
+    {
+      "name": "ImmediatelyFast",
+      "curseforge_id": 686911,
+      "version_id": "7537793"
+    },
+    {
+      "name": "MoreCobblemonTweaks",
+      "curseforge_id": 1082538,
+      "version_id": "7593364"
+    },
+    {
+      "name": "Fabric API",
+      "curseforge_id": 306612,
+      "version_id": "7929986"
+    },
+    {
+      "name": "[EMF] Entity Model Features [Fabric & Forge]",
+      "curseforge_id": 844662,
+      "version_id": "7998619"
+    },
+    {
+      "name": "CobbleFurnies",
+      "curseforge_id": 1188698,
+      "version_id": "7969053"
+    },
+    {
+      "name": "Borderless Fullscreen",
+      "curseforge_id": 1483468,
+      "version_id": "7743327"
+    },
+    {
+      "name": "Entity Culling Fabric/Forge",
+      "curseforge_id": 448233,
+      "version_id": "7900083"
+    },
+    {
+      "name": "Cobblemon Challenge",
+      "curseforge_id": 908215,
+      "version_id": "7251947"
+    },
+    {
+      "name": "Sodium",
+      "curseforge_id": 394468,
+      "version_id": "6382649"
+    },
+    {
+      "name": "Immersive UI",
+      "curseforge_id": 1021685,
+      "version_id": "6886573"
+    },
+    {
+      "name": "Sodium Extra",
+      "curseforge_id": 447673,
+      "version_id": "5913375"
+    },
+    {
+      "name": "Advanced Wall Climber API",
+      "curseforge_id": 1425144,
+      "version_id": "7445069"
+    },
+    {
+      "name": "SharpFonts [48x] (GUI Scale Dependant)",
+      "curseforge_id": 1360298,
+      "version_id": "7183245"
+    },
+    {
+      "name": "BadOptimizations",
+      "curseforge_id": 949555,
+      "version_id": "7338300"
+    },
+    {
+      "name": "Inventory Particles",
+      "curseforge_id": 1339689,
+      "version_id": "8016550"
+    },
+    {
+      "name": "Diosesmon Client",
+      "curseforge_id": 1584387,
+      "version_id": "8594330"
+    },
+    {
+      "name": "Better Third Person",
+      "curseforge_id": 435044,
+      "version_id": "5439141"
+    },
+    {
+      "name": "MossyLib",
+      "curseforge_id": 1399257,
+      "version_id": "7438818"
+    },
+    {
+      "name": "oωo (owo-lib)",
+      "curseforge_id": 532610,
+      "version_id": "6446006"
+    },
+    {
+      "name": "ShatterLib | OctoLib",
+      "curseforge_id": 916747,
+      "version_id": "7724004"
+    },
+    {
+      "name": "Xaero's Minimap",
+      "curseforge_id": 263420,
+      "version_id": "7598600"
+    },
+    {
+      "name": "Cobblemon Pokenav",
+      "curseforge_id": 976014,
+      "version_id": "7940648"
+    },
+    {
+      "name": "Lithium (Fabric/NeoForge)",
+      "curseforge_id": 360438,
+      "version_id": "7740401"
+    },
+    {
+      "name": "MoreCulling",
+      "curseforge_id": 630104,
+      "version_id": "7748851"
+    },
+    {
+      "name": "Jade 🔍",
+      "curseforge_id": 324717,
+      "version_id": "7545228"
+    },
+    {
+      "name": "Cobblemon Trials Edition",
+      "curseforge_id": 1395542,
+      "version_id": "7985975"
+    },
+    {
+      "name": "Perspective Nametag",
+      "curseforge_id": 1499392,
+      "version_id": "7844154"
+    },
+    {
+      "name": "[ETF] Entity Texture Features - [Fabric & Forge]",
+      "curseforge_id": 568563,
+      "version_id": "7930621"
+    },
+    {
+      "name": "CreativeCore",
+      "curseforge_id": 257814,
+      "version_id": "7976316"
+    },
+    {
+      "name": "ModernFix",
+      "curseforge_id": 790626,
+      "version_id": "7200210"
+    },
+    {
+      "name": "FerriteCore (Fabric)",
+      "curseforge_id": 459857,
+      "version_id": "7524152"
+    },
+    {
+      "name": "Cobblemon Poképedia: Cobblepedia",
+      "curseforge_id": 850946,
+      "version_id": "7272043"
+    },
+    {
+      "name": "Diosesmon CobbleDollar",
+      "curseforge_id": 1577349,
+      "version_id": "8256767"
+    },
+    {
+      "name": "CraftTweaker",
+      "curseforge_id": 239197,
+      "version_id": "7772818"
+    },
+    {
+      "name": "Cobblemon Interface: Modded",
+      "curseforge_id": 989454,
+      "version_id": "7057797"
+    },
+    {
+      "name": "Subtle Effects",
+      "curseforge_id": 1023913,
+      "version_id": "8008311"
+    },
+    {
+      "name": "Reese's Sodium Options",
+      "curseforge_id": 511319,
+      "version_id": "6091019"
+    },
+    {
+      "name": "Cobblemon Recall Beams [Cobblemon Sidemod]",
+      "curseforge_id": 1215876,
+      "version_id": "6279344"
+    },
+    {
+      "name": "Cobblemon",
+      "curseforge_id": 687131,
+      "version_id": "7553235"
+    },
+    {
+      "name": "Architectury API",
+      "curseforge_id": 419699,
+      "version_id": "5786326"
+    },
+    {
+      "name": "Cobblemon Fight or Flight Reborn",
+      "curseforge_id": 1168140,
+      "version_id": "7633835"
+    },
+    {
+      "name": "Mod Menu",
+      "curseforge_id": 308702,
+      "version_id": "7808443"
+    },
+    {
+      "name": "Jade Addons (Fabric)",
+      "curseforge_id": 656665,
+      "version_id": "5831234"
+    },
+    {
+      "name": "Emotecraft (Fabric)",
+      "curseforge_id": 397809,
+      "version_id": "6941988"
+    },
+    {
+      "name": "Forge Config API Port",
+      "curseforge_id": 547434,
+      "version_id": "7213608"
+    },
+    {
+      "name": "Shulker Box Tooltip [Fabric/Forge/NeoForge]",
+      "curseforge_id": 315811,
+      "version_id": "7768282"
+    },
+    {
+      "name": "Fzzy Config",
+      "curseforge_id": 1005914,
+      "version_id": "7568948"
+    },
+    {
+      "name": "Punchy! - First person animations",
+      "curseforge_id": 1374153,
+      "version_id": "8059479"
+    },
+    {
+      "name": "Text Placeholder API",
+      "curseforge_id": 1037459,
+      "version_id": "6131327"
+    },
+    {
+      "name": "Packet Fixer",
+      "curseforge_id": 689467,
+      "version_id": "7221528"
+    },
+    {
+      "name": "Sound Physics Remastered",
+      "curseforge_id": 535489,
+      "version_id": "7032249"
+    },
+    {
+      "name": "Complete Cobblemon Collection",
+      "curseforge_id": 1258311,
+      "version_id": "7757558"
+    },
+    {
+      "name": "Item Zoomer",
+      "curseforge_id": 1233458,
+      "version_id": "7421997"
+    },
+    {
+      "name": "Too Many Entities",
+      "curseforge_id": 1061284,
+      "version_id": "6698287"
+    },
+    {
+      "name": "No Chat Reports",
+      "curseforge_id": 634062,
+      "version_id": "5885733"
+    },
+    {
+      "name": "Cobblemon Size Variations",
+      "curseforge_id": 1190578,
+      "version_id": "7257645"
+    },
+    {
+      "name": "Athena",
+      "curseforge_id": 841890,
+      "version_id": "6669523"
+    },
+    {
+      "name": "Fabric Language Kotlin",
+      "curseforge_id": 308769,
+      "version_id": "7976268"
+    },
+    {
+      "name": "Prism [Fabric]",
+      "curseforge_id": 665526,
+      "version_id": "6372978"
+    },
+    {
+      "name": "Bobby",
+      "curseforge_id": 409301,
+      "version_id": "8417480"
+    },
+    {
+      "name": "Fast IP Ping",
+      "curseforge_id": 904356,
+      "version_id": "7936357"
+    },
+    {
+      "name": "Iceberg [Fabric]",
+      "curseforge_id": 539382,
+      "version_id": "6423860"
+    },
+    {
+      "name": "Iris Shaders",
+      "curseforge_id": 455508,
+      "version_id": "6213635"
+    },
+    {
+      "name": "Cobblemon Interface",
+      "curseforge_id": 860898,
+      "version_id": "7220886"
+    },
+    {
+      "name": "Chat Heads",
+      "curseforge_id": 407206,
+      "version_id": "7875232"
+    },
+    {
+      "name": "Cloth Config API (Fabric/Forge/NeoForge)",
+      "curseforge_id": 348521,
+      "version_id": "5729125"
+    },
+    {
+      "name": "Just Enough Items (JEI)",
+      "curseforge_id": 238222,
+      "version_id": "7420583"
+    },
+    {
+      "name": "Too Many Players",
+      "curseforge_id": 663273,
+      "version_id": "5646558"
+    },
+    {
+      "name": "SimpleTMs: TMs and TRs for Cobblemon",
+      "curseforge_id": 959184,
+      "version_id": "7319642"
+    },
+    {
+      "name": "Smooth Swapping",
+      "curseforge_id": 513689,
+      "version_id": "7274624"
+    },
+    {
+      "name": "Krypton",
+      "curseforge_id": 428912,
+      "version_id": "5460550"
+    }
+  ]
+}
