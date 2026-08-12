@@ -3815,5 +3815,31 @@
       "version_id": "4410962",
       "version": "1.1.0"
     }
+  ],
+  "extras_url": "https://drive.google.com/file/d/1-z12NRZ1TH7STBApuB6nENY9BV7ZhOcs/view?usp=sharing",
+  "extras_version": 1,
+  "changelog": [
+    {
+      "date": "2026-08-12T02:18:09.784Z",
+      "version": "v4.0.0",
+      "author": "Martion000",
+      "resumen": "configs",
+      "changes": [
+        "~ Configs actualizados"
+      ],
+      "cambios": {
+        "agregados": [],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": {
+          "de": null,
+          "a": 1,
+          "primeraVez": true
+        },
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    }
   ]
 }
