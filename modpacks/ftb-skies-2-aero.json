@@ -6,7 +6,7 @@
   "modloader": "neoforge",
   "category": "oficiales",
   "modloader_version": "21.1.248",
-  "description": "Importado de curseforge. Autor: FTB Team",
+  "description": "Importado de curseforge. Autor: FTB Team\n\nrobado por el marto",
   "tienda": {
     "origen": "curseforge",
     "curseforge_id": 1611302,
@@ -2833,6 +2833,29 @@
   "extras_url": "https://drive.google.com/file/d/12Fk6TQ2L0yg_JTPQF_IG3ksenoIv5n2M/view?usp=sharing",
   "extras_version": 1,
   "changelog": [
+    {
+      "date": "2026-08-13T03:17:01.149Z",
+      "version": "1.6.0",
+      "author": "Martion000",
+      "resumen": "1 datos",
+      "changes": [],
+      "cambios": {
+        "agregados": [],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [
+          {
+            "campo": "description",
+            "nombre": "descripción",
+            "de": "Importado de curseforge. Autor: FTB Team",
+            "a": "Importado de curseforge. Autor: FTB Team\n\nrobado por el marto"
+          }
+        ],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-08-13T02:44:39.052Z",
       "version": "1.6.0",
