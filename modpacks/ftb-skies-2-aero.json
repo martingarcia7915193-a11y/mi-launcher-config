@@ -2828,11 +2828,41 @@
       "curseforge_id": 532169,
       "version_id": "8622279",
       "version": "EnergyMeter-NeoForge-1.21.1-0.5.2"
+    },
+    {
+      "name": "(Sodium) Chloride",
+      "curseforge_id": 931925,
+      "version_id": "8462029",
+      "version": "chloride-1.8.1-NEOFORGE-1.21.1"
     }
   ],
   "extras_url": "https://drive.google.com/file/d/12Fk6TQ2L0yg_JTPQF_IG3ksenoIv5n2M/view?usp=sharing",
   "extras_version": 1,
   "changelog": [
+    {
+      "date": "2026-08-13T04:39:16.807Z",
+      "version": "1.6.0",
+      "author": "Martion000",
+      "resumen": "+1",
+      "changes": [
+        "+ (Sodium) Chloride"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "(Sodium) Chloride",
+            "lista": "mods",
+            "clave": "c:931925"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-08-13T03:17:01.149Z",
       "version": "1.6.0",
