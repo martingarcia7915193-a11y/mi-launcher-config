@@ -2840,11 +2840,41 @@
       "curseforge_id": 461710,
       "version_id": "6102752",
       "version": "redstonepen-1.21-neoforge-1.11.42.jar"
+    },
+    {
+      "name": "(Sodium) Chloride",
+      "curseforge_id": 931925,
+      "version_id": "8462029",
+      "version": "chloride-1.8.1-NEOFORGE-1.21.1"
     }
   ],
   "extras_url": "https://drive.google.com/file/d/1zGsdpuivlRtoc7dFdosQ_d3rJRUqtkfW/view?usp=sharing",
   "extras_version": 1,
   "changelog": [
+    {
+      "date": "2026-08-15T20:27:00.434Z",
+      "version": "1.6.1",
+      "author": "Martion000",
+      "resumen": "+1",
+      "changes": [
+        "+ (Sodium) Chloride"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "(Sodium) Chloride",
+            "lista": "mods",
+            "clave": "c:931925"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-08-15T20:25:01.969Z",
       "version": "1.6.1",
