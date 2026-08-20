@@ -1,0 +1,3864 @@
+{
+  "id": "prominence-2",
+  "name": "Prominence™ II",
+  "version": "v4.0.1",
+  "minecraft_version": "1.20.1",
+  "modloader": "fabric",
+  "category": "oficiales",
+  "modloader_version": "0.19.3",
+  "description": "Importado de curseforge. Autor: ElocinDev",
+  "tienda": {
+    "origen": "curseforge",
+    "curseforge_id": 466901,
+    "archivo_id": "8632322",
+    "archivo_nombre": "Prominence™ II Hasturian Era v4.0.1hf",
+    "cuando": 1787207913782
+  },
+  "override_mod_files": [
+    "Prominent-GLOBAL-MC1.20.1-4.0.1.jar"
+  ],
+  "mods": [
+    {
+      "name": "AmbientSounds 6",
+      "curseforge_id": 254284,
+      "version_id": "7550236",
+      "version": "AmbientSounds_FABRIC_v6.3.4_mc1.20.1.jar"
+    },
+    {
+      "name": "Yeetus Experimentus",
+      "curseforge_id": 635427,
+      "version_id": "4680831",
+      "version": "YeetusExperimentus Fabric 2.3.1+mc1.20.1"
+    },
+    {
+      "name": "Despawn Tweaks",
+      "curseforge_id": 1191080,
+      "version_id": "6145372",
+      "version": "DespawnTweaks Fabric 1.0.0 for 1.20.1"
+    },
+    {
+      "name": "Transparent",
+      "curseforge_id": 377582,
+      "version_id": "4652777",
+      "version": "[Fabric 1.20.1] v8.0.1"
+    },
+    {
+      "name": "Leawind's Third Person",
+      "curseforge_id": 930880,
+      "version_id": "5961736",
+      "version": "2.2.0-mc1.20-1.20.1-fabric"
+    },
+    {
+      "name": "ME Requester",
+      "curseforge_id": 688367,
+      "version_id": "4719291",
+      "version": "MERequester-Fabric-1.20.1-1.1.4"
+    },
+    {
+      "name": "Clickable advancements",
+      "curseforge_id": 511733,
+      "version_id": "5293989",
+      "version": "clickadv-fabric-1.20.1-3.8.jar"
+    },
+    {
+      "name": "Farmer's Delight Refabricated",
+      "curseforge_id": 993166,
+      "version_id": "7199661",
+      "version": "Farmer's Delight Refabricated 2.4.1 - 1.20.1"
+    },
+    {
+      "name": "Towns and Towers",
+      "curseforge_id": 626761,
+      "version_id": "4923828",
+      "version": "(1.19.3/4+1.20.x) Towns and Towers v1.12 (Fabric/Forge)"
+    },
+    {
+      "name": "BCLib",
+      "curseforge_id": 495191,
+      "version_id": "4971470",
+      "version": "bclib-3.0.14 [1.20.1]"
+    },
+    {
+      "name": "MC Dungeons Armors",
+      "curseforge_id": 426206,
+      "version_id": "5278200",
+      "version": "mcda-5.0.2.jar"
+    },
+    {
+      "name": "recipesplitter",
+      "curseforge_id": 1287610,
+      "version_id": "6655935",
+      "version": "recipesplitter-1.0-SNAPSHOT.jar"
+    },
+    {
+      "name": "Quests Freeze Fix",
+      "curseforge_id": 1113794,
+      "version_id": "5777387",
+      "version": "FTBQuestsFreezeFix Fabric 1.0.0 for 1.20.1"
+    },
+    {
+      "name": "MixinTrace",
+      "curseforge_id": 433447,
+      "version_id": "3831043",
+      "version": "1.1.1 (Fabric/Quilt 1.17+)"
+    },
+    {
+      "name": "YUNG's Better Desert Temples (Fabric)",
+      "curseforge_id": 631020,
+      "version_id": "4769440",
+      "version": "[1.20] YUNG's Better Desert Temples v3.0.3 (Fabric)"
+    },
+    {
+      "name": "DEUF Refabricated",
+      "curseforge_id": 858101,
+      "version_id": "4597151",
+      "version": "DEUF Refabricated MC1.20.1 - v1.1.0"
+    },
+    {
+      "name": "SuperMartijn642's Config Lib",
+      "curseforge_id": 438332,
+      "version_id": "4785838",
+      "version": "SuperMartijn642's Config Lib 1.1.8a for Fabric 1.20.1"
+    },
+    {
+      "name": "Cristel Lib",
+      "curseforge_id": 856996,
+      "version_id": "4861834",
+      "version": "cristellib-1.1.5-fabric.jar"
+    },
+    {
+      "name": "Unsafe World Random Access Detector (Fabric)",
+      "curseforge_id": 821683,
+      "version_id": "4410962",
+      "version": "1.1.0"
+    },
+    {
+      "name": "Fzzy Config",
+      "curseforge_id": 1005914,
+      "version_id": "6582133",
+      "version": "fzzy_config-0.7.0+1.20.1"
+    },
+    {
+      "name": "Reacharound",
+      "curseforge_id": 648781,
+      "version_id": "5852103",
+      "version": "1.3.1 for 1.20 [Fabric/Quilt]"
+    },
+    {
+      "name": "ExtendedAE",
+      "curseforge_id": 892005,
+      "version_id": "5407904",
+      "version": "ExtendedAE-1.20-1.0.2-fabric.jar"
+    },
+    {
+      "name": "Ad Astra: Giselle Addon",
+      "curseforge_id": 714958,
+      "version_id": "6824013",
+      "version": "Fabric-1.20.1-6.19"
+    },
+    {
+      "name": "Connectible Chains [Fabric]",
+      "curseforge_id": 415681,
+      "version_id": "7429998",
+      "version": " Connectible Chains v2.5.7 for Minecraft 1.20.1"
+    },
+    {
+      "name": "Spell Engine x Open Parties and Claims",
+      "curseforge_id": 1103892,
+      "version_id": "5728452",
+      "version": "v1.0.0"
+    },
+    {
+      "name": "StateObserver",
+      "curseforge_id": 701213,
+      "version_id": "5983134",
+      "version": "stateobserver-fabric-1.20.1-1.4.3.jar"
+    },
+    {
+      "name": "Transmog",
+      "curseforge_id": 848032,
+      "version_id": "5285006",
+      "version": "[Fabric] Transmog 1.3.0+1.20"
+    },
+    {
+      "name": "ReBalance (Modpack Utils Series)",
+      "curseforge_id": 940586,
+      "version_id": "5731360",
+      "version": "ReBalance FABRIC 1.2.0"
+    },
+    {
+      "name": "Mutant Skeleton Armor Tweaks",
+      "curseforge_id": 1461984,
+      "version_id": "7712585",
+      "version": "mutant-skeleton-armor-tweaks-2.1.0.jar"
+    },
+    {
+      "name": "Bookshelf",
+      "curseforge_id": 228525,
+      "version_id": "7612391",
+      "version": "Bookshelf-Fabric-1.20.1-20.2.15.jar"
+    },
+    {
+      "name": "AE2 + Mouse Tweaks Fix",
+      "curseforge_id": 955991,
+      "version_id": "5086122",
+      "version": "2.0.0+1.20.1+fabric"
+    },
+    {
+      "name": "Powah! (Rearchitected)",
+      "curseforge_id": 633483,
+      "version_id": "6828053",
+      "version": "[FABRIC 1.20.1] v5.0.11"
+    },
+    {
+      "name": "Iris & Oculus Search",
+      "curseforge_id": 1583035,
+      "version_id": "8574866",
+      "version": "Iris Search 1.6.0-fabric"
+    },
+    {
+      "name": "Loot Integrations: Integrated Dungeons, Villages & Strongholds & Cataclysm",
+      "curseforge_id": 1149272,
+      "version_id": "7920258",
+      "version": "lootintegrations_integrated-1.5.jar"
+    },
+    {
+      "name": "Deeper and Darker",
+      "curseforge_id": 659011,
+      "version_id": "7796915",
+      "version": "v1.3.3-plus-b for Fabric 1.20 & 1.20.1"
+    },
+    {
+      "name": "Quartz Elevator",
+      "curseforge_id": 442509,
+      "version_id": "5312088",
+      "version": "Quartz Elevator v2.2.7+1.20.4"
+    },
+    {
+      "name": "Item Borders [Fabric]",
+      "curseforge_id": 541604,
+      "version_id": "5108408",
+      "version": "ItemBorders-1.20.1-fabric-1.2.2.jar"
+    },
+    {
+      "name": "AzureLib",
+      "curseforge_id": 817423,
+      "version_id": "7084469",
+      "version": "azurelib-fabric-1.20.1-3.0.27.jar"
+    },
+    {
+      "name": "EMI Ores",
+      "curseforge_id": 974009,
+      "version_id": "8254298",
+      "version": "emi_ores-1.3+1.20.1+fabric.jar"
+    },
+    {
+      "name": "More Axolotl Variants Mod",
+      "curseforge_id": 498797,
+      "version_id": "5242620",
+      "version": "v1.2.6 (1.20.1+)"
+    },
+    {
+      "name": "Quests Kill Task Tweaks",
+      "curseforge_id": 1161828,
+      "version_id": "6237237",
+      "version": "Fabric-0.2.0+1.20.1"
+    },
+    {
+      "name": "EMI-Compat",
+      "curseforge_id": 1514817,
+      "version_id": "8185861",
+      "version": "emicompat-1.1.1.jar"
+    },
+    {
+      "name": "YUNG's API (Fabric)",
+      "curseforge_id": 421649,
+      "version_id": "5769972",
+      "version": "[1.20] YUNG's API v4.0.6 (Fabric)"
+    },
+    {
+      "name": "Faux Custom Entity Data",
+      "curseforge_id": 575305,
+      "version_id": "4607750",
+      "version": "FauxCustomEntityData-fabric-1.20.1-6.0.1.jar"
+    },
+    {
+      "name": "Immersive Messages API",
+      "curseforge_id": 1109713,
+      "version_id": "6480771",
+      "version": "ImmersiveMessages Fabric 1.0.18 for 1.20.1"
+    },
+    {
+      "name": "Simply Skills [FABRIC]",
+      "curseforge_id": 890301,
+      "version_id": "6282680",
+      "version": "Simply Skills v1.7.2+1.20.1"
+    },
+    {
+      "name": "Simple Snowy Fix (Forge / Fabric)",
+      "curseforge_id": 1211256,
+      "version_id": "7205119",
+      "version": "simple_snowy_fix-fabric-1.19-1.21-2.1.5.jar"
+    },
+    {
+      "name": "Botarium",
+      "curseforge_id": 704113,
+      "version_id": "5486071",
+      "version": "[Fabric] Botarium 2.3.4"
+    },
+    {
+      "name": "VillagersPlus (Fabric/Neoforge)",
+      "curseforge_id": 809542,
+      "version_id": "4996993",
+      "version": "VillagersPlus 3.1 (FABRIC) for 1.20.1"
+    },
+    {
+      "name": "Vein Mining (Fabric/Forge/Quilt)",
+      "curseforge_id": 431611,
+      "version_id": "5481490",
+      "version": "veinmining-fabric-1.5.0+1.20.1.jar"
+    },
+    {
+      "name": "Magnum Torch",
+      "curseforge_id": 593981,
+      "version_id": "5046983",
+      "version": "[FABRIC] [1.20.1] MagnumTorch-v8.0.2"
+    },
+    {
+      "name": "Welcome Screen (Modpack Utils Series)",
+      "curseforge_id": 1193211,
+      "version_id": "6158675",
+      "version": "Fabric 1.20.1 | v1.0.0"
+    },
+    {
+      "name": "Boat Break Fix [Neo/Forge/Fabric/Quilt]",
+      "curseforge_id": 709585,
+      "version_id": "4791722",
+      "version": "[1.17+] BBF v1.0.2"
+    },
+    {
+      "name": "EMI professions (EMIP)",
+      "curseforge_id": 1065904,
+      "version_id": "7279970",
+      "version": "EMIProfessions-fabric-1.20.1-1.0.4.jar"
+    },
+    {
+      "name": "Extra Spell Attributes (RPG Series Tweaks)",
+      "curseforge_id": 941480,
+      "version_id": "6482426",
+      "version": "extraspellattributes-1.3.2.jar"
+    },
+    {
+      "name": "Auudio [Fabric]",
+      "curseforge_id": 613072,
+      "version_id": "4581988",
+      "version": "[Fabric] v1.0.3 MC 1.20-1.20.2,1.20.4"
+    },
+    {
+      "name": "Artifacts",
+      "curseforge_id": 312353,
+      "version_id": "7880346",
+      "version": "artifacts-fabric-9.5.17.jar"
+    },
+    {
+      "name": "Integrated Stronghold",
+      "curseforge_id": 815548,
+      "version_id": "5178478",
+      "version": "integrated_stronghold-1.1.1+1.20.1-fabric.jar"
+    },
+    {
+      "name": "Eldritch End",
+      "curseforge_id": 877553,
+      "version_id": "6563192",
+      "version": "Fabric 1.20.1 | v0.3.4"
+    },
+    {
+      "name": "TxniLib",
+      "curseforge_id": 1104882,
+      "version_id": "6533721",
+      "version": "TxniLib Fabric 1.0.24 for 1.20.1"
+    },
+    {
+      "name": "SMWYG-FIx",
+      "curseforge_id": 1487617,
+      "version_id": "8090542",
+      "version": "smwyg-fix-1.0.1.jar"
+    },
+    {
+      "name": "Server Browser - In Game Server Listings",
+      "curseforge_id": 825617,
+      "version_id": "6146644",
+      "version": "ServerBrowser-1.20.1-FABRIC-1.3.1.jar"
+    },
+    {
+      "name": "HT's TreeChop",
+      "curseforge_id": 421377,
+      "version_id": "5168479",
+      "version": "TreeChop-1.20.1-fabric-0.19.0.jar"
+    },
+    {
+      "name": "AdventureZ",
+      "curseforge_id": 390991,
+      "version_id": "5043014",
+      "version": "adventurez-1.4.20+1.20.1"
+    },
+    {
+      "name": "Swampier Swamps (Fabric)",
+      "curseforge_id": 687298,
+      "version_id": "4580758",
+      "version": "Fabric Swampier Swamps-1.20-4.0.0"
+    },
+    {
+      "name": "Resource Pack Overrides",
+      "curseforge_id": 832644,
+      "version_id": "5101542",
+      "version": "[FABRIC] [1.20.1] ResourcePackOverrides-v8.0.3"
+    },
+    {
+      "name": "Modern Industrialization",
+      "curseforge_id": 405388,
+      "version_id": "5562363",
+      "version": "Modern Industrialization v1.8.6"
+    },
+    {
+      "name": "Friends&Foes - Beekeeper Hut (Fabric/Quilt)",
+      "curseforge_id": 711899,
+      "version_id": "5523311",
+      "version": "Friends&Foes - Beekeeper Hut 2.0.1"
+    },
+    {
+      "name": "Philip's Ruins",
+      "curseforge_id": 569737,
+      "version_id": "7024378",
+      "version": "PhilipsRuins1.20.1-5.7-Fabric"
+    },
+    {
+      "name": "Reactive Music",
+      "curseforge_id": 960382,
+      "version_id": "7281604",
+      "version": "Reactive Music v1.2.2+1.20.1.jar"
+    },
+    {
+      "name": "Death Knights (RPG Series)",
+      "curseforge_id": 968119,
+      "version_id": "6109209",
+      "version": "[Fabric 1.20.1] Death Knights v1.0.0"
+    },
+    {
+      "name": "cat_jam",
+      "curseforge_id": 859716,
+      "version_id": "5917470",
+      "version": "[Fabric 1.20.X] cat_jam v1.3.1"
+    },
+    {
+      "name": "Alloy Forgery",
+      "curseforge_id": 438718,
+      "version_id": "4944647",
+      "version": "[1.20+] Alloy Forgery - 2.1.2"
+    },
+    {
+      "name": "Pirate's Doom",
+      "curseforge_id": 974110,
+      "version_id": "5108232",
+      "version": "piratesdoom-1.0.0-fabric"
+    },
+    {
+      "name": "Cupboard",
+      "curseforge_id": 326652,
+      "version_id": "7906355",
+      "version": "cupboard-fabric-1.20.1-3.7.jar"
+    },
+    {
+      "name": "Inventory Sorting",
+      "curseforge_id": 325471,
+      "version_id": "4597704",
+      "version": "InventorySorter-1.9.0-1.20.jar"
+    },
+    {
+      "name": "Pufferfish's Skills [Fabric & Forge & NeoForge]",
+      "curseforge_id": 835091,
+      "version_id": "7672793",
+      "version": "puffish_skills-0.17.3-1.20-fabric.jar"
+    },
+    {
+      "name": "CreativeCore",
+      "curseforge_id": 257814,
+      "version_id": "7005657",
+      "version": "CreativeCore_FABRIC_v2.12.34_mc1.20.1.jar"
+    },
+    {
+      "name": "Aquamirae [Fabric Edition]",
+      "curseforge_id": 891257,
+      "version_id": "4656204",
+      "version": "Aquamirae 6 API16 (1.20.1)"
+    },
+    {
+      "name": "Extra Thicc Packets",
+      "curseforge_id": 688480,
+      "version_id": "4032019",
+      "version": "extra_thicc_packets-1.0.jar"
+    },
+    {
+      "name": "Not Enough Recipe Book [NERB]",
+      "curseforge_id": 738663,
+      "version_id": "5759900",
+      "version": "Not Enough Recipe Book-FABRIC-0.4.1+1.20.1.jar"
+    },
+    {
+      "name": "FTB Quests Translator",
+      "curseforge_id": 1504552,
+      "version_id": "7977177",
+      "version": "FTB Quests Translator 1.4.0-1.20.1 (Fabric)"
+    },
+    {
+      "name": "What Are They Up To (Watut)",
+      "curseforge_id": 945479,
+      "version_id": "6315235",
+      "version": "watut-fabric-1.20.1-1.2.3.jar"
+    },
+    {
+      "name": "Legendary Tooltips [Fabric]",
+      "curseforge_id": 542478,
+      "version_id": "4940615",
+      "version": "LegendaryTooltips-1.20.1-fabric-1.4.5.jar"
+    },
+    {
+      "name": "Melody",
+      "curseforge_id": 938643,
+      "version_id": "5139711",
+      "version": "[Fabric] v1.0.4 MC 1.20.1-1.20.4"
+    },
+    {
+      "name": "Toni's Immersive Lanterns",
+      "curseforge_id": 1116812,
+      "version_id": "6052949",
+      "version": "ImmersiveLanterns Fabric 1.0.6 for 1.20.1"
+    },
+    {
+      "name": "oωo (owo-lib)",
+      "curseforge_id": 532610,
+      "version_id": "4749199",
+      "version": "[1.20.1] oωo - 0.11.2"
+    },
+    {
+      "name": "Enchanted: Witchcraft",
+      "curseforge_id": 560363,
+      "version_id": "8280422",
+      "version": "enchanted-fabric-1.20.1-3.1.14.jar"
+    },
+    {
+      "name": "Fancy Hotbar (Modpack Utils Series)",
+      "curseforge_id": 1130667,
+      "version_id": "5856891",
+      "version": "Fancy Hotbar v1.0.0"
+    },
+    {
+      "name": "Loot Integrations: Moog's Voyager, Soaring, End & Nether Structures",
+      "curseforge_id": 1152715,
+      "version_id": "8328790",
+      "version": "lootintegrations_moog-2.1.jar"
+    },
+    {
+      "name": "Create Fabric",
+      "curseforge_id": 624165,
+      "version_id": "7286603",
+      "version": "6.0.8.1 for 1.20.1"
+    },
+    {
+      "name": "Twigs",
+      "curseforge_id": 496913,
+      "version_id": "4603805",
+      "version": "[1.20.1]Twigs v3.1.0-fabric"
+    },
+    {
+      "name": "Invocations",
+      "curseforge_id": 910516,
+      "version_id": "6131165",
+      "version": "invoke-1.0.3.1-1.20.1.jar"
+    },
+    {
+      "name": "YUNG's Bridges (Fabric)",
+      "curseforge_id": 590988,
+      "version_id": "4769520",
+      "version": "[1.20] YUNG's Bridges v4.0.3 (Fabric)"
+    },
+    {
+      "name": "Prism [Fabric]",
+      "curseforge_id": 665526,
+      "version_id": "4650327",
+      "version": "Prism-1.20.1-fabric-1.0.5.jar"
+    },
+    {
+      "name": "[Let's Do Addon] EMI Compat",
+      "curseforge_id": 1063821,
+      "version_id": "7273869",
+      "version": "1.8.1+1.20.1+fabric"
+    },
+    {
+      "name": "Rogues & Warriors (RPG Series)",
+      "curseforge_id": 1048409,
+      "version_id": "6097303",
+      "version": "rogues-1.2.0+1.20.1.jar"
+    },
+    {
+      "name": "Wither Spawn Fix [Fabric/Forge/Neoforge]",
+      "curseforge_id": 1054538,
+      "version_id": "5489366",
+      "version": "Wither Spawn Fix 1.20.1 [Fabric]"
+    },
+    {
+      "name": "EMI Enchanting",
+      "curseforge_id": 936713,
+      "version_id": "5733127",
+      "version": "emi_enchanting-0.1.2+1.20.1.jar"
+    },
+    {
+      "name": "Simply Swords [Fabric & Forge]",
+      "curseforge_id": 659887,
+      "version_id": "5639522",
+      "version": "FABRIC v1.56.0-1.20.1"
+    },
+    {
+      "name": "Bad Wither No Cookie - Reloaded",
+      "curseforge_id": 261251,
+      "version_id": "5969227",
+      "version": "bwncr-fabric-1.20.1-3.17.2.jar"
+    },
+    {
+      "name": "Mutant Monsters",
+      "curseforge_id": 852665,
+      "version_id": "7232504",
+      "version": "[FABRIC] [1.20.1] MutantMonsters-v8.0.8"
+    },
+    {
+      "name": "Immersive Melodies in Backpacks",
+      "curseforge_id": 1550169,
+      "version_id": "8190776",
+      "version": "BP Melodies v1.0.1 (Fabric)"
+    },
+    {
+      "name": "Zoomify",
+      "curseforge_id": 574741,
+      "version_id": "5838122",
+      "version": "Zoomify 2.14.2 for MC 1.20.1"
+    },
+    {
+      "name": "Applied Energistics 2 Wireless Terminals",
+      "curseforge_id": 459929,
+      "version_id": "4936436",
+      "version": "ae2wtlib-15.2.1-fabric.jar"
+    },
+    {
+      "name": "Pick Up Notifier",
+      "curseforge_id": 351441,
+      "version_id": "4613539",
+      "version": "[FABRIC] [1.20.1] PickUpNotifier-v8.0.0"
+    },
+    {
+      "name": "Accessories",
+      "curseforge_id": 938917,
+      "version_id": "7164886",
+      "version": "[1.20.1] Accessories [Fabric] - 1.0.0"
+    },
+    {
+      "name": "YUNG's Better Jungle Temples (Fabric)",
+      "curseforge_id": 897678,
+      "version_id": "5331761",
+      "version": "[1.20] YUNG's Better Jungle Temples v2.0.5 (Fabric)"
+    },
+    {
+      "name": "Jewelry (RPG Series)",
+      "curseforge_id": 910706,
+      "version_id": "5672344",
+      "version": "Jewelry-1.3.7+1.20.1.jar"
+    },
+    {
+      "name": "Lootr (Fabric)",
+      "curseforge_id": 615106,
+      "version_id": "7266482",
+      "version": "lootr-fabric-1.20-0.7.35.86.jar"
+    },
+    {
+      "name": "Paxi (Fabric)",
+      "curseforge_id": 418881,
+      "version_id": "4749995",
+      "version": "[1.20] Paxi v4.0 (Fabric)"
+    },
+    {
+      "name": "Sodium/Embeddium Extras",
+      "curseforge_id": 558905,
+      "version_id": "6041696",
+      "version": "SodiumExtras Fabric 1.0.7 for 1.20.1"
+    },
+    {
+      "name": "End Remastered [Fabric]",
+      "curseforge_id": 515523,
+      "version_id": "4972591",
+      "version": "End Remastered R5.2.4 (1.20.X)"
+    },
+    {
+      "name": "You're in Grave Danger",
+      "curseforge_id": 544912,
+      "version_id": "6684120",
+      "version": "You're in Grave Danger [Fabric] 2.0.16"
+    },
+    {
+      "name": "Better Combat [Fabric & Forge]",
+      "curseforge_id": 639842,
+      "version_id": "7287333",
+      "version": "bettercombat-fabric-1.9.0+1.20.1.jar"
+    },
+    {
+      "name": "Explorer's Compass",
+      "curseforge_id": 491794,
+      "version_id": "7892929",
+      "version": "ExplorersCompass-1.20.1-2.6.0-fabric.jar"
+    },
+    {
+      "name": "Thaumon",
+      "curseforge_id": 926511,
+      "version_id": "5492066",
+      "version": "thaumon-fabric-2.3.0+1.20.1.jar"
+    },
+    {
+      "name": "Rare Ice (Forge/Fabric)",
+      "curseforge_id": 373774,
+      "version_id": "4594971",
+      "version": "[Fabric 1.20(.1)] v0.6.0"
+    },
+    {
+      "name": "BetterEnd",
+      "curseforge_id": 413596,
+      "version_id": "4971487",
+      "version": "betterend-4.0.11 [1.20.1]"
+    },
+    {
+      "name": "FancyMenu",
+      "curseforge_id": 367706,
+      "version_id": "6918983",
+      "version": "[Fabric] v3.7.0 MC 1.20.1"
+    },
+    {
+      "name": "Create: Copycats+",
+      "curseforge_id": 968398,
+      "version_id": "7634683",
+      "version": "copycats-3.0.7+mc.1.20.1-fabric"
+    },
+    {
+      "name": "fix GPU memory leak",
+      "curseforge_id": 882495,
+      "version_id": "4884979",
+      "version": "gpumemleakfix-fabric-1.20.1-1.8.jar"
+    },
+    {
+      "name": "Moog's Structure Lib (moogs_structures)",
+      "curseforge_id": 1337167,
+      "version_id": "7238547",
+      "version": "Moog's Structure Lib 1.1.0-1.20-1.20.4 [FABRIC]"
+    },
+    {
+      "name": "Sky Villages [Fabric]",
+      "curseforge_id": 545483,
+      "version_id": "5393796",
+      "version": "SkyVillages-1.0.4-1.19.2-1.20.1-fabric.jar"
+    },
+    {
+      "name": "Dark Paintings",
+      "curseforge_id": 377281,
+      "version_id": "7612431",
+      "version": "DarkPaintings-Fabric-1.20.1-17.0.6.jar"
+    },
+    {
+      "name": "Savage Ender Dragon",
+      "curseforge_id": 523327,
+      "version_id": "6828605",
+      "version": "dragonfight-fabric-1.20.1-4.7.jar"
+    },
+    {
+      "name": "All The Trims",
+      "curseforge_id": 876154,
+      "version_id": "5425361",
+      "version": "allthetrims-3.4.3-fabric+1.20.1.jar"
+    },
+    {
+      "name": "Alternate Current",
+      "curseforge_id": 548115,
+      "version_id": "5665349",
+      "version": "[1.20 Fabric] Alternate Current 1.9.0"
+    },
+    {
+      "name": "Debugify",
+      "curseforge_id": 596224,
+      "version_id": "4632961",
+      "version": "1.20.1+2.0 (1.20.1)"
+    },
+    {
+      "name": "The Graveyard (FABRIC)",
+      "curseforge_id": 514468,
+      "version_id": "5113229",
+      "version": "The Graveyard 3.1 (FABRIC) for 1.20.1"
+    },
+    {
+      "name": "Create: Estrogen",
+      "curseforge_id": 1272015,
+      "version_id": "7715988",
+      "version": "Create: Estrogen 1.0.1+1.20.1 Fabric"
+    },
+    {
+      "name": "Winterly",
+      "curseforge_id": 552628,
+      "version_id": "4760028",
+      "version": "[1.20] Winterly 0.9.3"
+    },
+    {
+      "name": "Archers (RPG Series)",
+      "curseforge_id": 932359,
+      "version_id": "6096204",
+      "version": "archers-1.3.0+1.20.1.jar"
+    },
+    {
+      "name": "Geophilic – Vanilla Biome Overhauls",
+      "curseforge_id": 711216,
+      "version_id": "7450707",
+      "version": "v3.4.6"
+    },
+    {
+      "name": "YUNG's Better End Island (Fabric)",
+      "curseforge_id": 901350,
+      "version_id": "5193816",
+      "version": "[1.20] YUNG's Better End Island v2.0.6 (Fabric)"
+    },
+    {
+      "name": "Better Advancements",
+      "curseforge_id": 272515,
+      "version_id": "6010301",
+      "version": "BetterAdvancements-Fabric-1.20.1-0.4.2.25.jar"
+    },
+    {
+      "name": "Integrated Villages",
+      "curseforge_id": 661376,
+      "version_id": "7830335",
+      "version": "integrated_villages-1.3.2+1.20.1-fabric.jar"
+    },
+    {
+      "name": "MidnightLib",
+      "curseforge_id": 488090,
+      "version_id": "7318658",
+      "version": "MidnightLib 1.9.2 - Fabric 1.20.1"
+    },
+    {
+      "name": "OPAC Fixes",
+      "curseforge_id": 1484735,
+      "version_id": "8259966",
+      "version": "opac_fixes-1.1.3.jar"
+    },
+    {
+      "name": "CICADA",
+      "curseforge_id": 989574,
+      "version_id": "7068951",
+      "version": "0.14.3 for 1.20.1"
+    },
+    {
+      "name": "Applied Botanics Addon",
+      "curseforge_id": 610632,
+      "version_id": "7427982",
+      "version": "1.5.2 [FABRIC]"
+    },
+    {
+      "name": "Reborn Core",
+      "curseforge_id": 237903,
+      "version_id": "6788255",
+      "version": "RebornCore 5.8.14"
+    },
+    {
+      "name": "YDM's MobHealthBar",
+      "curseforge_id": 559894,
+      "version_id": "4818134",
+      "version": "Fabric 1.20.x - v2.3.0"
+    },
+    {
+      "name": "Architectury API",
+      "curseforge_id": 419699,
+      "version_id": "5137936",
+      "version": "[Fabric 1.20(.1)] v9.2.14"
+    },
+    {
+      "name": "Tierify",
+      "curseforge_id": 974356,
+      "version_id": "5803071",
+      "version": "Terrify 1.2.0 for MC 1.20.1"
+    },
+    {
+      "name": "No Report Button",
+      "curseforge_id": 658722,
+      "version_id": "4594976",
+      "version": "v1.5.0-fabric"
+    },
+    {
+      "name": "AttributeFix",
+      "curseforge_id": 280510,
+      "version_id": "7612292",
+      "version": "AttributeFix-Fabric-1.20.1-21.0.5.jar"
+    },
+    {
+      "name": "LibZ",
+      "curseforge_id": 841617,
+      "version_id": "4873296",
+      "version": "libz-1.0.3+1.20.1"
+    },
+    {
+      "name": "Dawn API",
+      "curseforge_id": 399309,
+      "version_id": "4605278",
+      "version": "Dawn API v5.0.0"
+    },
+    {
+      "name": "Cherished Worlds",
+      "curseforge_id": 308240,
+      "version_id": "5955877",
+      "version": "cherishedworlds-fabric-6.1.7+1.20.1.jar"
+    },
+    {
+      "name": "Bartering Station",
+      "curseforge_id": 666940,
+      "version_id": "4613544",
+      "version": "[FABRIC] [1.20.1] BarteringStation-v8.0.0"
+    },
+    {
+      "name": "Custom Tooltip API",
+      "curseforge_id": 1508021,
+      "version_id": "8484270",
+      "version": "CTA 5.0.2 - Fabric 1.20.1"
+    },
+    {
+      "name": "Loot Integrations",
+      "curseforge_id": 580689,
+      "version_id": "6640997",
+      "version": "lootintegrations-fabric-1.20.1-4.7.jar"
+    },
+    {
+      "name": "AzureLib Armor",
+      "curseforge_id": 912767,
+      "version_id": "6004944",
+      "version": "fabric 2.0.14"
+    },
+    {
+      "name": "Create Crafts & Additions",
+      "curseforge_id": 439890,
+      "version_id": "7520732",
+      "version": "createaddition-fabric-1.20.1-1.3.4"
+    },
+    {
+      "name": "MC Dungeons Weapons",
+      "curseforge_id": 407311,
+      "version_id": "5280243",
+      "version": "mcdw-9.0.4.jar"
+    },
+    {
+      "name": "Sorted Enchantments",
+      "curseforge_id": 974256,
+      "version_id": "6965525",
+      "version": "2.0.0+1.19.3+fabric"
+    },
+    {
+      "name": "Mine Cells - Dead Cells Mod",
+      "curseforge_id": 618790,
+      "version_id": "6566117",
+      "version": "minecells-2.0.0+1.20.1"
+    },
+    {
+      "name": "Item Filters",
+      "curseforge_id": 309674,
+      "version_id": "4838265",
+      "version": "item-filters-fabric-2001.1.0-build.59.jar"
+    },
+    {
+      "name": "Bobby",
+      "curseforge_id": 409301,
+      "version_id": "4706163",
+      "version": "bobby-5.0.1.jar"
+    },
+    {
+      "name": "Explorify – Dungeons & Structures",
+      "curseforge_id": 698309,
+      "version_id": "8082824",
+      "version": "v1.6.5"
+    },
+    {
+      "name": "Naturalist",
+      "curseforge_id": 627986,
+      "version_id": "6509916",
+      "version": "Naturalist 5.0pre3 (Fabric 1.20.1)"
+    },
+    {
+      "name": "You Shall Not Spawn! (Modpack Utils Series)",
+      "curseforge_id": 628744,
+      "version_id": "5820957",
+      "version": "[1.20.x-fabric] You Shall Not Spawn v2.0.2"
+    },
+    {
+      "name": "Night Config Fixes [Archived]",
+      "curseforge_id": 813369,
+      "version_id": "4614069",
+      "version": "[FABRIC] [1.20.1] NightConfigFixes-v8.0.0"
+    },
+    {
+      "name": "YUNG's Better Dungeons (Fabric)",
+      "curseforge_id": 525586,
+      "version_id": "5271361",
+      "version": "[1.20] YUNG's Better Dungeons v4.0.4 (Fabric)"
+    },
+    {
+      "name": "Structure Pool API",
+      "curseforge_id": 927915,
+      "version_id": "4818011",
+      "version": "structure_pool_api-1.0+1.20.1.jar"
+    },
+    {
+      "name": "Extreme sound muffler - Fabric",
+      "curseforge_id": 566140,
+      "version_id": "7469698",
+      "version": "Extreme sound muffler 3.51 - Fabric 1.20.1"
+    },
+    {
+      "name": "Gun Scaling",
+      "curseforge_id": 1456403,
+      "version_id": "7700020",
+      "version": "gun-scaling-2.1.0.jar"
+    },
+    {
+      "name": "Mmm Indicators",
+      "curseforge_id": 965802,
+      "version_id": "5054147",
+      "version": "Fabric 1.20.1"
+    },
+    {
+      "name": "Iris Shaders",
+      "curseforge_id": 455508,
+      "version_id": "6258195",
+      "version": "Iris 1.7.6 for Minecraft 1.20.1"
+    },
+    {
+      "name": "Clumps",
+      "curseforge_id": 256717,
+      "version_id": "5278537",
+      "version": "Clumps-fabric-1.20.1-12.0.0.4.jar"
+    },
+    {
+      "name": "Shut Up MCD",
+      "curseforge_id": 1494931,
+      "version_id": "7849649",
+      "version": "shut-up-mcd-1.2.0.jar"
+    },
+    {
+      "name": "Stoneworks",
+      "curseforge_id": 852663,
+      "version_id": "4611948",
+      "version": "[FABRIC] [1.20.1] Stoneworks-v8.0.0"
+    },
+    {
+      "name": "Item Highlighter [Fabric]",
+      "curseforge_id": 541578,
+      "version_id": "4940605",
+      "version": "Highlighter-1.20.1-fabric-1.1.9.jar"
+    },
+    {
+      "name": "Spellblades and Such",
+      "curseforge_id": 811662,
+      "version_id": "6038237",
+      "version": "spellbladenext-2.3.0+1.20.1.jar"
+    },
+    {
+      "name": "NewNeoBlåhaj",
+      "curseforge_id": 1541213,
+      "version_id": "8219407",
+      "version": "newblahaj-1.0.9.jar"
+    },
+    {
+      "name": "Ash API",
+      "curseforge_id": 838498,
+      "version_id": "4653715",
+      "version": "[Fabric 1.20.1] v3.0.2"
+    },
+    {
+      "name": "Oxidized",
+      "curseforge_id": 506426,
+      "version_id": "4598127",
+      "version": "Oxidized 1.8.2 (1.20.1)"
+    },
+    {
+      "name": "AE2 EMI Crafting Integration",
+      "curseforge_id": 923210,
+      "version_id": "5160115",
+      "version": "ae2-emi-crafting-1.3.1.jar"
+    },
+    {
+      "name": "Icarus",
+      "curseforge_id": 428151,
+      "version_id": "7269558",
+      "version": "2.13.1+Fabric"
+    },
+    {
+      "name": "OpenBlocks Elevator (Fabric)",
+      "curseforge_id": 667474,
+      "version_id": "4630055",
+      "version": "openblockselevator-0.0.3-1.20.1.jar"
+    },
+    {
+      "name": "Boat Item View",
+      "curseforge_id": 482160,
+      "version_id": "4590983",
+      "version": "Boat-Item-View-Fabric-1.20.1-0.0.5.jar"
+    },
+    {
+      "name": "Structure Essentials",
+      "curseforge_id": 832882,
+      "version_id": "7962585",
+      "version": "structureessentials-fabric-1.20.1-5.0.jar"
+    },
+    {
+      "name": "Chunky (Fabric)",
+      "curseforge_id": 433175,
+      "version_id": "5320021",
+      "version": "Chunky 1.3.146"
+    },
+    {
+      "name": "Friends&Foes (Fabric/Quilt)",
+      "curseforge_id": 551364,
+      "version_id": "6354623",
+      "version": "Friends&Foes 3.0.9"
+    },
+    {
+      "name": "Open Parties and Claims",
+      "curseforge_id": 636608,
+      "version_id": "7652874",
+      "version": "fabric-1.20.1-0.25.10.jar"
+    },
+    {
+      "name": "Traveler's Backpack [Fabric]",
+      "curseforge_id": 541171,
+      "version_id": "8486647",
+      "version": "travelersbackpack-fabric-1.20.1-9.1.54"
+    },
+    {
+      "name": "Tech Reborn",
+      "curseforge_id": 233564,
+      "version_id": "6788256",
+      "version": "TechReborn 5.8.14"
+    },
+    {
+      "name": "BetterNether",
+      "curseforge_id": 311377,
+      "version_id": "4971478",
+      "version": "betternether-9.0.10 [1.20.1]"
+    },
+    {
+      "name": "Mim1q's Derelict",
+      "curseforge_id": 928990,
+      "version_id": "6274703",
+      "version": "derelict-1.20.1-2.1.0"
+    },
+    {
+      "name": "Mythic Mounts",
+      "curseforge_id": 517650,
+      "version_id": "4660884",
+      "version": "mythic-mounts-1.20.1-7.2.jar"
+    },
+    {
+      "name": "JustHammers",
+      "curseforge_id": 681606,
+      "version_id": "6358768",
+      "version": "just-hammers Fabric 20.1.5+mc1.20.1"
+    },
+    {
+      "name": "Bard (RPG Series Plus)",
+      "curseforge_id": 1463805,
+      "version_id": "8581099",
+      "version": "bard-0.1.4-1.20.1"
+    },
+    {
+      "name": "Comforts",
+      "curseforge_id": 276951,
+      "version_id": "5503514",
+      "version": "comforts-fabric-6.4.0+1.20.1.jar"
+    },
+    {
+      "name": "Redirected",
+      "curseforge_id": 1191845,
+      "version_id": "6148846",
+      "version": "Redirected Fabric 1.0.0 for 1.20.1"
+    },
+    {
+      "name": "Better Compatibility Checker",
+      "curseforge_id": 551894,
+      "version_id": "4688939",
+      "version": "BetterCompatibilityChecker Fabric 4.0.8+mc1.20.1"
+    },
+    {
+      "name": "MES - Moog's End Structures",
+      "curseforge_id": 892382,
+      "version_id": "8043172",
+      "version": "MES 2.0.3-1.20 [UNIVERSAL]"
+    },
+    {
+      "name": "Create Questing",
+      "curseforge_id": 591861,
+      "version_id": "5036927",
+      "version": "Fabric 1.20.1 | v1.0.0"
+    },
+    {
+      "name": "playerAnimator",
+      "curseforge_id": 658587,
+      "version_id": "4587215",
+      "version": "player-animation-lib-fabric-1.0.2-rc1+1.20.jar"
+    },
+    {
+      "name": "Projectile Damage Attribute [Fabric & Forge]",
+      "curseforge_id": 643780,
+      "version_id": "5251047",
+      "version": "projectile_damage-fabric-3.2.3+1.20.1.jar"
+    },
+    {
+      "name": "Double Doors",
+      "curseforge_id": 348831,
+      "version_id": "7143840",
+      "version": "[Fabric/Forge/Neo] 1.20.1-7.2 | Double Doors"
+    },
+    {
+      "name": "Show Me What You Got",
+      "curseforge_id": 564941,
+      "version_id": "4631405",
+      "version": "1.20: SMWYG 1.1.1"
+    },
+    {
+      "name": "Icarus x Transmog compat",
+      "curseforge_id": 1459465,
+      "version_id": "7924045",
+      "version": "icaruswings_transmog_compat-1.0.1.jar"
+    },
+    {
+      "name": "Connectivity",
+      "curseforge_id": 470193,
+      "version_id": "7361211",
+      "version": "connectivity-fabric-1.20.1-7.6.jar"
+    },
+    {
+      "name": "TravellersBackpack-Transmog-Compat",
+      "curseforge_id": 1459527,
+      "version_id": "7607137",
+      "version": "tbtransmog_compat-1.0.0.jar"
+    },
+    {
+      "name": "Expanded Delight",
+      "curseforge_id": 620770,
+      "version_id": "5708081",
+      "version": "expandeddelight-0.3.2.jar"
+    },
+    {
+      "name": "Better Trims",
+      "curseforge_id": 821752,
+      "version_id": "5641583",
+      "version": "bettertrims-2.3.2.jar"
+    },
+    {
+      "name": "Resourceful Config",
+      "curseforge_id": 714059,
+      "version_id": "6223996",
+      "version": "[Fabric] Resourceful Config 2.1.3"
+    },
+    {
+      "name": "Pufferfish's Attributes [Fabric & Forge & NeoForge]",
+      "curseforge_id": 991341,
+      "version_id": "7551332",
+      "version": "puffish_attributes-0.8.2-1.20-fabric.jar"
+    },
+    {
+      "name": "CoroUtil",
+      "curseforge_id": 237749,
+      "version_id": "5110802",
+      "version": "coroutil-fabric-1.20.1-1.3.7.jar"
+    },
+    {
+      "name": "[Let's Do] Vinery",
+      "curseforge_id": 704465,
+      "version_id": "6965753",
+      "version": "Vinery - 1.4.41 - FABRIC - 1.20.1"
+    },
+    {
+      "name": "Block Runner",
+      "curseforge_id": 442842,
+      "version_id": "5157021",
+      "version": "[FABRIC] [1.20.1] BlockRunner-v8.0.4"
+    },
+    {
+      "name": "[Let's Do] API ",
+      "curseforge_id": 864599,
+      "version_id": "5468180",
+      "version": "API - 1.2.15 - FABRIC - 1.20.1"
+    },
+    {
+      "name": "EMI Extra Integrations",
+      "curseforge_id": 739970,
+      "version_id": "6054082",
+      "version": "extra-mod-integrations-0.4.7+1.20.1.jar"
+    },
+    {
+      "name": "YUNG's Better Witch Huts (Fabric)",
+      "curseforge_id": 631403,
+      "version_id": "4769490",
+      "version": "[1.20] YUNG's Better Witch Huts v3.0.3 (Fabric)"
+    },
+    {
+      "name": "Create: Testosterone(Fabric)",
+      "curseforge_id": 1555527,
+      "version_id": "8596711",
+      "version": "createTestosterone-fabric-1.20.1-1.1.7.jar"
+    },
+    {
+      "name": "Modpack Update Checker",
+      "curseforge_id": 847414,
+      "version_id": "6681425",
+      "version": "[1.20.1] Modpack Update Checker 0.15.6 for Fabric"
+    },
+    {
+      "name": "Decorative Blocks (Fork)",
+      "curseforge_id": 892002,
+      "version_id": "4771799",
+      "version": "Decorative Blocks-fabric-1.20.1-4.0.3.jar"
+    },
+    {
+      "name": "Jade 🔍",
+      "curseforge_id": 324717,
+      "version_id": "6291330",
+      "version": "[Fabric 1.20.1] 11.13.1"
+    },
+    {
+      "name": "Chipped Express",
+      "curseforge_id": 938916,
+      "version_id": "6363006",
+      "version": "1.3.2-20x"
+    },
+    {
+      "name": "Server Performance - Smooth Chunk Save",
+      "curseforge_id": 582327,
+      "version_id": "6296630",
+      "version": "smoothchunk-fabric-1.20.1-4.1.jar"
+    },
+    {
+      "name": "Fabric Language Kotlin",
+      "curseforge_id": 308769,
+      "version_id": "7583523",
+      "version": "Fabric Language Kotlin 1.13.9+kotlin.2.3.10"
+    },
+    {
+      "name": "Creeper Overhaul",
+      "curseforge_id": 561625,
+      "version_id": "5125712",
+      "version": "[Fabric] Creeperoverhaul 3.0.2"
+    },
+    {
+      "name": "EpheroLib",
+      "curseforge_id": 885449,
+      "version_id": "4949797",
+      "version": "EpheroLib-1.20.1-FABRIC-1.2.0.jar"
+    },
+    {
+      "name": "More Axolotl Variants API",
+      "curseforge_id": 709964,
+      "version_id": "5240476",
+      "version": "v1.1.4 (1.20.1+)"
+    },
+    {
+      "name": "Simply Fixes",
+      "curseforge_id": 1521286,
+      "version_id": "7964534",
+      "version": "simplyfixes-1.0.0.jar"
+    },
+    {
+      "name": "Chef's Delight [Fabric] - Farmer's Delight Villagers",
+      "curseforge_id": 736986,
+      "version_id": "7335194",
+      "version": "Chef's Delight v1.0.4-mc1.20.1"
+    },
+    {
+      "name": "Do a Barrel Roll",
+      "curseforge_id": 663658,
+      "version_id": "5520817",
+      "version": "3.6.1 for Fabric 1.20.1"
+    },
+    {
+      "name": "Chat Animation [Smooth Chat]",
+      "curseforge_id": 892086,
+      "version_id": "7325650",
+      "version": "chatanimation-fabric-1.20.1-1.1.3.jar"
+    },
+    {
+      "name": "EMI Loot",
+      "curseforge_id": 681783,
+      "version_id": "7417254",
+      "version": "emi_loot-0.7.9+1.20.1+fabric.jar"
+    },
+    {
+      "name": "ShatterLib | OctoLib",
+      "curseforge_id": 916747,
+      "version_id": "6274626",
+      "version": "OctoLib-FABRIC-0.5.0.1+1.20.1.jar"
+    },
+    {
+      "name": "Mod Menu",
+      "curseforge_id": 308702,
+      "version_id": "5162837",
+      "version": "v7.2.2 for 1.20.1"
+    },
+    {
+      "name": "Convenient Decor",
+      "curseforge_id": 794452,
+      "version_id": "5719100",
+      "version": "convenientdecor-1.20.1-0.4.3"
+    },
+    {
+      "name": "spark",
+      "curseforge_id": 361579,
+      "version_id": "4738953",
+      "version": "1.10.53 (Fabric 1.20.1)"
+    },
+    {
+      "name": "Satisfying Buttons",
+      "curseforge_id": 972696,
+      "version_id": "5732257",
+      "version": "SatisfyingButtons Fabric 1.1.2 for 1.20.1"
+    },
+    {
+      "name": "S-Lib",
+      "curseforge_id": 1576101,
+      "version_id": "8481687",
+      "version": "S-Lib 1.0.5 - Fabric 1.20.1"
+    },
+    {
+      "name": "Archers Expansion (RPG Series Plus)",
+      "curseforge_id": 1109024,
+      "version_id": "7149608",
+      "version": "archers-expansion-0.2.6-1.20.1"
+    },
+    {
+      "name": "BisectHosting Server Integration Menu [FABRIC]",
+      "curseforge_id": 585548,
+      "version_id": "7205249",
+      "version": "BH Menu 1.20.1 V2.4.2"
+    },
+    {
+      "name": "Forcemaster (RPG Series Plus)",
+      "curseforge_id": 992388,
+      "version_id": "7908940",
+      "version": "forcemaster-class-mod-1.2.6-1.20.1"
+    },
+    {
+      "name": "Ranged Weapon API",
+      "curseforge_id": 962162,
+      "version_id": "5655499",
+      "version": "ranged_weapon_api-1.1.4+1.20.1.jar"
+    },
+    {
+      "name": "Indium",
+      "curseforge_id": 459496,
+      "version_id": "6237037",
+      "version": "Indium 1.0.36 for Minecraft 1.20.x / Sodium 0.5.11"
+    },
+    {
+      "name": "ModernFix",
+      "curseforge_id": 790626,
+      "version_id": "6766125",
+      "version": "modernfix-fabric-5.24.3+mc1.20.1.jar"
+    },
+    {
+      "name": "Better Archeology",
+      "curseforge_id": 835687,
+      "version_id": "5704094",
+      "version": "Better Archeology 1.2.1 for 1.20.1 [FABRIC]"
+    },
+    {
+      "name": "[Let's Do] HerbalBrews",
+      "curseforge_id": 951221,
+      "version_id": "6458888",
+      "version": "HerbalBrews - 1.0.12 - FABRIC - 1.20.1"
+    },
+    {
+      "name": "Legendary Tooltips x Traveler's Backpack Fix",
+      "curseforge_id": 1423123,
+      "version_id": "7773429",
+      "version": "ltxtbfix-1.20.1-fabric-1.0.2"
+    },
+    {
+      "name": "Neruina - Ticking Entity Fixer",
+      "curseforge_id": 851046,
+      "version_id": "6489040",
+      "version": "Neruina Fabric 2.3.1-beta.1 for 1.20.1"
+    },
+    {
+      "name": "MEGA Cells",
+      "curseforge_id": 622112,
+      "version_id": "6175007",
+      "version": "2.4.6 (Fabric 1.20.1)"
+    },
+    {
+      "name": "Open Parties and Claims PvP Support",
+      "curseforge_id": 1190669,
+      "version_id": "6213620",
+      "version": "Fabric 1.20.1 | v1.0.1"
+    },
+    {
+      "name": "EMI",
+      "curseforge_id": 580555,
+      "version_id": "8081374",
+      "version": "emi-1.1.24+1.20.1+fabric"
+    },
+    {
+      "name": "Blur+",
+      "curseforge_id": 393563,
+      "version_id": "4578291",
+      "version": "Blur 3.1.0 - 1.20"
+    },
+    {
+      "name": "Better Beds",
+      "curseforge_id": 443782,
+      "version_id": "4369573",
+      "version": "Better Beds 1.3.0 - 1.19.3+"
+    },
+    {
+      "name": "FTB Teams (Fabric)",
+      "curseforge_id": 438497,
+      "version_id": "7499808",
+      "version": "ftb-teams-fabric-2001.3.2.jar"
+    },
+    {
+      "name": "Simply Swords Battle Standard Tweaks",
+      "curseforge_id": 1468172,
+      "version_id": "7748708",
+      "version": "simply-swords-battle-standard-tweaks-1.3.0.jar"
+    },
+    {
+      "name": "Legacy: [Let's Do] Brewery",
+      "curseforge_id": 971636,
+      "version_id": "5427505",
+      "version": "Brewery - 1.1.9 - FABRIC - 1.20.1"
+    },
+    {
+      "name": "Prominence Original Soundtrack",
+      "curseforge_id": 941248,
+      "version_id": "4888798",
+      "version": "Prominence OST | 1.20.1"
+    },
+    {
+      "name": "Xaero's Minimap",
+      "curseforge_id": 263420,
+      "version_id": "7598589",
+      "version": "fabric-1.20.1-25.3.10.jar"
+    },
+    {
+      "name": "Colorwheel",
+      "curseforge_id": 1254143,
+      "version_id": "8206636",
+      "version": "1.2.9+mc1.20.1-fabric"
+    },
+    {
+      "name": "[EMF] Entity Model Features [Fabric & Forge]",
+      "curseforge_id": 844662,
+      "version_id": "7647254",
+      "version": "Fabric - 1.20.1 - 3.0.12"
+    },
+    {
+      "name": "Leaves Be Gone",
+      "curseforge_id": 686435,
+      "version_id": "4613294",
+      "version": "[FABRIC] [1.20.1] LeavesBeGone-v8.0.0"
+    },
+    {
+      "name": "Applied Energistics 2",
+      "curseforge_id": 223794,
+      "version_id": "7148494",
+      "version": "AE2 15.4.10 [FABRIC]"
+    },
+    {
+      "name": "EMI Trades (Villager Trading EMI Plugin)",
+      "curseforge_id": 735523,
+      "version_id": "4901193",
+      "version": "[Fabric/Quilt 1.20.1] 1.2.1"
+    },
+    {
+      "name": "FTB Library (Fabric)",
+      "curseforge_id": 438495,
+      "version_id": "7296747",
+      "version": "ftb-library-fabric-2001.2.12.jar"
+    },
+    {
+      "name": "Amecs (Fabric)",
+      "curseforge_id": 324564,
+      "version_id": "7806395",
+      "version": "[1.20-1.20.1] 1.6.3"
+    },
+    {
+      "name": "Polymorphic Energistics",
+      "curseforge_id": 941096,
+      "version_id": "5227384",
+      "version": "0.1.1 (Fabric 1.20.1)"
+    },
+    {
+      "name": "Smart Tooltip Scroll",
+      "curseforge_id": 1576147,
+      "version_id": "8614510",
+      "version": "STS 2.2.0 - Fabric 1.20.1"
+    },
+    {
+      "name": "Cloth Config API (Fabric/Forge/NeoForge)",
+      "curseforge_id": 348521,
+      "version_id": "5729104",
+      "version": "[Fabric 1.20(.1)] v11.1.136"
+    },
+    {
+      "name": "Create: New Age",
+      "curseforge_id": 905861,
+      "version_id": "7452739",
+      "version": "1.1.7f for Fabric 1.20.1"
+    },
+    {
+      "name": "ImmediatelyFast",
+      "curseforge_id": 686911,
+      "version_id": "5389317",
+      "version": "ImmediatelyFast 1.2.17"
+    },
+    {
+      "name": "Mobs of Mythology",
+      "curseforge_id": 699989,
+      "version_id": "6390992",
+      "version": "Mobs of Mythology 2.1.2"
+    },
+    {
+      "name": "Immersive Melodies",
+      "curseforge_id": 904471,
+      "version_id": "6538665",
+      "version": "[Fabric 1.20.1] Immersive Melodies - 0.5.0"
+    },
+    {
+      "name": "Resourceful Lib",
+      "curseforge_id": 570073,
+      "version_id": "5659872",
+      "version": "[Fabric] Resourceful Lib 2.1.29"
+    },
+    {
+      "name": "End's Delight",
+      "curseforge_id": 662675,
+      "version_id": "5891365",
+      "version": "(FDRF)ends_delight-refabricated-1.20.1-2.5.jar"
+    },
+    {
+      "name": "Ping Wheel",
+      "curseforge_id": 734339,
+      "version_id": "7409918",
+      "version": "v1.12.1 for Fabric 1.20.1"
+    },
+    {
+      "name": "Thermoo",
+      "curseforge_id": 846544,
+      "version_id": "5832380",
+      "version": "Thermoo 2.3.3"
+    },
+    {
+      "name": "Memory Settings",
+      "curseforge_id": 526901,
+      "version_id": "6120508",
+      "version": "memorysettings-fabric-1.20.1-5.9.jar"
+    },
+    {
+      "name": "Wraith Waystones",
+      "curseforge_id": 410902,
+      "version_id": "6300601",
+      "version": "Wraith Waystones 3.3.3 - MC1.20.1"
+    },
+    {
+      "name": "Reese's Sodium Options",
+      "curseforge_id": 511319,
+      "version_id": "5075462",
+      "version": "Reese's Sodium Options 1.7.2 for Minecraft 1.20.1"
+    },
+    {
+      "name": "Entity Culling Fabric/Forge",
+      "curseforge_id": 448233,
+      "version_id": "8053756",
+      "version": "1.10.2-1.20.1 - Fabric"
+    },
+    {
+      "name": "Farmer's Knives",
+      "curseforge_id": 628972,
+      "version_id": "5281259",
+      "version": "farmersknives-3.2.jar"
+    },
+    {
+      "name": "Eternal Attributes",
+      "curseforge_id": 1181731,
+      "version_id": "6100715",
+      "version": "Eternal Attributes v1.0.0"
+    },
+    {
+      "name": "The Lost Castle [Fabric]",
+      "curseforge_id": 687497,
+      "version_id": "4614802",
+      "version": "The Lost Castle R1.0.1 (1.20.X)"
+    },
+    {
+      "name": "Not Enough Animations",
+      "curseforge_id": 433760,
+      "version_id": "7650353",
+      "version": "1.11.3-1.20.1 - Fabric"
+    },
+    {
+      "name": "Better Trim Tooltips",
+      "curseforge_id": 868132,
+      "version_id": "4579455",
+      "version": "Better Trim Tooltips 1.0.1"
+    },
+    {
+      "name": "Regions Unexplored",
+      "curseforge_id": 659110,
+      "version_id": "5558172",
+      "version": "(Fabric 1.20.1) Regions Unexplored v0.5.6"
+    },
+    {
+      "name": "BadOptimizations",
+      "curseforge_id": 949555,
+      "version_id": "6673591",
+      "version": "2.2.3 (1.20.1)"
+    },
+    {
+      "name": "Soulmaster (Forcemaster RPG)",
+      "curseforge_id": 1510563,
+      "version_id": "8003663",
+      "version": "Soulmaster 1.0.3"
+    },
+    {
+      "name": "FTB Quests (Fabric)",
+      "curseforge_id": 438496,
+      "version_id": "7608803",
+      "version": "ftb-quests-fabric-2001.4.18.jar"
+    },
+    {
+      "name": "Simple Discord Rich Presence (Forge /  Fabric)",
+      "curseforge_id": 334853,
+      "version_id": "4964549",
+      "version": "SimpleDiscordRichPresence Fabric 4.0.3+mc1.20.1"
+    },
+    {
+      "name": "Windchimes",
+      "curseforge_id": 477895,
+      "version_id": "4662198",
+      "version": "v1.2.4"
+    },
+    {
+      "name": "Friends&Foes - Flowery Mooblooms (Fabric/Quilt)",
+      "curseforge_id": 779833,
+      "version_id": "5526954",
+      "version": "Friends&Foes - Flowery Mooblooms 2.0.2"
+    },
+    {
+      "name": "Animal Feeding Trough [Fabric | Forge | Quilt | NeoForge]",
+      "curseforge_id": 445838,
+      "version_id": "5305053",
+      "version": "animal_feeding_trough-1.1.0+1.20.1.jar"
+    },
+    {
+      "name": "Balm (Outdated Versions)",
+      "curseforge_id": 500525,
+      "version_id": "7420614",
+      "version": "balm-fabric-1.20.1-7.3.38.jar"
+    },
+    {
+      "name": "Handcrafted",
+      "curseforge_id": 538214,
+      "version_id": "5118730",
+      "version": "[Fabric] Handcrafted 3.0.6"
+    },
+    {
+      "name": "Archon Renewed",
+      "curseforge_id": 1503259,
+      "version_id": "8171873",
+      "version": "Archon Renewed 1.1.5"
+    },
+    {
+      "name": "River Redux",
+      "curseforge_id": 380548,
+      "version_id": "4587198",
+      "version": "River Redux 0.3.1 for 1.20 Fabric/Quilt"
+    },
+    {
+      "name": "Polymorph (Fabric/Forge/Quilt)",
+      "curseforge_id": 388800,
+      "version_id": "6450979",
+      "version": "polymorph-fabric-0.49.10+1.20.1.jar"
+    },
+    {
+      "name": "Log Begone",
+      "curseforge_id": 623560,
+      "version_id": "4582965",
+      "version": "Log-Begone-Fabric-1.20.1-1.0.8.jar"
+    },
+    {
+      "name": "FTB X EMI Compat",
+      "curseforge_id": 1512841,
+      "version_id": "8615295",
+      "version": "ftbxemicompat-1.0.3.jar"
+    },
+    {
+      "name": "Carry On",
+      "curseforge_id": 274259,
+      "version_id": "4882498",
+      "version": "carryon-fabric-1.20.1-2.1.2.7"
+    },
+    {
+      "name": "Simply Houses",
+      "curseforge_id": 630834,
+      "version_id": "4607369",
+      "version": "[FABRIC] SimplyHouses-1.1.4-1.20.1-fabric"
+    },
+    {
+      "name": "Croptopia",
+      "curseforge_id": 415438,
+      "version_id": "4997461",
+      "version": "Croptopia-1.20.1-FABRIC-3.0.4.jar"
+    },
+    {
+      "name": "Falling Leaves (Fabric)",
+      "curseforge_id": 417510,
+      "version_id": "5240313",
+      "version": "1.15.6 [1.19.4 - 1.20.4]"
+    },
+    {
+      "name": "Skin Layers 3D",
+      "curseforge_id": 521480,
+      "version_id": "7668919",
+      "version": "1.10.2-1.20.1 - Fabric"
+    },
+    {
+      "name": "Language Reload",
+      "curseforge_id": 527334,
+      "version_id": "7213313",
+      "version": "language-reload-1.7.5+1.20.1.jar"
+    },
+    {
+      "name": "Tiny Skeletons",
+      "curseforge_id": 548647,
+      "version_id": "4708827",
+      "version": "[FABRIC] [1.20.1] TinySkeletons-v8.0.1"
+    },
+    {
+      "name": "Block Swap (Fabric)",
+      "curseforge_id": 552471,
+      "version_id": "4598163",
+      "version": "Block Swap-fabric-1.20.1-5.0.0.0.jar"
+    },
+    {
+      "name": "Mindful Darkness",
+      "curseforge_id": 852669,
+      "version_id": "5081355",
+      "version": "[FABRIC] [1.20.1] MindfulDarkness-v8.0.3"
+    },
+    {
+      "name": "Resistance Balancer (Modpack Utils Series)",
+      "curseforge_id": 1121234,
+      "version_id": "6563195",
+      "version": "Resistance Balancer 1.1.0"
+    },
+    {
+      "name": "lazy-language-loader (Fabric)",
+      "curseforge_id": 526391,
+      "version_id": "4572345",
+      "version": "0.3.3 - 1.20 support"
+    },
+    {
+      "name": "Grass Overhaul (Sod)",
+      "curseforge_id": 640973,
+      "version_id": "6142991",
+      "version": "[Fabric/Quilt] Grass Overhaul 1.20.1 v25.01.31"
+    },
+    {
+      "name": "Spell Engine",
+      "curseforge_id": 807653,
+      "version_id": "6009091",
+      "version": "spell_engine-0.15.12+1.20.1.jar"
+    },
+    {
+      "name": "[ETF] Entity Texture Features - [Fabric & Forge]",
+      "curseforge_id": 568563,
+      "version_id": "7623546",
+      "version": "Fabric - 1.20.1 - 7.0.9"
+    },
+    {
+      "name": "Trinkets (Fabric)",
+      "curseforge_id": 341284,
+      "version_id": "5173501",
+      "version": "trinkets-3.7.2.jar"
+    },
+    {
+      "name": "Amendments",
+      "curseforge_id": 896746,
+      "version_id": "7470400",
+      "version": "amendments-1.20-2.2.5-fabric.jar"
+    },
+    {
+      "name": "Almost Unified",
+      "curseforge_id": 633823,
+      "version_id": "7430992",
+      "version": "AlmostUnified-Fabric-1.20.1-0.11.0"
+    },
+    {
+      "name": "Athena",
+      "curseforge_id": 841890,
+      "version_id": "5176880",
+      "version": "[Fabric] Athena 3.1.2"
+    },
+    {
+      "name": "Building Wands",
+      "curseforge_id": 363392,
+      "version_id": "7696857",
+      "version": "Building Wands 3.0.2 - beta - fabric - 1.20.1"
+    },
+    {
+      "name": "Zenith Attributes Renewed",
+      "curseforge_id": 1514461,
+      "version_id": "7958920",
+      "version": "Zenith Attributes Renewed 1.0.3"
+    },
+    {
+      "name": "ItemLocks",
+      "curseforge_id": 304487,
+      "version_id": "7278253",
+      "version": "ItemLocks-Fabric-1.20.1-1.3.12.jar"
+    },
+    {
+      "name": "Recipe Essentials",
+      "curseforge_id": 907856,
+      "version_id": "6202570",
+      "version": "recipeessentials-fabric-1.20.1-4.1.jar"
+    },
+    {
+      "name": "Your Options Shall Be Respected (YOSBR)",
+      "curseforge_id": 374274,
+      "version_id": "4581910",
+      "version": "[Fabric 1.14 - 1.21.10] v0.1.2"
+    },
+    {
+      "name": "The Bumblezone (Fabric)",
+      "curseforge_id": 363949,
+      "version_id": "7670235",
+      "version": "The Bumblezone v7.9.10 (1.20.1 MC Fabric)"
+    },
+    {
+      "name": "Create: Steam 'n' Rails",
+      "curseforge_id": 688231,
+      "version_id": "7758638",
+      "version": "Steam 'n' Rails 1.7.2 Fabric 1.20.1 C6"
+    },
+    {
+      "name": "More RPG Library",
+      "curseforge_id": 923030,
+      "version_id": "8020048",
+      "version": "more_rpg_classes-1.2.19-1.20.1"
+    },
+    {
+      "name": "Iceberg [Fabric]",
+      "curseforge_id": 539382,
+      "version_id": "5838145",
+      "version": "Iceberg-1.20.1-fabric-1.1.25.jar"
+    },
+    {
+      "name": "TerraBlender (Fabric)",
+      "curseforge_id": 565956,
+      "version_id": "6290449",
+      "version": "TerraBlender Fabric 1.20.1-3.0.1.10"
+    },
+    {
+      "name": "Only Excavators",
+      "curseforge_id": 916271,
+      "version_id": "7977634",
+      "version": "OnlyExcavators-1.20.1-1.0.0-Fabric"
+    },
+    {
+      "name": "Supplementaries",
+      "curseforge_id": 412082,
+      "version_id": "7884612",
+      "version": "supplementaries-1.20-3.1.43-fabric.jar"
+    },
+    {
+      "name": "YetAnotherConfigLib",
+      "curseforge_id": 667299,
+      "version_id": "6336639",
+      "version": "3.6.6 for fabric 1.20.1"
+    },
+    {
+      "name": "KleeSlabs (Outdated Versions)",
+      "curseforge_id": 547695,
+      "version_id": "6119983",
+      "version": "kleeslabs-fabric-1.20-15.0.4.jar"
+    },
+    {
+      "name": "More Armor Trims [FABRIC/NEOFORGE]",
+      "curseforge_id": 876103,
+      "version_id": "7170685",
+      "version": "more_armor_trims-1.5.0-1.20.1.jar"
+    },
+    {
+      "name": "Forge Config Screens [Archived]",
+      "curseforge_id": 544048,
+      "version_id": "4672355",
+      "version": "[FABRIC] [1.20.1] ForgeConfigScreens-v8.0.2"
+    },
+    {
+      "name": "Spell Power Attributes",
+      "curseforge_id": 771265,
+      "version_id": "5672350",
+      "version": "spell_power-0.12.0+1.20.1.jar"
+    },
+    {
+      "name": "FTB XMod Compat",
+      "curseforge_id": 889915,
+      "version_id": "6402485",
+      "version": "ftb-xmod-compat-fabric-2.1.3.jar"
+    },
+    {
+      "name": "Lithostitched",
+      "curseforge_id": 936015,
+      "version_id": "6742616",
+      "version": "1.4.11 ~ Fabric 1.20"
+    },
+    {
+      "name": "Essential Mod",
+      "curseforge_id": 546670,
+      "version_id": "8539839",
+      "version": "Essential 1.4.1.1 [Fabric 1.20.1]"
+    },
+    {
+      "name": "Eating Animation [Fabric]",
+      "curseforge_id": 527023,
+      "version_id": "5212742",
+      "version": "[1.20.*] Eating Animation 1.9.61"
+    },
+    {
+      "name": "Chunk Save Fix",
+      "curseforge_id": 1185689,
+      "version_id": "6117706",
+      "version": "Chunk Save Fix - 1.20.1 - 1.0.0"
+    },
+    {
+      "name": "StackDeobfuscator",
+      "curseforge_id": 840896,
+      "version_id": "5511110",
+      "version": "StackDeobfuscator v1.4.3"
+    },
+    {
+      "name": "Immersive Optimization",
+      "curseforge_id": 1163206,
+      "version_id": "8429400",
+      "version": "[Fabric 1.20.1] Immersive Optimization - 0.2.0"
+    },
+    {
+      "name": "Villager Names",
+      "curseforge_id": 345854,
+      "version_id": "6184881",
+      "version": "[Fabric/Forge/Neo] 1.20.1-8.2 | Villager Names"
+    },
+    {
+      "name": "HTP CIT Resewn Optimizer",
+      "curseforge_id": 1475395,
+      "version_id": "7698170",
+      "version": "htp-citoptimizer-1.0.0.jar"
+    },
+    {
+      "name": "Mythic Upgrades",
+      "curseforge_id": 663567,
+      "version_id": "5700925",
+      "version": "Mythic Upgrades 4.2.0 / 1.20.1"
+    },
+    {
+      "name": "Highlight",
+      "curseforge_id": 667245,
+      "version_id": "4671081",
+      "version": "[Fabric] Highlight 2.0.1"
+    },
+    {
+      "name": "Forge Config API Port",
+      "curseforge_id": 547434,
+      "version_id": "6325013",
+      "version": "[FABRIC] [1.20.1] ForgeConfigAPIPort-v8.0.2"
+    },
+    {
+      "name": "Load My F***ing Tags",
+      "curseforge_id": 656346,
+      "version_id": "7084358",
+      "version": "LMFT Fabric 1.1.1 for Minecraft 1.21.9"
+    },
+    {
+      "name": "ChoiceTheorem's Overhauled Village",
+      "curseforge_id": 623908,
+      "version_id": "6459787",
+      "version": "[Fabric]CTOV-3.4.14"
+    },
+    {
+      "name": "Botania (Fabric/Quilt)",
+      "curseforge_id": 421839,
+      "version_id": "8138522",
+      "version": "Botania-1.20.1-453-FABRIC.jar"
+    },
+    {
+      "name": "Common Network",
+      "curseforge_id": 806044,
+      "version_id": "5486135",
+      "version": "common-networking-fabric-1.0.5-1.20.1"
+    },
+    {
+      "name": "Shield Overhaul",
+      "curseforge_id": 637870,
+      "version_id": "6161751",
+      "version": "Shield Overhaul Fabric 1.20.1 | 2.0.4"
+    },
+    {
+      "name": "Advanced Netherite (Fabric)",
+      "curseforge_id": 547881,
+      "version_id": "5401036",
+      "version": "[1.20.1] 2.1.3 - Advanced Netherite (Fabric)"
+    },
+    {
+      "name": "Dynamic RPG Resource Bars",
+      "curseforge_id": 1188180,
+      "version_id": "7213039",
+      "version": "DynamicResourceBars Fabric 0.8.1 for 1.20.1"
+    },
+    {
+      "name": "Lithium (Fabric/NeoForge)",
+      "curseforge_id": 360438,
+      "version_id": "7268114",
+      "version": "Lithium mc1.20.1-0.11.4 for Fabric"
+    },
+    {
+      "name": "YUNG's Better Ocean Monuments (Fabric)",
+      "curseforge_id": 689252,
+      "version_id": "4883005",
+      "version": "[1.20] YUNG's Better Ocean Monuments v3.0.4 (Fabric)"
+    },
+    {
+      "name": "Dynamic Trim",
+      "curseforge_id": 901658,
+      "version_id": "5023431",
+      "version": "dynamictrim-1.4.1-fabric+1.20.1.jar"
+    },
+    {
+      "name": "[Deprecated] Trinkets Compat Layer for Accessories",
+      "curseforge_id": 1005680,
+      "version_id": "5780755",
+      "version": "Trinkets Compat 3.8.1 Layer Beta.14 for 1.20.1"
+    },
+    {
+      "name": "Sortilege",
+      "curseforge_id": 882488,
+      "version_id": "8486605",
+      "version": "Sortilege-1.20.1-9.0.jar"
+    },
+    {
+      "name": "GeckoLib",
+      "curseforge_id": 388172,
+      "version_id": "6920923",
+      "version": "geckolib-fabric-1.20.1-4.7.4.jar"
+    },
+    {
+      "name": "Off Hand Tick Fix",
+      "curseforge_id": 1171190,
+      "version_id": "6050230",
+      "version": "Fabric 1.20.1 | v1.0.0"
+    },
+    {
+      "name": "Trading Post",
+      "curseforge_id": 539057,
+      "version_id": "5057540",
+      "version": "[FABRIC] [1.20.1] TradingPost-v8.0.2"
+    },
+    {
+      "name": "Presence Footsteps",
+      "curseforge_id": 334259,
+      "version_id": "5956100",
+      "version": "PresenceFootsteps-1.10.1+1.20.1.jar"
+    },
+    {
+      "name": "SolLib",
+      "curseforge_id": 1573497,
+      "version_id": "8486461",
+      "version": "sollib-fabric-1.20.1-1.3.jar"
+    },
+    {
+      "name": "Colorwheel Patcher",
+      "curseforge_id": 1285475,
+      "version_id": "7924939",
+      "version": "1.0.5+mc1.20.1-fabric"
+    },
+    {
+      "name": "SmartBrainLib (Forge/Fabric/Quilt)",
+      "curseforge_id": 661293,
+      "version_id": "5654969",
+      "version": "SmartBrainLib Fabric 1.20.1-1.15"
+    },
+    {
+      "name": "Ad Astra",
+      "curseforge_id": 635042,
+      "version_id": "6262034",
+      "version": "[Fabric] Ad Astra 1.15.20"
+    },
+    {
+      "name": "Build Guide",
+      "curseforge_id": 465690,
+      "version_id": "7585935",
+      "version": "Build Guide 0.4.8 - 1.20 & 1.20.1"
+    },
+    {
+      "name": "Paladins & Priests (RPG Series)",
+      "curseforge_id": 856548,
+      "version_id": "6097304",
+      "version": "paladins-1.4.0+1.20.1.jar"
+    },
+    {
+      "name": "AutoTag",
+      "curseforge_id": 618433,
+      "version_id": "4630514",
+      "version": "1.20: AutoTag 2.0.2"
+    },
+    {
+      "name": "Puzzles Lib",
+      "curseforge_id": 495476,
+      "version_id": "6918566",
+      "version": "[FABRIC] [1.20.1] PuzzlesLib-v8.1.33"
+    },
+    {
+      "name": "Cardinal Components API",
+      "curseforge_id": 318449,
+      "version_id": "6064429",
+      "version": "cardinal-components-api-5.2.3.jar"
+    },
+    {
+      "name": "More Mob Variants",
+      "curseforge_id": 695107,
+      "version_id": "5588775",
+      "version": "1.3.1 - Fabric 1.20.1"
+    },
+    {
+      "name": "Kibe Utilities",
+      "curseforge_id": 388832,
+      "version_id": "4648536",
+      "version": "Kibe 1.10.1-BETA"
+    },
+    {
+      "name": "NetherPortalFix (Outdated Versions)",
+      "curseforge_id": 547696,
+      "version_id": "4939732",
+      "version": "netherportalfix-fabric-1.20-13.0.1.jar"
+    },
+    {
+      "name": "Iron Chests: Restocked",
+      "curseforge_id": 498794,
+      "version_id": "4638050",
+      "version": "[Fabric] Iron Chests 5.0.2"
+    },
+    {
+      "name": "Patchouli (Fabric/Quilt)",
+      "curseforge_id": 393236,
+      "version_id": "7731016",
+      "version": "Patchouli-1.20.1-85-FABRIC.jar"
+    },
+    {
+      "name": "Animation Overhaul",
+      "curseforge_id": 1028436,
+      "version_id": "5422339",
+      "version": "[1.20.x-fabric] Animation Overhaul v1.3.1"
+    },
+    {
+      "name": "Crash Assistant",
+      "curseforge_id": 1154099,
+      "version_id": "8422738",
+      "version": "CrashAssistant-fabric-1.19-1.20.1-1.11.11.jar"
+    },
+    {
+      "name": "bad packets",
+      "curseforge_id": 615134,
+      "version_id": "4784394",
+      "version": "[Fabric/Quilt] 0.4.3"
+    },
+    {
+      "name": "MouseTweaks x Accessories Fix",
+      "curseforge_id": 1462896,
+      "version_id": "8291252",
+      "version": "Mouse Tweaks x Accessories Fix 1.4.0"
+    },
+    {
+      "name": "YUNG's Better Mineshafts (Fabric)",
+      "curseforge_id": 373591,
+      "version_id": "4769064",
+      "version": "[1.20] YUNG's Better Mineshafts v4.0.4 (Fabric)"
+    },
+    {
+      "name": "Vitality Fix",
+      "curseforge_id": 1427769,
+      "version_id": "7453471",
+      "version": "vitalityfix-1.0.0.jar"
+    },
+    {
+      "name": "Combat Effects (Modpack Utils Series)",
+      "curseforge_id": 1148519,
+      "version_id": "5940869",
+      "version": "Fabric 1.20.1 | v1.0.0"
+    },
+    {
+      "name": "Bosses of Mass Destruction",
+      "curseforge_id": 438365,
+      "version_id": "4993305",
+      "version": "BOMD-1.7.5-1.20.1.jar"
+    },
+    {
+      "name": "Marium's Soulslike Weaponry",
+      "curseforge_id": 632066,
+      "version_id": "6901268",
+      "version": "[1.20.1] SW-1.3.1 fabric"
+    },
+    {
+      "name": "Dark Utilities",
+      "curseforge_id": 242195,
+      "version_id": "7612438",
+      "version": "DarkUtilities-Fabric-1.20.1-17.0.6.jar"
+    },
+    {
+      "name": "Distraction Free Recipes (EMI / REI / JEI)",
+      "curseforge_id": 1167848,
+      "version_id": "6110176",
+      "version": "DistractionFreeRecipes Fabric 1.2.1 for 1.20.1"
+    },
+    {
+      "name": "Euphoria Patches",
+      "curseforge_id": 915902,
+      "version_id": "8177593",
+      "version": "Euphoria Patcher 1.9.3-r5.8.1-fabric"
+    },
+    {
+      "name": "Macaw's Holidays",
+      "curseforge_id": 930232,
+      "version_id": "7304403",
+      "version": "v1.1.2 / mc1.20.1 - Fabric"
+    },
+    {
+      "name": "Cynosure",
+      "curseforge_id": 1259952,
+      "version_id": "7894326",
+      "version": "Cynosure 0.1.16 Fabric"
+    },
+    {
+      "name": "Explorations",
+      "curseforge_id": 550247,
+      "version_id": "5786324",
+      "version": "explorations-fabric-1.20.1-1.6.1.jar"
+    },
+    {
+      "name": "AppleSkin",
+      "curseforge_id": 248787,
+      "version_id": "7517366",
+      "version": "appleskin-fabric-mc1.20.1-2.5.2.jar"
+    },
+    {
+      "name": "Fast Paintings",
+      "curseforge_id": 883287,
+      "version_id": "5324823",
+      "version": "fastpaintings-1.20-1.2.7-fabric.jar"
+    },
+    {
+      "name": "FerriteCore (Fabric)",
+      "curseforge_id": 459857,
+      "version_id": "4810977",
+      "version": "ferritecore-6.0.1-fabric.jar"
+    },
+    {
+      "name": "Necronomicon API",
+      "curseforge_id": 586157,
+      "version_id": "5772682",
+      "version": "Necronomicon 1.6.0 "
+    },
+    {
+      "name": "Searchables",
+      "curseforge_id": 858542,
+      "version_id": "5284014",
+      "version": "Searchables-fabric-1.20.1-1.0.3.jar"
+    },
+    {
+      "name": "Idwtialsimmoedm",
+      "curseforge_id": 629373,
+      "version_id": "5456303",
+      "version": "[1.20+] Idwtialsimmoedm - 0.3.1"
+    },
+    {
+      "name": "MVS - Moog's Voyager Structures",
+      "curseforge_id": 656977,
+      "version_id": "8029470",
+      "version": "MVS 5.0.6-1.20 [UNIVERSAL]"
+    },
+    {
+      "name": "Chat Heads",
+      "curseforge_id": 407206,
+      "version_id": "8486525",
+      "version": "[Fabric 1.20.1] 0.15.3"
+    },
+    {
+      "name": "Moonlight Lib",
+      "curseforge_id": 499980,
+      "version_id": "7664873",
+      "version": "moonlight-1.20-2.16.28-fabric.jar"
+    },
+    {
+      "name": "Fabric API",
+      "curseforge_id": 306612,
+      "version_id": "8443275",
+      "version": "[1.20.1] Fabric API 0.92.11+1.20.1"
+    },
+    {
+      "name": "Promenade",
+      "curseforge_id": 399648,
+      "version_id": "4794732",
+      "version": "Promenade v4.1.1"
+    },
+    {
+      "name": "Things [Fabric]",
+      "curseforge_id": 456151,
+      "version_id": "4921204",
+      "version": "[1.20+] Things - 0.3.3"
+    },
+    {
+      "name": "Shield API",
+      "curseforge_id": 1048720,
+      "version_id": "5520298",
+      "version": "ShieldAPI-1.0.1+1.20.1.jar"
+    },
+    {
+      "name": "Cable Fixes for Prom",
+      "curseforge_id": 1484275,
+      "version_id": "8327579",
+      "version": "cable-fixes-for-prom-1.1.0.jar"
+    },
+    {
+      "name": "Custom Entity Attributes (Modpack Utils Series)",
+      "curseforge_id": 952442,
+      "version_id": "5773159",
+      "version": "CEA v1.0.0 | MC 1.20.X"
+    },
+    {
+      "name": "Combat Roll [Fabric & Forge]",
+      "curseforge_id": 678036,
+      "version_id": "5625934",
+      "version": "combatroll-fabric-1.3.3+1.20.1.jar"
+    },
+    {
+      "name": "Sodium/Embeddium Options API",
+      "curseforge_id": 1103431,
+      "version_id": "6100811",
+      "version": "SodiumOptionsAPI Fabric 1.0.10 for 1.20.1"
+    },
+    {
+      "name": "Xaero's World Map",
+      "curseforge_id": 317780,
+      "version_id": "7598472",
+      "version": "fabric-1.20.1-1.40.11.jar"
+    },
+    {
+      "name": "MmmMmmMmmMmm (Target Dummy)",
+      "curseforge_id": 225738,
+      "version_id": "7963207",
+      "version": "dummmmmmy-1.20-2.0.12-fabric.jar"
+    },
+    {
+      "name": "LambDynamicLights",
+      "curseforge_id": 393442,
+      "version_id": "7010532",
+      "version": "LambDynamicLights 4.4.0 (1.20.1)"
+    },
+    {
+      "name": "ANARCHY  Minibosses (RPG Series Plus)",
+      "curseforge_id": 1191517,
+      "version_id": "8472168",
+      "version": "rpg-minibosses-1.9.2+1.20.1.jar"
+    },
+    {
+      "name": "Load My Resources [Fabric]",
+      "curseforge_id": 534835,
+      "version_id": "4583333",
+      "version": "[Fabric] v1.0.4-1 MC 1.20-1.20.1"
+    },
+    {
+      "name": "FakerLib",
+      "curseforge_id": 853197,
+      "version_id": "6827475",
+      "version": "fakerlib-0.1.5"
+    },
+    {
+      "name": "Custom Item Attributes (Modpack Utils Series)",
+      "curseforge_id": 965954,
+      "version_id": "5610924",
+      "version": "CIA Fabric 1.20.X | v2.0.0"
+    },
+    {
+      "name": "BetterEnd Crashed Ships Tweaks",
+      "curseforge_id": 1018676,
+      "version_id": "5343797",
+      "version": "betterend-crashed-ships-1.0.0.jar"
+    },
+    {
+      "name": "Estrogen",
+      "curseforge_id": 850410,
+      "version_id": "7531003",
+      "version": "Estrogen 5.0.8+1.20.1 Fabric"
+    },
+    {
+      "name": "Better Than Mending",
+      "curseforge_id": 264738,
+      "version_id": "3213798",
+      "version": "MC 1.16-1.20 FABRIC - BetterThanMending 1.3.0"
+    },
+    {
+      "name": "When Dungeons Arise - Fabric!",
+      "curseforge_id": 511812,
+      "version_id": "4983906",
+      "version": "DungeonsArise-1.20.x-2.1.58-fabric-release.jar"
+    },
+    {
+      "name": "Chipped",
+      "curseforge_id": 456956,
+      "version_id": "5813139",
+      "version": "[Fabric] Chipped 3.0.7"
+    },
+    {
+      "name": "Item Obliterator (Modpack Utils Series)",
+      "curseforge_id": 835861,
+      "version_id": "5424643",
+      "version": "[Fabric/Quilt 1.20.1] Item Obliterator v2.3.0"
+    },
+    {
+      "name": "EMIffect (Status Effects EMI Plugin)",
+      "curseforge_id": 735528,
+      "version_id": "6840839",
+      "version": "emiffect-fabric-2.1.5+mc1.20.1.jar"
+    },
+    {
+      "name": "Too Fast",
+      "curseforge_id": 550678,
+      "version_id": "4628061",
+      "version": "toofast-fabric-1.20-1.2.0.jar"
+    },
+    {
+      "name": "Integrated API",
+      "curseforge_id": 817709,
+      "version_id": "7921667",
+      "version": "integrated_api-1.7.4+1.20.1-fabric.jar"
+    },
+    {
+      "name": "Zenith Renewed",
+      "curseforge_id": 1514479,
+      "version_id": "8187964",
+      "version": "Zenith Renewed 2.0.2"
+    },
+    {
+      "name": "Packet Fixer",
+      "curseforge_id": 689467,
+      "version_id": "7221527",
+      "version": "Packet Fixer 3.3.1"
+    },
+    {
+      "name": "Wizards (RPG Series)",
+      "curseforge_id": 734325,
+      "version_id": "6097310",
+      "version": "wizards-1.4.1+1.20.1.jar"
+    },
+    {
+      "name": "Konkrete [Fabric] [MOVED TO NEW PAGE]",
+      "curseforge_id": 416797,
+      "version_id": "5142502",
+      "version": "[Fabric] v1.8.1 MC 1.20.1"
+    },
+    {
+      "name": "Sodium Extra",
+      "curseforge_id": 447673,
+      "version_id": "6298804",
+      "version": "Sodium Extra 0.5.9 for Minecraft 1.20.1"
+    },
+    {
+      "name": "CIT Resewn",
+      "curseforge_id": 521427,
+      "version_id": "5821272",
+      "version": "v1.2.2+1.20.1"
+    },
+    {
+      "name": "Runes",
+      "curseforge_id": 775518,
+      "version_id": "5446151",
+      "version": "runes-0.9.13+1.20.1.jar"
+    },
+    {
+      "name": "Pehkui",
+      "curseforge_id": 319596,
+      "version_id": "5419266",
+      "version": "[1.14.4 - 1.21] Pehkui 3.8.3"
+    },
+    {
+      "name": "Sodium",
+      "curseforge_id": 394468,
+      "version_id": "6260639",
+      "version": "Sodium 0.5.13 for Fabric"
+    },
+    {
+      "name": "Collective",
+      "curseforge_id": 342584,
+      "version_id": "7148968",
+      "version": "[Fabric/Forge/Neo] 1.20.1-8.13 | Collective"
+    },
+    {
+      "name": "Axolotl Bucket Fix",
+      "curseforge_id": 495453,
+      "version_id": "4582736",
+      "version": "axolotl-item-fix-1.1.7.jar"
+    },
+    {
+      "name": "Mouse Tweaks",
+      "curseforge_id": 60089,
+      "version_id": "5230279",
+      "version": "[1.20–1.20.4 Fabric] Mouse Tweaks 2.26"
+    },
+    {
+      "name": "Obscure API [Fabric Edition]",
+      "curseforge_id": 891234,
+      "version_id": "4656918",
+      "version": "Obscure API 16"
+    },
+    {
+      "name": "JamLib",
+      "curseforge_id": 623764,
+      "version_id": "6421939",
+      "version": "V1.3.5+1.20.1 (Fabric 1.20.1)"
+    },
+    {
+      "name": "Visuality",
+      "curseforge_id": 521126,
+      "version_id": "4760021",
+      "version": "[1.20] Visuality 0.7.1"
+    },
+    {
+      "name": "AAA Particles",
+      "curseforge_id": 979809,
+      "version_id": "8402751",
+      "version": "aaa_particles-fabric-1.20.1-2.2.3.jar"
+    },
+    {
+      "name": "YUNG's Better Nether Fortresses (Fabric)",
+      "curseforge_id": 817666,
+      "version_id": "5193464",
+      "version": "[1.20] YUNG's Better Nether Fortresses v2.0.6 (Fabric)"
+    },
+    {
+      "name": "Nature's Compass",
+      "curseforge_id": 252848,
+      "version_id": "7892950",
+      "version": "NaturesCompass-1.20.1-2.6.0-fabric.jar"
+    }
+  ],
+  "resourcepacks": [
+    {
+      "name": "Traveler's Comfort | Datapack",
+      "curseforge_id": 963055,
+      "version_id": "5038533",
+      "version": "TravelersComfortCompat.zip"
+    },
+    {
+      "name": "[HTP] HandCrafted | Spanish Translation Pack",
+      "curseforge_id": 1335567,
+      "version_id": "6932668",
+      "version": "HTP-Handcrafted-TranslationPack-v1.0.0.zip"
+    },
+    {
+      "name": "Decorative Blocks PT-BR Translation (Unofficial)",
+      "curseforge_id": 1380101,
+      "version_id": "7194449",
+      "version": "Decorative_blocks-PT-BR-v1.zip"
+    },
+    {
+      "name": "[HTP] Oxidized | Spanish Translation Pack",
+      "curseforge_id": 1335982,
+      "version_id": "6934842",
+      "version": "HTP-Oxidized-TranslationPack-v1.0.0.zip"
+    },
+    {
+      "name": "Naturalist Lite PT-BR Translation (Unofficial)",
+      "curseforge_id": 1380120,
+      "version_id": "7194490",
+      "version": "Naturalist-PT-BR-v1.zip"
+    },
+    {
+      "name": "Marium's Soulslike Weaponry PT-BR Translation (Unofficial)",
+      "curseforge_id": 1380130,
+      "version_id": "7194525",
+      "version": "Soulsweapons-PT-BR-v1.zip"
+    },
+    {
+      "name": "Blades of Majestica",
+      "curseforge_id": 861104,
+      "version_id": "6231973",
+      "version": "Prominence Edition.zip"
+    },
+    {
+      "name": "Ashen Custom Mobs",
+      "curseforge_id": 1028439,
+      "version_id": "5529826",
+      "version": "Ashen Custom Mobs v1.2 MC1.20.1"
+    },
+    {
+      "name": "Amne's More RPG Library Spanish Translations",
+      "curseforge_id": 1618476,
+      "version_id": "8474479",
+      "version": "MoreRpgClasses-Spanish-v1.0.0.zip"
+    },
+    {
+      "name": "Powah! PT-BR Translation (Unofficial)",
+      "curseforge_id": 1380126,
+      "version_id": "7194501",
+      "version": "Powah-PT-BR-v1.zip"
+    },
+    {
+      "name": "Thaumon PT-BR Translation (Unofficial)",
+      "curseforge_id": 1380100,
+      "version_id": "7194448",
+      "version": "Thaumon-PT-BR-v1.zip"
+    },
+    {
+      "name": "Ashen 16x Mod Compatibility [DEPRECATED] ",
+      "curseforge_id": 1028450,
+      "version_id": "5424221",
+      "version": "Ashen Mod Compatibility 1.20.1"
+    },
+    {
+      "name": "Amne's ME Requester Spanish Translations",
+      "curseforge_id": 1619047,
+      "version_id": "8479570",
+      "version": "Merequester-Spanish-v1.0.0.zip"
+    },
+    {
+      "name": "Ashen 16x",
+      "curseforge_id": 864112,
+      "version_id": "7806813",
+      "version": "Ashen 16x v1.15.1 MC1.20.1"
+    },
+    {
+      "name": "Ocean's Delight PT-BR Translation (Unofficial)",
+      "curseforge_id": 1380123,
+      "version_id": "7194494",
+      "version": "Oceansdelight-PT-BR-v1.zip"
+    },
+    {
+      "name": "[HTP] Eldritch End | Spanish Translation Pack",
+      "curseforge_id": 1335979,
+      "version_id": "6934829",
+      "version": "HTP-Eldritch_end-TranslationPack-v1.0.0.zip"
+    },
+    {
+      "name": "[Let's Do] Vinery PT-BR Translation (Unofficial)",
+      "curseforge_id": 1380108,
+      "version_id": "7194467",
+      "version": "Vinery-PT-BR-v1.zip"
+    },
+    {
+      "name": "Create Crafts & Additions PT-BR Translation (Unofficial)",
+      "curseforge_id": 1380097,
+      "version_id": "7194438",
+      "version": "Createaddition-PT-BR-v1.zip"
+    },
+    {
+      "name": "Amne's AdventureZ Spanish Translations",
+      "curseforge_id": 1641796,
+      "version_id": "8588569",
+      "version": "Adventurez-Spanish-v1.0.0.zip"
+    },
+    {
+      "name": "[HTP] Friends&Foes - Beekeeper Hut | Spanish Translation Pack",
+      "curseforge_id": 1483507,
+      "version_id": "7743241",
+      "version": "HTP-Friends&foes - beekeeper hut-TranslationPack-v1.0.0.zip"
+    },
+    {
+      "name": "Amne's Mythic Mounts Spanish Translations",
+      "curseforge_id": 1629668,
+      "version_id": "8530156",
+      "version": "Mythicmounts-Spanish-v1.0.0.zip"
+    },
+    {
+      "name": "Ashen + Regions Unexplored Support",
+      "curseforge_id": 1096464,
+      "version_id": "5690860",
+      "version": "Ashen + Regions Unexplored Support v1.0 MC1.20.1"
+    },
+    {
+      "name": "Stoneworks PT-BR Translation (Unofficial)",
+      "curseforge_id": 1380098,
+      "version_id": "7194442",
+      "version": "Stoneworks-PT-BR-v1.zip"
+    },
+    {
+      "name": "[HTP] Winterly | Spanish Translation Pack",
+      "curseforge_id": 1335972,
+      "version_id": "6934786",
+      "version": "HTP-Winterly-TranslationPack-v1.0.0.zip"
+    },
+    {
+      "name": "[HTP] Nether Depths Upgrade | Spanish Translation Pack",
+      "curseforge_id": 1483510,
+      "version_id": "7743255",
+      "version": "HTP-Nether depths upgrade-TranslationPack-v1.0.0.zip"
+    },
+    {
+      "name": "Create: Steam 'n' Rails PT-BR Translation (Unofficial)",
+      "curseforge_id": 1395867,
+      "version_id": "7282101",
+      "version": "railways-PT-BR-v1.zip"
+    },
+    {
+      "name": "Rogues & Warriors (RPG Series) PT-BR Translation (Unofficial)",
+      "curseforge_id": 1380128,
+      "version_id": "7194515",
+      "version": "Rogues-PT-BR-v1.zip"
+    },
+    {
+      "name": "[HTP] YUNG's Better End Island (Fabric) | Spanish Translation Pack",
+      "curseforge_id": 1335966,
+      "version_id": "6934773",
+      "version": "HTP-Betterendisland-TranslationPack-v1.0.0.zip"
+    },
+    {
+      "name": "Ashen + Prominence Original Soundtrack Support",
+      "curseforge_id": 1117593,
+      "version_id": "5793482",
+      "version": "Ashen + Prominence Original Soundtrack Support v1.0 MC1.20.1"
+    },
+    {
+      "name": "[HTP] Create: Steam 'n' Rails | Spanish Translation Pack",
+      "curseforge_id": 1484319,
+      "version_id": "7747442",
+      "version": "HTP-Create steam n rails-TranslationPack-v1.0.0.zip"
+    },
+    {
+      "name": "[HTP] Mutant Monsters| Spanish Translation Pack",
+      "curseforge_id": 1484358,
+      "version_id": "7747660",
+      "version": "HTP-Mutant monsters-TranslationPack-v1.0.0.zip"
+    },
+    {
+      "name": "Prominence Fancy Server Listing",
+      "curseforge_id": 963044,
+      "version_id": "5068299",
+      "version": "ProminenceFancyServerListing.zip"
+    },
+    {
+      "name": "Amne's Iron Chests Spanish Translation",
+      "curseforge_id": 1600787,
+      "version_id": "8384537",
+      "version": "Ironchests-Spanish-v1.0.0.zip"
+    },
+    {
+      "name": "Promenade PT-BR Translation (Unofficial)",
+      "curseforge_id": 1380087,
+      "version_id": "7194413",
+      "version": "Promenade-PT-BR-v1.zip"
+    },
+    {
+      "name": "Create: Estrogen PT-BR Translation (Unofficial)",
+      "curseforge_id": 1380106,
+      "version_id": "7194456",
+      "version": "Estrogen-PT-BR-v1.zip"
+    },
+    {
+      "name": "Convenient Decor PT-BR Translation (Unofficial)",
+      "curseforge_id": 1380051,
+      "version_id": "7194345",
+      "version": "Convenientdecor-PT-BR-v1.zip"
+    },
+    {
+      "name": "Winterly PT-BR Translation (Unofficial)",
+      "curseforge_id": 1380134,
+      "version_id": "7194540",
+      "version": "Winterly-PT-BR-v1.zip"
+    },
+    {
+      "name": "MCDA x RPG Series",
+      "curseforge_id": 1230895,
+      "version_id": "6361413",
+      "version": "MCDA_x_RPG_Series.zip"
+    },
+    {
+      "name": "Mythic Mounts PT-BR Translation (Unofficial)",
+      "curseforge_id": 1380077,
+      "version_id": "7194384",
+      "version": "Mythicmounts-PT-BR-v1.zip"
+    },
+    {
+      "name": "[HTP] YUNG's Better Nether Fortresses (Fabric) | Spanish Translation Pack",
+      "curseforge_id": 1335968,
+      "version_id": "6934778",
+      "version": "HTP-Betterfortresses-TranslationPack-v1.0.0.zip"
+    },
+    {
+      "name": "Sky Villages - Supplementaries Compat",
+      "curseforge_id": 920761,
+      "version_id": "4796879",
+      "version": "SkyVillages-SupplementariesCompat-1.20.1-1.0.3.1.zip"
+    },
+    {
+      "name": "Prominent UI x Mandala's GUI",
+      "curseforge_id": 963049,
+      "version_id": "5038504",
+      "version": "Mandala_x_Prominent_UI.zip"
+    },
+    {
+      "name": "Ashen + Visuality Support",
+      "curseforge_id": 1096521,
+      "version_id": "5717694",
+      "version": "Ashen + Visuality Support v1.1 MC1.20.1"
+    },
+    {
+      "name": "Wizards (RPG Series) PT-BR Translation (Unofficial)",
+      "curseforge_id": 1380111,
+      "version_id": "7194470",
+      "version": "Wizards-PT-BR-v1.zip"
+    },
+    {
+      "name": "Handcrafted PT-BR Translation (Unofficial)",
+      "curseforge_id": 1380072,
+      "version_id": "7194375",
+      "version": "Handcrafted-PT-BR-v1.zip"
+    },
+    {
+      "name": "[HTP] Trading Post | Spanish Translation Pack",
+      "curseforge_id": 1335600,
+      "version_id": "6932863",
+      "version": "HTP-Tradingpost-TranslationPack-v1.0.0.zip"
+    },
+    {
+      "name": "Amne's AE2WTLib Spanish Translations",
+      "curseforge_id": 1604203,
+      "version_id": "8402677",
+      "version": "Ae2wtlib-Spanish-v1.0.0.zip"
+    },
+    {
+      "name": "Philip's Ruins PT-BR Translation (Unofficial)",
+      "curseforge_id": 1380086,
+      "version_id": "7194411",
+      "version": "Philipsruins-PT-BR-v1.zip"
+    },
+    {
+      "name": "Tiered Spellbooks",
+      "curseforge_id": 1230893,
+      "version_id": "6361405",
+      "version": "Tiered_Spellbooks.zip"
+    },
+    {
+      "name": "Create: Applied Energistics 2",
+      "curseforge_id": 1010576,
+      "version_id": "5299593",
+      "version": "Create_Applied_Energistics_2.zip"
+    },
+    {
+      "name": "Amne's Mythic Upgrades Spanish Translations",
+      "curseforge_id": 1641284,
+      "version_id": "8586296",
+      "version": "Mythicupgrades-Spanish-v1.0.0.zip"
+    },
+    {
+      "name": "Regions Unexplored PT-BR Translation (Unofficial)",
+      "curseforge_id": 1380127,
+      "version_id": "7194505",
+      "version": "Regions_unexplored-PT-BR-v1.zip"
+    },
+    {
+      "name": "The Graveyard PT-BR Translation (Unofficial)",
+      "curseforge_id": 1380110,
+      "version_id": "7194469",
+      "version": "Graveyard-PT-BR-v1.zip"
+    },
+    {
+      "name": "[HTP] Extended AE | Spanish Translation Pack",
+      "curseforge_id": 1335931,
+      "version_id": "6934566",
+      "version": "HTP-Extendedae-TranslationPack-v1.0.0.zip"
+    },
+    {
+      "name": "Mim1q's Derelict PT-BR Translation (Unofficial)",
+      "curseforge_id": 1380058,
+      "version_id": "7194363",
+      "version": "Derelict-PT-BR-v1.zip"
+    },
+    {
+      "name": "End's Delight PT-BR Translation (Unofficial)",
+      "curseforge_id": 1380062,
+      "version_id": "7194365",
+      "version": "Ends_delight-PT-BR-v1.zip"
+    },
+    {
+      "name": "[HTP] MC Dungeons Armors | Spanish Translation Pack",
+      "curseforge_id": 1335962,
+      "version_id": "6934762",
+      "version": "HTP-Mcda-TranslationPack-v1.0.0.zip"
+    },
+    {
+      "name": "[HTP] Archers Expansion (More RPG Classes) | Spanish Translation Pack",
+      "curseforge_id": 1335951,
+      "version_id": "6934719",
+      "version": "HTP-Archers_expansion-TranslationPack-v1.0.0.zip"
+    },
+    {
+      "name": "Amne's Archers Expansion Spanish Translations",
+      "curseforge_id": 1627748,
+      "version_id": "8520664",
+      "version": "ArchersExpansion-Spanish-v1.0.0.zip"
+    },
+    {
+      "name": "Applied Botanics Addon PT-BR Translation (Unofficial)",
+      "curseforge_id": 1380043,
+      "version_id": "7194317",
+      "version": "Appbot-PT-BR-v1.zip"
+    },
+    {
+      "name": "[HTP] More RPG classes | Spanish Translation Pack",
+      "curseforge_id": 1380007,
+      "version_id": "7194241",
+      "version": "HTP-More_rpg_classes-TranslationPack-v1.0.0.zip"
+    },
+    {
+      "name": "VillagersPlus (FORGE) PT-BR Translation (Unofficial)",
+      "curseforge_id": 1380104,
+      "version_id": "7194453",
+      "version": "Villagersplus-PT-BR-v1.zip"
+    },
+    {
+      "name": "[HTP] Accessories | Spanish Translation Pack",
+      "curseforge_id": 1104926,
+      "version_id": "5734187",
+      "version": "HTP-Accessories-TranslationPack-v1.0.0.zip"
+    },
+    {
+      "name": "Runic Grimoire Remover | Datapack",
+      "curseforge_id": 963059,
+      "version_id": "5038540",
+      "version": "RunicGrimoireDisabler.zip"
+    },
+    {
+      "name": "Amne's HerbalBrews Spanish Translations",
+      "curseforge_id": 1639929,
+      "version_id": "8579844",
+      "version": "Herbalbrews-Spanish-v1.0.0.zip"
+    },
+    {
+      "name": "Supplementaries PT-BR Translation (Unofficial)",
+      "curseforge_id": 1380131,
+      "version_id": "7194534",
+      "version": "Supplementaries-PT-BR-v1.zip"
+    },
+    {
+      "name": "[HTP] Tierify | Spanish Translation Pack",
+      "curseforge_id": 1335604,
+      "version_id": "6932892",
+      "version": "HTP-Tierify-TranslationPack-v1.0.0.zip"
+    },
+    {
+      "name": "[HTP] Things | Spanish Translation Pack",
+      "curseforge_id": 1335602,
+      "version_id": "6932877",
+      "version": "HTP-Things-TranslationPack-v1.0.0.zip"
+    },
+    {
+      "name": "Ashen Custom Mobs x Fresh Animations",
+      "curseforge_id": 1028445,
+      "version_id": "5529835",
+      "version": "Ashen Custom Mobs x Fresh Animations v1.3 MC1.20.1"
+    },
+    {
+      "name": "[HTP] Windchimes | Spanish Translation Pack",
+      "curseforge_id": 1335596,
+      "version_id": "6932855",
+      "version": "HTP-Windchimes-TranslationPack-v1.0.0.zip"
+    },
+    {
+      "name": "[HTP] Alloy Forgery | Spanish Translation Pack",
+      "curseforge_id": 1335988,
+      "version_id": "6934883",
+      "version": "HTP-Alloy_forgery-TranslationPack-v1.0.0.zip"
+    },
+    {
+      "name": "Amne's Archon Renewed Spanish Translations",
+      "curseforge_id": 1646312,
+      "version_id": "8612672",
+      "version": "Archon-Spanish-v1.0.0.zip"
+    },
+    {
+      "name": "Archon Reforged",
+      "curseforge_id": 1349971,
+      "version_id": "7012532",
+      "version": "Archon Reforged.zip"
+    },
+    {
+      "name": "Ashen + Advanced Netherite Support",
+      "curseforge_id": 1096459,
+      "version_id": "5690846",
+      "version": "Ashen + Advanced Netherite Support v1.0 MC1.20.1"
+    },
+    {
+      "name": "Ad Astra PT-BR Translation (Unofficial)",
+      "curseforge_id": 1380030,
+      "version_id": "7194288",
+      "version": "Ad_astra-PT-BR-v1.zip"
+    },
+    {
+      "name": "Amne's Create: Copycats+ Spanish Translations",
+      "curseforge_id": 1623515,
+      "version_id": "8499810",
+      "version": "Copycats-Spanish-v1.0.0.zip"
+    },
+    {
+      "name": "Sky Villages - Waystones Compat",
+      "curseforge_id": 920757,
+      "version_id": "4787119",
+      "version": "[FABRIC WAYSTONES] SkyVillages-WaystonesCompat-1.20.1-1.0.3-fabric"
+    },
+    {
+      "name": "Spellblades and Such (Spell Engine) PT-BR Translation (Unofficial)",
+      "curseforge_id": 1380092,
+      "version_id": "7194422",
+      "version": "Spellbladenext-PT-BR-v1.zip"
+    },
+    {
+      "name": "[Let's Do] HerbalBrews PT-BR Translation (Unofficial)",
+      "curseforge_id": 1380113,
+      "version_id": "7194476",
+      "version": "Herbalbrews-PT-BR-v1.zip"
+    },
+    {
+      "name": "BetterNether PT-BR Translation (Unofficial)",
+      "curseforge_id": 1380047,
+      "version_id": "7194335",
+      "version": "Betternether-PT-BR-v1.zip"
+    },
+    {
+      "name": "Prominence II | IronChest Retexture",
+      "curseforge_id": 1154341,
+      "version_id": "5967714",
+      "version": "12_Prominence_2_IrCh.zip"
+    },
+    {
+      "name": "[HTP] The Graveyard | Spanish Translation Pack",
+      "curseforge_id": 1335946,
+      "version_id": "6934689",
+      "version": "HTP-Graveyard-TranslationPack-v1.0.0.zip"
+    },
+    {
+      "name": "Amne's Death Knights (RPG Series) Spanish Translations",
+      "curseforge_id": 1630458,
+      "version_id": "8533382",
+      "version": "DeathKnights-Spanish-v1.0.0.zip"
+    },
+    {
+      "name": "Amne's Quartzelv Spanish Translations",
+      "curseforge_id": 1600798,
+      "version_id": "8384580",
+      "version": "Quartzelv-Spanish-v1.0.0.zip"
+    },
+    {
+      "name": "Ashen Simple Foliage",
+      "curseforge_id": 1028456,
+      "version_id": "6663340",
+      "version": "Ashen Simple Foliage v1.3"
+    },
+    {
+      "name": "Prominence's Custom Lootr Chests",
+      "curseforge_id": 965614,
+      "version_id": "5052991",
+      "version": "Prominence-Custom-Lootr.zip"
+    },
+    {
+      "name": "[HTP] Thaumon | Spanish Translation Pack",
+      "curseforge_id": 1335611,
+      "version_id": "6932919",
+      "version": "HTP-Thaumon-TranslationPack-v1.0.0.zip"
+    },
+    {
+      "name": "Amne's Dark Utilities Spanish Translations",
+      "curseforge_id": 1640432,
+      "version_id": "8582139",
+      "version": "Darkutils-Spanish-v1.0.0.zip"
+    },
+    {
+      "name": "Eldritch End PT-BR Translation (Unofficial)",
+      "curseforge_id": 1380102,
+      "version_id": "7194451",
+      "version": "Eldritch_end-PT-BR-v1.zip"
+    },
+    {
+      "name": "Zenith PT-BR Translation (Unofficial)",
+      "curseforge_id": 1380135,
+      "version_id": "7194544",
+      "version": "Zenith-PT-BR-v1.zip"
+    },
+    {
+      "name": "BetterEnd PT-BR Translation (Unofficial)",
+      "curseforge_id": 1380045,
+      "version_id": "7194330",
+      "version": "Betterend-PT-BR-v1.zip"
+    },
+    {
+      "name": "[HTP] Zenith Attributes | Spanish Translation Pack",
+      "curseforge_id": 1380005,
+      "version_id": "7194236",
+      "version": "HTP-Zenith_attributes-TranslationPack-v1.0.0.zip"
+    },
+    {
+      "name": "Death Knights (RPG Series) PT-BR Translation (Unofficial)",
+      "curseforge_id": 1380054,
+      "version_id": "7194353",
+      "version": "Death_knights-PT-BR-v1.zip"
+    },
+    {
+      "name": "Gamer Axe Rebalance | Datapack",
+      "curseforge_id": 963063,
+      "version_id": "5038564",
+      "version": "GamerAxeRebalance.zip"
+    },
+    {
+      "name": "[HTP] MEGA Cells | Spanish Translation Pack",
+      "curseforge_id": 1335571,
+      "version_id": "6932683",
+      "version": "HTP-Megacells-TranslationPack-v1.0.0.zip"
+    },
+    {
+      "name": "Deeper and Darker PT-BR Translation (Unofficial)",
+      "curseforge_id": 1380057,
+      "version_id": "7194361",
+      "version": "Deeperdarker-PT-BR-v1.zip"
+    },
+    {
+      "name": "Amne's JustHammers Spanish Translations",
+      "curseforge_id": 1600749,
+      "version_id": "8384399",
+      "version": "Justhammers-Spanish-v1.0.0.zip"
+    },
+    {
+      "name": "[HTP] Croptopia | Spanish Translation Pack",
+      "curseforge_id": 1335608,
+      "version_id": "6932910",
+      "version": "HTP-Croptopia-TranslationPack-v1.0.0.zip"
+    },
+    {
+      "name": "[HTP] MC Dungeons Weapons | Spanish Translation Pack",
+      "curseforge_id": 1335586,
+      "version_id": "6932813",
+      "version": "HTP-Mcdw-TranslationPack-v1.0.0.zip"
+    },
+    {
+      "name": "Enhanced Boss Bars",
+      "curseforge_id": 580036,
+      "version_id": "5420263",
+      "version": "[1.4.1] Enhanced Boss Bars"
+    },
+    {
+      "name": "[HTP] Spell Power Attributes | Spanish Translation Pack",
+      "curseforge_id": 966998,
+      "version_id": "5060621",
+      "version": "HTP-Spell_power-TranslationPack-vunknown.zip"
+    },
+    {
+      "name": "[HTP] Industrial Revolution | Spanish Translation Pack",
+      "curseforge_id": 1380016,
+      "version_id": "7194258",
+      "version": "HTP-Industrial revolution-TranslationPack-v1.0.0.zip"
+    },
+    {
+      "name": "JustHammers PT-BR Translation (Unofficial)",
+      "curseforge_id": 1380114,
+      "version_id": "7194480",
+      "version": "Justhammers-PT-BR-v1.zip"
+    },
+    {
+      "name": "Expanded Delight PT-BR Translation (Unofficial)",
+      "curseforge_id": 1380064,
+      "version_id": "7194366",
+      "version": "Expandeddelight-PT-BR-v1.zip"
+    },
+    {
+      "name": "[Let's Do] Brewery PT-BR Translation (Unofficial)",
+      "curseforge_id": 1380050,
+      "version_id": "7194342",
+      "version": "Brewery-PT-BR-v1.zip"
+    },
+    {
+      "name": "[HTP] Minecells | Spanish Translation Pack",
+      "curseforge_id": 966846,
+      "version_id": "5059712",
+      "version": "Minecells en Español | Revisión 1.0.0"
+    },
+    {
+      "name": "Wraith Waystones PT-BR Translation (Unofficial)",
+      "curseforge_id": 1380069,
+      "version_id": "7194369",
+      "version": "Fwaystones-PT-BR-v1.zip"
+    },
+    {
+      "name": "Amne's Transmog Spanish Translations",
+      "curseforge_id": 1608109,
+      "version_id": "8421571",
+      "version": "Transmog-Spanish-v1.0.0.zip"
+    },
+    {
+      "name": "Amne's Philip's Ruins Spanish Translations",
+      "curseforge_id": 1622433,
+      "version_id": "8495097",
+      "version": "Philipsruins-Spanish-v1.0.0.zip"
+    },
+    {
+      "name": "[HTP] Better Archeology | Spanish Translation Pack",
+      "curseforge_id": 966855,
+      "version_id": "5059784",
+      "version": "HTP-Betterarcheology-TranslationPack-v1.0.0.zip"
+    },
+    {
+      "name": "Paladins & Priests (RPG Series) PT-BR Translation (Unofficial)",
+      "curseforge_id": 1380124,
+      "version_id": "7194500",
+      "version": "Paladins-PT-BR-v1.zip"
+    },
+    {
+      "name": "Simply Swords x Ashen Compatibility",
+      "curseforge_id": 1583552,
+      "version_id": "8295723",
+      "version": "simplyswordsashen.zip"
+    },
+    {
+      "name": "Amne's Farmer’s Knives Spanish Translations",
+      "curseforge_id": 1620695,
+      "version_id": "8486223",
+      "version": "Farmersknives-Spanish-v1.0.0.zip"
+    },
+    {
+      "name": "[HTP] Mythic Upgrade | Spanish Translation Pack",
+      "curseforge_id": 1380017,
+      "version_id": "7194263",
+      "version": "HTP-Mythic upgrade-TranslationPack-v1.0.0.zip"
+    },
+    {
+      "name": "Droppable Iron Barrels Fix",
+      "curseforge_id": 1230904,
+      "version_id": "6361438",
+      "version": "Droppable_Iron_Barrels_Fix.zip"
+    },
+    {
+      "name": "Kibe Utilities PT-BR Translation (Unofficial)",
+      "curseforge_id": 1380117,
+      "version_id": "7194483",
+      "version": "Kibe-PT-BR-v1.zip"
+    },
+    {
+      "name": "Bosses of Mass Destruction PT-BR Translation (Unofficial)",
+      "curseforge_id": 1380095,
+      "version_id": "7194434",
+      "version": "Bosses_of_mass_destruction-PT-BR-v1.zip"
+    },
+    {
+      "name": "MC Dungeons Weapons PT-BR Translation (Unofficial)",
+      "curseforge_id": 1380074,
+      "version_id": "7194379",
+      "version": "Mcdw-PT-BR-v1.zip"
+    },
+    {
+      "name": "[HTP] Stoneworks | Spanish Translation Pack",
+      "curseforge_id": 1483513,
+      "version_id": "7743260",
+      "version": "HTP-Stoneworks-TranslationPack-v1.0.0.zip"
+    },
+    {
+      "name": "Sky Villages - The Graveyard Compat",
+      "curseforge_id": 920772,
+      "version_id": "4787135",
+      "version": "SkyVillages-GraveyardCompat-1.20.1-1.0.3.zip"
+    },
+    {
+      "name": "Mythic Upgrades x Advanced Netherite",
+      "curseforge_id": 1230898,
+      "version_id": "6361426",
+      "version": "MythicUpgrades_x_Advanced_Netherite.zip"
+    },
+    {
+      "name": "Ashen + Better End Support",
+      "curseforge_id": 1096438,
+      "version_id": "5726983",
+      "version": "Ashen + Better End Support v1.1 MC1.20.1"
+    },
+    {
+      "name": "Scarecrow Obliterator | Datapack",
+      "curseforge_id": 965613,
+      "version_id": "5052981",
+      "version": "Scarecrow_Obliterator.zip"
+    },
+    {
+      "name": "When Dungeons Arise - Spacing Tweaks",
+      "curseforge_id": 827727,
+      "version_id": "4608272",
+      "version": "[LESS STRUCTURES] SpacingTweaks-1.20.1-2.1.56"
+    },
+    {
+      "name": "Sky Villages - Farmer's Delight Compat",
+      "curseforge_id": 934914,
+      "version_id": "4849958",
+      "version": "SkyVillages-FarmersDelightCompat-1.20.1-1.0.3.zip"
+    },
+    {
+      "name": "Mythic Upgrades PT-BR Translation (Unofficial)",
+      "curseforge_id": 1380078,
+      "version_id": "7194387",
+      "version": "Mythicupgrades-PT-BR-v1.zip"
+    },
+    {
+      "name": "Fresh Animations",
+      "curseforge_id": 453763,
+      "version_id": "5494142",
+      "version": "FA 1.9.2"
+    },
+    {
+      "name": "MEGA Cells PT-BR Translation (Unofficial)",
+      "curseforge_id": 1380075,
+      "version_id": "7194380",
+      "version": "Megacells-PT-BR-v1.zip"
+    },
+    {
+      "name": "[HTP] Applied energistics 2 | Spanish Translation Pack",
+      "curseforge_id": 1483503,
+      "version_id": "7743224",
+      "version": "HTP-Applied energistics 2-TranslationPack-v1.0.0.zip"
+    },
+    {
+      "name": "Ashen + Let's Do Support",
+      "curseforge_id": 1096454,
+      "version_id": "5690829",
+      "version": "Ashen + Lets Do Support v1.0 MC1.20.1"
+    },
+    {
+      "name": "[HTP] Twigs | Spanish Translation Pack",
+      "curseforge_id": 1335592,
+      "version_id": "6932835",
+      "version": "HTP-Twigs-TranslationPack-v1.0.0.zip"
+    },
+    {
+      "name": "[HTP] Grass Overhaul | Spanish Translation Pack",
+      "curseforge_id": 1335587,
+      "version_id": "6932821",
+      "version": "HTP-Grassoverhaul-TranslationPack-v1.0.0.zip"
+    },
+    {
+      "name": "[HTP] Macaw's Holidays | Spanish Translation Pack",
+      "curseforge_id": 1405842,
+      "version_id": "7340486",
+      "version": "HTP-Macaw's holidays-TranslationPack-v1.0.0.zip"
+    },
+    {
+      "name": "Archon PT-BR Translation (Unofficial)",
+      "curseforge_id": 1380088,
+      "version_id": "7194414",
+      "version": "Archon-PT-BR-v1.zip"
+    },
+    {
+      "name": "[HTP] Icarus | Spanish Translation Pack",
+      "curseforge_id": 1335601,
+      "version_id": "6932870",
+      "version": "HTP-Icarus-TranslationPack-v1.0.0.zip"
+    },
+    {
+      "name": "Only Excavators - Ashen Style",
+      "curseforge_id": 1393963,
+      "version_id": "7272441",
+      "version": "Only Excavators - Ashen AddOn.zip"
+    },
+    {
+      "name": "Grass Overhaul (Sod) PT-BR Translation (Unofficial)",
+      "curseforge_id": 1380070,
+      "version_id": "7194371",
+      "version": "Grassoverhaul-PT-BR-v1.zip"
+    },
+    {
+      "name": "[HTP] Promenade | Spanish Translation Pack",
+      "curseforge_id": 1335595,
+      "version_id": "6932850",
+      "version": "HTP-Promenade-TranslationPack-v1.0.0.zip"
+    },
+    {
+      "name": "Artifacts PT-BR Translation (Unofficial)",
+      "curseforge_id": 1380091,
+      "version_id": "7194419",
+      "version": "Artifacts-PT-BR-v1.zip"
+    },
+    {
+      "name": "[HTP] Spellblade And Such | Spanish Translation Pack",
+      "curseforge_id": 1380010,
+      "version_id": "7194248",
+      "version": "HTP-Spellblade and such-TranslationPack-v1.0.0.zip"
+    },
+    {
+      "name": "Spellblades' Frosty Deathchill",
+      "curseforge_id": 963042,
+      "version_id": "5038452",
+      "version": "Frosty-Deathchill.zip"
+    },
+    {
+      "name": "Macaw's Holidays PT-BR Translation (Unofficial)",
+      "curseforge_id": 1409044,
+      "version_id": "7354584",
+      "version": "Mcwholidays-PT-BR-v1.zip"
+    },
+    {
+      "name": "Mine Cells - 3D Weapons Pack",
+      "curseforge_id": 977843,
+      "version_id": "5132915",
+      "version": "Mine Cells 3D Weapons - 1.0.1"
+    },
+    {
+      "name": "AdventureZ PT-BR Translation (Unofficial)",
+      "curseforge_id": 1380082,
+      "version_id": "7194408",
+      "version": "Adventurez-PT-BR-v1.zip"
+    },
+    {
+      "name": "Simply Swords Reforged",
+      "curseforge_id": 1098749,
+      "version_id": "5701888",
+      "version": "Simply Swords Reforged v1.zip"
+    },
+    {
+      "name": "Amne's Convenient Decor Spanish Translations",
+      "curseforge_id": 1631806,
+      "version_id": "8540341",
+      "version": "Convenientdecor-Spanish-v1.0.0.zip"
+    },
+    {
+      "name": "Amne's Mobs of Mythology Spanish Translations",
+      "curseforge_id": 1626991,
+      "version_id": "8516879",
+      "version": "MobsOfMythology-Spanish-v1.0.0.zip"
+    },
+    {
+      "name": "Better Archeology PT-BR Translation (Unofficial)",
+      "curseforge_id": 1380044,
+      "version_id": "7194322",
+      "version": "Betterarcheology-PT-BR-v1.zip"
+    },
+    {
+      "name": "Dagger Fix",
+      "curseforge_id": 1254408,
+      "version_id": "6475338",
+      "version": "Daggers_Fix.zip"
+    },
+    {
+      "name": "[HTP] Modern Industralization | Spanish Translation Pack",
+      "curseforge_id": 1484322,
+      "version_id": "7747455",
+      "version": "HTP-Modern industralization-TranslationPack-v1.0.0.zip"
+    },
+    {
+      "name": "[HTP] Invocations | Spanish Translation Pack",
+      "curseforge_id": 966992,
+      "version_id": "5060594",
+      "version": "HTP-Invoke-TranslationPack-vunknown.zip"
+    },
+    {
+      "name": "Ashen + Eating Animation Support",
+      "curseforge_id": 1104239,
+      "version_id": "5730289",
+      "version": "Ashen + Eating Animation Support v1.0 MC1.20.1"
+    },
+    {
+      "name": "Create: New Age PT-BR Translation (Unofficial)",
+      "curseforge_id": 1380052,
+      "version_id": "7194349",
+      "version": "Create_new_age-PT-BR-v1.zip"
+    },
+    {
+      "name": "Amne's VillagersPlus Spanish Translations",
+      "curseforge_id": 1600792,
+      "version_id": "8384560",
+      "version": "Villagersplus-Spanish-v1.0.0.zip"
+    },
+    {
+      "name": "[HTP] Amadments | Spanish Translation Pack",
+      "curseforge_id": 1380031,
+      "version_id": "7194289",
+      "version": "HTP-Amendments-TranslationPack-v1.0.0.zip"
+    },
+    {
+      "name": "When Dungeons Arise - No Flying Structures",
+      "curseforge_id": 827281,
+      "version_id": "4804136",
+      "version": "[NO OVERWORLD/END] WDA-NoFlyingStructures-OWEND-1.18.2-1.20.1"
+    },
+    {
+      "name": "Oxidized PT-BR Translation (Unofficial)",
+      "curseforge_id": 1380085,
+      "version_id": "7194407",
+      "version": "Oxidized-PT-BR-v1.zip"
+    },
+    {
+      "name": "Frostiful PT-BR Translation (Unofficial)",
+      "curseforge_id": 1380107,
+      "version_id": "7194466",
+      "version": "Frostiful-PT-BR-v1.zip"
+    },
+    {
+      "name": "Croptopia PT-BR Translation (Unofficial)",
+      "curseforge_id": 1380099,
+      "version_id": "7194443",
+      "version": "Croptopia-PT-BR-v1.zip"
+    },
+    {
+      "name": "Ashen + Eldritch End Support",
+      "curseforge_id": 1096434,
+      "version_id": "5690754",
+      "version": "Ashen + Eldritch End Support 1.0"
+    },
+    {
+      "name": "[HTP] Magnum Torch | Spanish Translation Pack",
+      "curseforge_id": 1335984,
+      "version_id": "6934863",
+      "version": "HTP-Magnumtorch-TranslationPack-v1.0.0.zip"
+    },
+    {
+      "name": "Twigs PT-BR Translation (Unofficial)",
+      "curseforge_id": 1380132,
+      "version_id": "7194537",
+      "version": "Twigs-PT-BR-v1.zip"
+    },
+    {
+      "name": "Hardening Catalyst Rebalance | Datapack",
+      "curseforge_id": 963067,
+      "version_id": "5038587",
+      "version": "HardeningCatalystRebalance.zip"
+    },
+    {
+      "name": "Better Nether x Ashen Compatibility",
+      "curseforge_id": 1483194,
+      "version_id": "7741418",
+      "version": "Better Nether X Ashen"
+    }
+  ],
+  "shaders": [
+    {
+      "name": "Complementary Shaders - Reimagined",
+      "curseforge_id": 627557,
+      "version_id": "8123287",
+      "version": "Complementary Reimagined r5.8.1"
+    },
+    {
+      "name": "🎃 Insanity Shader",
+      "curseforge_id": 618217,
+      "version_id": "5424730",
+      "version": "Insanity Shader v1.650 (Universal)"
+    },
+    {
+      "name": "Pastel Shaders",
+      "curseforge_id": 813185,
+      "version_id": "5424733",
+      "version": "Pastel Shaders  v1.200 (Universal)"
+    },
+    {
+      "name": "👻 Hysteria Shaders",
+      "curseforge_id": 1040578,
+      "version_id": "5588916",
+      "version": "Hysteria Shaders [Universal] v1.2.1"
+    }
+  ],
+  "datapacks": [
+    {
+      "name": "Loot Tweaks For RPG Series - Utility Datapack for Prominence II",
+      "curseforge_id": 1370472,
+      "version_id": "8474492",
+      "version": "rpg_series_loot_table_tweaks_1.20.1_1.1.0.zip"
+    },
+    {
+      "name": "Spell Enchants Expanded - Fix for the RPG Enchants",
+      "curseforge_id": 1411033,
+      "version_id": "8619298",
+      "version": "spell_enchants_for_all_armor_edition_1.20.1-1.4.0.zip"
+    },
+    {
+      "name": "Loot Tweaks For Artifacts - Utility Datapack for Prominence II",
+      "curseforge_id": 1370867,
+      "version_id": "7259210",
+      "version": "artifacts_loot_table_tweaks_1.20.1_1.0.2.zip"
+    },
+    {
+      "name": "Quivers for all - Recipe for Supplementaries Quiver",
+      "curseforge_id": 1383512,
+      "version_id": "7214755",
+      "version": "quiver_recipe_supplementaries-1.20.1_1.0.0.zip"
+    },
+    {
+      "name": "Simply Swords - All the Death Strike",
+      "curseforge_id": 1411274,
+      "version_id": "7366114",
+      "version": "simplyswords_all_the_death_strike-1.20.1_1.0.0.zip"
+    },
+    {
+      "name": "Only Excavators - Recipe Balancing ",
+      "curseforge_id": 1391760,
+      "version_id": "7261066",
+      "version": "onlyExcavators-balancing-1.20.1-1.0.0.zip"
+    },
+    {
+      "name": "Simply Swords - All the Festering Strike",
+      "curseforge_id": 1411273,
+      "version_id": "7366105",
+      "version": "simplyswords_all_the_festering_strike-1.20.1_1.0.0.zip"
+    },
+    {
+      "name": "Alm's Oil Additions and Compat",
+      "curseforge_id": 1408298,
+      "version_id": "7350390",
+      "version": "alms_oil_compat_1.20.1-1.0.0.zip"
+    },
+    {
+      "name": "MCDA - Lightning Unlimited",
+      "curseforge_id": 1411279,
+      "version_id": "7868696",
+      "version": "lightning_unlimited-1.20.1-1.1.0.zip"
+    },
+    {
+      "name": "End Food for Everyone",
+      "curseforge_id": 1401218,
+      "version_id": "7312177",
+      "version": "end_food_for_everyone-1.20.1_1.0.0.zip"
+    },
+    {
+      "name": "Crossbows Reloaded - Prominence 2 Balancing Datapack",
+      "curseforge_id": 1545633,
+      "version_id": "8102353",
+      "version": "Crossbows Reloaded 1.0.0"
+    },
+    {
+      "name": "Tierify - Prominence II Tweaks",
+      "curseforge_id": 1367035,
+      "version_id": "8544690",
+      "version": "Tierify - Prominence II Tweaks 2.0.1"
+    },
+    {
+      "name": "Create Energistics - A Recipe Datapack",
+      "curseforge_id": 1384194,
+      "version_id": "7221388",
+      "version": "create_applied_energistics_recipes_alts_1.20.1-1.0.1.zip"
+    },
+    {
+      "name": "Death Knights - Balancing Datapack for Prominence II",
+      "curseforge_id": 1369131,
+      "version_id": "7130466",
+      "version": "death_knights_spell_tweaks_1.20.1_1.0.zip"
+    },
+    {
+      "name": "Archers Expansion - Balacing Datapack for Prominence II",
+      "curseforge_id": 1347777,
+      "version_id": "7817715",
+      "version": "archers_expansion_spell_tweaks_1.20.1_1.2.0.zip"
+    },
+    {
+      "name": "MSW Guns' Upswing",
+      "curseforge_id": 1548544,
+      "version_id": "8475007",
+      "version": "MSW Guns' Upswing.zip"
+    },
+    {
+      "name": "Spell Enchants for All! - Prominence II",
+      "curseforge_id": 1406214,
+      "version_id": "7407447",
+      "version": "spell_enchants_for_all_1.20.1_v1.1.zip"
+    },
+    {
+      "name": "Paladins - All the Smites",
+      "curseforge_id": 1372717,
+      "version_id": "7151904",
+      "version": "paladins_all_the_smites-1.20.1_1.0.zip"
+    },
+    {
+      "name": "Spell compat for MCDW - All the Smites",
+      "curseforge_id": 1372801,
+      "version_id": "7152486",
+      "version": "mcdw_all_the_smites-1.20.1_1.0.zip"
+    },
+    {
+      "name": "Marium's Soulslike Weaponry - All the Smites",
+      "curseforge_id": 1411267,
+      "version_id": "7366097",
+      "version": "soulslikeweaponry_all_the_smites-1.20.1_1.0.0.zip"
+    },
+    {
+      "name": "Alm's Crafts and Additions",
+      "curseforge_id": 1398050,
+      "version_id": "8618176",
+      "version": "alms_recipe_additions-1.20.1_1.6.9.zip"
+    },
+    {
+      "name": "Bards RPG Spell Tweaks",
+      "curseforge_id": 1633093,
+      "version_id": "8546494",
+      "version": "bard_spell_tweaks_1.20.1_1.0.0.zip"
+    },
+    {
+      "name": "Sunnier Skies for Archon",
+      "curseforge_id": 1633676,
+      "version_id": "8549111",
+      "version": "sunnier_skies_for_archon_1.20.1_1.0.0.zip"
+    },
+    {
+      "name": "Simply Swords - All the Smites",
+      "curseforge_id": 1372743,
+      "version_id": "7341886",
+      "version": "simplyswords_all_the_smites-1.20.1_1.0.1.zip"
+    },
+    {
+      "name": "Spellblades n Such Unlimited - Temp fix for Prominence II",
+      "curseforge_id": 1411023,
+      "version_id": "7364870",
+      "version": "spellblades_unlimited_1.20.1-1.0.0.zip"
+    },
+    {
+      "name": "Spellblades Spell Tweaks",
+      "curseforge_id": 1527486,
+      "version_id": "8003803",
+      "version": "spellbladenext_spell_tweaks_1.20.1_1.0.0.zip"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-08-20T06:40:04.317Z",
+      "version": "v4.0.1",
+      "author": "Martion000",
+      "resumen": "−1",
+      "changes": [
+        "− Drippy Loading Screen"
+      ],
+      "cambios": {
+        "agregados": [],
+        "quitados": [
+          {
+            "nombre": "Drippy Loading Screen",
+            "lista": "mods",
+            "clave": "c:511770"
+          }
+        ],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    }
+  ]
+}
