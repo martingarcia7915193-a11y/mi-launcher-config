@@ -2665,8 +2665,10 @@
       "version": "[Fabric] v3.1.5 MC 1.20.1"
     },
     {
-      "name": "Konkrete",
-      "curseforge_id": 410295
+      "name": "Konkrete [Fabric] [MOVED TO NEW PAGE]",
+      "curseforge_id": 416797,
+      "version_id": "5142502",
+      "version": "[Fabric] v1.8.1 MC 1.20.1"
     }
   ],
   "resourcepacks": [
@@ -3840,6 +3842,37 @@
     }
   ],
   "changelog": [
+    {
+      "date": "2026-08-21T04:02:11.748Z",
+      "version": "v4.0.1",
+      "author": "Martion000",
+      "resumen": "+1 · −1",
+      "changes": [
+        "+ Konkrete [Fabric] [MOVED TO NEW PAGE]",
+        "− Konkrete"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Konkrete [Fabric] [MOVED TO NEW PAGE]",
+            "lista": "mods",
+            "clave": "c:416797"
+          }
+        ],
+        "quitados": [
+          {
+            "nombre": "Konkrete",
+            "lista": "mods",
+            "clave": "c:410295"
+          }
+        ],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 2,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-08-21T03:48:57.366Z",
       "version": "v4.0.1",
