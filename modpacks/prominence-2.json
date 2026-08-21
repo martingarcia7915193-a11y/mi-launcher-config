@@ -735,8 +735,8 @@
     {
       "name": "FancyMenu",
       "curseforge_id": 367706,
-      "version_id": "6918983",
-      "version": "[Fabric] v3.7.0 MC 1.20.1"
+      "version_id": "8652265",
+      "version": "[Fabric] v3.9.10 MC 1.20.1"
     },
     {
       "name": "Create: Copycats+",
@@ -3840,6 +3840,34 @@
     }
   ],
   "changelog": [
+    {
+      "date": "2026-08-21T03:48:57.366Z",
+      "version": "v4.0.1",
+      "author": "Martion000",
+      "resumen": "1 actualizados",
+      "changes": [
+        "~ FancyMenu ([Fabric] v3.7.0 MC 1.20.1 → [Fabric] v3.9.10 MC 1.20.1)"
+      ],
+      "cambios": {
+        "agregados": [],
+        "quitados": [],
+        "actualizados": [
+          {
+            "nombre": "FancyMenu",
+            "lista": "mods",
+            "clave": "c:367706",
+            "de": "[Fabric] v3.7.0 MC 1.20.1",
+            "a": "[Fabric] v3.9.10 MC 1.20.1",
+            "deId": "6918983",
+            "aId": "8652265"
+          }
+        ],
+        "campos": [],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-08-21T01:58:57.121Z",
       "version": "v4.0.1",
