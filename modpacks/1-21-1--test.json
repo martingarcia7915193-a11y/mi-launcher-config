@@ -1,0 +1,43 @@
+{
+  "id": "1-21-1--test",
+  "name": "1.21.1",
+  "version": "1.0.0",
+  "minecraft_version": "1.21.1",
+  "modloader": "neoforge",
+  "category": "oficiales",
+  "modloader_version": "21.1.251",
+  "mods": [
+    {
+      "name": "Sodium",
+      "curseforge_id": 394468,
+      "version_id": "8756580",
+      "version": "Sodium 0.8.13 for NeoForge 1.21.1"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-09-21T18:23:28.735Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+1",
+      "changes": [
+        "+ Sodium"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Sodium",
+            "lista": "mods",
+            "clave": "c:394468"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    }
+  ]
+}
