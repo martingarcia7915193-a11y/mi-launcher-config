@@ -14,11 +14,147 @@
       "version": "19.57.0.446 for NeoForge 1.21.1"
     },
     {
+      "name": "Create",
+      "curseforge_id": 328085,
+      "version_id": "7963363",
+      "version": "Create 6.0.10 for mc1.21.1"
+    },
+    {
       "name": "MezzConfig",
       "curseforge_id": 1689768
+    },
+    {
+      "name": "Xaero's World Map",
+      "curseforge_id": 317780,
+      "version_id": "8849973",
+      "version": "xaeroworldmap-neoforge-1.21.1-1.46.0.jar"
+    },
+    {
+      "name": "Xaero's Minimap",
+      "curseforge_id": 263420,
+      "version_id": "8849842",
+      "version": "xaerominimap-neoforge-1.21.1-26.5.0.jar"
+    },
+    {
+      "name": "Sodium",
+      "curseforge_id": 394468,
+      "version_id": "8756580",
+      "version": "Sodium 0.8.13 for NeoForge 1.21.1"
+    },
+    {
+      "name": "(Sodium) Chloride",
+      "curseforge_id": 931925,
+      "version_id": "8462029",
+      "version": "chloride-1.8.1-NEOFORGE-1.21.1"
+    },
+    {
+      "name": "Create Aeronautics",
+      "curseforge_id": 676721,
+      "version_id": "8763471",
+      "version": "Create Aeronautics 1.3.2 for mc1.21.1"
+    },
+    {
+      "name": "Sable",
+      "curseforge_id": 1312371,
+      "version_id": "8673825",
+      "version": "Sable NeoForge 2.0.5 for mc1.21.1"
+    },
+    {
+      "name": "Waystones",
+      "curseforge_id": 245755,
+      "version_id": "8873000",
+      "version": "waystones-neoforge-1.21.1-21.1.45.jar"
+    },
+    {
+      "name": "Balm",
+      "curseforge_id": 531761
+    },
+    {
+      "name": "Waystones: Sable (Create Aeronautics Addon)",
+      "curseforge_id": 1524471,
+      "version_id": "8632751",
+      "version": "waystonessable-1.0.7"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-09-21T22:17:48.239Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+10",
+      "changes": [
+        "+ Create",
+        "+ Xaero's World Map",
+        "+ Xaero's Minimap",
+        "+ Sodium",
+        "+ (Sodium) Chloride",
+        "+ Create Aeronautics",
+        "+ Sable",
+        "+ Waystones",
+        "+ Balm",
+        "+ Waystones: Sable (Create Aeronautics Addon)"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Create",
+            "lista": "mods",
+            "clave": "c:328085"
+          },
+          {
+            "nombre": "Xaero's World Map",
+            "lista": "mods",
+            "clave": "c:317780"
+          },
+          {
+            "nombre": "Xaero's Minimap",
+            "lista": "mods",
+            "clave": "c:263420"
+          },
+          {
+            "nombre": "Sodium",
+            "lista": "mods",
+            "clave": "c:394468"
+          },
+          {
+            "nombre": "(Sodium) Chloride",
+            "lista": "mods",
+            "clave": "c:931925"
+          },
+          {
+            "nombre": "Create Aeronautics",
+            "lista": "mods",
+            "clave": "c:676721"
+          },
+          {
+            "nombre": "Sable",
+            "lista": "mods",
+            "clave": "c:1312371"
+          },
+          {
+            "nombre": "Waystones",
+            "lista": "mods",
+            "clave": "c:245755"
+          },
+          {
+            "nombre": "Balm",
+            "lista": "mods",
+            "clave": "c:531761"
+          },
+          {
+            "nombre": "Waystones: Sable (Create Aeronautics Addon)",
+            "lista": "mods",
+            "clave": "c:1524471"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 10,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-09-21T22:01:07.872Z",
       "version": "1.0.0",
