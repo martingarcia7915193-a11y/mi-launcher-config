@@ -4,7 +4,7 @@
   "version": "1.6.1",
   "minecraft_version": "1.21.1",
   "modloader": "neoforge",
-  "category": "oficiales",
+  "category": "cementerio",
   "modloader_version": "21.1.248",
   "description": "Importado de curseforge. Autor: FTB Team",
   "tienda": {
@@ -2851,6 +2851,29 @@
   "extras_url": "https://drive.google.com/file/d/1zGsdpuivlRtoc7dFdosQ_d3rJRUqtkfW/view?usp=sharing",
   "extras_version": 1,
   "changelog": [
+    {
+      "date": "2026-09-21T22:10:12.019Z",
+      "version": "1.6.1",
+      "author": "Martion000",
+      "resumen": "1 datos",
+      "changes": [],
+      "cambios": {
+        "agregados": [],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [
+          {
+            "campo": "category",
+            "nombre": "categoría",
+            "de": "oficiales",
+            "a": "cementerio"
+          }
+        ],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-08-15T20:27:00.434Z",
       "version": "1.6.1",
