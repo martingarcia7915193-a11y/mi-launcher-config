@@ -4,7 +4,7 @@
   "version": "v4.0.1",
   "minecraft_version": "1.20.1",
   "modloader": "fabric",
-  "category": "oficiales",
+  "category": "cementerio",
   "modloader_version": "0.19.3",
   "description": "Importado de curseforge. Autor: ElocinDev",
   "tienda": {
@@ -3842,6 +3842,29 @@
     }
   ],
   "changelog": [
+    {
+      "date": "2026-09-21T22:10:21.723Z",
+      "version": "v4.0.1",
+      "author": "Martion000",
+      "resumen": "1 datos",
+      "changes": [],
+      "cambios": {
+        "agregados": [],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [
+          {
+            "campo": "category",
+            "nombre": "categoría",
+            "de": "oficiales",
+            "a": "cementerio"
+          }
+        ],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-08-21T04:02:11.748Z",
       "version": "v4.0.1",
