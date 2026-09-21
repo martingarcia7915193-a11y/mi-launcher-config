@@ -1,0 +1,43 @@
+{
+  "id": "clockwork-chronicles",
+  "name": "Clockwork Chronicles",
+  "version": "1.0.0",
+  "minecraft_version": "1.21.1",
+  "modloader": "neoforge",
+  "category": "oficiales",
+  "modloader_version": "21.1.251",
+  "mods": [
+    {
+      "name": "Sodium",
+      "modrinth_id": "AANobbMI",
+      "version_id": "uMOpc5uV",
+      "version": "mc1.21.1-0.8.13-neoforge"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-09-21T22:00:43.566Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+1",
+      "changes": [
+        "+ Sodium"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Sodium",
+            "lista": "mods",
+            "clave": "m:AANobbMI"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    }
+  ]
+}
