@@ -6,15 +6,32 @@
   "modloader": "neoforge",
   "category": "oficiales",
   "modloader_version": "21.1.251",
-  "mods": [
-    {
-      "name": "Sodium",
-      "modrinth_id": "AANobbMI",
-      "version_id": "uMOpc5uV",
-      "version": "mc1.21.1-0.8.13-neoforge"
-    }
-  ],
+  "mods": [],
   "changelog": [
+    {
+      "date": "2026-09-21T22:00:53.366Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "−1",
+      "changes": [
+        "− Sodium"
+      ],
+      "cambios": {
+        "agregados": [],
+        "quitados": [
+          {
+            "nombre": "Sodium",
+            "lista": "mods",
+            "clave": "m:AANobbMI"
+          }
+        ],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-09-21T22:00:43.566Z",
       "version": "1.0.0",
