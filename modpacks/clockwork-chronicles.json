@@ -6,8 +6,49 @@
   "modloader": "neoforge",
   "category": "oficiales",
   "modloader_version": "21.1.251",
-  "mods": [],
+  "mods": [
+    {
+      "name": "Just Enough Items (JEI)",
+      "curseforge_id": 238222,
+      "version_id": "8941263",
+      "version": "19.57.0.446 for NeoForge 1.21.1"
+    },
+    {
+      "name": "MezzConfig",
+      "curseforge_id": 1689768
+    }
+  ],
   "changelog": [
+    {
+      "date": "2026-09-21T22:01:07.872Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+2",
+      "changes": [
+        "+ Just Enough Items (JEI)",
+        "+ MezzConfig"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Just Enough Items (JEI)",
+            "lista": "mods",
+            "clave": "c:238222"
+          },
+          {
+            "nombre": "MezzConfig",
+            "lista": "mods",
+            "clave": "c:1689768"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 2,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-09-21T22:00:53.366Z",
       "version": "1.0.0",
