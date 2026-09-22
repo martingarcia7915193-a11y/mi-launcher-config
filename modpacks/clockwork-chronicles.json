@@ -286,9 +286,171 @@
     {
       "name": "GeckoLib",
       "curseforge_id": 388172
+    },
+    {
+      "name": "L_Ender 's Cataclysm",
+      "curseforge_id": 551586,
+      "version_id": "8931182",
+      "version": "L_Ender's Cataclysm 1.21.1-3.33.jar"
+    },
+    {
+      "name": "Lionfish API",
+      "curseforge_id": 1001614
+    },
+    {
+      "name": "Cataclysmic Combat",
+      "curseforge_id": 880483,
+      "version_id": "6735019",
+      "version": "cataclysmiccombat-1.4.1.jar"
+    },
+    {
+      "name": "Cataclysm: Spellbooks",
+      "curseforge_id": 1099461,
+      "version_id": "8847070",
+      "version": "cataclysm_spellbooks-1.1.14-1.21.jar"
+    },
+    {
+      "name": "AzureLib",
+      "curseforge_id": 817423
+    },
+    {
+      "name": "Ace's Spell Utils",
+      "curseforge_id": 1299492
+    },
+    {
+      "name": "Cataclysm: Spellbooks & BetterCombat - Compatibility",
+      "curseforge_id": 1335824,
+      "version_id": "6956563",
+      "version": "cataclysmspells_compat.jar"
+    },
+    {
+      "name": "GTBC's Spellbooks - Iron's Spells Addon",
+      "curseforge_id": 1125198,
+      "version_id": "6312018",
+      "version": "gametechbcs_spellbooks-3.0.0-1.21.1"
+    },
+    {
+      "name": "GTBC's Geomancy Plus - Iron's Spells Addon",
+      "curseforge_id": 1352485,
+      "version_id": "7041615",
+      "version": "geomancy_plus-1.1.0-1.21.1"
+    },
+    {
+      "name": "Mowzie's Mobs",
+      "curseforge_id": 250498
+    },
+    {
+      "name": "GTBC's SpellLib/API",
+      "curseforge_id": 1194714
+    },
+    {
+      "name": "Alshanex's Familiars",
+      "curseforge_id": 1171602,
+      "version_id": "8675568",
+      "version": "alshanex_familiars-1.21.1_v4.0.3.jar"
+    },
+    {
+      "name": "FamiliarsLib",
+      "curseforge_id": 1316458
     }
   ],
   "changelog": [
+    {
+      "date": "2026-09-22T20:02:24.057Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+13",
+      "changes": [
+        "+ L_Ender 's Cataclysm",
+        "+ Lionfish API",
+        "+ Cataclysmic Combat",
+        "+ Cataclysm: Spellbooks",
+        "+ AzureLib",
+        "+ Ace's Spell Utils",
+        "+ Cataclysm: Spellbooks & BetterCombat - Compatibility",
+        "+ GTBC's Spellbooks - Iron's Spells Addon",
+        "+ GTBC's Geomancy Plus - Iron's Spells Addon",
+        "+ Mowzie's Mobs",
+        "+ GTBC's SpellLib/API",
+        "+ Alshanex's Familiars",
+        "+ FamiliarsLib"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "L_Ender 's Cataclysm",
+            "lista": "mods",
+            "clave": "c:551586"
+          },
+          {
+            "nombre": "Lionfish API",
+            "lista": "mods",
+            "clave": "c:1001614"
+          },
+          {
+            "nombre": "Cataclysmic Combat",
+            "lista": "mods",
+            "clave": "c:880483"
+          },
+          {
+            "nombre": "Cataclysm: Spellbooks",
+            "lista": "mods",
+            "clave": "c:1099461"
+          },
+          {
+            "nombre": "AzureLib",
+            "lista": "mods",
+            "clave": "c:817423"
+          },
+          {
+            "nombre": "Ace's Spell Utils",
+            "lista": "mods",
+            "clave": "c:1299492"
+          },
+          {
+            "nombre": "Cataclysm: Spellbooks & BetterCombat - Compatibility",
+            "lista": "mods",
+            "clave": "c:1335824"
+          },
+          {
+            "nombre": "GTBC's Spellbooks - Iron's Spells Addon",
+            "lista": "mods",
+            "clave": "c:1125198"
+          },
+          {
+            "nombre": "GTBC's Geomancy Plus - Iron's Spells Addon",
+            "lista": "mods",
+            "clave": "c:1352485"
+          },
+          {
+            "nombre": "Mowzie's Mobs",
+            "lista": "mods",
+            "clave": "c:250498"
+          },
+          {
+            "nombre": "GTBC's SpellLib/API",
+            "lista": "mods",
+            "clave": "c:1194714"
+          },
+          {
+            "nombre": "Alshanex's Familiars",
+            "lista": "mods",
+            "clave": "c:1171602"
+          },
+          {
+            "nombre": "FamiliarsLib",
+            "lista": "mods",
+            "clave": "c:1316458"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 13,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-09-22T19:48:32.282Z",
       "version": "1.0.0",
