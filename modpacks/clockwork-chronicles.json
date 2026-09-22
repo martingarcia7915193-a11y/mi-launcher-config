@@ -260,13 +260,44 @@
       "curseforge_id": 404468
     },
     {
-      "name": "Sophisticated Tab",
-      "curseforge_id": 1540042,
-      "version_id": "8834663",
-      "version": "Sophisticated Tab 0.8.1 (NeoForge 1.21.1)"
+      "name": "Reskillable Reimagined",
+      "curseforge_id": 1170464,
+      "version_id": "8933797",
+      "version": "reskillable-4.1.1-1.21.1"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-09-22T02:26:40.130Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+1 · −1",
+      "changes": [
+        "+ Reskillable Reimagined",
+        "− Sophisticated Tab"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Reskillable Reimagined",
+            "lista": "mods",
+            "clave": "c:1170464"
+          }
+        ],
+        "quitados": [
+          {
+            "nombre": "Sophisticated Tab",
+            "lista": "mods",
+            "clave": "c:1540042"
+          }
+        ],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 2,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-09-22T02:21:27.743Z",
       "version": "1.0.0",
