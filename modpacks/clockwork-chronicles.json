@@ -236,12 +236,6 @@
       "version": "sophisticateditemactions-1.21.1-0.5.16.423.jar"
     },
     {
-      "name": "Legendary Tabs",
-      "curseforge_id": 1172469,
-      "version_id": "8590971",
-      "version": "legendarytabs-1.21.1-2.0.jar"
-    },
-    {
       "name": "FTB Quests (NeoForge)",
       "curseforge_id": 289412,
       "version_id": "8885017",
@@ -261,6 +255,30 @@
     }
   ],
   "changelog": [
+    {
+      "date": "2026-09-22T02:32:35.009Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "−1",
+      "changes": [
+        "− Legendary Tabs"
+      ],
+      "cambios": {
+        "agregados": [],
+        "quitados": [
+          {
+            "nombre": "Legendary Tabs",
+            "lista": "mods",
+            "clave": "c:1172469"
+          }
+        ],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-09-22T02:31:33.388Z",
       "version": "1.0.0",
