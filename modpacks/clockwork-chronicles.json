@@ -134,9 +134,151 @@
       "curseforge_id": 1264423,
       "version_id": "8887463",
       "version": "baguettelib-1.21.1-NeoForge-2.0.7.jar"
+    },
+    {
+      "name": "Clumps",
+      "curseforge_id": 256717,
+      "version_id": "5623731",
+      "version": "Clumps-neoforge-1.21.1-19.0.0.1.jar"
+    },
+    {
+      "name": "Jade 🔍",
+      "curseforge_id": 324717,
+      "version_id": "8591319",
+      "version": "[NeoForge 1.21.1] 15.10.6"
+    },
+    {
+      "name": "Enchantment Descriptions",
+      "curseforge_id": 250419,
+      "version_id": "8693034",
+      "version": "enchdesc-neoforge-1.21.1-21.1.11.jar"
+    },
+    {
+      "name": "Bookshelf",
+      "curseforge_id": 228525
+    },
+    {
+      "name": "Prickle",
+      "curseforge_id": 1023259
+    },
+    {
+      "name": "EMI",
+      "curseforge_id": 580555,
+      "version_id": "8081408",
+      "version": "emi-1.1.24+1.21.1+neoforge"
+    },
+    {
+      "name": "EMI Loot",
+      "curseforge_id": 681783,
+      "version_id": "7417271",
+      "version": "emi_loot-0.7.9+1.21+neoforge.jar"
+    },
+    {
+      "name": "Fzzy Config",
+      "curseforge_id": 1005914
+    },
+    {
+      "name": "Kotlin for Forge",
+      "curseforge_id": 351264
+    },
+    {
+      "name": "EMI Extra Integrations",
+      "curseforge_id": 739970,
+      "version_id": "6939681",
+      "version": "exmi neoforge 1.0.3+1.21.1"
+    },
+    {
+      "name": "EMI++",
+      "curseforge_id": 1335150,
+      "version_id": "8465046",
+      "version": "NeoForge 2.1.0"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-09-22T01:59:24.862Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+11",
+      "changes": [
+        "+ Clumps",
+        "+ Jade 🔍",
+        "+ Enchantment Descriptions",
+        "+ Bookshelf",
+        "+ Prickle",
+        "+ EMI",
+        "+ EMI Loot",
+        "+ Fzzy Config",
+        "+ Kotlin for Forge",
+        "+ EMI Extra Integrations",
+        "+ EMI++"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Clumps",
+            "lista": "mods",
+            "clave": "c:256717"
+          },
+          {
+            "nombre": "Jade 🔍",
+            "lista": "mods",
+            "clave": "c:324717"
+          },
+          {
+            "nombre": "Enchantment Descriptions",
+            "lista": "mods",
+            "clave": "c:250419"
+          },
+          {
+            "nombre": "Bookshelf",
+            "lista": "mods",
+            "clave": "c:228525"
+          },
+          {
+            "nombre": "Prickle",
+            "lista": "mods",
+            "clave": "c:1023259"
+          },
+          {
+            "nombre": "EMI",
+            "lista": "mods",
+            "clave": "c:580555"
+          },
+          {
+            "nombre": "EMI Loot",
+            "lista": "mods",
+            "clave": "c:681783"
+          },
+          {
+            "nombre": "Fzzy Config",
+            "lista": "mods",
+            "clave": "c:1005914"
+          },
+          {
+            "nombre": "Kotlin for Forge",
+            "lista": "mods",
+            "clave": "c:351264"
+          },
+          {
+            "nombre": "EMI Extra Integrations",
+            "lista": "mods",
+            "clave": "c:739970"
+          },
+          {
+            "nombre": "EMI++",
+            "lista": "mods",
+            "clave": "c:1335150"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 11,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-09-22T01:36:36.925Z",
       "version": "1.0.0",
