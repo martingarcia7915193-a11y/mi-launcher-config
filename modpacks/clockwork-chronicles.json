@@ -74,9 +74,123 @@
       "curseforge_id": 1524471,
       "version_id": "8632751",
       "version": "waystonessable-1.0.7"
+    },
+    {
+      "name": "Mouse Tweaks",
+      "curseforge_id": 60089,
+      "version_id": "5637846",
+      "version": "[1.21+ NeoForge] Mouse Tweaks 2.26.1"
+    },
+    {
+      "name": "AppleSkin",
+      "curseforge_id": 248787,
+      "version_id": "7854442",
+      "version": "appleskin-neoforge-mc1.21-3.0.9.jar"
+    },
+    {
+      "name": "Controlling",
+      "curseforge_id": 250398,
+      "version_id": "6368976",
+      "version": "Controlling-neoforge-1.21.1-19.0.5.jar"
+    },
+    {
+      "name": "Searchables",
+      "curseforge_id": 858542,
+      "version_id": "5831692",
+      "version": "Searchables-neoforge-1.21.1-1.0.2.jar"
+    },
+    {
+      "name": "Curios API",
+      "curseforge_id": 309927,
+      "version_id": "6529130",
+      "version": "curios-neoforge-9.5.1+1.21.1.jar"
+    },
+    {
+      "name": "Charm of Undying (Fabric/Forge/Quilt)",
+      "curseforge_id": 316873,
+      "version_id": "5846603",
+      "version": "charmofundying-neoforge-9.1.0+1.21.1.jar"
+    },
+    {
+      "name": "GraveStone Mod",
+      "curseforge_id": 238551,
+      "version_id": "8671622",
+      "version": "[NEOFORGE][1.21.1] Gravestone Mod 1.21.1-1.0.40"
+    },
+    {
+      "name": "Gravestone x Curios API Compat",
+      "curseforge_id": 1139062,
+      "version_id": "7891807",
+      "version": "gravestonecurioscompat-1.21.1-NeoForge-4.0.2.jar"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-09-22T01:35:42.401Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+8",
+      "changes": [
+        "+ Mouse Tweaks",
+        "+ AppleSkin",
+        "+ Controlling",
+        "+ Searchables",
+        "+ Curios API",
+        "+ Charm of Undying (Fabric/Forge/Quilt)",
+        "+ GraveStone Mod",
+        "+ Gravestone x Curios API Compat"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Mouse Tweaks",
+            "lista": "mods",
+            "clave": "c:60089"
+          },
+          {
+            "nombre": "AppleSkin",
+            "lista": "mods",
+            "clave": "c:248787"
+          },
+          {
+            "nombre": "Controlling",
+            "lista": "mods",
+            "clave": "c:250398"
+          },
+          {
+            "nombre": "Searchables",
+            "lista": "mods",
+            "clave": "c:858542"
+          },
+          {
+            "nombre": "Curios API",
+            "lista": "mods",
+            "clave": "c:309927"
+          },
+          {
+            "nombre": "Charm of Undying (Fabric/Forge/Quilt)",
+            "lista": "mods",
+            "clave": "c:316873"
+          },
+          {
+            "nombre": "GraveStone Mod",
+            "lista": "mods",
+            "clave": "c:238551"
+          },
+          {
+            "nombre": "Gravestone x Curios API Compat",
+            "lista": "mods",
+            "clave": "c:1139062"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 8,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-09-21T22:17:48.239Z",
       "version": "1.0.0",
