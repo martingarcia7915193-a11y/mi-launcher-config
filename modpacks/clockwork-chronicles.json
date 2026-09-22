@@ -48,9 +48,670 @@
       "curseforge_id": 1335150,
       "version_id": "8465046",
       "version": "NeoForge 2.1.0"
+    },
+    {
+      "name": "Create",
+      "curseforge_id": 328085,
+      "version_id": "7963363",
+      "version": "Create 6.0.10 for mc1.21.1"
+    },
+    {
+      "name": "Create Aeronautics",
+      "curseforge_id": 676721,
+      "version_id": "8763471",
+      "version": "Create Aeronautics 1.3.2 for mc1.21.1"
+    },
+    {
+      "name": "Sable",
+      "curseforge_id": 1312371
+    },
+    {
+      "name": "Steam 'n' Rails Neoforge",
+      "curseforge_id": 1414670,
+      "version_id": "8522154",
+      "version": "railways-0.3.0-beta.2+neoforge-mc1.21.1.jar"
+    },
+    {
+      "name": "Waystones: Sable (Create Aeronautics Addon)",
+      "curseforge_id": 1524471,
+      "version_id": "8632751",
+      "version": "waystonessable-1.0.7"
+    },
+    {
+      "name": "Waystones",
+      "curseforge_id": 245755,
+      "version_id": "8873000",
+      "version": "waystones-neoforge-1.21.1-21.1.45.jar"
+    },
+    {
+      "name": "Balm",
+      "curseforge_id": 531761
+    },
+    {
+      "name": "Xaero's Minimap",
+      "curseforge_id": 263420,
+      "version_id": "8849842",
+      "version": "xaerominimap-neoforge-1.21.1-26.5.0.jar"
+    },
+    {
+      "name": "Xaero's World Map",
+      "curseforge_id": 317780,
+      "version_id": "8849973",
+      "version": "xaeroworldmap-neoforge-1.21.1-1.46.0.jar"
+    },
+    {
+      "name": "Controlling",
+      "curseforge_id": 250398,
+      "version_id": "6368976",
+      "version": "Controlling-neoforge-1.21.1-19.0.5.jar"
+    },
+    {
+      "name": "Searchables",
+      "curseforge_id": 858542
+    },
+    {
+      "name": "Mouse Tweaks",
+      "curseforge_id": 60089,
+      "version_id": "5637846",
+      "version": "[1.21+ NeoForge] Mouse Tweaks 2.26.1"
+    },
+    {
+      "name": "AppleSkin",
+      "curseforge_id": 248787,
+      "version_id": "7854442",
+      "version": "appleskin-neoforge-mc1.21-3.0.9.jar"
+    },
+    {
+      "name": "Clumps",
+      "curseforge_id": 256717,
+      "version_id": "5623731",
+      "version": "Clumps-neoforge-1.21.1-19.0.0.1.jar"
+    },
+    {
+      "name": "Curios API",
+      "curseforge_id": 309927,
+      "version_id": "6529130",
+      "version": "curios-neoforge-9.5.1+1.21.1.jar"
+    },
+    {
+      "name": "Enchantment Descriptions",
+      "curseforge_id": 250419,
+      "version_id": "8693034",
+      "version": "enchdesc-neoforge-1.21.1-21.1.11.jar"
+    },
+    {
+      "name": "Bookshelf",
+      "curseforge_id": 228525
+    },
+    {
+      "name": "Prickle",
+      "curseforge_id": 1023259
+    },
+    {
+      "name": "Corpse",
+      "curseforge_id": 316582,
+      "version_id": "7018307",
+      "version": "[NEOFORGE][1.21.1] Corpse 1.21.1-1.1.13"
+    },
+    {
+      "name": "Corpse x Curios API Compat",
+      "curseforge_id": 1138130,
+      "version_id": "7891800",
+      "version": "corpsecurioscompat-1.21.1-NeoForge-4.0.1.jar"
+    },
+    {
+      "name": "BaguetteLib",
+      "curseforge_id": 1264423
+    },
+    {
+      "name": "Corpse x Cosmetic Armor Reworked Compat",
+      "curseforge_id": 1208436,
+      "version_id": "7891804",
+      "version": "cosmeticcorpsecompat-1.21.1-NeoForge-4.0.1.jar"
+    },
+    {
+      "name": "Cosmetic Armor Reworked",
+      "curseforge_id": 237307
+    },
+    {
+      "name": "Jade 🔍",
+      "curseforge_id": 324717,
+      "version_id": "8591319",
+      "version": "[NeoForge 1.21.1] 15.10.6"
+    },
+    {
+      "name": "Sophisticated Backpacks",
+      "curseforge_id": 422301,
+      "version_id": "8845926",
+      "version": "sophisticatedbackpacks-1.21.1-3.26.3.2158.jar"
+    },
+    {
+      "name": "Sophisticated Core",
+      "curseforge_id": 618298
+    },
+    {
+      "name": "Sophisticated Storage",
+      "curseforge_id": 619320,
+      "version_id": "8687896",
+      "version": "sophisticatedstorage-1.21.1-1.5.91.2127.jar"
+    },
+    {
+      "name": "Sophisticated Item Actions",
+      "curseforge_id": 1419142,
+      "version_id": "8820579",
+      "version": "sophisticateditemactions-1.21.1-0.5.16.423.jar"
+    },
+    {
+      "name": "FTB Library (NeoForge)",
+      "curseforge_id": 404465,
+      "version_id": "8858846"
+    },
+    {
+      "name": "Architectury API",
+      "curseforge_id": 419699
+    },
+    {
+      "name": "FTB Quests (NeoForge)",
+      "curseforge_id": 289412,
+      "version_id": "8885017",
+      "version": "[NEOFORGE][1.21.1] FTB Quests 2101.1.36"
+    },
+    {
+      "name": "FTB Teams (NeoForge)",
+      "curseforge_id": 404468
+    },
+    {
+      "name": "FTB Essentials (Forge & Fabric)",
+      "curseforge_id": 410811,
+      "version_id": "8442866",
+      "version": "[NEOFORGE][1.21.1] FTB Essentials 2101.1.10"
+    },
+    {
+      "name": "Fast Leaf Decay",
+      "curseforge_id": 230976,
+      "version_id": "5849090",
+      "version": "FastLeafDecay-35.jar"
+    },
+    {
+      "name": "NetherPortalFix",
+      "curseforge_id": 241160,
+      "version_id": "5623547",
+      "version": "netherportalfix-neoforge-1.21.1-21.1.1.jar"
+    },
+    {
+      "name": "Sodium",
+      "curseforge_id": 394468,
+      "version_id": "8756580",
+      "version": "Sodium 0.8.13 for NeoForge 1.21.1"
+    },
+    {
+      "name": "(Sodium) Chloride",
+      "curseforge_id": 931925,
+      "version_id": "8462029",
+      "version": "chloride-1.8.1-NEOFORGE-1.21.1"
+    },
+    {
+      "name": "Artifacts",
+      "curseforge_id": 312353,
+      "version_id": "8791899",
+      "version": "artifacts-neoforge-13.2.5.jar"
+    },
+    {
+      "name": "Relics",
+      "curseforge_id": 445274,
+      "version_id": "8158315",
+      "version": "relics-1.21.1-0.12.8.jar"
+    },
+    {
+      "name": "ShatterLib | OctoLib",
+      "curseforge_id": 916747
+    },
+    {
+      "name": "Configured",
+      "curseforge_id": 457570,
+      "version_id": "7276577",
+      "version": "Configured 2.6.3"
+    },
+    {
+      "name": "Legendary Tooltips [Neo/Forge]",
+      "curseforge_id": 532127,
+      "version_id": "6400660",
+      "version": "LegendaryTooltips-1.21.1-neoforge-1.5.5.jar"
+    },
+    {
+      "name": "Iceberg [Neo/Forge]",
+      "curseforge_id": 520110
+    },
+    {
+      "name": "Prism [Neo/Forge]",
+      "curseforge_id": 638111
+    },
+    {
+      "name": "Legendary Tooltips x Equipment Compare",
+      "curseforge_id": 1463769,
+      "version_id": "8247396",
+      "version": "ltxec-neoforge-1.0.1.jar"
+    },
+    {
+      "name": "Equipment Compare [Neo/Forge]",
+      "curseforge_id": 502561
+    },
+    {
+      "name": "ImmediatelyFast",
+      "curseforge_id": 686911,
+      "version_id": "8875640",
+      "version": "ImmediatelyFast 1.6.14"
+    },
+    {
+      "name": "Entity Culling Fabric/Forge",
+      "curseforge_id": 448233,
+      "version_id": "8942303",
+      "version": "1.11.2-1.21.1 - NeoForge"
+    },
+    {
+      "name": "Concurrent Chunk Management Engine",
+      "curseforge_id": 533097,
+      "version_id": "8896937",
+      "version": "0.4.0-alpha.0.122 backport devbuild for 1.21.1"
+    },
+    {
+      "name": "Chunky (Forge/NeoForge)",
+      "curseforge_id": 485681,
+      "version_id": "6383261",
+      "version": "Chunky 1.4.23"
+    },
+    {
+      "name": "ModernFix",
+      "curseforge_id": 790626,
+      "version_id": "8774737",
+      "version": "modernfix-neoforge-5.27.24+mc1.21.1.jar"
+    },
+    {
+      "name": "FerriteCore ((Neo)Forge)",
+      "curseforge_id": 429235,
+      "version_id": "7524151",
+      "version": "ferritecore-7.0.3-neoforge"
+    },
+    {
+      "name": "Iris Shaders",
+      "curseforge_id": 455508,
+      "version_id": "6661598",
+      "version": "Iris 1.8.12 for NeoForge 1.21.1"
+    },
+    {
+      "name": "Iris & Oculus Flywheel Compat",
+      "curseforge_id": 659897,
+      "version_id": "8047971",
+      "version": "NeoForge 1.21.1+2.4.0-release"
+    },
+    {
+      "name": "Create Better FPS",
+      "curseforge_id": 1217518,
+      "version_id": "8908301",
+      "version": "createbetterfps-1.21.1-1.1.5.jar"
+    },
+    {
+      "name": "Lithium (Fabric/NeoForge)",
+      "curseforge_id": 360438,
+      "version_id": "8330365",
+      "version": "Lithium mc1.21.1-0.15.4 for Neoforge"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-09-22T20:42:07.621Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+56",
+      "changes": [
+        "+ Create",
+        "+ Create Aeronautics",
+        "+ Sable",
+        "+ Steam 'n' Rails Neoforge",
+        "+ Waystones: Sable (Create Aeronautics Addon)",
+        "+ Waystones",
+        "+ Balm",
+        "+ Xaero's Minimap",
+        "+ Xaero's World Map",
+        "+ Controlling",
+        "+ Searchables",
+        "+ Mouse Tweaks",
+        "+ AppleSkin",
+        "+ Clumps",
+        "+ Curios API",
+        "+ Enchantment Descriptions",
+        "+ Bookshelf",
+        "+ Prickle",
+        "+ Corpse",
+        "+ Corpse x Curios API Compat",
+        "+ BaguetteLib",
+        "+ Corpse x Cosmetic Armor Reworked Compat",
+        "+ Cosmetic Armor Reworked",
+        "+ Jade 🔍",
+        "+ Sophisticated Backpacks",
+        "+ Sophisticated Core",
+        "+ Sophisticated Storage",
+        "+ Sophisticated Item Actions",
+        "+ FTB Library (NeoForge)",
+        "+ Architectury API",
+        "+ FTB Quests (NeoForge)",
+        "+ FTB Teams (NeoForge)",
+        "+ FTB Essentials (Forge & Fabric)",
+        "+ Fast Leaf Decay",
+        "+ NetherPortalFix",
+        "+ Sodium",
+        "+ (Sodium) Chloride",
+        "+ Artifacts",
+        "+ Relics",
+        "+ ShatterLib | OctoLib",
+        "+ Configured",
+        "+ Legendary Tooltips [Neo/Forge]",
+        "+ Iceberg [Neo/Forge]",
+        "+ Prism [Neo/Forge]",
+        "+ Legendary Tooltips x Equipment Compare",
+        "+ Equipment Compare [Neo/Forge]",
+        "+ ImmediatelyFast",
+        "+ Entity Culling Fabric/Forge",
+        "+ Concurrent Chunk Management Engine",
+        "+ Chunky (Forge/NeoForge)",
+        "+ ModernFix",
+        "+ FerriteCore ((Neo)Forge)",
+        "+ Iris Shaders",
+        "+ Iris & Oculus Flywheel Compat",
+        "+ Create Better FPS",
+        "+ Lithium (Fabric/NeoForge)"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Create",
+            "lista": "mods",
+            "clave": "c:328085"
+          },
+          {
+            "nombre": "Create Aeronautics",
+            "lista": "mods",
+            "clave": "c:676721"
+          },
+          {
+            "nombre": "Sable",
+            "lista": "mods",
+            "clave": "c:1312371"
+          },
+          {
+            "nombre": "Steam 'n' Rails Neoforge",
+            "lista": "mods",
+            "clave": "c:1414670"
+          },
+          {
+            "nombre": "Waystones: Sable (Create Aeronautics Addon)",
+            "lista": "mods",
+            "clave": "c:1524471"
+          },
+          {
+            "nombre": "Waystones",
+            "lista": "mods",
+            "clave": "c:245755"
+          },
+          {
+            "nombre": "Balm",
+            "lista": "mods",
+            "clave": "c:531761"
+          },
+          {
+            "nombre": "Xaero's Minimap",
+            "lista": "mods",
+            "clave": "c:263420"
+          },
+          {
+            "nombre": "Xaero's World Map",
+            "lista": "mods",
+            "clave": "c:317780"
+          },
+          {
+            "nombre": "Controlling",
+            "lista": "mods",
+            "clave": "c:250398"
+          },
+          {
+            "nombre": "Searchables",
+            "lista": "mods",
+            "clave": "c:858542"
+          },
+          {
+            "nombre": "Mouse Tweaks",
+            "lista": "mods",
+            "clave": "c:60089"
+          },
+          {
+            "nombre": "AppleSkin",
+            "lista": "mods",
+            "clave": "c:248787"
+          },
+          {
+            "nombre": "Clumps",
+            "lista": "mods",
+            "clave": "c:256717"
+          },
+          {
+            "nombre": "Curios API",
+            "lista": "mods",
+            "clave": "c:309927"
+          },
+          {
+            "nombre": "Enchantment Descriptions",
+            "lista": "mods",
+            "clave": "c:250419"
+          },
+          {
+            "nombre": "Bookshelf",
+            "lista": "mods",
+            "clave": "c:228525"
+          },
+          {
+            "nombre": "Prickle",
+            "lista": "mods",
+            "clave": "c:1023259"
+          },
+          {
+            "nombre": "Corpse",
+            "lista": "mods",
+            "clave": "c:316582"
+          },
+          {
+            "nombre": "Corpse x Curios API Compat",
+            "lista": "mods",
+            "clave": "c:1138130"
+          },
+          {
+            "nombre": "BaguetteLib",
+            "lista": "mods",
+            "clave": "c:1264423"
+          },
+          {
+            "nombre": "Corpse x Cosmetic Armor Reworked Compat",
+            "lista": "mods",
+            "clave": "c:1208436"
+          },
+          {
+            "nombre": "Cosmetic Armor Reworked",
+            "lista": "mods",
+            "clave": "c:237307"
+          },
+          {
+            "nombre": "Jade 🔍",
+            "lista": "mods",
+            "clave": "c:324717"
+          },
+          {
+            "nombre": "Sophisticated Backpacks",
+            "lista": "mods",
+            "clave": "c:422301"
+          },
+          {
+            "nombre": "Sophisticated Core",
+            "lista": "mods",
+            "clave": "c:618298"
+          },
+          {
+            "nombre": "Sophisticated Storage",
+            "lista": "mods",
+            "clave": "c:619320"
+          },
+          {
+            "nombre": "Sophisticated Item Actions",
+            "lista": "mods",
+            "clave": "c:1419142"
+          },
+          {
+            "nombre": "FTB Library (NeoForge)",
+            "lista": "mods",
+            "clave": "c:404465"
+          },
+          {
+            "nombre": "Architectury API",
+            "lista": "mods",
+            "clave": "c:419699"
+          },
+          {
+            "nombre": "FTB Quests (NeoForge)",
+            "lista": "mods",
+            "clave": "c:289412"
+          },
+          {
+            "nombre": "FTB Teams (NeoForge)",
+            "lista": "mods",
+            "clave": "c:404468"
+          },
+          {
+            "nombre": "FTB Essentials (Forge & Fabric)",
+            "lista": "mods",
+            "clave": "c:410811"
+          },
+          {
+            "nombre": "Fast Leaf Decay",
+            "lista": "mods",
+            "clave": "c:230976"
+          },
+          {
+            "nombre": "NetherPortalFix",
+            "lista": "mods",
+            "clave": "c:241160"
+          },
+          {
+            "nombre": "Sodium",
+            "lista": "mods",
+            "clave": "c:394468"
+          },
+          {
+            "nombre": "(Sodium) Chloride",
+            "lista": "mods",
+            "clave": "c:931925"
+          },
+          {
+            "nombre": "Artifacts",
+            "lista": "mods",
+            "clave": "c:312353"
+          },
+          {
+            "nombre": "Relics",
+            "lista": "mods",
+            "clave": "c:445274"
+          },
+          {
+            "nombre": "ShatterLib | OctoLib",
+            "lista": "mods",
+            "clave": "c:916747"
+          },
+          {
+            "nombre": "Configured",
+            "lista": "mods",
+            "clave": "c:457570"
+          },
+          {
+            "nombre": "Legendary Tooltips [Neo/Forge]",
+            "lista": "mods",
+            "clave": "c:532127"
+          },
+          {
+            "nombre": "Iceberg [Neo/Forge]",
+            "lista": "mods",
+            "clave": "c:520110"
+          },
+          {
+            "nombre": "Prism [Neo/Forge]",
+            "lista": "mods",
+            "clave": "c:638111"
+          },
+          {
+            "nombre": "Legendary Tooltips x Equipment Compare",
+            "lista": "mods",
+            "clave": "c:1463769"
+          },
+          {
+            "nombre": "Equipment Compare [Neo/Forge]",
+            "lista": "mods",
+            "clave": "c:502561"
+          },
+          {
+            "nombre": "ImmediatelyFast",
+            "lista": "mods",
+            "clave": "c:686911"
+          },
+          {
+            "nombre": "Entity Culling Fabric/Forge",
+            "lista": "mods",
+            "clave": "c:448233"
+          },
+          {
+            "nombre": "Concurrent Chunk Management Engine",
+            "lista": "mods",
+            "clave": "c:533097"
+          },
+          {
+            "nombre": "Chunky (Forge/NeoForge)",
+            "lista": "mods",
+            "clave": "c:485681"
+          },
+          {
+            "nombre": "ModernFix",
+            "lista": "mods",
+            "clave": "c:790626"
+          },
+          {
+            "nombre": "FerriteCore ((Neo)Forge)",
+            "lista": "mods",
+            "clave": "c:429235"
+          },
+          {
+            "nombre": "Iris Shaders",
+            "lista": "mods",
+            "clave": "c:455508"
+          },
+          {
+            "nombre": "Iris & Oculus Flywheel Compat",
+            "lista": "mods",
+            "clave": "c:659897"
+          },
+          {
+            "nombre": "Create Better FPS",
+            "lista": "mods",
+            "clave": "c:1217518"
+          },
+          {
+            "nombre": "Lithium (Fabric/NeoForge)",
+            "lista": "mods",
+            "clave": "c:360438"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 56,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-09-22T20:24:48.469Z",
       "version": "1.0.0",
