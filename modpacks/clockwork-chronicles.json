@@ -10,8 +10,8 @@
     {
       "name": "Just Enough Items (JEI)",
       "curseforge_id": 238222,
-      "version_id": "8946440",
-      "version": "19.57.0.447 for NeoForge 1.21.1"
+      "version_id": "8829744",
+      "version": "19.53.0.426 for NeoForge 1.21.1"
     },
     {
       "name": "MezzConfig",
@@ -571,6 +571,34 @@
     }
   ],
   "changelog": [
+    {
+      "date": "2026-09-22T22:11:33.528Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "1 actualizados",
+      "changes": [
+        "~ Just Enough Items (JEI) (19.57.0.447 for NeoForge 1.21.1 → 19.53.0.426 for NeoForge 1.21.1)"
+      ],
+      "cambios": {
+        "agregados": [],
+        "quitados": [],
+        "actualizados": [
+          {
+            "nombre": "Just Enough Items (JEI)",
+            "lista": "mods",
+            "clave": "c:238222",
+            "de": "19.57.0.447 for NeoForge 1.21.1",
+            "a": "19.53.0.426 for NeoForge 1.21.1",
+            "deId": "8946440",
+            "aId": "8829744"
+          }
+        ],
+        "campos": [],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-09-22T22:10:31.011Z",
       "version": "1.0.0",
