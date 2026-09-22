@@ -192,9 +192,165 @@
       "curseforge_id": 1335150,
       "version_id": "8465046",
       "version": "NeoForge 2.1.0"
+    },
+    {
+      "name": "Comforts",
+      "curseforge_id": 276951,
+      "version_id": "7515858",
+      "version": "comforts-neoforge-9.0.5+1.21.1.jar"
+    },
+    {
+      "name": "Sophisticated Core",
+      "curseforge_id": 618298,
+      "version_id": "8838842",
+      "version": "sophisticatedcore-1.21.1-1.5.1.2341.jar"
+    },
+    {
+      "name": "Sophisticated Storage",
+      "curseforge_id": 619320,
+      "version_id": "8687896",
+      "version": "sophisticatedstorage-1.21.1-1.5.91.2127.jar"
+    },
+    {
+      "name": "Sophisticated Backpacks",
+      "curseforge_id": 422301,
+      "version_id": "8845926",
+      "version": "sophisticatedbackpacks-1.21.1-3.26.3.2158.jar"
+    },
+    {
+      "name": "Sophisticated Storage Create Integration",
+      "curseforge_id": 1226755,
+      "version_id": "8503147",
+      "version": "sophisticatedstoragecreateintegration-1.21.1-0.1.21.209.jar"
+    },
+    {
+      "name": "Sophisticated Backpacks Create Integration",
+      "curseforge_id": 1238567,
+      "version_id": "8833933",
+      "version": "sophisticatedbackpackscreateintegration-1.21.1-0.2.0.168.jar"
+    },
+    {
+      "name": "Sophisticated Item Actions",
+      "curseforge_id": 1419142,
+      "version_id": "8820579",
+      "version": "sophisticateditemactions-1.21.1-0.5.16.423.jar"
+    },
+    {
+      "name": "Legendary Tabs",
+      "curseforge_id": 1172469,
+      "version_id": "8590971",
+      "version": "legendarytabs-1.21.1-2.0.jar"
+    },
+    {
+      "name": "FTB Quests (NeoForge)",
+      "curseforge_id": 289412,
+      "version_id": "8885017",
+      "version": "[NEOFORGE][1.21.1] FTB Quests 2101.1.36"
+    },
+    {
+      "name": "Architectury API",
+      "curseforge_id": 419699
+    },
+    {
+      "name": "FTB Library (NeoForge)",
+      "curseforge_id": 404465
+    },
+    {
+      "name": "FTB Teams (NeoForge)",
+      "curseforge_id": 404468
     }
   ],
   "changelog": [
+    {
+      "date": "2026-09-22T02:18:30.211Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+12",
+      "changes": [
+        "+ Comforts",
+        "+ Sophisticated Core",
+        "+ Sophisticated Storage",
+        "+ Sophisticated Backpacks",
+        "+ Sophisticated Storage Create Integration",
+        "+ Sophisticated Backpacks Create Integration",
+        "+ Sophisticated Item Actions",
+        "+ Legendary Tabs",
+        "+ FTB Quests (NeoForge)",
+        "+ Architectury API",
+        "+ FTB Library (NeoForge)",
+        "+ FTB Teams (NeoForge)"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Comforts",
+            "lista": "mods",
+            "clave": "c:276951"
+          },
+          {
+            "nombre": "Sophisticated Core",
+            "lista": "mods",
+            "clave": "c:618298"
+          },
+          {
+            "nombre": "Sophisticated Storage",
+            "lista": "mods",
+            "clave": "c:619320"
+          },
+          {
+            "nombre": "Sophisticated Backpacks",
+            "lista": "mods",
+            "clave": "c:422301"
+          },
+          {
+            "nombre": "Sophisticated Storage Create Integration",
+            "lista": "mods",
+            "clave": "c:1226755"
+          },
+          {
+            "nombre": "Sophisticated Backpacks Create Integration",
+            "lista": "mods",
+            "clave": "c:1238567"
+          },
+          {
+            "nombre": "Sophisticated Item Actions",
+            "lista": "mods",
+            "clave": "c:1419142"
+          },
+          {
+            "nombre": "Legendary Tabs",
+            "lista": "mods",
+            "clave": "c:1172469"
+          },
+          {
+            "nombre": "FTB Quests (NeoForge)",
+            "lista": "mods",
+            "clave": "c:289412"
+          },
+          {
+            "nombre": "Architectury API",
+            "lista": "mods",
+            "clave": "c:419699"
+          },
+          {
+            "nombre": "FTB Library (NeoForge)",
+            "lista": "mods",
+            "clave": "c:404465"
+          },
+          {
+            "nombre": "FTB Teams (NeoForge)",
+            "lista": "mods",
+            "clave": "c:404468"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 12,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-09-22T02:09:30.972Z",
       "version": "1.0.0",
