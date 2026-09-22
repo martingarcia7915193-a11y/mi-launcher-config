@@ -356,6 +356,30 @@
   ],
   "changelog": [
     {
+      "date": "2026-09-22T20:06:54.531Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+1",
+      "changes": [
+        "+ Magic Combat - Spellbooks"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Magic Combat - Spellbooks",
+            "lista": "datapacks",
+            "clave": "c:1351331"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
+    {
       "date": "2026-09-22T20:02:24.057Z",
       "version": "1.0.0",
       "author": "Martion000",
@@ -1105,5 +1129,13 @@
   ],
   "icon": "",
   "extras_url": "https://drive.google.com/file/d/1umkHIxGZeRiV3ivAygpifYr0FILUY01h/view?usp=sharing",
-  "extras_version": 2
+  "extras_version": 2,
+  "datapacks": [
+    {
+      "name": "Magic Combat - Spellbooks",
+      "curseforge_id": 1351331,
+      "version_id": "7234966",
+      "version": "Magic Combat - Spellbooks v1.1.0.zip"
+    }
+  ]
 }
