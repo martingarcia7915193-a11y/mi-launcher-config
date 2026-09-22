@@ -386,9 +386,307 @@
       "curseforge_id": 1556708,
       "version_id": "8181069",
       "version": "linearbearing-1.2.6.jar"
+    },
+    {
+      "name": "Create: Enchantment Industry",
+      "curseforge_id": 688768,
+      "version_id": "8900719",
+      "version": "Create: Enchantment Industry 2.5.4 for Create 1.21.1-6.0.10"
+    },
+    {
+      "name": "Create: Dragons Plus",
+      "curseforge_id": 1216624
+    },
+    {
+      "name": "Create Deco",
+      "curseforge_id": 509285,
+      "version_id": "7943181",
+      "version": "createdeco-2.1.3.jar"
+    },
+    {
+      "name": "Create: Copycats+",
+      "curseforge_id": 968398,
+      "version_id": "8822348",
+      "version": "copycats-3.0.9+mc.1.21.1-neoforge"
+    },
+    {
+      "name": "Create Stuff 'N Additions",
+      "curseforge_id": 466792,
+      "version_id": "8664066",
+      "version": "Create S&A 1.21.1 V2.1.4b"
+    },
+    {
+      "name": "Create: Bells & Whistles",
+      "curseforge_id": 905040,
+      "version_id": "6299879",
+      "version": "bellsandwhistles-0.4.7-1.21.1.jar"
+    },
+    {
+      "name": "Create: Hypertubes",
+      "curseforge_id": 1281336,
+      "version_id": "8541877",
+      "version": "Hypertubes 0.6.0 NEOFORGE"
+    },
+    {
+      "name": "Create: Connected",
+      "curseforge_id": 947914,
+      "version_id": "8777573",
+      "version": "create_connected 1.3.3-mc1.21.1"
+    },
+    {
+      "name": "Create: Interiors",
+      "curseforge_id": 906239,
+      "version_id": "8854020",
+      "version": "Interiors 0.6.1 for NeoForge 1.21.1 v2 (Bugfix)"
+    },
+    {
+      "name": "Create: Diesel Generators",
+      "curseforge_id": 869316,
+      "version_id": "8542167",
+      "version": "createdieselgenerators-1.21.1-1.3.15.jar"
+    },
+    {
+      "name": "Create : Misc & Things",
+      "curseforge_id": 652202,
+      "version_id": "8169164",
+      "version": "[1.21.1] Create Misc and Things 4.1.1"
+    },
+    {
+      "name": "Create: Design n' Decor",
+      "curseforge_id": 923238,
+      "version_id": "8156977",
+      "version": "Design-n-Decor-1.21.1-2.2b"
+    },
+    {
+      "name": "Create: Trading Floor",
+      "curseforge_id": 1102591,
+      "version_id": "7625579",
+      "version": "Create: Trading Floor 3.0.16 Neoforge 1.21.1"
+    },
+    {
+      "name": "Create Railways Navigator",
+      "curseforge_id": 935929,
+      "version_id": "8175347",
+      "version": "createrailwaysnavigator-neoforge-1.21.1-beta-0.9.1-C6"
+    },
+    {
+      "name": "DragonLib",
+      "curseforge_id": 946163
+    },
+    {
+      "name": "Create: Dreams n' Desires",
+      "curseforge_id": 864781,
+      "version_id": "8037481",
+      "version": "DnDesires-1.21.1-2.3a-BETA"
+    },
+    {
+      "name": "Create: Oxidized",
+      "curseforge_id": 953729,
+      "version_id": "6286593",
+      "version": "Create: Oxidized-1.21.1-0.1.3"
+    },
+    {
+      "name": "Create: Pattern Schematics",
+      "curseforge_id": 1072349,
+      "version_id": "7155413",
+      "version": "Create: Pattern Schematics 2.0.10 NeoForge 1.21.1"
+    },
+    {
+      "name": "Create: Escalated",
+      "curseforge_id": 1260145,
+      "version_id": "8679269",
+      "version": "Create: Escalated v1.3.2 for NeoForge 1.21.1, Create v6.0.7+"
+    },
+    {
+      "name": "Create: Metallurgy",
+      "curseforge_id": 1007404,
+      "version_id": "8128243",
+      "version": "Create Metallurgy 1.0.3-1.21.1 for Create 6.0.10"
+    },
+    {
+      "name": "Create: Bits 'n' Bobs",
+      "curseforge_id": 1398383,
+      "version_id": "8886545",
+      "version": "Create Bits 'n' Bobs 2.3.5 NeoForge 1.21.1"
+    },
+    {
+      "name": "Azimuth API",
+      "curseforge_id": 1466331
+    },
+    {
+      "name": "Strut Your Stuff (Struts)",
+      "curseforge_id": 1486746
+    },
+    {
+      "name": "Create: Transmission!",
+      "curseforge_id": 1354280,
+      "version_id": "8646664",
+      "version": "createtransmission-1.2.2+neoforge-create6-1.21.1.jar"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-09-22T21:33:57.359Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+24",
+      "changes": [
+        "+ Create: Enchantment Industry",
+        "+ Create: Dragons Plus",
+        "+ Create Deco",
+        "+ Create: Copycats+",
+        "+ Create Stuff 'N Additions",
+        "+ Create: Bells & Whistles",
+        "+ Create: Hypertubes",
+        "+ Create: Connected",
+        "+ Create: Interiors",
+        "+ Create: Diesel Generators",
+        "+ Create : Misc & Things",
+        "+ Create: Design n' Decor",
+        "+ Create: Trading Floor",
+        "+ Create Railways Navigator",
+        "+ DragonLib",
+        "+ Create: Dreams n' Desires",
+        "+ Create: Oxidized",
+        "+ Create: Pattern Schematics",
+        "+ Create: Escalated",
+        "+ Create: Metallurgy",
+        "+ Create: Bits 'n' Bobs",
+        "+ Azimuth API",
+        "+ Strut Your Stuff (Struts)",
+        "+ Create: Transmission!"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Create: Enchantment Industry",
+            "lista": "mods",
+            "clave": "c:688768"
+          },
+          {
+            "nombre": "Create: Dragons Plus",
+            "lista": "mods",
+            "clave": "c:1216624"
+          },
+          {
+            "nombre": "Create Deco",
+            "lista": "mods",
+            "clave": "c:509285"
+          },
+          {
+            "nombre": "Create: Copycats+",
+            "lista": "mods",
+            "clave": "c:968398"
+          },
+          {
+            "nombre": "Create Stuff 'N Additions",
+            "lista": "mods",
+            "clave": "c:466792"
+          },
+          {
+            "nombre": "Create: Bells & Whistles",
+            "lista": "mods",
+            "clave": "c:905040"
+          },
+          {
+            "nombre": "Create: Hypertubes",
+            "lista": "mods",
+            "clave": "c:1281336"
+          },
+          {
+            "nombre": "Create: Connected",
+            "lista": "mods",
+            "clave": "c:947914"
+          },
+          {
+            "nombre": "Create: Interiors",
+            "lista": "mods",
+            "clave": "c:906239"
+          },
+          {
+            "nombre": "Create: Diesel Generators",
+            "lista": "mods",
+            "clave": "c:869316"
+          },
+          {
+            "nombre": "Create : Misc & Things",
+            "lista": "mods",
+            "clave": "c:652202"
+          },
+          {
+            "nombre": "Create: Design n' Decor",
+            "lista": "mods",
+            "clave": "c:923238"
+          },
+          {
+            "nombre": "Create: Trading Floor",
+            "lista": "mods",
+            "clave": "c:1102591"
+          },
+          {
+            "nombre": "Create Railways Navigator",
+            "lista": "mods",
+            "clave": "c:935929"
+          },
+          {
+            "nombre": "DragonLib",
+            "lista": "mods",
+            "clave": "c:946163"
+          },
+          {
+            "nombre": "Create: Dreams n' Desires",
+            "lista": "mods",
+            "clave": "c:864781"
+          },
+          {
+            "nombre": "Create: Oxidized",
+            "lista": "mods",
+            "clave": "c:953729"
+          },
+          {
+            "nombre": "Create: Pattern Schematics",
+            "lista": "mods",
+            "clave": "c:1072349"
+          },
+          {
+            "nombre": "Create: Escalated",
+            "lista": "mods",
+            "clave": "c:1260145"
+          },
+          {
+            "nombre": "Create: Metallurgy",
+            "lista": "mods",
+            "clave": "c:1007404"
+          },
+          {
+            "nombre": "Create: Bits 'n' Bobs",
+            "lista": "mods",
+            "clave": "c:1398383"
+          },
+          {
+            "nombre": "Azimuth API",
+            "lista": "mods",
+            "clave": "c:1466331"
+          },
+          {
+            "nombre": "Strut Your Stuff (Struts)",
+            "lista": "mods",
+            "clave": "c:1486746"
+          },
+          {
+            "nombre": "Create: Transmission!",
+            "lista": "mods",
+            "clave": "c:1354280"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 24,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-09-22T21:01:08.320Z",
       "version": "1.0.0",
