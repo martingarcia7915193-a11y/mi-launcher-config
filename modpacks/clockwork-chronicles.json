@@ -5,5 +5,117 @@
   "minecraft_version": "1.21.1",
   "modloader": "neoforge",
   "category": "oficiales",
-  "modloader_version": "21.1.251"
+  "modloader_version": "21.1.251",
+  "mods": [
+    {
+      "name": "Just Enough Items (JEI)",
+      "curseforge_id": 238222,
+      "version_id": "8946440",
+      "version": "19.57.0.447 for NeoForge 1.21.1"
+    },
+    {
+      "name": "MezzConfig",
+      "curseforge_id": 1689768
+    },
+    {
+      "name": "EMI",
+      "curseforge_id": 580555,
+      "version_id": "8081408",
+      "version": "emi-1.1.24+1.21.1+neoforge"
+    },
+    {
+      "name": "EMI Loot",
+      "curseforge_id": 681783,
+      "version_id": "7417271",
+      "version": "emi_loot-0.7.9+1.21+neoforge.jar"
+    },
+    {
+      "name": "Fzzy Config",
+      "curseforge_id": 1005914
+    },
+    {
+      "name": "Kotlin for Forge",
+      "curseforge_id": 351264
+    },
+    {
+      "name": "EMI Extra Integrations",
+      "curseforge_id": 739970,
+      "version_id": "6939681",
+      "version": "exmi neoforge 1.0.3+1.21.1"
+    },
+    {
+      "name": "EMI++",
+      "curseforge_id": 1335150,
+      "version_id": "8465046",
+      "version": "NeoForge 2.1.0"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-09-22T20:24:41.145Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+8",
+      "changes": [
+        "+ Just Enough Items (JEI)",
+        "+ MezzConfig",
+        "+ EMI",
+        "+ EMI Loot",
+        "+ Fzzy Config",
+        "+ Kotlin for Forge",
+        "+ EMI Extra Integrations",
+        "+ EMI++"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Just Enough Items (JEI)",
+            "lista": "mods",
+            "clave": "c:238222"
+          },
+          {
+            "nombre": "MezzConfig",
+            "lista": "mods",
+            "clave": "c:1689768"
+          },
+          {
+            "nombre": "EMI",
+            "lista": "mods",
+            "clave": "c:580555"
+          },
+          {
+            "nombre": "EMI Loot",
+            "lista": "mods",
+            "clave": "c:681783"
+          },
+          {
+            "nombre": "Fzzy Config",
+            "lista": "mods",
+            "clave": "c:1005914"
+          },
+          {
+            "nombre": "Kotlin for Forge",
+            "lista": "mods",
+            "clave": "c:351264"
+          },
+          {
+            "nombre": "EMI Extra Integrations",
+            "lista": "mods",
+            "clave": "c:739970"
+          },
+          {
+            "nombre": "EMI++",
+            "lista": "mods",
+            "clave": "c:1335150"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 8,
+        "hayCambios": true
+      }
+    }
+  ]
 }
