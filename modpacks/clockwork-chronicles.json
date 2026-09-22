@@ -335,8 +335,8 @@
     {
       "name": "Iris Shaders",
       "curseforge_id": 455508,
-      "version_id": "6661598",
-      "version": "Iris 1.8.12 for NeoForge 1.21.1"
+      "version_id": "8242804",
+      "version": "Iris 1.8.14 Beta 1 for NeoForge 1.21.1"
     },
     {
       "name": "Iris & Oculus Flywheel Compat",
@@ -358,6 +358,34 @@
     }
   ],
   "changelog": [
+    {
+      "date": "2026-09-22T20:46:04.379Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "1 actualizados",
+      "changes": [
+        "~ Iris Shaders (Iris 1.8.12 for NeoForge 1.21.1 → Iris 1.8.14 Beta 1 for NeoForge 1.21.1)"
+      ],
+      "cambios": {
+        "agregados": [],
+        "quitados": [],
+        "actualizados": [
+          {
+            "nombre": "Iris Shaders",
+            "lista": "mods",
+            "clave": "c:455508",
+            "de": "Iris 1.8.12 for NeoForge 1.21.1",
+            "a": "Iris 1.8.14 Beta 1 for NeoForge 1.21.1",
+            "deId": "6661598",
+            "aId": "8242804"
+          }
+        ],
+        "campos": [],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-09-22T20:42:07.621Z",
       "version": "1.0.0",
