@@ -52,6 +52,28 @@
   ],
   "changelog": [
     {
+      "date": "2026-09-22T20:24:48.469Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "configs",
+      "changes": [
+        "~ Configs actualizados"
+      ],
+      "cambios": {
+        "agregados": [],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": {
+          "de": null,
+          "a": 1,
+          "primeraVez": true
+        },
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
+    {
       "date": "2026-09-22T20:24:41.145Z",
       "version": "1.0.0",
       "author": "Martion000",
@@ -117,5 +139,7 @@
         "hayCambios": true
       }
     }
-  ]
+  ],
+  "extras_url": "https://drive.google.com/file/d/1fGxPjHqrBDZJdymMha_V7sLO2a2ut2pW/view?usp=sharing",
+  "extras_version": 1
 }
