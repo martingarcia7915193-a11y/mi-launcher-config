@@ -252,9 +252,71 @@
     {
       "name": "FTB Teams (NeoForge)",
       "curseforge_id": 404468
+    },
+    {
+      "name": "Steam 'n' Rails Neoforge",
+      "curseforge_id": 1414670,
+      "version_id": "8522154",
+      "version": "railways-0.3.0-beta.2+neoforge-mc1.21.1.jar"
+    },
+    {
+      "name": "Better Combat [Fabric & Forge]",
+      "curseforge_id": 639842,
+      "version_id": "8430183",
+      "version": "bettercombat-neoforge-2.4.0+1.21.1.jar"
+    },
+    {
+      "name": "Cloth Config API (Fabric/Forge/NeoForge)",
+      "curseforge_id": 348521
+    },
+    {
+      "name": "playerAnimator",
+      "curseforge_id": 658587
     }
   ],
   "changelog": [
+    {
+      "date": "2026-09-22T19:36:55.281Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+4",
+      "changes": [
+        "+ Steam 'n' Rails Neoforge",
+        "+ Better Combat [Fabric & Forge]",
+        "+ Cloth Config API (Fabric/Forge/NeoForge)",
+        "+ playerAnimator"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Steam 'n' Rails Neoforge",
+            "lista": "mods",
+            "clave": "c:1414670"
+          },
+          {
+            "nombre": "Better Combat [Fabric & Forge]",
+            "lista": "mods",
+            "clave": "c:639842"
+          },
+          {
+            "nombre": "Cloth Config API (Fabric/Forge/NeoForge)",
+            "lista": "mods",
+            "clave": "c:348521"
+          },
+          {
+            "nombre": "playerAnimator",
+            "lista": "mods",
+            "clave": "c:658587"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 4,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-09-22T02:32:35.009Z",
       "version": "1.0.0",
