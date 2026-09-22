@@ -122,9 +122,51 @@
       "curseforge_id": 1139062,
       "version_id": "7891807",
       "version": "gravestonecurioscompat-1.21.1-NeoForge-4.0.2.jar"
+    },
+    {
+      "name": "Configured",
+      "curseforge_id": 457570,
+      "version_id": "7276577",
+      "version": "Configured 2.6.3"
+    },
+    {
+      "name": "BaguetteLib",
+      "curseforge_id": 1264423,
+      "version_id": "8887463",
+      "version": "baguettelib-1.21.1-NeoForge-2.0.7.jar"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-09-22T01:36:36.925Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+2",
+      "changes": [
+        "+ Configured",
+        "+ BaguetteLib"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Configured",
+            "lista": "mods",
+            "clave": "c:457570"
+          },
+          {
+            "nombre": "BaguetteLib",
+            "lista": "mods",
+            "clave": "c:1264423"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 2,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-09-22T01:35:42.401Z",
       "version": "1.0.0",
