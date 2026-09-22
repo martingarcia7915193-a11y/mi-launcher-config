@@ -258,9 +258,39 @@
     {
       "name": "FTB Teams (NeoForge)",
       "curseforge_id": 404468
+    },
+    {
+      "name": "Sophisticated Tab",
+      "curseforge_id": 1540042,
+      "version_id": "8834663",
+      "version": "Sophisticated Tab 0.8.1 (NeoForge 1.21.1)"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-09-22T02:21:27.743Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+1",
+      "changes": [
+        "+ Sophisticated Tab"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Sophisticated Tab",
+            "lista": "mods",
+            "clave": "c:1540042"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-09-22T02:18:30.211Z",
       "version": "1.0.0",
