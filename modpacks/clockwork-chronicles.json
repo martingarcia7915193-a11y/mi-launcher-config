@@ -374,9 +374,51 @@
       "curseforge_id": 429371,
       "version_id": "7213667",
       "version": "KubeJS Create NeoForge 2101.3.1-build.18"
+    },
+    {
+      "name": "Create: Coasters Simulated",
+      "curseforge_id": 1601871,
+      "version_id": "8655742",
+      "version": "Create: Coasters Simulated 0.1.5"
+    },
+    {
+      "name": "Create: Linear Bearing",
+      "curseforge_id": 1556708,
+      "version_id": "8181069",
+      "version": "linearbearing-1.2.6.jar"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-09-22T21:01:08.320Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+2",
+      "changes": [
+        "+ Create: Coasters Simulated",
+        "+ Create: Linear Bearing"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Create: Coasters Simulated",
+            "lista": "mods",
+            "clave": "c:1601871"
+          },
+          {
+            "nombre": "Create: Linear Bearing",
+            "lista": "mods",
+            "clave": "c:1556708"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 2,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-09-22T20:49:58.678Z",
       "version": "1.0.0",
