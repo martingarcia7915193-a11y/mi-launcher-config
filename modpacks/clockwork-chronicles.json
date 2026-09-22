@@ -258,15 +258,33 @@
     {
       "name": "FTB Teams (NeoForge)",
       "curseforge_id": 404468
-    },
-    {
-      "name": "Reskillable Reimagined",
-      "curseforge_id": 1170464,
-      "version_id": "8933797",
-      "version": "reskillable-4.1.1-1.21.1"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-09-22T02:31:33.388Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "−1",
+      "changes": [
+        "− Reskillable Reimagined"
+      ],
+      "cambios": {
+        "agregados": [],
+        "quitados": [
+          {
+            "nombre": "Reskillable Reimagined",
+            "lista": "mods",
+            "clave": "c:1170464"
+          }
+        ],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-09-22T02:26:40.130Z",
       "version": "1.0.0",
