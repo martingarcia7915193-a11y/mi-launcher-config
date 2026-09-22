@@ -522,9 +522,39 @@
       "curseforge_id": 1354280,
       "version_id": "8646664",
       "version": "createtransmission-1.2.2+neoforge-create6-1.21.1.jar"
+    },
+    {
+      "name": "Create: Numismatics",
+      "curseforge_id": 889722,
+      "version_id": "8745418",
+      "version": "Numismatics 1.1.0 NeoForge 1.21.1"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-09-22T21:46:55.126Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+1",
+      "changes": [
+        "+ Create: Numismatics"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Create: Numismatics",
+            "lista": "mods",
+            "clave": "c:889722"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-09-22T21:33:57.359Z",
       "version": "1.0.0",
