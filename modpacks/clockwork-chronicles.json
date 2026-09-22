@@ -355,9 +355,70 @@
       "curseforge_id": 360438,
       "version_id": "8330365",
       "version": "Lithium mc1.21.1-0.15.4 for Neoforge"
+    },
+    {
+      "name": "KubeJS",
+      "curseforge_id": 238086,
+      "version_id": "8843626"
+    },
+    {
+      "name": "Better Advanced Tooltips",
+      "curseforge_id": 1637623
+    },
+    {
+      "name": "Rhino",
+      "curseforge_id": 416294
+    },
+    {
+      "name": "KubeJS Create",
+      "curseforge_id": 429371,
+      "version_id": "7213667",
+      "version": "KubeJS Create NeoForge 2101.3.1-build.18"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-09-22T20:49:58.678Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+4",
+      "changes": [
+        "+ KubeJS",
+        "+ Better Advanced Tooltips",
+        "+ Rhino",
+        "+ KubeJS Create"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "KubeJS",
+            "lista": "mods",
+            "clave": "c:238086"
+          },
+          {
+            "nombre": "Better Advanced Tooltips",
+            "lista": "mods",
+            "clave": "c:1637623"
+          },
+          {
+            "nombre": "Rhino",
+            "lista": "mods",
+            "clave": "c:416294"
+          },
+          {
+            "nombre": "KubeJS Create",
+            "lista": "mods",
+            "clave": "c:429371"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 4,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-09-22T20:46:04.379Z",
       "version": "1.0.0",
