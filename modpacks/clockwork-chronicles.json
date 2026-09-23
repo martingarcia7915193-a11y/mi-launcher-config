@@ -590,9 +590,39 @@
       "curseforge_id": 1494004,
       "version_id": "8926887",
       "version": "petrochem-neoforge-1.21.1-1.3.3.jar"
+    },
+    {
+      "name": "Cloth Config API (Fabric/Forge/NeoForge)",
+      "curseforge_id": 348521,
+      "version_id": "5729127",
+      "version": "[NeoForge 1.21] v15.0.140"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-09-23T02:55:29.372Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+1",
+      "changes": [
+        "+ Cloth Config API (Fabric/Forge/NeoForge)"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Cloth Config API (Fabric/Forge/NeoForge)",
+            "lista": "mods",
+            "clave": "c:348521"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-09-22T23:52:20.754Z",
       "version": "1.0.0",
