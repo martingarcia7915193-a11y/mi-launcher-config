@@ -706,6 +706,28 @@
   ],
   "changelog": [
     {
+      "date": "2026-09-24T01:30:13.190Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "configs",
+      "changes": [
+        "~ Configs actualizados"
+      ],
+      "cambios": {
+        "agregados": [],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": {
+          "de": 2,
+          "a": 3,
+          "primeraVez": false
+        },
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
+    {
       "date": "2026-09-24T01:26:06.627Z",
       "version": "1.0.0",
       "author": "Martion000",
@@ -1852,7 +1874,7 @@
     }
   ],
   "extras_url": "https://drive.google.com/file/d/1fGxPjHqrBDZJdymMha_V7sLO2a2ut2pW/view?usp=sharing",
-  "extras_version": 2,
+  "extras_version": 3,
   "shaders": [
     {
       "name": "Complementary Shaders - Reimagined",
