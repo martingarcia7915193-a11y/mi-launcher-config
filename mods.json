@@ -25,6 +25,32 @@
       "nombre": "Enchanting Tree",
       "descripcion": "Reemplaza la mesa de encantamientos por un Arbol de encantamientos: elige cada encantamiento y nivel pagando XP y lapis.",
       "autor": "Arka (original Fabric), port NeoForge por Martin"
+    },
+    {
+      "id": "levelz",
+      "creado": "2026-09-24T21:55:54.194Z",
+      "versiones": [
+        {
+          "id": "1.0.0-neoforge-neoforge-1.21.1",
+          "version": "1.0.0-neoforge",
+          "mc": [
+            "1.21.1"
+          ],
+          "loaders": [
+            "neoforge"
+          ],
+          "archivo": "levelz-2.0.10-neoforge.jar",
+          "url": "https://drive.usercontent.google.com/download?id=1PwpkkMj2Ah4FS3yOP5g5nKzfvlLv6DAR&export=download&confirm=t",
+          "sha1": "b96a3119a00f04cd9eaa9256386c102bc17cfdaa",
+          "tamaño": 319732,
+          "fecha": "2026-09-24T21:55:54.194Z",
+          "donde": "drive",
+          "driveId": "1PwpkkMj2Ah4FS3yOP5g5nKzfvlLv6DAR"
+        }
+      ],
+      "nombre": "LevelZ",
+      "descripcion": "Adds player levels. Port no oficial de LevelZ (Fabric) a NeoForge 1.21.1.",
+      "autor": "Globox_Z (original), port NeoForge por Martin"
     }
   ]
 }
