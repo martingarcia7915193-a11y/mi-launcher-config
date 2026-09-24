@@ -586,12 +586,6 @@
       "version": "v3.0.28 ~ Neoforge 21.1"
     },
     {
-      "name": "Create: Petrochem",
-      "curseforge_id": 1494004,
-      "version_id": "8926887",
-      "version": "petrochem-neoforge-1.21.1-1.3.3.jar"
-    },
-    {
       "name": "Euphoria Patches",
       "curseforge_id": 915902,
       "version_id": "8884680",
@@ -599,6 +593,30 @@
     }
   ],
   "changelog": [
+    {
+      "date": "2026-09-24T01:05:21.872Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "−1",
+      "changes": [
+        "− Create: Petrochem"
+      ],
+      "cambios": {
+        "agregados": [],
+        "quitados": [
+          {
+            "nombre": "Create: Petrochem",
+            "lista": "mods",
+            "clave": "c:1494004"
+          }
+        ],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-09-24T00:37:29.104Z",
       "version": "1.0.0",
