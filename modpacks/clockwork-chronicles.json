@@ -590,9 +590,51 @@
       "curseforge_id": 1494004,
       "version_id": "8926887",
       "version": "petrochem-neoforge-1.21.1-1.3.3.jar"
+    },
+    {
+      "name": "Euphoria Patches",
+      "curseforge_id": 915902,
+      "version_id": "8884680",
+      "version": "Euphoria Patcher 1.10.5-r5.9.3-neoforge"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-09-24T00:37:29.104Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+3",
+      "changes": [
+        "+ Euphoria Patches",
+        "+ Complementary Shaders - Reimagined",
+        "+ Complementary Shaders - Unbound"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Euphoria Patches",
+            "lista": "mods",
+            "clave": "c:915902"
+          },
+          {
+            "nombre": "Complementary Shaders - Reimagined",
+            "lista": "shaders",
+            "clave": "c:627557"
+          },
+          {
+            "nombre": "Complementary Shaders - Unbound",
+            "lista": "shaders",
+            "clave": "c:385587"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 3,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-09-24T00:34:25.938Z",
       "version": "1.0.0",
@@ -1501,5 +1543,19 @@
     }
   ],
   "extras_url": "https://drive.google.com/file/d/1fGxPjHqrBDZJdymMha_V7sLO2a2ut2pW/view?usp=sharing",
-  "extras_version": 1
+  "extras_version": 1,
+  "shaders": [
+    {
+      "name": "Complementary Shaders - Reimagined",
+      "curseforge_id": 627557,
+      "version_id": "8884654",
+      "version": "Complementary Reimagined r5.9.3"
+    },
+    {
+      "name": "Complementary Shaders - Unbound",
+      "curseforge_id": 385587,
+      "version_id": "8884656",
+      "version": "Complementary Unbound r5.9.3"
+    }
+  ]
 }
