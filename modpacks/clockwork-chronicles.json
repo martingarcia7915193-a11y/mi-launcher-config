@@ -664,12 +664,6 @@
       "curseforge_id": 968868
     },
     {
-      "name": "Quark Oddities",
-      "curseforge_id": 301051,
-      "version_id": "7625223",
-      "version": "QuarkOddities-1.21.1.jar"
-    },
-    {
       "name": "Handcrafted",
       "curseforge_id": 538214,
       "version_id": "6330030",
@@ -711,6 +705,30 @@
     }
   ],
   "changelog": [
+    {
+      "date": "2026-09-24T01:26:06.627Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "−1",
+      "changes": [
+        "− Quark Oddities"
+      ],
+      "cambios": {
+        "agregados": [],
+        "quitados": [
+          {
+            "nombre": "Quark Oddities",
+            "lista": "mods",
+            "clave": "c:301051"
+          }
+        ],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-09-24T01:17:22.931Z",
       "version": "1.0.0",
