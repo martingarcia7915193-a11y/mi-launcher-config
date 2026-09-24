@@ -1,0 +1,30 @@
+{
+  "mods": [
+    {
+      "id": "enchantingtree",
+      "creado": "2026-09-24T21:55:27.438Z",
+      "versiones": [
+        {
+          "id": "1.0.0-neoforge-neoforge-1.21.1",
+          "version": "1.0.0-neoforge",
+          "mc": [
+            "1.21.1"
+          ],
+          "loaders": [
+            "neoforge"
+          ],
+          "archivo": "enchantingtree-1.0.0-neoforge.jar",
+          "url": "https://drive.usercontent.google.com/download?id=1lzF2lJ1PDJQbkpyFkZm5x1agvAfqtmke&export=download&confirm=t",
+          "sha1": "7cb16981a83bd95f407766d612c05c1559c7b18a",
+          "tamaño": 64328,
+          "fecha": "2026-09-24T21:55:27.438Z",
+          "donde": "drive",
+          "driveId": "1lzF2lJ1PDJQbkpyFkZm5x1agvAfqtmke"
+        }
+      ],
+      "nombre": "Enchanting Tree",
+      "descripcion": "Reemplaza la mesa de encantamientos por un Arbol de encantamientos: elige cada encantamiento y nivel pagando XP y lapis.",
+      "autor": "Arka (original Fabric), port NeoForge por Martin"
+    }
+  ]
+}
