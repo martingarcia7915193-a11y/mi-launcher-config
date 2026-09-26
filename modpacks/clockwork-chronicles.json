@@ -702,9 +702,45 @@
       "curseforge_id": 441647,
       "version_id": "8780141",
       "version": "FramedBlocks-10.6.2.jar"
+    },
+    {
+      "name": "Create: Rubberworks",
+      "curseforge_id": 1425758,
+      "version_id": "8572299",
+      "version": "rubberworks-neoforge-1.21.1-1.1.4"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-09-26T21:44:16.036Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+2",
+      "changes": [
+        "+ Create: Rubberworks",
+        "+ Create: Rubberworks Compat"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Create: Rubberworks",
+            "lista": "mods",
+            "clave": "c:1425758"
+          },
+          {
+            "nombre": "Create: Rubberworks Compat",
+            "lista": "datapacks",
+            "clave": "c:1540335"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 2,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-09-24T01:30:13.190Z",
       "version": "1.0.0",
@@ -1887,6 +1923,14 @@
       "curseforge_id": 385587,
       "version_id": "8884656",
       "version": "Complementary Unbound r5.9.3"
+    }
+  ],
+  "datapacks": [
+    {
+      "name": "Create: Rubberworks Compat",
+      "curseforge_id": 1540335,
+      "version_id": "8597672",
+      "version": "CreateRubberworks_Compat_v6.zip"
     }
   ]
 }
