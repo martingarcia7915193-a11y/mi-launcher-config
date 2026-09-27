@@ -708,9 +708,97 @@
       "curseforge_id": 1425758,
       "version_id": "8572299",
       "version": "rubberworks-neoforge-1.21.1-1.1.4"
+    },
+    {
+      "name": "Sophisticated Backpacks Create Integration",
+      "curseforge_id": 1238567,
+      "version_id": "8985949",
+      "version": "sophisticatedbackpackscreateintegration-1.21.1-0.2.1.171.jar"
+    },
+    {
+      "name": "Sophisticated Storage Create Integration",
+      "curseforge_id": 1226755,
+      "version_id": "8503147",
+      "version": "sophisticatedstoragecreateintegration-1.21.1-0.1.21.209.jar"
+    },
+    {
+      "name": "Create: Lift n' Load |  Simulated/Aeronautics Addon",
+      "curseforge_id": 1517465,
+      "version_id": "8872270",
+      "version": "Lift-n-Load-1.21.1-1.1 Snapshot B"
+    },
+    {
+      "name": "Immersive Portals (for Forge)",
+      "curseforge_id": 355440,
+      "version_id": "6667779",
+      "version": "immersive_portals-6.0.7-all.jar"
+    },
+    {
+      "name": "Cloth Config API (Fabric/Forge/NeoForge)",
+      "curseforge_id": 348521
+    },
+    {
+      "name": "Immersive Aeronautics - Immersive Portals +  Create: Aeronautics",
+      "curseforge_id": 1629108,
+      "version_id": "8586854",
+      "version": "[New] Immersive Aeronautics 1.1.4 [1.21.1 | NeoForge]"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-09-27T01:50:23.396Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+6",
+      "changes": [
+        "+ Sophisticated Backpacks Create Integration",
+        "+ Sophisticated Storage Create Integration",
+        "+ Create: Lift n' Load |  Simulated/Aeronautics Addon",
+        "+ Immersive Portals (for Forge)",
+        "+ Cloth Config API (Fabric/Forge/NeoForge)",
+        "+ Immersive Aeronautics - Immersive Portals +  Create: Aeronautics"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Sophisticated Backpacks Create Integration",
+            "lista": "mods",
+            "clave": "c:1238567"
+          },
+          {
+            "nombre": "Sophisticated Storage Create Integration",
+            "lista": "mods",
+            "clave": "c:1226755"
+          },
+          {
+            "nombre": "Create: Lift n' Load |  Simulated/Aeronautics Addon",
+            "lista": "mods",
+            "clave": "c:1517465"
+          },
+          {
+            "nombre": "Immersive Portals (for Forge)",
+            "lista": "mods",
+            "clave": "c:355440"
+          },
+          {
+            "nombre": "Cloth Config API (Fabric/Forge/NeoForge)",
+            "lista": "mods",
+            "clave": "c:348521"
+          },
+          {
+            "nombre": "Immersive Aeronautics - Immersive Portals +  Create: Aeronautics",
+            "lista": "mods",
+            "clave": "c:1629108"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 6,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-09-26T21:44:16.036Z",
       "version": "1.0.0",
