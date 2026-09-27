@@ -187,7 +187,9 @@
     },
     {
       "name": "Sophisticated Core",
-      "curseforge_id": 618298
+      "curseforge_id": 618298,
+      "version_id": "8985869",
+      "version": "sophisticatedcore-1.21.1-1.5.2.2343.jar"
     },
     {
       "name": "Sophisticated Storage",
@@ -745,6 +747,34 @@
     }
   ],
   "changelog": [
+    {
+      "date": "2026-09-27T01:52:01.839Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "1 actualizados",
+      "changes": [
+        "~ Sophisticated Core (la más nueva → sophisticatedcore-1.21.1-1.5.2.2343.jar)"
+      ],
+      "cambios": {
+        "agregados": [],
+        "quitados": [],
+        "actualizados": [
+          {
+            "nombre": "Sophisticated Core",
+            "lista": "mods",
+            "clave": "c:618298",
+            "de": "la más nueva",
+            "a": "sophisticatedcore-1.21.1-1.5.2.2343.jar",
+            "deId": "la más nueva",
+            "aId": "8985869"
+          }
+        ],
+        "campos": [],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-09-27T01:51:13.374Z",
       "version": "1.0.0",
@@ -1933,28 +1963,6 @@
         "campos": [],
         "extras": null,
         "cuantos": 56,
-        "hayCambios": true
-      }
-    },
-    {
-      "date": "2026-09-22T20:24:48.469Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "configs",
-      "changes": [
-        "~ Configs actualizados"
-      ],
-      "cambios": {
-        "agregados": [],
-        "quitados": [],
-        "actualizados": [],
-        "campos": [],
-        "extras": {
-          "de": null,
-          "a": 1,
-          "primeraVez": true
-        },
-        "cuantos": 1,
         "hayCambios": true
       }
     }
