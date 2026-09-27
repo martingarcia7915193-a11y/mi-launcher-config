@@ -730,23 +730,41 @@
       "version": "Lift-n-Load-1.21.1-1.1 Snapshot B"
     },
     {
-      "name": "Immersive Portals (for Forge)",
-      "curseforge_id": 355440,
-      "version_id": "6667779",
-      "version": "immersive_portals-6.0.7-all.jar"
-    },
-    {
       "name": "Cloth Config API (Fabric/Forge/NeoForge)",
       "curseforge_id": 348521
-    },
-    {
-      "name": "Immersive Aeronautics - Immersive Portals +  Create: Aeronautics",
-      "curseforge_id": 1629108,
-      "version_id": "8586854",
-      "version": "[New] Immersive Aeronautics 1.1.4 [1.21.1 | NeoForge]"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-09-27T01:56:45.342Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "−2",
+      "changes": [
+        "− Immersive Portals (for Forge)",
+        "− Immersive Aeronautics - Immersive Portals +  Create: Aeronautics"
+      ],
+      "cambios": {
+        "agregados": [],
+        "quitados": [
+          {
+            "nombre": "Immersive Portals (for Forge)",
+            "lista": "mods",
+            "clave": "c:355440"
+          },
+          {
+            "nombre": "Immersive Aeronautics - Immersive Portals +  Create: Aeronautics",
+            "lista": "mods",
+            "clave": "c:1629108"
+          }
+        ],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 2,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-09-27T01:52:01.839Z",
       "version": "1.0.0",
@@ -1609,360 +1627,6 @@
         "campos": [],
         "extras": null,
         "cuantos": 1,
-        "hayCambios": true
-      }
-    },
-    {
-      "date": "2026-09-22T20:42:07.621Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "+56",
-      "changes": [
-        "+ Create",
-        "+ Create Aeronautics",
-        "+ Sable",
-        "+ Steam 'n' Rails Neoforge",
-        "+ Waystones: Sable (Create Aeronautics Addon)",
-        "+ Waystones",
-        "+ Balm",
-        "+ Xaero's Minimap",
-        "+ Xaero's World Map",
-        "+ Controlling",
-        "+ Searchables",
-        "+ Mouse Tweaks",
-        "+ AppleSkin",
-        "+ Clumps",
-        "+ Curios API",
-        "+ Enchantment Descriptions",
-        "+ Bookshelf",
-        "+ Prickle",
-        "+ Corpse",
-        "+ Corpse x Curios API Compat",
-        "+ BaguetteLib",
-        "+ Corpse x Cosmetic Armor Reworked Compat",
-        "+ Cosmetic Armor Reworked",
-        "+ Jade 🔍",
-        "+ Sophisticated Backpacks",
-        "+ Sophisticated Core",
-        "+ Sophisticated Storage",
-        "+ Sophisticated Item Actions",
-        "+ FTB Library (NeoForge)",
-        "+ Architectury API",
-        "+ FTB Quests (NeoForge)",
-        "+ FTB Teams (NeoForge)",
-        "+ FTB Essentials (Forge & Fabric)",
-        "+ Fast Leaf Decay",
-        "+ NetherPortalFix",
-        "+ Sodium",
-        "+ (Sodium) Chloride",
-        "+ Artifacts",
-        "+ Relics",
-        "+ ShatterLib | OctoLib",
-        "+ Configured",
-        "+ Legendary Tooltips [Neo/Forge]",
-        "+ Iceberg [Neo/Forge]",
-        "+ Prism [Neo/Forge]",
-        "+ Legendary Tooltips x Equipment Compare",
-        "+ Equipment Compare [Neo/Forge]",
-        "+ ImmediatelyFast",
-        "+ Entity Culling Fabric/Forge",
-        "+ Concurrent Chunk Management Engine",
-        "+ Chunky (Forge/NeoForge)",
-        "+ ModernFix",
-        "+ FerriteCore ((Neo)Forge)",
-        "+ Iris Shaders",
-        "+ Iris & Oculus Flywheel Compat",
-        "+ Create Better FPS",
-        "+ Lithium (Fabric/NeoForge)"
-      ],
-      "cambios": {
-        "agregados": [
-          {
-            "nombre": "Create",
-            "lista": "mods",
-            "clave": "c:328085"
-          },
-          {
-            "nombre": "Create Aeronautics",
-            "lista": "mods",
-            "clave": "c:676721"
-          },
-          {
-            "nombre": "Sable",
-            "lista": "mods",
-            "clave": "c:1312371"
-          },
-          {
-            "nombre": "Steam 'n' Rails Neoforge",
-            "lista": "mods",
-            "clave": "c:1414670"
-          },
-          {
-            "nombre": "Waystones: Sable (Create Aeronautics Addon)",
-            "lista": "mods",
-            "clave": "c:1524471"
-          },
-          {
-            "nombre": "Waystones",
-            "lista": "mods",
-            "clave": "c:245755"
-          },
-          {
-            "nombre": "Balm",
-            "lista": "mods",
-            "clave": "c:531761"
-          },
-          {
-            "nombre": "Xaero's Minimap",
-            "lista": "mods",
-            "clave": "c:263420"
-          },
-          {
-            "nombre": "Xaero's World Map",
-            "lista": "mods",
-            "clave": "c:317780"
-          },
-          {
-            "nombre": "Controlling",
-            "lista": "mods",
-            "clave": "c:250398"
-          },
-          {
-            "nombre": "Searchables",
-            "lista": "mods",
-            "clave": "c:858542"
-          },
-          {
-            "nombre": "Mouse Tweaks",
-            "lista": "mods",
-            "clave": "c:60089"
-          },
-          {
-            "nombre": "AppleSkin",
-            "lista": "mods",
-            "clave": "c:248787"
-          },
-          {
-            "nombre": "Clumps",
-            "lista": "mods",
-            "clave": "c:256717"
-          },
-          {
-            "nombre": "Curios API",
-            "lista": "mods",
-            "clave": "c:309927"
-          },
-          {
-            "nombre": "Enchantment Descriptions",
-            "lista": "mods",
-            "clave": "c:250419"
-          },
-          {
-            "nombre": "Bookshelf",
-            "lista": "mods",
-            "clave": "c:228525"
-          },
-          {
-            "nombre": "Prickle",
-            "lista": "mods",
-            "clave": "c:1023259"
-          },
-          {
-            "nombre": "Corpse",
-            "lista": "mods",
-            "clave": "c:316582"
-          },
-          {
-            "nombre": "Corpse x Curios API Compat",
-            "lista": "mods",
-            "clave": "c:1138130"
-          },
-          {
-            "nombre": "BaguetteLib",
-            "lista": "mods",
-            "clave": "c:1264423"
-          },
-          {
-            "nombre": "Corpse x Cosmetic Armor Reworked Compat",
-            "lista": "mods",
-            "clave": "c:1208436"
-          },
-          {
-            "nombre": "Cosmetic Armor Reworked",
-            "lista": "mods",
-            "clave": "c:237307"
-          },
-          {
-            "nombre": "Jade 🔍",
-            "lista": "mods",
-            "clave": "c:324717"
-          },
-          {
-            "nombre": "Sophisticated Backpacks",
-            "lista": "mods",
-            "clave": "c:422301"
-          },
-          {
-            "nombre": "Sophisticated Core",
-            "lista": "mods",
-            "clave": "c:618298"
-          },
-          {
-            "nombre": "Sophisticated Storage",
-            "lista": "mods",
-            "clave": "c:619320"
-          },
-          {
-            "nombre": "Sophisticated Item Actions",
-            "lista": "mods",
-            "clave": "c:1419142"
-          },
-          {
-            "nombre": "FTB Library (NeoForge)",
-            "lista": "mods",
-            "clave": "c:404465"
-          },
-          {
-            "nombre": "Architectury API",
-            "lista": "mods",
-            "clave": "c:419699"
-          },
-          {
-            "nombre": "FTB Quests (NeoForge)",
-            "lista": "mods",
-            "clave": "c:289412"
-          },
-          {
-            "nombre": "FTB Teams (NeoForge)",
-            "lista": "mods",
-            "clave": "c:404468"
-          },
-          {
-            "nombre": "FTB Essentials (Forge & Fabric)",
-            "lista": "mods",
-            "clave": "c:410811"
-          },
-          {
-            "nombre": "Fast Leaf Decay",
-            "lista": "mods",
-            "clave": "c:230976"
-          },
-          {
-            "nombre": "NetherPortalFix",
-            "lista": "mods",
-            "clave": "c:241160"
-          },
-          {
-            "nombre": "Sodium",
-            "lista": "mods",
-            "clave": "c:394468"
-          },
-          {
-            "nombre": "(Sodium) Chloride",
-            "lista": "mods",
-            "clave": "c:931925"
-          },
-          {
-            "nombre": "Artifacts",
-            "lista": "mods",
-            "clave": "c:312353"
-          },
-          {
-            "nombre": "Relics",
-            "lista": "mods",
-            "clave": "c:445274"
-          },
-          {
-            "nombre": "ShatterLib | OctoLib",
-            "lista": "mods",
-            "clave": "c:916747"
-          },
-          {
-            "nombre": "Configured",
-            "lista": "mods",
-            "clave": "c:457570"
-          },
-          {
-            "nombre": "Legendary Tooltips [Neo/Forge]",
-            "lista": "mods",
-            "clave": "c:532127"
-          },
-          {
-            "nombre": "Iceberg [Neo/Forge]",
-            "lista": "mods",
-            "clave": "c:520110"
-          },
-          {
-            "nombre": "Prism [Neo/Forge]",
-            "lista": "mods",
-            "clave": "c:638111"
-          },
-          {
-            "nombre": "Legendary Tooltips x Equipment Compare",
-            "lista": "mods",
-            "clave": "c:1463769"
-          },
-          {
-            "nombre": "Equipment Compare [Neo/Forge]",
-            "lista": "mods",
-            "clave": "c:502561"
-          },
-          {
-            "nombre": "ImmediatelyFast",
-            "lista": "mods",
-            "clave": "c:686911"
-          },
-          {
-            "nombre": "Entity Culling Fabric/Forge",
-            "lista": "mods",
-            "clave": "c:448233"
-          },
-          {
-            "nombre": "Concurrent Chunk Management Engine",
-            "lista": "mods",
-            "clave": "c:533097"
-          },
-          {
-            "nombre": "Chunky (Forge/NeoForge)",
-            "lista": "mods",
-            "clave": "c:485681"
-          },
-          {
-            "nombre": "ModernFix",
-            "lista": "mods",
-            "clave": "c:790626"
-          },
-          {
-            "nombre": "FerriteCore ((Neo)Forge)",
-            "lista": "mods",
-            "clave": "c:429235"
-          },
-          {
-            "nombre": "Iris Shaders",
-            "lista": "mods",
-            "clave": "c:455508"
-          },
-          {
-            "nombre": "Iris & Oculus Flywheel Compat",
-            "lista": "mods",
-            "clave": "c:659897"
-          },
-          {
-            "nombre": "Create Better FPS",
-            "lista": "mods",
-            "clave": "c:1217518"
-          },
-          {
-            "nombre": "Lithium (Fabric/NeoForge)",
-            "lista": "mods",
-            "clave": "c:360438"
-          }
-        ],
-        "quitados": [],
-        "actualizados": [],
-        "campos": [],
-        "extras": null,
-        "cuantos": 56,
         "hayCambios": true
       }
     }
