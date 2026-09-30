@@ -747,7 +747,9 @@
     },
     {
       "name": "Trade Cycling",
-      "curseforge_id": 570431
+      "curseforge_id": 570431,
+      "version_id": "8921718",
+      "version": "[NEOFORGE][1.21.1] Trade Cycling 1.21.1-1.0.22"
     },
     {
       "name": "Create More: Vertical Belts",
@@ -760,14 +762,6 @@
     {
       "name": "Pick Up Notifier",
       "curseforge_id": 351441
-    },
-    {
-      "name": "[Let's do] Furniture - create/sable(aeronautics) compatibility",
-      "curseforge_id": 1528288
-    },
-    {
-      "name": "[Let's Do] Furniture",
-      "curseforge_id": 1062363
     },
     {
       "name": "Trading Post",
@@ -785,6 +779,47 @@
     }
   ],
   "changelog": [
+    {
+      "date": "2026-09-30T04:22:09.286Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "−2 · 1 actualizados",
+      "changes": [
+        "− [Let's do] Furniture - create/sable(aeronautics) compatibility",
+        "− [Let's Do] Furniture",
+        "~ Trade Cycling (la más nueva → [NEOFORGE][1.21.1] Trade Cycling 1.21.1-1.0.22)"
+      ],
+      "cambios": {
+        "agregados": [],
+        "quitados": [
+          {
+            "nombre": "[Let's do] Furniture - create/sable(aeronautics) compatibility",
+            "lista": "mods",
+            "clave": "c:1528288"
+          },
+          {
+            "nombre": "[Let's Do] Furniture",
+            "lista": "mods",
+            "clave": "c:1062363"
+          }
+        ],
+        "actualizados": [
+          {
+            "nombre": "Trade Cycling",
+            "lista": "mods",
+            "clave": "c:570431",
+            "de": "la más nueva",
+            "a": "[NEOFORGE][1.21.1] Trade Cycling 1.21.1-1.0.22",
+            "deId": "la más nueva",
+            "aId": "8921718"
+          }
+        ],
+        "campos": [],
+        "extras": null,
+        "cuantos": 3,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-09-30T04:05:06.774Z",
       "version": "1.0.0",
@@ -1529,30 +1564,6 @@
         "campos": [],
         "extras": null,
         "cuantos": 7,
-        "hayCambios": true
-      }
-    },
-    {
-      "date": "2026-09-22T21:46:55.126Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "+1",
-      "changes": [
-        "+ Create: Numismatics"
-      ],
-      "cambios": {
-        "agregados": [
-          {
-            "nombre": "Create: Numismatics",
-            "lista": "mods",
-            "clave": "c:889722"
-          }
-        ],
-        "quitados": [],
-        "actualizados": [],
-        "campos": [],
-        "extras": null,
-        "cuantos": 1,
         "hayCambios": true
       }
     }
