@@ -766,9 +766,63 @@
       "curseforge_id": 1475079,
       "version_id": "8894053",
       "version": "Create: FluidLogistic 1.3.0"
+    },
+    {
+      "name": "Create: Aquatic Ambitions",
+      "curseforge_id": 1005676,
+      "version_id": "8466444",
+      "version": "Create Aquatic Ambitions 1.21.1-2.0.4.jar"
+    },
+    {
+      "name": "Create: Power Loader",
+      "curseforge_id": 936020,
+      "version_id": "8126570",
+      "version": "create_power_loader 2.0.5-mc1.21.1"
+    },
+    {
+      "name": "Create: Rock & Stone",
+      "curseforge_id": 1370563,
+      "version_id": "8729955",
+      "version": "create_rns-1.3.1-1.21.1-6.jar"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-09-30T05:00:27.405Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+3",
+      "changes": [
+        "+ Create: Aquatic Ambitions",
+        "+ Create: Power Loader",
+        "+ Create: Rock & Stone"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Create: Aquatic Ambitions",
+            "lista": "mods",
+            "clave": "c:1005676"
+          },
+          {
+            "nombre": "Create: Power Loader",
+            "lista": "mods",
+            "clave": "c:936020"
+          },
+          {
+            "nombre": "Create: Rock & Stone",
+            "lista": "mods",
+            "clave": "c:1370563"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 3,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-09-30T04:55:39.143Z",
       "version": "1.0.0",
@@ -1483,30 +1537,6 @@
         "campos": [],
         "extras": null,
         "cuantos": 3,
-        "hayCambios": true
-      }
-    },
-    {
-      "date": "2026-09-24T00:34:25.938Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "−1",
-      "changes": [
-        "− Cloth Config API (Fabric/Forge/NeoForge)"
-      ],
-      "cambios": {
-        "agregados": [],
-        "quitados": [
-          {
-            "nombre": "Cloth Config API (Fabric/Forge/NeoForge)",
-            "lista": "mods",
-            "clave": "c:348521"
-          }
-        ],
-        "actualizados": [],
-        "campos": [],
-        "extras": null,
-        "cuantos": 1,
         "hayCambios": true
       }
     }
