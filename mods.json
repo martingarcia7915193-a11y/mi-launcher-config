@@ -57,6 +57,23 @@
       "creado": "2026-09-30T22:51:36.505Z",
       "versiones": [
         {
+          "id": "1.4.1-neoforge-1.21.1",
+          "version": "1.4.1",
+          "mc": [
+            "1.21.1"
+          ],
+          "loaders": [
+            "neoforge"
+          ],
+          "archivo": "arkadia_mercado-arkadia-mercado-1.21.1-1.4.1.jar",
+          "url": "https://drive.usercontent.google.com/download?id=1JbSAwZFxrkFqkeW12TjsUeDYKQHSnM8n&export=download&confirm=t",
+          "sha1": "6801661886af4838fd069cb8c3a6888fd7e3f8bb",
+          "tamaño": 187335,
+          "fecha": "2026-09-30T23:58:06.026Z",
+          "donde": "drive",
+          "driveId": "1JbSAwZFxrkFqkeW12TjsUeDYKQHSnM8n"
+        },
+        {
           "id": "1.4.0-neoforge-1.21.1",
           "version": "1.4.0",
           "mc": [
