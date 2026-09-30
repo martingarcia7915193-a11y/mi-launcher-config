@@ -776,6 +776,28 @@
   ],
   "changelog": [
     {
+      "date": "2026-09-30T04:29:35.223Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "configs",
+      "changes": [
+        "~ Configs actualizados"
+      ],
+      "cambios": {
+        "agregados": [],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": {
+          "de": 3,
+          "a": 4,
+          "primeraVez": false
+        },
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
+    {
       "date": "2026-09-30T04:26:44.899Z",
       "version": "1.0.0",
       "author": "Martion000",
@@ -1498,38 +1520,10 @@
         "cuantos": 4,
         "hayCambios": true
       }
-    },
-    {
-      "date": "2026-09-22T22:11:33.528Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "1 actualizados",
-      "changes": [
-        "~ Just Enough Items (JEI) (19.57.0.447 for NeoForge 1.21.1 → 19.53.0.426 for NeoForge 1.21.1)"
-      ],
-      "cambios": {
-        "agregados": [],
-        "quitados": [],
-        "actualizados": [
-          {
-            "nombre": "Just Enough Items (JEI)",
-            "lista": "mods",
-            "clave": "c:238222",
-            "de": "19.57.0.447 for NeoForge 1.21.1",
-            "a": "19.53.0.426 for NeoForge 1.21.1",
-            "deId": "8946440",
-            "aId": "8829744"
-          }
-        ],
-        "campos": [],
-        "extras": null,
-        "cuantos": 1,
-        "hayCambios": true
-      }
     }
   ],
   "extras_url": "https://drive.google.com/file/d/1fGxPjHqrBDZJdymMha_V7sLO2a2ut2pW/view?usp=sharing",
-  "extras_version": 3,
+  "extras_version": 4,
   "shaders": [
     {
       "name": "Complementary Shaders - Reimagined",
