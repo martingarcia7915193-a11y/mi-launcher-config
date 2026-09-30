@@ -752,9 +752,87 @@
     {
       "name": "Create More: Vertical Belts",
       "curseforge_id": 1455587
+    },
+    {
+      "name": "Trade Uses",
+      "curseforge_id": 902314
+    },
+    {
+      "name": "Pick Up Notifier",
+      "curseforge_id": 351441
+    },
+    {
+      "name": "[Let's do] Furniture - create/sable(aeronautics) compatibility",
+      "curseforge_id": 1528288
+    },
+    {
+      "name": "[Let's Do] Furniture",
+      "curseforge_id": 1062363
+    },
+    {
+      "name": "Trading Post",
+      "curseforge_id": 539057
+    },
+    {
+      "name": "Create More: Parallel Pipes",
+      "curseforge_id": 1283321
     }
   ],
   "changelog": [
+    {
+      "date": "2026-09-30T04:04:03.433Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+6",
+      "changes": [
+        "+ Trade Uses",
+        "+ Pick Up Notifier",
+        "+ [Let's do] Furniture - create/sable(aeronautics) compatibility",
+        "+ [Let's Do] Furniture",
+        "+ Trading Post",
+        "+ Create More: Parallel Pipes"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Trade Uses",
+            "lista": "mods",
+            "clave": "c:902314"
+          },
+          {
+            "nombre": "Pick Up Notifier",
+            "lista": "mods",
+            "clave": "c:351441"
+          },
+          {
+            "nombre": "[Let's do] Furniture - create/sable(aeronautics) compatibility",
+            "lista": "mods",
+            "clave": "c:1528288"
+          },
+          {
+            "nombre": "[Let's Do] Furniture",
+            "lista": "mods",
+            "clave": "c:1062363"
+          },
+          {
+            "nombre": "Trading Post",
+            "lista": "mods",
+            "clave": "c:539057"
+          },
+          {
+            "nombre": "Create More: Parallel Pipes",
+            "lista": "mods",
+            "clave": "c:1283321"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 6,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-09-30T03:58:45.423Z",
       "version": "1.0.0",
@@ -1607,36 +1685,6 @@
         "campos": [],
         "extras": null,
         "cuantos": 24,
-        "hayCambios": true
-      }
-    },
-    {
-      "date": "2026-09-22T21:01:08.320Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "+2",
-      "changes": [
-        "+ Create: Coasters Simulated",
-        "+ Create: Linear Bearing"
-      ],
-      "cambios": {
-        "agregados": [
-          {
-            "nombre": "Create: Coasters Simulated",
-            "lista": "mods",
-            "clave": "c:1601871"
-          },
-          {
-            "nombre": "Create: Linear Bearing",
-            "lista": "mods",
-            "clave": "c:1556708"
-          }
-        ],
-        "quitados": [],
-        "actualizados": [],
-        "campos": [],
-        "extras": null,
-        "cuantos": 2,
         "hayCambios": true
       }
     }
