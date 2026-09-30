@@ -774,8 +774,8 @@
     {
       "name": "Trade Cycling",
       "curseforge_id": 570431,
-      "version_id": "8921718",
-      "version": "[NEOFORGE][1.21.1] Trade Cycling 1.21.1-1.0.22"
+      "version_id": "6497876",
+      "version": "[NEOFORGE][1.21.1] Trade Cycling 1.21.1-1.0.18"
     },
     {
       "name": "ShineaL's Prehistoric Expansion",
@@ -795,6 +795,34 @@
     }
   ],
   "changelog": [
+    {
+      "date": "2026-09-30T22:52:36.440Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "1 actualizados",
+      "changes": [
+        "~ Trade Cycling ([NEOFORGE][1.21.1] Trade Cycling 1.21.1-1.0.22 → [NEOFORGE][1.21.1] Trade Cycling 1.21.1-1.0.18)"
+      ],
+      "cambios": {
+        "agregados": [],
+        "quitados": [],
+        "actualizados": [
+          {
+            "nombre": "Trade Cycling",
+            "lista": "mods",
+            "clave": "c:570431",
+            "de": "[NEOFORGE][1.21.1] Trade Cycling 1.21.1-1.0.22",
+            "a": "[NEOFORGE][1.21.1] Trade Cycling 1.21.1-1.0.18",
+            "deId": "8921718",
+            "aId": "6497876"
+          }
+        ],
+        "campos": [],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-09-30T22:51:56.026Z",
       "version": "1.0.0",
@@ -1385,36 +1413,6 @@
         "campos": [],
         "extras": null,
         "cuantos": 6,
-        "hayCambios": true
-      }
-    },
-    {
-      "date": "2026-09-26T21:44:16.036Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "+2",
-      "changes": [
-        "+ Create: Rubberworks",
-        "+ Create: Rubberworks Compat"
-      ],
-      "cambios": {
-        "agregados": [
-          {
-            "nombre": "Create: Rubberworks",
-            "lista": "mods",
-            "clave": "c:1425758"
-          },
-          {
-            "nombre": "Create: Rubberworks Compat",
-            "lista": "datapacks",
-            "clave": "c:1540335"
-          }
-        ],
-        "quitados": [],
-        "actualizados": [],
-        "campos": [],
-        "extras": null,
-        "cuantos": 2,
         "hayCambios": true
       }
     }
