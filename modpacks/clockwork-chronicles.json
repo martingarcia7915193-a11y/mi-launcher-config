@@ -756,10 +756,6 @@
       "curseforge_id": 1455587
     },
     {
-      "name": "Trade Uses",
-      "curseforge_id": 902314
-    },
-    {
       "name": "Pick Up Notifier",
       "curseforge_id": 351441
     },
@@ -779,6 +775,30 @@
     }
   ],
   "changelog": [
+    {
+      "date": "2026-09-30T04:26:44.899Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "−1",
+      "changes": [
+        "− Trade Uses"
+      ],
+      "cambios": {
+        "agregados": [],
+        "quitados": [
+          {
+            "nombre": "Trade Uses",
+            "lista": "mods",
+            "clave": "c:902314"
+          }
+        ],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-09-30T04:22:09.286Z",
       "version": "1.0.0",
@@ -1504,66 +1524,6 @@
         "campos": [],
         "extras": null,
         "cuantos": 1,
-        "hayCambios": true
-      }
-    },
-    {
-      "date": "2026-09-22T22:10:31.011Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "+7",
-      "changes": [
-        "+ Create: Vibrant Vaults",
-        "+ Petrol's Parts (Create add-on)",
-        "+ Petrolpark Library",
-        "+ Create: Mobile Packages",
-        "+ Create: Power Grid",
-        "+ Create: Aeroworks",
-        "+ Create Train Parts"
-      ],
-      "cambios": {
-        "agregados": [
-          {
-            "nombre": "Create: Vibrant Vaults",
-            "lista": "mods",
-            "clave": "c:1251719"
-          },
-          {
-            "nombre": "Petrol's Parts (Create add-on)",
-            "lista": "mods",
-            "clave": "c:1093607"
-          },
-          {
-            "nombre": "Petrolpark Library",
-            "lista": "mods",
-            "clave": "c:1093595"
-          },
-          {
-            "nombre": "Create: Mobile Packages",
-            "lista": "mods",
-            "clave": "c:1232978"
-          },
-          {
-            "nombre": "Create: Power Grid",
-            "lista": "mods",
-            "clave": "c:1321420"
-          },
-          {
-            "nombre": "Create: Aeroworks",
-            "lista": "mods",
-            "clave": "c:1522473"
-          },
-          {
-            "nombre": "Create Train Parts",
-            "lista": "mods",
-            "clave": "c:1294279"
-          }
-        ],
-        "quitados": [],
-        "actualizados": [],
-        "campos": [],
-        "extras": null,
-        "cuantos": 7,
         "hayCambios": true
       }
     }
