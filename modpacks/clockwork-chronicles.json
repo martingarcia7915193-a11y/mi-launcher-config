@@ -776,9 +776,39 @@
       "curseforge_id": 570431,
       "version_id": "8921718",
       "version": "[NEOFORGE][1.21.1] Trade Cycling 1.21.1-1.0.22"
+    },
+    {
+      "name": "ShineaL's Prehistoric Expansion",
+      "curseforge_id": 909176,
+      "version_id": "8057061",
+      "version": "PE Version 1.5.2"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-09-30T22:44:52.977Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+1",
+      "changes": [
+        "+ ShineaL's Prehistoric Expansion"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "ShineaL's Prehistoric Expansion",
+            "lista": "mods",
+            "clave": "c:909176"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-09-30T07:00:01.392Z",
       "version": "1.0.0",
@@ -1367,30 +1397,6 @@
           "a": 3,
           "primeraVez": false
         },
-        "cuantos": 1,
-        "hayCambios": true
-      }
-    },
-    {
-      "date": "2026-09-24T01:26:06.627Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "−1",
-      "changes": [
-        "− Quark Oddities"
-      ],
-      "cambios": {
-        "agregados": [],
-        "quitados": [
-          {
-            "nombre": "Quark Oddities",
-            "lista": "mods",
-            "clave": "c:301051"
-          }
-        ],
-        "actualizados": [],
-        "campos": [],
-        "extras": null,
         "cuantos": 1,
         "hayCambios": true
       }
