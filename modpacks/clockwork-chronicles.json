@@ -744,9 +744,47 @@
       "curseforge_id": 380617,
       "version_id": "6479044",
       "version": "DramaticDoors-NeoQuiFab-1.21.1-3.3.2.jar"
+    },
+    {
+      "name": "Trade Cycling",
+      "curseforge_id": 570431
+    },
+    {
+      "name": "Create More: Vertical Belts",
+      "curseforge_id": 1455587
     }
   ],
   "changelog": [
+    {
+      "date": "2026-09-30T03:58:45.423Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+2",
+      "changes": [
+        "+ Trade Cycling",
+        "+ Create More: Vertical Belts"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Trade Cycling",
+            "lista": "mods",
+            "clave": "c:570431"
+          },
+          {
+            "nombre": "Create More: Vertical Belts",
+            "lista": "mods",
+            "clave": "c:1455587"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 2,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-09-29T23:46:50.478Z",
       "version": "1.0.0",
@@ -1599,48 +1637,6 @@
         "campos": [],
         "extras": null,
         "cuantos": 2,
-        "hayCambios": true
-      }
-    },
-    {
-      "date": "2026-09-22T20:49:58.678Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "+4",
-      "changes": [
-        "+ KubeJS",
-        "+ Better Advanced Tooltips",
-        "+ Rhino",
-        "+ KubeJS Create"
-      ],
-      "cambios": {
-        "agregados": [
-          {
-            "nombre": "KubeJS",
-            "lista": "mods",
-            "clave": "c:238086"
-          },
-          {
-            "nombre": "Better Advanced Tooltips",
-            "lista": "mods",
-            "clave": "c:1637623"
-          },
-          {
-            "nombre": "Rhino",
-            "lista": "mods",
-            "clave": "c:416294"
-          },
-          {
-            "nombre": "KubeJS Create",
-            "lista": "mods",
-            "clave": "c:429371"
-          }
-        ],
-        "quitados": [],
-        "actualizados": [],
-        "campos": [],
-        "extras": null,
-        "cuantos": 4,
         "hayCambios": true
       }
     }
