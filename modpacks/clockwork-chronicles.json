@@ -448,12 +448,6 @@
       "version": "createdieselgenerators-1.21.1-1.3.15.jar"
     },
     {
-      "name": "Create : Misc & Things",
-      "curseforge_id": 652202,
-      "version_id": "8169164",
-      "version": "[1.21.1] Create Misc and Things 4.1.1"
-    },
-    {
       "name": "Create: Design n' Decor",
       "curseforge_id": 923238,
       "version_id": "8156977",
@@ -766,9 +760,52 @@
       "curseforge_id": 495476,
       "version_id": "9007719",
       "version": "v21.1.62-mc1.21.1+neoforge"
+    },
+    {
+      "name": "Create: FluidLogistics",
+      "curseforge_id": 1475079,
+      "version_id": "8894053",
+      "version": "Create: FluidLogistic 1.3.0"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-09-30T04:55:39.143Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+2 · −1",
+      "changes": [
+        "+ Create: FluidLogistics",
+        "+ Create: Create: Dreams n' Desires - No Diamond Recipes",
+        "− Create : Misc & Things"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Create: FluidLogistics",
+            "lista": "mods",
+            "clave": "c:1475079"
+          },
+          {
+            "nombre": "Create: Create: Dreams n' Desires - No Diamond Recipes",
+            "lista": "datapacks",
+            "clave": "c:1455778"
+          }
+        ],
+        "quitados": [
+          {
+            "nombre": "Create : Misc & Things",
+            "lista": "mods",
+            "clave": "c:652202"
+          }
+        ],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 3,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-09-30T04:36:54.284Z",
       "version": "1.0.0",
@@ -1472,30 +1509,6 @@
         "cuantos": 1,
         "hayCambios": true
       }
-    },
-    {
-      "date": "2026-09-23T02:55:29.372Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "+1",
-      "changes": [
-        "+ Cloth Config API (Fabric/Forge/NeoForge)"
-      ],
-      "cambios": {
-        "agregados": [
-          {
-            "nombre": "Cloth Config API (Fabric/Forge/NeoForge)",
-            "lista": "mods",
-            "clave": "c:348521"
-          }
-        ],
-        "quitados": [],
-        "actualizados": [],
-        "campos": [],
-        "extras": null,
-        "cuantos": 1,
-        "hayCambios": true
-      }
     }
   ],
   "extras_url": "https://drive.google.com/file/d/1fGxPjHqrBDZJdymMha_V7sLO2a2ut2pW/view?usp=sharing",
@@ -1520,6 +1533,12 @@
       "curseforge_id": 1540335,
       "version_id": "8597672",
       "version": "CreateRubberworks_Compat_v6.zip"
+    },
+    {
+      "name": "Create: Create: Dreams n' Desires - No Diamond Recipes",
+      "curseforge_id": 1455778,
+      "version_id": "7586038",
+      "version": "no_dnd_diamond_1.21.zip"
     }
   ]
 }
