@@ -738,10 +738,6 @@
       "curseforge_id": 351441
     },
     {
-      "name": "Trading Post",
-      "curseforge_id": 539057
-    },
-    {
       "name": "Create More: Parallel Pipes",
       "curseforge_id": 1283321
     },
@@ -783,6 +779,30 @@
     }
   ],
   "changelog": [
+    {
+      "date": "2026-09-30T07:00:01.392Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "−1",
+      "changes": [
+        "− Trading Post"
+      ],
+      "cambios": {
+        "agregados": [],
+        "quitados": [
+          {
+            "nombre": "Trading Post",
+            "lista": "mods",
+            "clave": "c:539057"
+          }
+        ],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-09-30T06:23:58.461Z",
       "version": "1.0.0",
@@ -1372,161 +1392,6 @@
         "campos": [],
         "extras": null,
         "cuantos": 1,
-        "hayCambios": true
-      }
-    },
-    {
-      "date": "2026-09-24T01:17:22.931Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "+22 · configs",
-      "changes": [
-        "+ Simple Backups",
-        "+ Chipped",
-        "+ Resourceful Lib",
-        "+ Athena",
-        "+ Rechiseled",
-        "+ SuperMartijn642's Config Lib",
-        "+ Fusion (Connected Textures)",
-        "+ SuperMartijn642's Core Lib",
-        "+ Rechiseled: Create",
-        "+ Rechiseled: Chipped",
-        "+ Comforts",
-        "+ Polymorph",
-        "+ Quark",
-        "+ Zeta",
-        "+ Quark Oddities",
-        "+ Handcrafted",
-        "+ Caelus API",
-        "+ MrCrayfish's Furniture Mod: Refurbished",
-        "+ Framework",
-        "+ Create Crafts & Additions",
-        "+ Item Highlighter [Neo/Forge]",
-        "+ FramedBlocks",
-        "~ Configs actualizados"
-      ],
-      "cambios": {
-        "agregados": [
-          {
-            "nombre": "Simple Backups",
-            "lista": "mods",
-            "clave": "c:583228"
-          },
-          {
-            "nombre": "Chipped",
-            "lista": "mods",
-            "clave": "c:456956"
-          },
-          {
-            "nombre": "Resourceful Lib",
-            "lista": "mods",
-            "clave": "c:570073"
-          },
-          {
-            "nombre": "Athena",
-            "lista": "mods",
-            "clave": "c:841890"
-          },
-          {
-            "nombre": "Rechiseled",
-            "lista": "mods",
-            "clave": "c:558998"
-          },
-          {
-            "nombre": "SuperMartijn642's Config Lib",
-            "lista": "mods",
-            "clave": "c:438332"
-          },
-          {
-            "nombre": "Fusion (Connected Textures)",
-            "lista": "mods",
-            "clave": "c:854949"
-          },
-          {
-            "nombre": "SuperMartijn642's Core Lib",
-            "lista": "mods",
-            "clave": "c:454372"
-          },
-          {
-            "nombre": "Rechiseled: Create",
-            "lista": "mods",
-            "clave": "c:888624"
-          },
-          {
-            "nombre": "Rechiseled: Chipped",
-            "lista": "mods",
-            "clave": "c:1007578"
-          },
-          {
-            "nombre": "Comforts",
-            "lista": "mods",
-            "clave": "c:276951"
-          },
-          {
-            "nombre": "Polymorph",
-            "lista": "mods",
-            "clave": "c:388800"
-          },
-          {
-            "nombre": "Quark",
-            "lista": "mods",
-            "clave": "c:243121"
-          },
-          {
-            "nombre": "Zeta",
-            "lista": "mods",
-            "clave": "c:968868"
-          },
-          {
-            "nombre": "Quark Oddities",
-            "lista": "mods",
-            "clave": "c:301051"
-          },
-          {
-            "nombre": "Handcrafted",
-            "lista": "mods",
-            "clave": "c:538214"
-          },
-          {
-            "nombre": "Caelus API",
-            "lista": "mods",
-            "clave": "c:308989"
-          },
-          {
-            "nombre": "MrCrayfish's Furniture Mod: Refurbished",
-            "lista": "mods",
-            "clave": "c:897116"
-          },
-          {
-            "nombre": "Framework",
-            "lista": "mods",
-            "clave": "c:549225"
-          },
-          {
-            "nombre": "Create Crafts & Additions",
-            "lista": "mods",
-            "clave": "c:439890"
-          },
-          {
-            "nombre": "Item Highlighter [Neo/Forge]",
-            "lista": "mods",
-            "clave": "c:521590"
-          },
-          {
-            "nombre": "FramedBlocks",
-            "lista": "mods",
-            "clave": "c:441647"
-          }
-        ],
-        "quitados": [],
-        "actualizados": [],
-        "campos": [],
-        "extras": {
-          "de": 1,
-          "a": 2,
-          "primeraVez": false
-        },
-        "cuantos": 23,
         "hayCambios": true
       }
     }
