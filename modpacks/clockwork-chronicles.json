@@ -774,9 +774,39 @@
       "curseforge_id": 1370563,
       "version_id": "8729955",
       "version": "create_rns-1.3.1-1.21.1-6.jar"
+    },
+    {
+      "name": "Trade Cycling",
+      "curseforge_id": 570431,
+      "version_id": "8921718",
+      "version": "[NEOFORGE][1.21.1] Trade Cycling 1.21.1-1.0.22"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-09-30T06:23:58.461Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+1",
+      "changes": [
+        "+ Trade Cycling"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Trade Cycling",
+            "lista": "mods",
+            "clave": "c:570431"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-09-30T06:22:30.818Z",
       "version": "1.0.0",
@@ -1497,30 +1527,6 @@
           "primeraVez": false
         },
         "cuantos": 23,
-        "hayCambios": true
-      }
-    },
-    {
-      "date": "2026-09-24T01:05:21.872Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "−1",
-      "changes": [
-        "− Create: Petrochem"
-      ],
-      "cambios": {
-        "agregados": [],
-        "quitados": [
-          {
-            "nombre": "Create: Petrochem",
-            "lista": "mods",
-            "clave": "c:1494004"
-          }
-        ],
-        "actualizados": [],
-        "campos": [],
-        "extras": null,
-        "cuantos": 1,
         "hayCambios": true
       }
     }
