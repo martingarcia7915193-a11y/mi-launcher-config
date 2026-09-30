@@ -776,9 +776,39 @@
     {
       "name": "Create More: Parallel Pipes",
       "curseforge_id": 1283321
+    },
+    {
+      "name": "Puzzles Lib",
+      "curseforge_id": 495476,
+      "version_id": "9007719",
+      "version": "v21.1.62-mc1.21.1+neoforge"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-09-30T04:05:06.774Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+1",
+      "changes": [
+        "+ Puzzles Lib"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Puzzles Lib",
+            "lista": "mods",
+            "clave": "c:495476"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-09-30T04:04:03.433Z",
       "version": "1.0.0",
@@ -1523,168 +1553,6 @@
         "campos": [],
         "extras": null,
         "cuantos": 1,
-        "hayCambios": true
-      }
-    },
-    {
-      "date": "2026-09-22T21:33:57.359Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "+24",
-      "changes": [
-        "+ Create: Enchantment Industry",
-        "+ Create: Dragons Plus",
-        "+ Create Deco",
-        "+ Create: Copycats+",
-        "+ Create Stuff 'N Additions",
-        "+ Create: Bells & Whistles",
-        "+ Create: Hypertubes",
-        "+ Create: Connected",
-        "+ Create: Interiors",
-        "+ Create: Diesel Generators",
-        "+ Create : Misc & Things",
-        "+ Create: Design n' Decor",
-        "+ Create: Trading Floor",
-        "+ Create Railways Navigator",
-        "+ DragonLib",
-        "+ Create: Dreams n' Desires",
-        "+ Create: Oxidized",
-        "+ Create: Pattern Schematics",
-        "+ Create: Escalated",
-        "+ Create: Metallurgy",
-        "+ Create: Bits 'n' Bobs",
-        "+ Azimuth API",
-        "+ Strut Your Stuff (Struts)",
-        "+ Create: Transmission!"
-      ],
-      "cambios": {
-        "agregados": [
-          {
-            "nombre": "Create: Enchantment Industry",
-            "lista": "mods",
-            "clave": "c:688768"
-          },
-          {
-            "nombre": "Create: Dragons Plus",
-            "lista": "mods",
-            "clave": "c:1216624"
-          },
-          {
-            "nombre": "Create Deco",
-            "lista": "mods",
-            "clave": "c:509285"
-          },
-          {
-            "nombre": "Create: Copycats+",
-            "lista": "mods",
-            "clave": "c:968398"
-          },
-          {
-            "nombre": "Create Stuff 'N Additions",
-            "lista": "mods",
-            "clave": "c:466792"
-          },
-          {
-            "nombre": "Create: Bells & Whistles",
-            "lista": "mods",
-            "clave": "c:905040"
-          },
-          {
-            "nombre": "Create: Hypertubes",
-            "lista": "mods",
-            "clave": "c:1281336"
-          },
-          {
-            "nombre": "Create: Connected",
-            "lista": "mods",
-            "clave": "c:947914"
-          },
-          {
-            "nombre": "Create: Interiors",
-            "lista": "mods",
-            "clave": "c:906239"
-          },
-          {
-            "nombre": "Create: Diesel Generators",
-            "lista": "mods",
-            "clave": "c:869316"
-          },
-          {
-            "nombre": "Create : Misc & Things",
-            "lista": "mods",
-            "clave": "c:652202"
-          },
-          {
-            "nombre": "Create: Design n' Decor",
-            "lista": "mods",
-            "clave": "c:923238"
-          },
-          {
-            "nombre": "Create: Trading Floor",
-            "lista": "mods",
-            "clave": "c:1102591"
-          },
-          {
-            "nombre": "Create Railways Navigator",
-            "lista": "mods",
-            "clave": "c:935929"
-          },
-          {
-            "nombre": "DragonLib",
-            "lista": "mods",
-            "clave": "c:946163"
-          },
-          {
-            "nombre": "Create: Dreams n' Desires",
-            "lista": "mods",
-            "clave": "c:864781"
-          },
-          {
-            "nombre": "Create: Oxidized",
-            "lista": "mods",
-            "clave": "c:953729"
-          },
-          {
-            "nombre": "Create: Pattern Schematics",
-            "lista": "mods",
-            "clave": "c:1072349"
-          },
-          {
-            "nombre": "Create: Escalated",
-            "lista": "mods",
-            "clave": "c:1260145"
-          },
-          {
-            "nombre": "Create: Metallurgy",
-            "lista": "mods",
-            "clave": "c:1007404"
-          },
-          {
-            "nombre": "Create: Bits 'n' Bobs",
-            "lista": "mods",
-            "clave": "c:1398383"
-          },
-          {
-            "nombre": "Azimuth API",
-            "lista": "mods",
-            "clave": "c:1466331"
-          },
-          {
-            "nombre": "Strut Your Stuff (Struts)",
-            "lista": "mods",
-            "clave": "c:1486746"
-          },
-          {
-            "nombre": "Create: Transmission!",
-            "lista": "mods",
-            "clave": "c:1354280"
-          }
-        ],
-        "quitados": [],
-        "actualizados": [],
-        "campos": [],
-        "extras": null,
-        "cuantos": 24,
         "hayCambios": true
       }
     }
