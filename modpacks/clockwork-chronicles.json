@@ -650,16 +650,6 @@
       "version": "polymorph-neoforge-1.2.0+1.21.1.jar"
     },
     {
-      "name": "Quark",
-      "curseforge_id": 243121,
-      "version_id": "8895753",
-      "version": "Quark-4.1-485.jar"
-    },
-    {
-      "name": "Zeta",
-      "curseforge_id": 968868
-    },
-    {
       "name": "Handcrafted",
       "curseforge_id": 538214,
       "version_id": "6330030",
@@ -787,6 +777,36 @@
     }
   ],
   "changelog": [
+    {
+      "date": "2026-09-30T06:22:30.818Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "−2",
+      "changes": [
+        "− Quark",
+        "− Zeta"
+      ],
+      "cambios": {
+        "agregados": [],
+        "quitados": [
+          {
+            "nombre": "Quark",
+            "lista": "mods",
+            "clave": "c:243121"
+          },
+          {
+            "nombre": "Zeta",
+            "lista": "mods",
+            "clave": "c:968868"
+          }
+        ],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 2,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-09-30T05:00:27.405Z",
       "version": "1.0.0",
@@ -1501,42 +1521,6 @@
         "campos": [],
         "extras": null,
         "cuantos": 1,
-        "hayCambios": true
-      }
-    },
-    {
-      "date": "2026-09-24T00:37:29.104Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "+3",
-      "changes": [
-        "+ Euphoria Patches",
-        "+ Complementary Shaders - Reimagined",
-        "+ Complementary Shaders - Unbound"
-      ],
-      "cambios": {
-        "agregados": [
-          {
-            "nombre": "Euphoria Patches",
-            "lista": "mods",
-            "clave": "c:915902"
-          },
-          {
-            "nombre": "Complementary Shaders - Reimagined",
-            "lista": "shaders",
-            "clave": "c:627557"
-          },
-          {
-            "nombre": "Complementary Shaders - Unbound",
-            "lista": "shaders",
-            "clave": "c:385587"
-          }
-        ],
-        "quitados": [],
-        "actualizados": [],
-        "campos": [],
-        "extras": null,
-        "cuantos": 3,
         "hayCambios": true
       }
     }
