@@ -782,9 +782,48 @@
       "curseforge_id": 909176,
       "version_id": "8057061",
       "version": "PE Version 1.5.2"
+    },
+    {
+      "name": "Arkadia: Mercado",
+      "version_id": "1.4.0-neoforge-1.21.1",
+      "version": "1.4.0",
+      "url": "https://drive.usercontent.google.com/download?id=1Q2B82uo9XmfjPt8B-k4DoLWmK4klpvef&export=download&confirm=t",
+      "nombreArchivo": "arkadia_mercado-arkadia-mercado-1.21.1-1.4.0.jar",
+      "arkadia_id": "arkadia_mercado",
+      "hash": "3a4ed981a8dcd0fd29a9a80eb97248bc4869a714",
+      "tamaño": 185948
     }
   ],
   "changelog": [
+    {
+      "date": "2026-09-30T22:51:56.026Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+1 · configs",
+      "changes": [
+        "+ Arkadia: Mercado",
+        "~ Configs actualizados"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Arkadia: Mercado",
+            "lista": "mods",
+            "clave": "a:arkadia_mercado"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": {
+          "de": 4,
+          "a": 5,
+          "primeraVez": false
+        },
+        "cuantos": 2,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-09-30T22:44:52.977Z",
       "version": "1.0.0",
@@ -1378,32 +1417,10 @@
         "cuantos": 2,
         "hayCambios": true
       }
-    },
-    {
-      "date": "2026-09-24T01:30:13.190Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "configs",
-      "changes": [
-        "~ Configs actualizados"
-      ],
-      "cambios": {
-        "agregados": [],
-        "quitados": [],
-        "actualizados": [],
-        "campos": [],
-        "extras": {
-          "de": 2,
-          "a": 3,
-          "primeraVez": false
-        },
-        "cuantos": 1,
-        "hayCambios": true
-      }
     }
   ],
   "extras_url": "https://drive.google.com/file/d/1fGxPjHqrBDZJdymMha_V7sLO2a2ut2pW/view?usp=sharing",
-  "extras_version": 4,
+  "extras_version": 5,
   "shaders": [
     {
       "name": "Complementary Shaders - Reimagined",
