@@ -804,15 +804,33 @@
       "curseforge_id": 1541139,
       "version_id": "9000433",
       "version": "SableStuffAdditionsCompat v1.0.4-1.21.1"
-    },
-    {
-      "name": "Create: Stuff 'N Additions - Tank Fix (Spout, Curios & Upgrade)",
-      "curseforge_id": 1374815,
-      "version_id": "7568020",
-      "version": "Create: Stuff 'N Additions - Tank Fix (Spout, Curios & Upgrade) 1.3"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-01T01:20:23.410Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "−1",
+      "changes": [
+        "− Create: Stuff 'N Additions - Tank Fix (Spout, Curios & Upgrade)"
+      ],
+      "cambios": {
+        "agregados": [],
+        "quitados": [
+          {
+            "nombre": "Create: Stuff 'N Additions - Tank Fix (Spout, Curios & Upgrade)",
+            "lista": "mods",
+            "clave": "c:1374815"
+          }
+        ],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-10-01T01:12:01.570Z",
       "version": "1.0.0",
@@ -1388,36 +1406,6 @@
             "nombre": "Create More: Vertical Belts",
             "lista": "mods",
             "clave": "c:1455587"
-          }
-        ],
-        "quitados": [],
-        "actualizados": [],
-        "campos": [],
-        "extras": null,
-        "cuantos": 2,
-        "hayCambios": true
-      }
-    },
-    {
-      "date": "2026-09-29T23:46:50.478Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "+2",
-      "changes": [
-        "+ Farmer's Delight",
-        "+ Dramatic Doors"
-      ],
-      "cambios": {
-        "agregados": [
-          {
-            "nombre": "Farmer's Delight",
-            "lista": "mods",
-            "clave": "c:398521"
-          },
-          {
-            "nombre": "Dramatic Doors",
-            "lista": "mods",
-            "clave": "c:380617"
           }
         ],
         "quitados": [],
