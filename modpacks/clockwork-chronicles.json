@@ -778,12 +778,6 @@
       "version": "[NEOFORGE][1.21.1] Trade Cycling 1.21.1-1.0.18"
     },
     {
-      "name": "ShineaL's Prehistoric Expansion",
-      "curseforge_id": 909176,
-      "version_id": "8057061",
-      "version": "PE Version 1.5.2"
-    },
-    {
       "name": "Arkadia: Mercado",
       "version_id": "1.4.1-neoforge-1.21.1",
       "version": "1.4.1",
@@ -817,6 +811,30 @@
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-01T02:05:36.676Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "−1",
+      "changes": [
+        "− ShineaL's Prehistoric Expansion"
+      ],
+      "cambios": {
+        "agregados": [],
+        "quitados": [
+          {
+            "nombre": "ShineaL's Prehistoric Expansion",
+            "lista": "mods",
+            "clave": "c:909176"
+          }
+        ],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-10-01T01:59:08.359Z",
       "version": "1.0.0",
@@ -1371,36 +1389,6 @@
         "campos": [],
         "extras": null,
         "cuantos": 1,
-        "hayCambios": true
-      }
-    },
-    {
-      "date": "2026-09-30T06:22:30.818Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "−2",
-      "changes": [
-        "− Quark",
-        "− Zeta"
-      ],
-      "cambios": {
-        "agregados": [],
-        "quitados": [
-          {
-            "nombre": "Quark",
-            "lista": "mods",
-            "clave": "c:243121"
-          },
-          {
-            "nombre": "Zeta",
-            "lista": "mods",
-            "clave": "c:968868"
-          }
-        ],
-        "actualizados": [],
-        "campos": [],
-        "extras": null,
-        "cuantos": 2,
         "hayCambios": true
       }
     }
