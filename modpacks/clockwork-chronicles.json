@@ -792,9 +792,63 @@
       "arkadia_id": "arkadia_mercado",
       "hash": "6801661886af4838fd069cb8c3a6888fd7e3f8bb",
       "tamaño": 187335
+    },
+    {
+      "name": "Create Propulsion: Simulated",
+      "curseforge_id": 1522736,
+      "version_id": "8496246",
+      "version": "1.1.5"
+    },
+    {
+      "name": "Create Stuff 'N Additions x Sable & Aeronautics Compat",
+      "curseforge_id": 1541139,
+      "version_id": "9000433",
+      "version": "SableStuffAdditionsCompat v1.0.4-1.21.1"
+    },
+    {
+      "name": "Create: Stuff 'N Additions - Tank Fix (Spout, Curios & Upgrade)",
+      "curseforge_id": 1374815,
+      "version_id": "7568020",
+      "version": "Create: Stuff 'N Additions - Tank Fix (Spout, Curios & Upgrade) 1.3"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-01T01:12:01.570Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+3",
+      "changes": [
+        "+ Create Propulsion: Simulated",
+        "+ Create Stuff 'N Additions x Sable & Aeronautics Compat",
+        "+ Create: Stuff 'N Additions - Tank Fix (Spout, Curios & Upgrade)"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Create Propulsion: Simulated",
+            "lista": "mods",
+            "clave": "c:1522736"
+          },
+          {
+            "nombre": "Create Stuff 'N Additions x Sable & Aeronautics Compat",
+            "lista": "mods",
+            "clave": "c:1541139"
+          },
+          {
+            "nombre": "Create: Stuff 'N Additions - Tank Fix (Spout, Curios & Upgrade)",
+            "lista": "mods",
+            "clave": "c:1374815"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 3,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-10-01T00:38:01.802Z",
       "version": "1.0.0",
@@ -1367,36 +1421,6 @@
           }
         ],
         "quitados": [],
-        "actualizados": [],
-        "campos": [],
-        "extras": null,
-        "cuantos": 2,
-        "hayCambios": true
-      }
-    },
-    {
-      "date": "2026-09-27T01:56:45.342Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "−2",
-      "changes": [
-        "− Immersive Portals (for Forge)",
-        "− Immersive Aeronautics - Immersive Portals +  Create: Aeronautics"
-      ],
-      "cambios": {
-        "agregados": [],
-        "quitados": [
-          {
-            "nombre": "Immersive Portals (for Forge)",
-            "lista": "mods",
-            "clave": "c:355440"
-          },
-          {
-            "nombre": "Immersive Aeronautics - Immersive Portals +  Create: Aeronautics",
-            "lista": "mods",
-            "clave": "c:1629108"
-          }
-        ],
         "actualizados": [],
         "campos": [],
         "extras": null,
