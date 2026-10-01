@@ -804,9 +804,39 @@
       "curseforge_id": 1541139,
       "version_id": "9000433",
       "version": "SableStuffAdditionsCompat v1.0.4-1.21.1"
+    },
+    {
+      "name": "Create: Stuff 'N Additions - Tank Fix (Spout, Curios & Upgrade)",
+      "curseforge_id": 1374815,
+      "version_id": "7215424",
+      "version": "Create: Stuff 'N Additions - Tank Fix (Spout, Curios & Upgrade) 1.2"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-01T01:23:59.450Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+1",
+      "changes": [
+        "+ Create: Stuff 'N Additions - Tank Fix (Spout, Curios & Upgrade)"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Create: Stuff 'N Additions - Tank Fix (Spout, Curios & Upgrade)",
+            "lista": "mods",
+            "clave": "c:1374815"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-10-01T01:20:23.410Z",
       "version": "1.0.0",
@@ -1383,36 +1413,6 @@
         "campos": [],
         "extras": null,
         "cuantos": 6,
-        "hayCambios": true
-      }
-    },
-    {
-      "date": "2026-09-30T03:58:45.423Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "+2",
-      "changes": [
-        "+ Trade Cycling",
-        "+ Create More: Vertical Belts"
-      ],
-      "cambios": {
-        "agregados": [
-          {
-            "nombre": "Trade Cycling",
-            "lista": "mods",
-            "clave": "c:570431"
-          },
-          {
-            "nombre": "Create More: Vertical Belts",
-            "lista": "mods",
-            "clave": "c:1455587"
-          }
-        ],
-        "quitados": [],
-        "actualizados": [],
-        "campos": [],
-        "extras": null,
-        "cuantos": 2,
         "hayCambios": true
       }
     }
