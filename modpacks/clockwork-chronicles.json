@@ -804,9 +804,43 @@
       "curseforge_id": 1541139,
       "version_id": "9000433",
       "version": "SableStuffAdditionsCompat v1.0.4-1.21.1"
+    },
+    {
+      "name": "Arkadia: Tank Curios",
+      "version_id": "1.0.0-neoforge-1.21.1",
+      "version": "1.0.0",
+      "url": "https://drive.usercontent.google.com/download?id=17Z_Ea5HRhx7GIbOUJBI_8X53ffXUDjyf&export=download&confirm=t",
+      "nombreArchivo": "arkadia_tanques-arkadia-tanques-1.21.1-1.0.0.jar",
+      "arkadia_id": "arkadia_tanques",
+      "hash": "f940c27580bf98853b4a02efe2cee773af508b53",
+      "tamaño": 7968
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-01T01:59:08.359Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+1",
+      "changes": [
+        "+ Arkadia: Tank Curios"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Arkadia: Tank Curios",
+            "lista": "mods",
+            "clave": "a:arkadia_tanques"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-10-01T01:36:10.236Z",
       "version": "1.0.0",
@@ -1367,42 +1401,6 @@
         "campos": [],
         "extras": null,
         "cuantos": 2,
-        "hayCambios": true
-      }
-    },
-    {
-      "date": "2026-09-30T05:00:27.405Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "+3",
-      "changes": [
-        "+ Create: Aquatic Ambitions",
-        "+ Create: Power Loader",
-        "+ Create: Rock & Stone"
-      ],
-      "cambios": {
-        "agregados": [
-          {
-            "nombre": "Create: Aquatic Ambitions",
-            "lista": "mods",
-            "clave": "c:1005676"
-          },
-          {
-            "nombre": "Create: Power Loader",
-            "lista": "mods",
-            "clave": "c:936020"
-          },
-          {
-            "nombre": "Create: Rock & Stone",
-            "lista": "mods",
-            "clave": "c:1370563"
-          }
-        ],
-        "quitados": [],
-        "actualizados": [],
-        "campos": [],
-        "extras": null,
-        "cuantos": 3,
         "hayCambios": true
       }
     }
