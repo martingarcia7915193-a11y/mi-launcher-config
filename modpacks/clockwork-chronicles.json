@@ -808,9 +808,39 @@
       "arkadia_id": "arkadia_tanques",
       "hash": "f940c27580bf98853b4a02efe2cee773af508b53",
       "tamaño": 7968
+    },
+    {
+      "name": "Create: Fuel & Water Information",
+      "curseforge_id": 1023209,
+      "version_id": "8327947",
+      "version": "v1.9.1"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-01T02:07:39.309Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+1",
+      "changes": [
+        "+ Create: Fuel & Water Information"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Create: Fuel & Water Information",
+            "lista": "mods",
+            "clave": "c:1023209"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-10-01T02:05:36.676Z",
       "version": "1.0.0",
@@ -1361,30 +1391,6 @@
             "clave": "c:539057"
           }
         ],
-        "actualizados": [],
-        "campos": [],
-        "extras": null,
-        "cuantos": 1,
-        "hayCambios": true
-      }
-    },
-    {
-      "date": "2026-09-30T06:23:58.461Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "+1",
-      "changes": [
-        "+ Trade Cycling"
-      ],
-      "cambios": {
-        "agregados": [
-          {
-            "nombre": "Trade Cycling",
-            "lista": "mods",
-            "clave": "c:570431"
-          }
-        ],
-        "quitados": [],
         "actualizados": [],
         "campos": [],
         "extras": null,
