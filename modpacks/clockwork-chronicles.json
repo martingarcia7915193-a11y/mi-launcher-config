@@ -814,9 +814,51 @@
       "curseforge_id": 1023209,
       "version_id": "8327947",
       "version": "v1.9.1"
+    },
+    {
+      "name": "Kaleidoscope Tavern",
+      "curseforge_id": 1475175,
+      "version_id": "8350856",
+      "version": "kaleidoscopetavern-1.2.0-neoforge+mc1.21.1.jar"
+    },
+    {
+      "name": "Create: Gears and Tavern",
+      "curseforge_id": 1504275,
+      "version_id": "8753491",
+      "version": "Gears and Tavern-1.1.8.jar"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-01T02:39:45.278Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+2",
+      "changes": [
+        "+ Kaleidoscope Tavern",
+        "+ Create: Gears and Tavern"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Kaleidoscope Tavern",
+            "lista": "mods",
+            "clave": "c:1475175"
+          },
+          {
+            "nombre": "Create: Gears and Tavern",
+            "lista": "mods",
+            "clave": "c:1504275"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 2,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-10-01T02:07:39.309Z",
       "version": "1.0.0",
@@ -1367,30 +1409,6 @@
           }
         ],
         "quitados": [],
-        "actualizados": [],
-        "campos": [],
-        "extras": null,
-        "cuantos": 1,
-        "hayCambios": true
-      }
-    },
-    {
-      "date": "2026-09-30T07:00:01.392Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "−1",
-      "changes": [
-        "− Trading Post"
-      ],
-      "cambios": {
-        "agregados": [],
-        "quitados": [
-          {
-            "nombre": "Trading Post",
-            "lista": "mods",
-            "clave": "c:539057"
-          }
-        ],
         "actualizados": [],
         "campos": [],
         "extras": null,
