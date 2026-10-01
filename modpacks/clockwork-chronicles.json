@@ -804,15 +804,33 @@
       "curseforge_id": 1541139,
       "version_id": "9000433",
       "version": "SableStuffAdditionsCompat v1.0.4-1.21.1"
-    },
-    {
-      "name": "Create: Stuff 'N Additions - Tank Fix (Spout, Curios & Upgrade)",
-      "curseforge_id": 1374815,
-      "version_id": "7568020",
-      "version": "Create: Stuff 'N Additions - Tank Fix (Spout, Curios & Upgrade) 1.3"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-01T01:36:10.236Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "−1",
+      "changes": [
+        "− Create: Stuff 'N Additions - Tank Fix (Spout, Curios & Upgrade)"
+      ],
+      "cambios": {
+        "agregados": [],
+        "quitados": [
+          {
+            "nombre": "Create: Stuff 'N Additions - Tank Fix (Spout, Curios & Upgrade)",
+            "lista": "mods",
+            "clave": "c:1374815"
+          }
+        ],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-10-01T01:36:03.687Z",
       "version": "1.0.0",
@@ -1381,43 +1399,6 @@
           }
         ],
         "quitados": [],
-        "actualizados": [],
-        "campos": [],
-        "extras": null,
-        "cuantos": 3,
-        "hayCambios": true
-      }
-    },
-    {
-      "date": "2026-09-30T04:55:39.143Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "+2 · −1",
-      "changes": [
-        "+ Create: FluidLogistics",
-        "+ Create: Create: Dreams n' Desires - No Diamond Recipes",
-        "− Create : Misc & Things"
-      ],
-      "cambios": {
-        "agregados": [
-          {
-            "nombre": "Create: FluidLogistics",
-            "lista": "mods",
-            "clave": "c:1475079"
-          },
-          {
-            "nombre": "Create: Create: Dreams n' Desires - No Diamond Recipes",
-            "lista": "datapacks",
-            "clave": "c:1455778"
-          }
-        ],
-        "quitados": [
-          {
-            "nombre": "Create : Misc & Things",
-            "lista": "mods",
-            "clave": "c:652202"
-          }
-        ],
         "actualizados": [],
         "campos": [],
         "extras": null,
