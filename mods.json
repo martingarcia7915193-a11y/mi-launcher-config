@@ -94,6 +94,32 @@
       "nombre": "Arkadia: Mercado",
       "descripcion": "Tienda del servidor y casa de subastas entre jugadores con el dinero de Create: Numismatics. Se integra con FTB Quests.",
       "autor": "Martin"
+    },
+    {
+      "id": "arkadia_tanques",
+      "creado": "2026-10-01T01:58:55.330Z",
+      "versiones": [
+        {
+          "id": "1.0.0-neoforge-1.21.1",
+          "version": "1.0.0",
+          "mc": [
+            "1.21.1"
+          ],
+          "loaders": [
+            "neoforge"
+          ],
+          "archivo": "arkadia_tanques-arkadia-tanques-1.21.1-1.0.0.jar",
+          "url": "https://drive.usercontent.google.com/download?id=17Z_Ea5HRhx7GIbOUJBI_8X53ffXUDjyf&export=download&confirm=t",
+          "sha1": "f940c27580bf98853b4a02efe2cee773af508b53",
+          "tamaño": 7968,
+          "fecha": "2026-10-01T01:58:55.330Z",
+          "donde": "drive",
+          "driveId": "17Z_Ea5HRhx7GIbOUJBI_8X53ffXUDjyf"
+        }
+      ],
+      "nombre": "Arkadia: Tank Curios",
+      "descripcion": "Addon de Create Stuff 'N Additions: los tanques de agua y de lava se pueden llevar en ranuras de Curios y siguen alimentando el jetpack, el exoesqueleto y las herramientas como si estuvieran en el inventario.",
+      "autor": "Martin"
     }
   ]
 }
