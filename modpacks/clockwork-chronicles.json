@@ -796,6 +796,28 @@
   ],
   "changelog": [
     {
+      "date": "2026-10-01T00:38:01.802Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "configs",
+      "changes": [
+        "~ Configs actualizados"
+      ],
+      "cambios": {
+        "agregados": [],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": {
+          "de": 5,
+          "a": 6,
+          "primeraVez": false
+        },
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
+    {
       "date": "2026-09-30T23:58:19.424Z",
       "version": "1.0.0",
       "author": "Martion000",
@@ -1381,38 +1403,10 @@
         "cuantos": 2,
         "hayCambios": true
       }
-    },
-    {
-      "date": "2026-09-27T01:52:01.839Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "1 actualizados",
-      "changes": [
-        "~ Sophisticated Core (la más nueva → sophisticatedcore-1.21.1-1.5.2.2343.jar)"
-      ],
-      "cambios": {
-        "agregados": [],
-        "quitados": [],
-        "actualizados": [
-          {
-            "nombre": "Sophisticated Core",
-            "lista": "mods",
-            "clave": "c:618298",
-            "de": "la más nueva",
-            "a": "sophisticatedcore-1.21.1-1.5.2.2343.jar",
-            "deId": "la más nueva",
-            "aId": "8985869"
-          }
-        ],
-        "campos": [],
-        "extras": null,
-        "cuantos": 1,
-        "hayCambios": true
-      }
     }
   ],
   "extras_url": "https://drive.google.com/file/d/1fGxPjHqrBDZJdymMha_V7sLO2a2ut2pW/view?usp=sharing",
-  "extras_version": 5,
+  "extras_version": 6,
   "shaders": [
     {
       "name": "Complementary Shaders - Reimagined",
