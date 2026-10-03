@@ -916,59 +916,81 @@
       "curseforge_id": 1100379,
       "version_id": "8703661",
       "version": "reliquified_artifacts-1.21.1-1.0.8.jar"
-    },
-    {
-      "name": "Project Red - Core",
-      "curseforge_id": 228702,
-      "version_id": "7890766",
-      "version": "ProjectRed-1.21.1-4.22.0-core.jar"
-    },
-    {
-      "name": "CB Multipart",
-      "curseforge_id": 258426
-    },
-    {
-      "name": "CodeChicken Lib 1.8.+",
-      "curseforge_id": 242818
-    },
-    {
-      "name": "Project Red - Integration",
-      "curseforge_id": 229045,
-      "version_id": "7890771",
-      "version": "ProjectRed-1.21.1-4.22.0-integration.jar"
-    },
-    {
-      "name": "Project Red - Illumination",
-      "curseforge_id": 229046,
-      "version_id": "7890770",
-      "version": "ProjectRed-1.21.1-4.22.0-illumination.jar"
-    },
-    {
-      "name": "Project Red - Expansion",
-      "curseforge_id": 229048,
-      "version_id": "7890767",
-      "version": "ProjectRed-1.21.1-4.22.0-expansion.jar"
-    },
-    {
-      "name": "Project Red - Exploration",
-      "curseforge_id": 229049,
-      "version_id": "7890768",
-      "version": "ProjectRed-1.21.1-4.22.0-exploration.jar"
-    },
-    {
-      "name": "Project Red - Fabrication",
-      "curseforge_id": 230111,
-      "version_id": "7890769",
-      "version": "ProjectRed-1.21.1-4.22.0-fabrication.jar"
-    },
-    {
-      "name": "Project Red - Transmission",
-      "curseforge_id": 478939,
-      "version_id": "7890772",
-      "version": "ProjectRed-1.21.1-4.22.0-transmission.jar"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-03T08:10:20.092Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "−9",
+      "changes": [
+        "− Project Red - Core",
+        "− CB Multipart",
+        "− CodeChicken Lib 1.8.+",
+        "− Project Red - Integration",
+        "− Project Red - Illumination",
+        "− Project Red - Expansion",
+        "− Project Red - Exploration",
+        "− Project Red - Fabrication",
+        "− Project Red - Transmission"
+      ],
+      "cambios": {
+        "agregados": [],
+        "quitados": [
+          {
+            "nombre": "Project Red - Core",
+            "lista": "mods",
+            "clave": "c:228702"
+          },
+          {
+            "nombre": "CB Multipart",
+            "lista": "mods",
+            "clave": "c:258426"
+          },
+          {
+            "nombre": "CodeChicken Lib 1.8.+",
+            "lista": "mods",
+            "clave": "c:242818"
+          },
+          {
+            "nombre": "Project Red - Integration",
+            "lista": "mods",
+            "clave": "c:229045"
+          },
+          {
+            "nombre": "Project Red - Illumination",
+            "lista": "mods",
+            "clave": "c:229046"
+          },
+          {
+            "nombre": "Project Red - Expansion",
+            "lista": "mods",
+            "clave": "c:229048"
+          },
+          {
+            "nombre": "Project Red - Exploration",
+            "lista": "mods",
+            "clave": "c:229049"
+          },
+          {
+            "nombre": "Project Red - Fabrication",
+            "lista": "mods",
+            "clave": "c:230111"
+          },
+          {
+            "nombre": "Project Red - Transmission",
+            "lista": "mods",
+            "clave": "c:478939"
+          }
+        ],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 9,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-10-03T08:01:15.781Z",
       "version": "1.0.0",
@@ -1649,30 +1671,6 @@
             "aId": "7210270"
           }
         ],
-        "campos": [],
-        "extras": null,
-        "cuantos": 1,
-        "hayCambios": true
-      }
-    },
-    {
-      "date": "2026-10-01T01:23:59.450Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "+1",
-      "changes": [
-        "+ Create: Stuff 'N Additions - Tank Fix (Spout, Curios & Upgrade)"
-      ],
-      "cambios": {
-        "agregados": [
-          {
-            "nombre": "Create: Stuff 'N Additions - Tank Fix (Spout, Curios & Upgrade)",
-            "lista": "mods",
-            "clave": "c:1374815"
-          }
-        ],
-        "quitados": [],
-        "actualizados": [],
         "campos": [],
         "extras": null,
         "cuantos": 1,
