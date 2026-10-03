@@ -255,8 +255,8 @@
     {
       "name": "Artifacts",
       "curseforge_id": 312353,
-      "version_id": "8791899",
-      "version": "artifacts-neoforge-13.2.5.jar"
+      "version_id": "8683747",
+      "version": "artifacts-neoforge-13.2.3.jar"
     },
     {
       "name": "Relics",
@@ -970,6 +970,34 @@
   ],
   "changelog": [
     {
+      "date": "2026-10-03T08:01:15.781Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "1 actualizados",
+      "changes": [
+        "~ Artifacts (artifacts-neoforge-13.2.5.jar → artifacts-neoforge-13.2.3.jar)"
+      ],
+      "cambios": {
+        "agregados": [],
+        "quitados": [],
+        "actualizados": [
+          {
+            "nombre": "Artifacts",
+            "lista": "mods",
+            "clave": "c:312353",
+            "de": "artifacts-neoforge-13.2.5.jar",
+            "a": "artifacts-neoforge-13.2.3.jar",
+            "deId": "8791899",
+            "aId": "8683747"
+          }
+        ],
+        "campos": [],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
+    {
       "date": "2026-10-03T07:59:58.267Z",
       "version": "1.0.0",
       "author": "Martion000",
@@ -1644,30 +1672,6 @@
           }
         ],
         "quitados": [],
-        "actualizados": [],
-        "campos": [],
-        "extras": null,
-        "cuantos": 1,
-        "hayCambios": true
-      }
-    },
-    {
-      "date": "2026-10-01T01:20:23.410Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "−1",
-      "changes": [
-        "− Create: Stuff 'N Additions - Tank Fix (Spout, Curios & Upgrade)"
-      ],
-      "cambios": {
-        "agregados": [],
-        "quitados": [
-          {
-            "nombre": "Create: Stuff 'N Additions - Tank Fix (Spout, Curios & Upgrade)",
-            "lista": "mods",
-            "clave": "c:1374815"
-          }
-        ],
         "actualizados": [],
         "campos": [],
         "extras": null,
