@@ -856,9 +856,251 @@
       "curseforge_id": 1553712,
       "version_id": "8512677",
       "version": "create-drill_levitite-1.2.0.jar"
+    },
+    {
+      "name": "YUNG's Better Strongholds (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+      "curseforge_id": 1015105,
+      "version_id": "6272264",
+      "version": "[1.21.1] YUNG's Better Strongholds v5.1.3 (NeoForge)"
+    },
+    {
+      "name": "YUNG's API (NeoForge) [1.20.4-1.21.1 ONLY]",
+      "curseforge_id": 1015100,
+      "version_id": "8894736",
+      "version": "[1.21.1] YUNG's API v5.1.9 (NeoForge)"
+    },
+    {
+      "name": "YUNG's Better Mineshafts (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+      "curseforge_id": 1015096,
+      "version_id": "5812193",
+      "version": "[1.21.1] YUNG's Better Mineshafts v5.1.1 (NeoForge)"
+    },
+    {
+      "name": "YUNG's Better Nether Fortresses (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+      "curseforge_id": 1015118,
+      "version_id": "6606621",
+      "version": "[1.21.1] YUNG's Better Nether Fortresses v3.1.5 (NeoForge)"
+    },
+    {
+      "name": "YUNG's Better Dungeons (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+      "curseforge_id": 1015112,
+      "version_id": "5954804",
+      "version": "[1.21.1] YUNG's Better Dungeons v5.1.4 (NeoForge)"
+    },
+    {
+      "name": "YUNG's Better Jungle Temples (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+      "curseforge_id": 1015123,
+      "version_id": "5924482",
+      "version": "[1.21.1] YUNG's Better Jungle Temples v3.1.2 (NeoForge)"
+    },
+    {
+      "name": "YUNG's Better Ocean Monuments (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+      "curseforge_id": 1015115,
+      "version_id": "5924487",
+      "version": "[1.21.1] YUNG's Better Ocean Monuments v4.1.2 (NeoForge)"
+    },
+    {
+      "name": "YUNG's Better Witch Huts (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+      "curseforge_id": 1015144,
+      "version_id": "5812532",
+      "version": "[1.21.1] YUNG's Better Witch Huts v4.1.1 (NeoForge)"
+    },
+    {
+      "name": "YUNG's Better Desert Temples (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+      "curseforge_id": 1015114,
+      "version_id": "6276955",
+      "version": "[1.21.1] YUNG's Better Desert Temples v4.1.5 (NeoForge)"
+    },
+    {
+      "name": "Reliquified Artifacts",
+      "curseforge_id": 1100379,
+      "version_id": "8703661",
+      "version": "reliquified_artifacts-1.21.1-1.0.8.jar"
+    },
+    {
+      "name": "Project Red - Core",
+      "curseforge_id": 228702,
+      "version_id": "7890766",
+      "version": "ProjectRed-1.21.1-4.22.0-core.jar"
+    },
+    {
+      "name": "CB Multipart",
+      "curseforge_id": 258426
+    },
+    {
+      "name": "CodeChicken Lib 1.8.+",
+      "curseforge_id": 242818
+    },
+    {
+      "name": "Project Red - Integration",
+      "curseforge_id": 229045,
+      "version_id": "7890771",
+      "version": "ProjectRed-1.21.1-4.22.0-integration.jar"
+    },
+    {
+      "name": "Project Red - Illumination",
+      "curseforge_id": 229046,
+      "version_id": "7890770",
+      "version": "ProjectRed-1.21.1-4.22.0-illumination.jar"
+    },
+    {
+      "name": "Project Red - Expansion",
+      "curseforge_id": 229048,
+      "version_id": "7890767",
+      "version": "ProjectRed-1.21.1-4.22.0-expansion.jar"
+    },
+    {
+      "name": "Project Red - Exploration",
+      "curseforge_id": 229049,
+      "version_id": "7890768",
+      "version": "ProjectRed-1.21.1-4.22.0-exploration.jar"
+    },
+    {
+      "name": "Project Red - Fabrication",
+      "curseforge_id": 230111,
+      "version_id": "7890769",
+      "version": "ProjectRed-1.21.1-4.22.0-fabrication.jar"
+    },
+    {
+      "name": "Project Red - Transmission",
+      "curseforge_id": 478939,
+      "version_id": "7890772",
+      "version": "ProjectRed-1.21.1-4.22.0-transmission.jar"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-03T07:59:58.267Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+19",
+      "changes": [
+        "+ YUNG's Better Strongholds (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+        "+ YUNG's API (NeoForge) [1.20.4-1.21.1 ONLY]",
+        "+ YUNG's Better Mineshafts (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+        "+ YUNG's Better Nether Fortresses (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+        "+ YUNG's Better Dungeons (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+        "+ YUNG's Better Jungle Temples (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+        "+ YUNG's Better Ocean Monuments (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+        "+ YUNG's Better Witch Huts (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+        "+ YUNG's Better Desert Temples (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+        "+ Reliquified Artifacts",
+        "+ Project Red - Core",
+        "+ CB Multipart",
+        "+ CodeChicken Lib 1.8.+",
+        "+ Project Red - Integration",
+        "+ Project Red - Illumination",
+        "+ Project Red - Expansion",
+        "+ Project Red - Exploration",
+        "+ Project Red - Fabrication",
+        "+ Project Red - Transmission"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "YUNG's Better Strongholds (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+            "lista": "mods",
+            "clave": "c:1015105"
+          },
+          {
+            "nombre": "YUNG's API (NeoForge) [1.20.4-1.21.1 ONLY]",
+            "lista": "mods",
+            "clave": "c:1015100"
+          },
+          {
+            "nombre": "YUNG's Better Mineshafts (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+            "lista": "mods",
+            "clave": "c:1015096"
+          },
+          {
+            "nombre": "YUNG's Better Nether Fortresses (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+            "lista": "mods",
+            "clave": "c:1015118"
+          },
+          {
+            "nombre": "YUNG's Better Dungeons (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+            "lista": "mods",
+            "clave": "c:1015112"
+          },
+          {
+            "nombre": "YUNG's Better Jungle Temples (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+            "lista": "mods",
+            "clave": "c:1015123"
+          },
+          {
+            "nombre": "YUNG's Better Ocean Monuments (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+            "lista": "mods",
+            "clave": "c:1015115"
+          },
+          {
+            "nombre": "YUNG's Better Witch Huts (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+            "lista": "mods",
+            "clave": "c:1015144"
+          },
+          {
+            "nombre": "YUNG's Better Desert Temples (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+            "lista": "mods",
+            "clave": "c:1015114"
+          },
+          {
+            "nombre": "Reliquified Artifacts",
+            "lista": "mods",
+            "clave": "c:1100379"
+          },
+          {
+            "nombre": "Project Red - Core",
+            "lista": "mods",
+            "clave": "c:228702"
+          },
+          {
+            "nombre": "CB Multipart",
+            "lista": "mods",
+            "clave": "c:258426"
+          },
+          {
+            "nombre": "CodeChicken Lib 1.8.+",
+            "lista": "mods",
+            "clave": "c:242818"
+          },
+          {
+            "nombre": "Project Red - Integration",
+            "lista": "mods",
+            "clave": "c:229045"
+          },
+          {
+            "nombre": "Project Red - Illumination",
+            "lista": "mods",
+            "clave": "c:229046"
+          },
+          {
+            "nombre": "Project Red - Expansion",
+            "lista": "mods",
+            "clave": "c:229048"
+          },
+          {
+            "nombre": "Project Red - Exploration",
+            "lista": "mods",
+            "clave": "c:229049"
+          },
+          {
+            "nombre": "Project Red - Fabrication",
+            "lista": "mods",
+            "clave": "c:230111"
+          },
+          {
+            "nombre": "Project Red - Transmission",
+            "lista": "mods",
+            "clave": "c:478939"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 19,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-10-03T07:53:21.622Z",
       "version": "1.0.0",
@@ -1430,42 +1672,6 @@
         "campos": [],
         "extras": null,
         "cuantos": 1,
-        "hayCambios": true
-      }
-    },
-    {
-      "date": "2026-10-01T01:12:01.570Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "+3",
-      "changes": [
-        "+ Create Propulsion: Simulated",
-        "+ Create Stuff 'N Additions x Sable & Aeronautics Compat",
-        "+ Create: Stuff 'N Additions - Tank Fix (Spout, Curios & Upgrade)"
-      ],
-      "cambios": {
-        "agregados": [
-          {
-            "nombre": "Create Propulsion: Simulated",
-            "lista": "mods",
-            "clave": "c:1522736"
-          },
-          {
-            "nombre": "Create Stuff 'N Additions x Sable & Aeronautics Compat",
-            "lista": "mods",
-            "clave": "c:1541139"
-          },
-          {
-            "nombre": "Create: Stuff 'N Additions - Tank Fix (Spout, Curios & Upgrade)",
-            "lista": "mods",
-            "clave": "c:1374815"
-          }
-        ],
-        "quitados": [],
-        "actualizados": [],
-        "campos": [],
-        "extras": null,
-        "cuantos": 3,
         "hayCambios": true
       }
     }
