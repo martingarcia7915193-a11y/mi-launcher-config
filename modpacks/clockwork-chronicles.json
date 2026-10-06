@@ -916,15 +916,33 @@
       "curseforge_id": 1100379,
       "version_id": "8703661",
       "version": "reliquified_artifacts-1.21.1-1.0.8.jar"
-    },
-    {
-      "name": "Create Aeronautics: Gadgets & Gizmos",
-      "curseforge_id": 1537945,
-      "version_id": "9070149",
-      "version": "Create Aeronautics: Gadgets & Gizmos 1.2.7"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-06T03:48:52.843Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "−1",
+      "changes": [
+        "− Create Aeronautics: Gadgets & Gizmos"
+      ],
+      "cambios": {
+        "agregados": [],
+        "quitados": [
+          {
+            "nombre": "Create Aeronautics: Gadgets & Gizmos",
+            "lista": "mods",
+            "clave": "c:1537945"
+          }
+        ],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-10-06T03:08:12.337Z",
       "version": "1.0.0",
@@ -1648,34 +1666,6 @@
         "campos": [],
         "extras": null,
         "cuantos": 2,
-        "hayCambios": true
-      }
-    },
-    {
-      "date": "2026-10-01T01:28:20.647Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "1 actualizados",
-      "changes": [
-        "~ Create: Stuff 'N Additions - Tank Fix (Spout, Curios & Upgrade) (Create Stuff and Addition Tank Fix 1.1 → Create Stuff and Addition Tank Fix 1.0)"
-      ],
-      "cambios": {
-        "agregados": [],
-        "quitados": [],
-        "actualizados": [
-          {
-            "nombre": "Create: Stuff 'N Additions - Tank Fix (Spout, Curios & Upgrade)",
-            "lista": "mods",
-            "clave": "c:1374815",
-            "de": "Create Stuff and Addition Tank Fix 1.1",
-            "a": "Create Stuff and Addition Tank Fix 1.0",
-            "deId": "7210270",
-            "aId": "7164013"
-          }
-        ],
-        "campos": [],
-        "extras": null,
-        "cuantos": 1,
         "hayCambios": true
       }
     }
