@@ -920,9 +920,285 @@
     {
       "name": "Trade Uses",
       "curseforge_id": 902314
+    },
+    {
+      "name": "Industrial Foregoing",
+      "curseforge_id": 266515,
+      "version_id": "8370717",
+      "version": "industrialforegoing-1.21-3.6.39.jar"
+    },
+    {
+      "name": "Titanium",
+      "curseforge_id": 287342
+    },
+    {
+      "name": "Industrial Foregoing Souls",
+      "curseforge_id": 904394,
+      "version_id": "7441306",
+      "version": "industrial-foregoing-souls-1.21.1-1.10.7.jar"
+    },
+    {
+      "name": "Applied Energistics 2",
+      "curseforge_id": 223794,
+      "version_id": "8992605",
+      "version": "AE2 19.2.18 [NEOFORGE]"
+    },
+    {
+      "name": "GuideME",
+      "curseforge_id": 1173950
+    },
+    {
+      "name": "Polymorphic Energistics",
+      "curseforge_id": 941096,
+      "version_id": "5545923",
+      "version": "0.4.1 (NeoForge 1.21)"
+    },
+    {
+      "name": "Soulplied Energistics",
+      "curseforge_id": 1143614,
+      "version_id": "8333758",
+      "version": "soulplied_energistics-1.0.3.jar"
+    },
+    {
+      "name": "More Industrial Foregoing Addons (MIFA)",
+      "curseforge_id": 1086142,
+      "version_id": "6288756",
+      "version": "mifa-neoforge-1.21.x-2.1.0.jar"
+    },
+    {
+      "name": "Applied Soul",
+      "curseforge_id": 1337114,
+      "version_id": "8711537",
+      "version": "appliedsoul-1.21.1-2.1.0-hotfix.jar"
+    },
+    {
+      "name": "ExtendedAE",
+      "curseforge_id": 892005,
+      "version_id": "9078385",
+      "version": "ExtendedAE-1.21-2.2.40-neoforge.jar"
+    },
+    {
+      "name": "Glodium",
+      "curseforge_id": 957920
+    },
+    {
+      "name": "Applied Mekanistics",
+      "curseforge_id": 574300,
+      "version_id": "7096962",
+      "version": "1.6.3"
+    },
+    {
+      "name": "Mekanism",
+      "curseforge_id": 268560,
+      "version_id": "7904058",
+      "version": "Mekanism-1.21.1-10.7.19.85.jar"
+    },
+    {
+      "name": "AEInfinityBooster",
+      "curseforge_id": 559313,
+      "version_id": "8377914",
+      "version": "AEInfinityBooster 1.21.1-1.0.0.58"
+    },
+    {
+      "name": "AE2 Import Export Card",
+      "curseforge_id": 982512,
+      "version_id": "8961599",
+      "version": "ae2importexportcard-1.21.1-1.9.1.jar"
+    },
+    {
+      "name": "AE2 Things [Forge]",
+      "curseforge_id": 609977,
+      "version_id": "5637783",
+      "version": "AE2 Things v1.4.2-beta"
+    },
+    {
+      "name": "Schematic Energistics",
+      "curseforge_id": 1283481,
+      "version_id": "9041916",
+      "version": "schematicenergistics-1.21.1-1.5.5.jar"
+    },
+    {
+      "name": "Mekanism Generators",
+      "curseforge_id": 268566,
+      "version_id": "7904061",
+      "version": "MekanismGenerators-1.21.1-10.7.19.85.jar"
+    },
+    {
+      "name": "Mekanism Tools",
+      "curseforge_id": 268567,
+      "version_id": "7904062",
+      "version": "MekanismTools-1.21.1-10.7.19.85.jar"
+    },
+    {
+      "name": "Just Enough Mekanism Multiblocks",
+      "curseforge_id": 898746,
+      "version_id": "9068212",
+      "version": "1.21.1-7.23"
+    },
+    {
+      "name": "Growth Accelerator Tiers",
+      "curseforge_id": 1316818,
+      "version_id": "8846886",
+      "version": "[NeoForge] Growth Accelerator Tiers - 2.0.0+1.21.1"
+    },
+    {
+      "name": "AE2: Crafting Tree",
+      "curseforge_id": 1086241,
+      "version_id": "7182163",
+      "version": "ae2ct-1.21.1-1.1.1.jar"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-07T02:17:47.428Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+22",
+      "changes": [
+        "+ Industrial Foregoing",
+        "+ Titanium",
+        "+ Industrial Foregoing Souls",
+        "+ Applied Energistics 2",
+        "+ GuideME",
+        "+ Polymorphic Energistics",
+        "+ Soulplied Energistics",
+        "+ More Industrial Foregoing Addons (MIFA)",
+        "+ Applied Soul",
+        "+ ExtendedAE",
+        "+ Glodium",
+        "+ Applied Mekanistics",
+        "+ Mekanism",
+        "+ AEInfinityBooster",
+        "+ AE2 Import Export Card",
+        "+ AE2 Things [Forge]",
+        "+ Schematic Energistics",
+        "+ Mekanism Generators",
+        "+ Mekanism Tools",
+        "+ Just Enough Mekanism Multiblocks",
+        "+ Growth Accelerator Tiers",
+        "+ AE2: Crafting Tree"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Industrial Foregoing",
+            "lista": "mods",
+            "clave": "c:266515"
+          },
+          {
+            "nombre": "Titanium",
+            "lista": "mods",
+            "clave": "c:287342"
+          },
+          {
+            "nombre": "Industrial Foregoing Souls",
+            "lista": "mods",
+            "clave": "c:904394"
+          },
+          {
+            "nombre": "Applied Energistics 2",
+            "lista": "mods",
+            "clave": "c:223794"
+          },
+          {
+            "nombre": "GuideME",
+            "lista": "mods",
+            "clave": "c:1173950"
+          },
+          {
+            "nombre": "Polymorphic Energistics",
+            "lista": "mods",
+            "clave": "c:941096"
+          },
+          {
+            "nombre": "Soulplied Energistics",
+            "lista": "mods",
+            "clave": "c:1143614"
+          },
+          {
+            "nombre": "More Industrial Foregoing Addons (MIFA)",
+            "lista": "mods",
+            "clave": "c:1086142"
+          },
+          {
+            "nombre": "Applied Soul",
+            "lista": "mods",
+            "clave": "c:1337114"
+          },
+          {
+            "nombre": "ExtendedAE",
+            "lista": "mods",
+            "clave": "c:892005"
+          },
+          {
+            "nombre": "Glodium",
+            "lista": "mods",
+            "clave": "c:957920"
+          },
+          {
+            "nombre": "Applied Mekanistics",
+            "lista": "mods",
+            "clave": "c:574300"
+          },
+          {
+            "nombre": "Mekanism",
+            "lista": "mods",
+            "clave": "c:268560"
+          },
+          {
+            "nombre": "AEInfinityBooster",
+            "lista": "mods",
+            "clave": "c:559313"
+          },
+          {
+            "nombre": "AE2 Import Export Card",
+            "lista": "mods",
+            "clave": "c:982512"
+          },
+          {
+            "nombre": "AE2 Things [Forge]",
+            "lista": "mods",
+            "clave": "c:609977"
+          },
+          {
+            "nombre": "Schematic Energistics",
+            "lista": "mods",
+            "clave": "c:1283481"
+          },
+          {
+            "nombre": "Mekanism Generators",
+            "lista": "mods",
+            "clave": "c:268566"
+          },
+          {
+            "nombre": "Mekanism Tools",
+            "lista": "mods",
+            "clave": "c:268567"
+          },
+          {
+            "nombre": "Just Enough Mekanism Multiblocks",
+            "lista": "mods",
+            "clave": "c:898746"
+          },
+          {
+            "nombre": "Growth Accelerator Tiers",
+            "lista": "mods",
+            "clave": "c:1316818"
+          },
+          {
+            "nombre": "AE2: Crafting Tree",
+            "lista": "mods",
+            "clave": "c:1086241"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 22,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-10-07T01:19:45.194Z",
       "version": "1.0.0",
@@ -1623,34 +1899,6 @@
             "a": "Create: Stuff 'N Additions - Tank Fix (Spout, Curios & Upgrade) 1.2",
             "deId": "7568020",
             "aId": "7215424"
-          }
-        ],
-        "campos": [],
-        "extras": null,
-        "cuantos": 1,
-        "hayCambios": true
-      }
-    },
-    {
-      "date": "2026-10-01T01:32:06.905Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "1 actualizados",
-      "changes": [
-        "~ Create Stuff 'N Additions x Sable & Aeronautics Compat (SableStuffAdditionsCompat v1.0.4-1.21.1 → SableStuffAdditionsCompat v1.0.3-1.21.1)"
-      ],
-      "cambios": {
-        "agregados": [],
-        "quitados": [],
-        "actualizados": [
-          {
-            "nombre": "Create Stuff 'N Additions x Sable & Aeronautics Compat",
-            "lista": "mods",
-            "clave": "c:1541139",
-            "de": "SableStuffAdditionsCompat v1.0.4-1.21.1",
-            "a": "SableStuffAdditionsCompat v1.0.3-1.21.1",
-            "deId": "9000433",
-            "aId": "8158810"
           }
         ],
         "campos": [],
