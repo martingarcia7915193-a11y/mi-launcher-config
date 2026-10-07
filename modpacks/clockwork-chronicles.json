@@ -1046,9 +1046,117 @@
       "curseforge_id": 1086241,
       "version_id": "7182163",
       "version": "ae2ct-1.21.1-1.1.1.jar"
+    },
+    {
+      "name": "MekaGenJei (Mekanism Generator addon)",
+      "curseforge_id": 1347827,
+      "version_id": "7224975",
+      "version": "1.2"
+    },
+    {
+      "name": "Forbidden and Arcanus",
+      "curseforge_id": 309858,
+      "version_id": "6875895",
+      "version": "forbidden_arcanus-1.21.1-2.6.1.jar"
+    },
+    {
+      "name": "Valhelsia Core",
+      "curseforge_id": 416935
+    },
+    {
+      "name": "RightClickHarvest",
+      "curseforge_id": 452834,
+      "version_id": "7508749",
+      "version": "V4.6.1+1.21.1 (NeoForge 1.21.1)"
+    },
+    {
+      "name": "JamLib",
+      "curseforge_id": 623764
+    },
+    {
+      "name": "Farming for Blockheads",
+      "curseforge_id": 261924,
+      "version_id": "8969759",
+      "version": "farmingforblockheads-neoforge-1.21.1-21.1.14.jar"
+    },
+    {
+      "name": "Double Doors",
+      "curseforge_id": 348831,
+      "version_id": "9034449",
+      "version": "[Fabric/Forge/Neo] 1.21.1-7.3 | Double Doors"
+    },
+    {
+      "name": "Collective",
+      "curseforge_id": 342584
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-07T03:13:02.122Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+8",
+      "changes": [
+        "+ MekaGenJei (Mekanism Generator addon)",
+        "+ Forbidden and Arcanus",
+        "+ Valhelsia Core",
+        "+ RightClickHarvest",
+        "+ JamLib",
+        "+ Farming for Blockheads",
+        "+ Double Doors",
+        "+ Collective"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "MekaGenJei (Mekanism Generator addon)",
+            "lista": "mods",
+            "clave": "c:1347827"
+          },
+          {
+            "nombre": "Forbidden and Arcanus",
+            "lista": "mods",
+            "clave": "c:309858"
+          },
+          {
+            "nombre": "Valhelsia Core",
+            "lista": "mods",
+            "clave": "c:416935"
+          },
+          {
+            "nombre": "RightClickHarvest",
+            "lista": "mods",
+            "clave": "c:452834"
+          },
+          {
+            "nombre": "JamLib",
+            "lista": "mods",
+            "clave": "c:623764"
+          },
+          {
+            "nombre": "Farming for Blockheads",
+            "lista": "mods",
+            "clave": "c:261924"
+          },
+          {
+            "nombre": "Double Doors",
+            "lista": "mods",
+            "clave": "c:348831"
+          },
+          {
+            "nombre": "Collective",
+            "lista": "mods",
+            "clave": "c:342584"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 8,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-10-07T02:17:47.428Z",
       "version": "1.0.0",
@@ -1876,34 +1984,6 @@
         "campos": [],
         "extras": null,
         "cuantos": 3,
-        "hayCambios": true
-      }
-    },
-    {
-      "date": "2026-10-01T01:34:11.653Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "1 actualizados",
-      "changes": [
-        "~ Create: Stuff 'N Additions - Tank Fix (Spout, Curios & Upgrade) (Create: Stuff 'N Additions - Tank Fix (Spout, Curios & Upgrade) 1.3 → Create: Stuff 'N Additions - Tank Fix (Spout, Curios & Upgrade) 1.2)"
-      ],
-      "cambios": {
-        "agregados": [],
-        "quitados": [],
-        "actualizados": [
-          {
-            "nombre": "Create: Stuff 'N Additions - Tank Fix (Spout, Curios & Upgrade)",
-            "lista": "mods",
-            "clave": "c:1374815",
-            "de": "Create: Stuff 'N Additions - Tank Fix (Spout, Curios & Upgrade) 1.3",
-            "a": "Create: Stuff 'N Additions - Tank Fix (Spout, Curios & Upgrade) 1.2",
-            "deId": "7568020",
-            "aId": "7215424"
-          }
-        ],
-        "campos": [],
-        "extras": null,
-        "cuantos": 1,
         "hayCambios": true
       }
     }
