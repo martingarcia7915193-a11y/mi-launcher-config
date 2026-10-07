@@ -916,9 +916,37 @@
       "curseforge_id": 1100379,
       "version_id": "8703661",
       "version": "reliquified_artifacts-1.21.1-1.0.8.jar"
+    },
+    {
+      "name": "Trade Uses",
+      "curseforge_id": 902314
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-07T01:19:45.194Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+1",
+      "changes": [
+        "+ Trade Uses"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Trade Uses",
+            "lista": "mods",
+            "clave": "c:902314"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-10-06T03:48:52.843Z",
       "version": "1.0.0",
@@ -1628,44 +1656,6 @@
         "campos": [],
         "extras": null,
         "cuantos": 1,
-        "hayCambios": true
-      }
-    },
-    {
-      "date": "2026-10-01T01:31:08.171Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "2 actualizados",
-      "changes": [
-        "~ Create Stuff 'N Additions (Create S&A 1.21.1 V2.1.4b → Create S&A 1.21.1 V2.1.3)",
-        "~ Create: Stuff 'N Additions - Tank Fix (Spout, Curios & Upgrade) (Create Stuff and Addition Tank Fix 1.0 → Create: Stuff 'N Additions - Tank Fix (Spout, Curios & Upgrade) 1.3)"
-      ],
-      "cambios": {
-        "agregados": [],
-        "quitados": [],
-        "actualizados": [
-          {
-            "nombre": "Create Stuff 'N Additions",
-            "lista": "mods",
-            "clave": "c:466792",
-            "de": "Create S&A 1.21.1 V2.1.4b",
-            "a": "Create S&A 1.21.1 V2.1.3",
-            "deId": "8664066",
-            "aId": "8100852"
-          },
-          {
-            "nombre": "Create: Stuff 'N Additions - Tank Fix (Spout, Curios & Upgrade)",
-            "lista": "mods",
-            "clave": "c:1374815",
-            "de": "Create Stuff and Addition Tank Fix 1.0",
-            "a": "Create: Stuff 'N Additions - Tank Fix (Spout, Curios & Upgrade) 1.3",
-            "deId": "7164013",
-            "aId": "7568020"
-          }
-        ],
-        "campos": [],
-        "extras": null,
-        "cuantos": 2,
         "hayCambios": true
       }
     }
