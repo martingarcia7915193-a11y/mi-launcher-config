@@ -938,18 +938,6 @@
       "version": "0.4.1 (NeoForge 1.21)"
     },
     {
-      "name": "Soulplied Energistics",
-      "curseforge_id": 1143614,
-      "version_id": "8333758",
-      "version": "soulplied_energistics-1.0.3.jar"
-    },
-    {
-      "name": "Applied Soul",
-      "curseforge_id": 1337114,
-      "version_id": "8711537",
-      "version": "appliedsoul-1.21.1-2.1.0-hotfix.jar"
-    },
-    {
       "name": "ExtendedAE",
       "curseforge_id": 892005,
       "version_id": "9078385",
@@ -1069,6 +1057,36 @@
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-10T00:13:17.345Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "−2",
+      "changes": [
+        "− Soulplied Energistics",
+        "− Applied Soul"
+      ],
+      "cambios": {
+        "agregados": [],
+        "quitados": [
+          {
+            "nombre": "Soulplied Energistics",
+            "lista": "mods",
+            "clave": "c:1143614"
+          },
+          {
+            "nombre": "Applied Soul",
+            "lista": "mods",
+            "clave": "c:1337114"
+          }
+        ],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 2,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-10-10T00:12:28.224Z",
       "version": "1.0.0",
@@ -1928,30 +1946,6 @@
           }
         ],
         "quitados": [],
-        "actualizados": [],
-        "campos": [],
-        "extras": null,
-        "cuantos": 1,
-        "hayCambios": true
-      }
-    },
-    {
-      "date": "2026-10-01T01:36:10.236Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "−1",
-      "changes": [
-        "− Create: Stuff 'N Additions - Tank Fix (Spout, Curios & Upgrade)"
-      ],
-      "cambios": {
-        "agregados": [],
-        "quitados": [
-          {
-            "nombre": "Create: Stuff 'N Additions - Tank Fix (Spout, Curios & Upgrade)",
-            "lista": "mods",
-            "clave": "c:1374815"
-          }
-        ],
         "actualizados": [],
         "campos": [],
         "extras": null,
