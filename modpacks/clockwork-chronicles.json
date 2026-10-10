@@ -1102,9 +1102,39 @@
       "curseforge_id": 443900,
       "version_id": "8351631",
       "version": "[NEOFORGE][1.21.1] Pipez 1.21.1-1.2.31"
+    },
+    {
+      "name": "GeckoLib",
+      "curseforge_id": 388172,
+      "version_id": "8893490",
+      "version": "NeoForge 1.21.1 4.9.3"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-10T04:44:35.020Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+1",
+      "changes": [
+        "+ GeckoLib"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "GeckoLib",
+            "lista": "mods",
+            "clave": "c:388172"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-10-10T04:43:36.197Z",
       "version": "1.0.0",
@@ -2012,30 +2042,6 @@
           }
         ],
         "quitados": [],
-        "actualizados": [],
-        "campos": [],
-        "extras": null,
-        "cuantos": 1,
-        "hayCambios": true
-      }
-    },
-    {
-      "date": "2026-10-01T02:05:36.676Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "−1",
-      "changes": [
-        "− ShineaL's Prehistoric Expansion"
-      ],
-      "cambios": {
-        "agregados": [],
-        "quitados": [
-          {
-            "nombre": "ShineaL's Prehistoric Expansion",
-            "lista": "mods",
-            "clave": "c:909176"
-          }
-        ],
         "actualizados": [],
         "campos": [],
         "extras": null,
