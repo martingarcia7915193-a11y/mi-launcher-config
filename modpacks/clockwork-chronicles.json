@@ -1054,9 +1054,123 @@
     {
       "name": "Collective",
       "curseforge_id": 342584
+    },
+    {
+      "name": "Create Aeronautics: Transmission & Linkage",
+      "curseforge_id": 1548056,
+      "version_id": "8790451",
+      "version": "create_aeronautics_transmission_linkage-0.2.8.jar"
+    },
+    {
+      "name": "Create Aeronautics: Mekanism Compatibility",
+      "curseforge_id": 1536749,
+      "version_id": "8299825",
+      "version": "create_mekanism_compat-0.1.21.jar"
+    },
+    {
+      "name": "Create: Crafts & Additions and Aeronautics Compat",
+      "curseforge_id": 1532665,
+      "version_id": "8032414",
+      "version": "aeroadditionbridge-1.0.0.jar"
+    },
+    {
+      "name": "Ars Nouveau",
+      "curseforge_id": 401955,
+      "version_id": "9052154",
+      "version": "ars_nouveau-1.21.1-5.13.3"
+    },
+    {
+      "name": "Ars Polymorphia",
+      "curseforge_id": 1197614,
+      "version_id": "6219409",
+      "version": "Ars Polymorphia 1.0.3 for 1.21.1"
+    },
+    {
+      "name": "Reliquified Ars Nouveau",
+      "curseforge_id": 1196449,
+      "version_id": "8104341",
+      "version": "reliquified_ars_nouveau-1.21.1-0.8.1.jar"
+    },
+    {
+      "name": "Ars Énergistique",
+      "curseforge_id": 905641,
+      "version_id": "6203425",
+      "version": "2.1.1-beta (NeoForge 1.21.1)"
+    },
+    {
+      "name": "Pipez",
+      "curseforge_id": 443900,
+      "version_id": "8351631",
+      "version": "[NEOFORGE][1.21.1] Pipez 1.21.1-1.2.31"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-10T04:43:36.197Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+8",
+      "changes": [
+        "+ Create Aeronautics: Transmission & Linkage",
+        "+ Create Aeronautics: Mekanism Compatibility",
+        "+ Create: Crafts & Additions and Aeronautics Compat",
+        "+ Ars Nouveau",
+        "+ Ars Polymorphia",
+        "+ Reliquified Ars Nouveau",
+        "+ Ars Énergistique",
+        "+ Pipez"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Create Aeronautics: Transmission & Linkage",
+            "lista": "mods",
+            "clave": "c:1548056"
+          },
+          {
+            "nombre": "Create Aeronautics: Mekanism Compatibility",
+            "lista": "mods",
+            "clave": "c:1536749"
+          },
+          {
+            "nombre": "Create: Crafts & Additions and Aeronautics Compat",
+            "lista": "mods",
+            "clave": "c:1532665"
+          },
+          {
+            "nombre": "Ars Nouveau",
+            "lista": "mods",
+            "clave": "c:401955"
+          },
+          {
+            "nombre": "Ars Polymorphia",
+            "lista": "mods",
+            "clave": "c:1197614"
+          },
+          {
+            "nombre": "Reliquified Ars Nouveau",
+            "lista": "mods",
+            "clave": "c:1196449"
+          },
+          {
+            "nombre": "Ars Énergistique",
+            "lista": "mods",
+            "clave": "c:905641"
+          },
+          {
+            "nombre": "Pipez",
+            "lista": "mods",
+            "clave": "c:443900"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 8,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-10-10T00:13:17.345Z",
       "version": "1.0.0",
@@ -1922,30 +2036,6 @@
             "clave": "c:909176"
           }
         ],
-        "actualizados": [],
-        "campos": [],
-        "extras": null,
-        "cuantos": 1,
-        "hayCambios": true
-      }
-    },
-    {
-      "date": "2026-10-01T01:59:08.359Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "+1",
-      "changes": [
-        "+ Arkadia: Tank Curios"
-      ],
-      "cambios": {
-        "agregados": [
-          {
-            "nombre": "Arkadia: Tank Curios",
-            "lista": "mods",
-            "clave": "a:arkadia_tanques"
-          }
-        ],
-        "quitados": [],
         "actualizados": [],
         "campos": [],
         "extras": null,
