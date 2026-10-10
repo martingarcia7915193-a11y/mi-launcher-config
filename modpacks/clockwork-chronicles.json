@@ -922,22 +922,6 @@
       "curseforge_id": 902314
     },
     {
-      "name": "Industrial Foregoing",
-      "curseforge_id": 266515,
-      "version_id": "8370717",
-      "version": "industrialforegoing-1.21-3.6.39.jar"
-    },
-    {
-      "name": "Titanium",
-      "curseforge_id": 287342
-    },
-    {
-      "name": "Industrial Foregoing Souls",
-      "curseforge_id": 904394,
-      "version_id": "7441306",
-      "version": "industrial-foregoing-souls-1.21.1-1.10.7.jar"
-    },
-    {
       "name": "Applied Energistics 2",
       "curseforge_id": 223794,
       "version_id": "8992605",
@@ -958,12 +942,6 @@
       "curseforge_id": 1143614,
       "version_id": "8333758",
       "version": "soulplied_energistics-1.0.3.jar"
-    },
-    {
-      "name": "More Industrial Foregoing Addons (MIFA)",
-      "curseforge_id": 1086142,
-      "version_id": "6288756",
-      "version": "mifa-neoforge-1.21.x-2.1.0.jar"
     },
     {
       "name": "Applied Soul",
@@ -1091,6 +1069,48 @@
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-10T00:12:28.224Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "−4",
+      "changes": [
+        "− Industrial Foregoing",
+        "− Titanium",
+        "− Industrial Foregoing Souls",
+        "− More Industrial Foregoing Addons (MIFA)"
+      ],
+      "cambios": {
+        "agregados": [],
+        "quitados": [
+          {
+            "nombre": "Industrial Foregoing",
+            "lista": "mods",
+            "clave": "c:266515"
+          },
+          {
+            "nombre": "Titanium",
+            "lista": "mods",
+            "clave": "c:287342"
+          },
+          {
+            "nombre": "Industrial Foregoing Souls",
+            "lista": "mods",
+            "clave": "c:904394"
+          },
+          {
+            "nombre": "More Industrial Foregoing Addons (MIFA)",
+            "lista": "mods",
+            "clave": "c:1086142"
+          }
+        ],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 4,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-10-07T03:13:02.122Z",
       "version": "1.0.0",
@@ -1936,54 +1956,6 @@
         "campos": [],
         "extras": null,
         "cuantos": 1,
-        "hayCambios": true
-      }
-    },
-    {
-      "date": "2026-10-01T01:36:03.687Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "3 actualizados",
-      "changes": [
-        "~ Create Stuff 'N Additions (Create S&A 1.21.1 V2.1.3 → Create S&A 1.21.1 V2.1.4b)",
-        "~ Create Stuff 'N Additions x Sable & Aeronautics Compat (SableStuffAdditionsCompat v1.0.3-1.21.1 → SableStuffAdditionsCompat v1.0.4-1.21.1)",
-        "~ Create: Stuff 'N Additions - Tank Fix (Spout, Curios & Upgrade) (Create: Stuff 'N Additions - Tank Fix (Spout, Curios & Upgrade) 1.2 → Create: Stuff 'N Additions - Tank Fix (Spout, Curios & Upgrade) 1.3)"
-      ],
-      "cambios": {
-        "agregados": [],
-        "quitados": [],
-        "actualizados": [
-          {
-            "nombre": "Create Stuff 'N Additions",
-            "lista": "mods",
-            "clave": "c:466792",
-            "de": "Create S&A 1.21.1 V2.1.3",
-            "a": "Create S&A 1.21.1 V2.1.4b",
-            "deId": "8100852",
-            "aId": "8664066"
-          },
-          {
-            "nombre": "Create Stuff 'N Additions x Sable & Aeronautics Compat",
-            "lista": "mods",
-            "clave": "c:1541139",
-            "de": "SableStuffAdditionsCompat v1.0.3-1.21.1",
-            "a": "SableStuffAdditionsCompat v1.0.4-1.21.1",
-            "deId": "8158810",
-            "aId": "9000433"
-          },
-          {
-            "nombre": "Create: Stuff 'N Additions - Tank Fix (Spout, Curios & Upgrade)",
-            "lista": "mods",
-            "clave": "c:1374815",
-            "de": "Create: Stuff 'N Additions - Tank Fix (Spout, Curios & Upgrade) 1.2",
-            "a": "Create: Stuff 'N Additions - Tank Fix (Spout, Curios & Upgrade) 1.3",
-            "deId": "7215424",
-            "aId": "7568020"
-          }
-        ],
-        "campos": [],
-        "extras": null,
-        "cuantos": 3,
         "hayCambios": true
       }
     }
