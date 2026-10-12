@@ -778,16 +778,6 @@
       "version": "[NEOFORGE][1.21.1] Trade Cycling 1.21.1-1.0.18"
     },
     {
-      "name": "Arkadia: Mercado",
-      "version_id": "1.4.1-neoforge-1.21.1",
-      "version": "1.4.1",
-      "url": "https://drive.usercontent.google.com/download?id=1JbSAwZFxrkFqkeW12TjsUeDYKQHSnM8n&export=download&confirm=t",
-      "nombreArchivo": "arkadia_mercado-arkadia-mercado-1.21.1-1.4.1.jar",
-      "arkadia_id": "arkadia_mercado",
-      "hash": "6801661886af4838fd069cb8c3a6888fd7e3f8bb",
-      "tamaño": 187335
-    },
-    {
       "name": "Create Propulsion: Simulated",
       "curseforge_id": 1522736,
       "version_id": "8496246",
@@ -1111,6 +1101,30 @@
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-12T02:24:11.021Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "−1",
+      "changes": [
+        "− Arkadia: Mercado"
+      ],
+      "cambios": {
+        "agregados": [],
+        "quitados": [
+          {
+            "nombre": "Arkadia: Mercado",
+            "lista": "mods",
+            "clave": "a:arkadia_mercado"
+          }
+        ],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-10-10T04:44:35.020Z",
       "version": "1.0.0",
@@ -2022,30 +2036,6 @@
         "campos": [],
         "extras": null,
         "cuantos": 2,
-        "hayCambios": true
-      }
-    },
-    {
-      "date": "2026-10-01T02:07:39.309Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "+1",
-      "changes": [
-        "+ Create: Fuel & Water Information"
-      ],
-      "cambios": {
-        "agregados": [
-          {
-            "nombre": "Create: Fuel & Water Information",
-            "lista": "mods",
-            "clave": "c:1023209"
-          }
-        ],
-        "quitados": [],
-        "actualizados": [],
-        "campos": [],
-        "extras": null,
-        "cuantos": 1,
         "hayCambios": true
       }
     }
