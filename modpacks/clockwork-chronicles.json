@@ -1104,9 +1104,39 @@
       "curseforge_id": 659090,
       "version_id": "6003423",
       "version": "fuelgoeshere-1.21.1-1.2.0.jar"
+    },
+    {
+      "name": "Distant Horizons: A Level of Detail mod",
+      "curseforge_id": 508933,
+      "version_id": "9004764",
+      "version": "3.3.3 - 1.21.1 neo/fabric"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-12T02:36:17.981Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+1",
+      "changes": [
+        "+ Distant Horizons: A Level of Detail mod"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Distant Horizons: A Level of Detail mod",
+            "lista": "mods",
+            "clave": "c:508933"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-10-12T02:35:53.546Z",
       "version": "1.0.0",
@@ -2000,42 +2030,6 @@
         "campos": [],
         "extras": null,
         "cuantos": 1,
-        "hayCambios": true
-      }
-    },
-    {
-      "date": "2026-10-01T03:02:31.181Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "+3",
-      "changes": [
-        "+ Create: Central Kitchen",
-        "+ Create: Integrated Farming",
-        "+ Create: Food"
-      ],
-      "cambios": {
-        "agregados": [
-          {
-            "nombre": "Create: Central Kitchen",
-            "lista": "mods",
-            "clave": "c:820977"
-          },
-          {
-            "nombre": "Create: Integrated Farming",
-            "lista": "mods",
-            "clave": "c:1249131"
-          },
-          {
-            "nombre": "Create: Food",
-            "lista": "mods",
-            "clave": "c:959439"
-          }
-        ],
-        "quitados": [],
-        "actualizados": [],
-        "campos": [],
-        "extras": null,
-        "cuantos": 3,
         "hayCambios": true
       }
     }
