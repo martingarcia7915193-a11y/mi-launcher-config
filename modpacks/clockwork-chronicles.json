@@ -1098,9 +1098,39 @@
       "curseforge_id": 388172,
       "version_id": "8893490",
       "version": "NeoForge 1.21.1 4.9.3"
+    },
+    {
+      "name": "Fuel Goes Here",
+      "curseforge_id": 659090,
+      "version_id": "6003423",
+      "version": "fuelgoeshere-1.21.1-1.2.0.jar"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-12T02:35:53.546Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+1",
+      "changes": [
+        "+ Fuel Goes Here"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Fuel Goes Here",
+            "lista": "mods",
+            "clave": "c:659090"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-10-12T02:24:11.021Z",
       "version": "1.0.0",
@@ -2006,36 +2036,6 @@
         "campos": [],
         "extras": null,
         "cuantos": 3,
-        "hayCambios": true
-      }
-    },
-    {
-      "date": "2026-10-01T02:39:45.278Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "+2",
-      "changes": [
-        "+ Kaleidoscope Tavern",
-        "+ Create: Gears and Tavern"
-      ],
-      "cambios": {
-        "agregados": [
-          {
-            "nombre": "Kaleidoscope Tavern",
-            "lista": "mods",
-            "clave": "c:1475175"
-          },
-          {
-            "nombre": "Create: Gears and Tavern",
-            "lista": "mods",
-            "clave": "c:1504275"
-          }
-        ],
-        "quitados": [],
-        "actualizados": [],
-        "campos": [],
-        "extras": null,
-        "cuantos": 2,
         "hayCambios": true
       }
     }
