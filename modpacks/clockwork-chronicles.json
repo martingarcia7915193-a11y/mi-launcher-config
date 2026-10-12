@@ -774,8 +774,8 @@
     {
       "name": "Trade Cycling",
       "curseforge_id": 570431,
-      "version_id": "6497876",
-      "version": "[NEOFORGE][1.21.1] Trade Cycling 1.21.1-1.0.18"
+      "version_id": "6209019",
+      "version": "[NEOFORGE][1.21.1] Trade Cycling 1.21.1-1.0.17"
     },
     {
       "name": "Create Propulsion: Simulated",
@@ -1113,6 +1113,34 @@
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-12T03:08:46.536Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "1 actualizados",
+      "changes": [
+        "~ Trade Cycling ([NEOFORGE][1.21.1] Trade Cycling 1.21.1-1.0.18 → [NEOFORGE][1.21.1] Trade Cycling 1.21.1-1.0.17)"
+      ],
+      "cambios": {
+        "agregados": [],
+        "quitados": [],
+        "actualizados": [
+          {
+            "nombre": "Trade Cycling",
+            "lista": "mods",
+            "clave": "c:570431",
+            "de": "[NEOFORGE][1.21.1] Trade Cycling 1.21.1-1.0.18",
+            "a": "[NEOFORGE][1.21.1] Trade Cycling 1.21.1-1.0.17",
+            "deId": "6497876",
+            "aId": "6209019"
+          }
+        ],
+        "campos": [],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-10-12T02:36:17.981Z",
       "version": "1.0.0",
@@ -1999,30 +2027,6 @@
             "nombre": "Create: Drill Levitite",
             "lista": "mods",
             "clave": "c:1553712"
-          }
-        ],
-        "quitados": [],
-        "actualizados": [],
-        "campos": [],
-        "extras": null,
-        "cuantos": 1,
-        "hayCambios": true
-      }
-    },
-    {
-      "date": "2026-10-01T05:49:36.854Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "+1",
-      "changes": [
-        "+ Paragliders"
-      ],
-      "cambios": {
-        "agregados": [
-          {
-            "nombre": "Paragliders",
-            "lista": "mods",
-            "clave": "c:289240"
           }
         ],
         "quitados": [],
