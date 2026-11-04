@@ -1116,9 +1116,37 @@
       "curseforge_id": 1748961,
       "version_id": "9397628",
       "version": "Diorama 0.7.0 for NeoForge 1.21.1"
+    },
+    {
+      "name": "Let it Walk!",
+      "curseforge_id": 1780503
     }
   ],
   "changelog": [
+    {
+      "date": "2026-11-04T05:51:07.006Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+1",
+      "changes": [
+        "+ Let it Walk!"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Let it Walk!",
+            "lista": "mods",
+            "clave": "c:1780503"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-11-03T02:41:25.661Z",
       "version": "1.0.0",
@@ -2006,36 +2034,6 @@
             "clave": "c:316833"
           }
         ],
-        "actualizados": [],
-        "campos": [],
-        "extras": null,
-        "cuantos": 2,
-        "hayCambios": true
-      }
-    },
-    {
-      "date": "2026-10-03T07:42:54.874Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "+2",
-      "changes": [
-        "+ Astral Sorcery",
-        "+ ObserverLib"
-      ],
-      "cambios": {
-        "agregados": [
-          {
-            "nombre": "Astral Sorcery",
-            "lista": "mods",
-            "clave": "c:241721"
-          },
-          {
-            "nombre": "ObserverLib",
-            "lista": "mods",
-            "clave": "c:316833"
-          }
-        ],
-        "quitados": [],
         "actualizados": [],
         "campos": [],
         "extras": null,
