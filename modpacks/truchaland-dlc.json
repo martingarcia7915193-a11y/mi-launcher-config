@@ -651,14 +651,6 @@
       "version": "[NeoForge] Create Stock Bridge 1.21.1-0.2.0"
     },
     {
-      "name": "Applied Energistics 2",
-      "curseforge_id": 223794
-    },
-    {
-      "name": "GuideME",
-      "curseforge_id": 1173950
-    },
-    {
       "name": "Joy of Painting",
       "curseforge_id": 350727,
       "version_id": "8519626",
@@ -750,6 +742,36 @@
     }
   ],
   "changelog": [
+    {
+      "date": "2026-11-06T05:09:37.419Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "−2",
+      "changes": [
+        "− Applied Energistics 2",
+        "− GuideME"
+      ],
+      "cambios": {
+        "agregados": [],
+        "quitados": [
+          {
+            "nombre": "Applied Energistics 2",
+            "lista": "mods",
+            "clave": "c:223794"
+          },
+          {
+            "nombre": "GuideME",
+            "lista": "mods",
+            "clave": "c:1173950"
+          }
+        ],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 2,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-11-06T05:09:19.116Z",
       "version": "1.0.0",
