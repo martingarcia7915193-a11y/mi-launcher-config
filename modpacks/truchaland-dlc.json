@@ -240,16 +240,6 @@
       "version": "modnametooltip-1.21.1-neoforge-2.3.0.jar"
     },
     {
-      "name": "Terralith",
-      "curseforge_id": 513688,
-      "version_id": "8222737",
-      "version": "v2.6.2 ~ Neoforge Mod 1.21.1"
-    },
-    {
-      "name": "Lithostitched",
-      "curseforge_id": 936015
-    },
-    {
       "name": "Forbidden and Arcanus",
       "curseforge_id": 309858,
       "version_id": "9308904",
@@ -890,6 +880,42 @@
     }
   ],
   "changelog": [
+    {
+      "date": "2026-11-06T05:50:16.682Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "−3",
+      "changes": [
+        "− Terralith",
+        "− Lithostitched",
+        "− Vanilla Backport Compat"
+      ],
+      "cambios": {
+        "agregados": [],
+        "quitados": [
+          {
+            "nombre": "Terralith",
+            "lista": "mods",
+            "clave": "c:513688"
+          },
+          {
+            "nombre": "Lithostitched",
+            "lista": "mods",
+            "clave": "c:936015"
+          },
+          {
+            "nombre": "Vanilla Backport Compat",
+            "lista": "datapacks",
+            "clave": "m:jcYHXHwz"
+          }
+        ],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 3,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-11-06T05:42:05.196Z",
       "version": "1.0.0",
@@ -2140,12 +2166,6 @@
       "curseforge_id": 1455778,
       "version_id": "7586038",
       "version": "no_dnd_diamond_1.21.zip"
-    },
-    {
-      "name": "Vanilla Backport Compat",
-      "modrinth_id": "jcYHXHwz",
-      "version_id": "cIu6DvNo",
-      "version": "2.3"
     }
   ]
 }
