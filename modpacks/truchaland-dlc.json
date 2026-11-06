@@ -306,9 +306,214 @@
       "curseforge_id": 1395288,
       "version_id": "9297941",
       "version": "ConstructionWandsRevived-1.21.1-4.0.13-NeoForge"
+    },
+    {
+      "name": "Create Crafts & Additions",
+      "curseforge_id": 439890,
+      "version_id": "9029800",
+      "version": "createaddition-neoforge-1.21.1-1.7.2"
+    },
+    {
+      "name": "Create: Copycats+",
+      "curseforge_id": 968398,
+      "version_id": "8822348",
+      "version": "copycats-3.0.9+mc.1.21.1-neoforge"
+    },
+    {
+      "name": "Create Stuff 'N Additions",
+      "curseforge_id": 466792,
+      "version_id": "8664066",
+      "version": "Create S&A 1.21.1 V2.1.4b"
+    },
+    {
+      "name": "Arkadia: Tank Curios",
+      "version_id": "1.0.0-neoforge-1.21.1",
+      "version": "1.0.0",
+      "url": "https://drive.usercontent.google.com/download?id=17Z_Ea5HRhx7GIbOUJBI_8X53ffXUDjyf&export=download&confirm=t",
+      "nombreArchivo": "arkadia_tanques-arkadia-tanques-1.21.1-1.0.0.jar",
+      "arkadia_id": "arkadia_tanques",
+      "hash": "f940c27580bf98853b4a02efe2cee773af508b53",
+      "tamaño": 7968
+    },
+    {
+      "name": "Rechiseled: Create",
+      "curseforge_id": 888624,
+      "version_id": "8302843",
+      "version": "Rechiseled: Create 1.1.1 for NeoForge 1.21"
+    },
+    {
+      "name": "Rechiseled",
+      "curseforge_id": 558998
+    },
+    {
+      "name": "Fusion (Connected Textures)",
+      "curseforge_id": 854949
+    },
+    {
+      "name": "Chipped",
+      "curseforge_id": 456956,
+      "version_id": "5813117"
+    },
+    {
+      "name": "Resourceful Lib",
+      "curseforge_id": 570073
+    },
+    {
+      "name": "Athena",
+      "curseforge_id": 841890
+    },
+    {
+      "name": "Rechiseled: Chipped",
+      "curseforge_id": 1007578,
+      "version_id": "7524185",
+      "version": "rechiseled_chipped-2.0-1.21.1.jar"
+    },
+    {
+      "name": "Create: Hypertubes",
+      "curseforge_id": 1281336,
+      "version_id": "8541877",
+      "version": "Hypertubes 0.6.0 NEOFORGE"
+    },
+    {
+      "name": "Create: Connected",
+      "curseforge_id": 947914,
+      "version_id": "8777573",
+      "version": "create_connected 1.3.3-mc1.21.1"
+    },
+    {
+      "name": "OpenBlocks Elevator",
+      "curseforge_id": 250832,
+      "version_id": "6199696",
+      "version": "elevatorid-neoforge-1.21.1-1.11.4.jar"
+    },
+    {
+      "name": "Create: Interiors",
+      "curseforge_id": 906239,
+      "version_id": "8974633",
+      "version": "Interiors 0.6.1 for NeoForge 1.21.1 v3 "
+    },
+    {
+      "name": "Create: Diesel Generators",
+      "curseforge_id": 869316,
+      "version_id": "8542167",
+      "version": "createdieselgenerators-1.21.1-1.3.15.jar"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-11-06T04:38:36.456Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+16",
+      "changes": [
+        "+ Create Crafts & Additions",
+        "+ Create: Copycats+",
+        "+ Create Stuff 'N Additions",
+        "+ Arkadia: Tank Curios",
+        "+ Rechiseled: Create",
+        "+ Rechiseled",
+        "+ Fusion (Connected Textures)",
+        "+ Chipped",
+        "+ Resourceful Lib",
+        "+ Athena",
+        "+ Rechiseled: Chipped",
+        "+ Create: Hypertubes",
+        "+ Create: Connected",
+        "+ OpenBlocks Elevator",
+        "+ Create: Interiors",
+        "+ Create: Diesel Generators"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Create Crafts & Additions",
+            "lista": "mods",
+            "clave": "c:439890"
+          },
+          {
+            "nombre": "Create: Copycats+",
+            "lista": "mods",
+            "clave": "c:968398"
+          },
+          {
+            "nombre": "Create Stuff 'N Additions",
+            "lista": "mods",
+            "clave": "c:466792"
+          },
+          {
+            "nombre": "Arkadia: Tank Curios",
+            "lista": "mods",
+            "clave": "a:arkadia_tanques"
+          },
+          {
+            "nombre": "Rechiseled: Create",
+            "lista": "mods",
+            "clave": "c:888624"
+          },
+          {
+            "nombre": "Rechiseled",
+            "lista": "mods",
+            "clave": "c:558998"
+          },
+          {
+            "nombre": "Fusion (Connected Textures)",
+            "lista": "mods",
+            "clave": "c:854949"
+          },
+          {
+            "nombre": "Chipped",
+            "lista": "mods",
+            "clave": "c:456956"
+          },
+          {
+            "nombre": "Resourceful Lib",
+            "lista": "mods",
+            "clave": "c:570073"
+          },
+          {
+            "nombre": "Athena",
+            "lista": "mods",
+            "clave": "c:841890"
+          },
+          {
+            "nombre": "Rechiseled: Chipped",
+            "lista": "mods",
+            "clave": "c:1007578"
+          },
+          {
+            "nombre": "Create: Hypertubes",
+            "lista": "mods",
+            "clave": "c:1281336"
+          },
+          {
+            "nombre": "Create: Connected",
+            "lista": "mods",
+            "clave": "c:947914"
+          },
+          {
+            "nombre": "OpenBlocks Elevator",
+            "lista": "mods",
+            "clave": "c:250832"
+          },
+          {
+            "nombre": "Create: Interiors",
+            "lista": "mods",
+            "clave": "c:906239"
+          },
+          {
+            "nombre": "Create: Diesel Generators",
+            "lista": "mods",
+            "clave": "c:869316"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 16,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-11-06T04:30:14.063Z",
       "version": "1.0.0",
