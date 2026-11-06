@@ -877,12 +877,6 @@
       "version": "[1.21.1] YUNG's Better Desert Temples v4.1.5 (NeoForge)"
     },
     {
-      "name": "Van Backport Compat",
-      "curseforge_id": 1388531,
-      "version_id": "9258299",
-      "version": "vb-compat-2.3-1.21.1.jar"
-    },
-    {
       "name": "Vanilla Backport",
       "curseforge_id": 417430,
       "version_id": "9318571",
@@ -896,6 +890,30 @@
     }
   ],
   "changelog": [
+    {
+      "date": "2026-11-06T05:41:14.524Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "−1",
+      "changes": [
+        "− Van Backport Compat"
+      ],
+      "cambios": {
+        "agregados": [],
+        "quitados": [
+          {
+            "nombre": "Van Backport Compat",
+            "lista": "mods",
+            "clave": "c:1388531"
+          }
+        ],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-11-06T05:31:49.683Z",
       "version": "1.0.0",
