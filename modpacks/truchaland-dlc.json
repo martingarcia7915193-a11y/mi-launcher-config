@@ -1,0 +1,9 @@
+{
+  "id": "truchaland-dlc",
+  "name": "Truchaland DLC",
+  "version": "1.0.0",
+  "minecraft_version": "1.21.1",
+  "modloader": "neoforge",
+  "category": "oficiales",
+  "modloader_version": "21.1.265"
+}
