@@ -551,9 +551,39 @@
     {
       "name": "Let it Walk!",
       "curseforge_id": 1780503
+    },
+    {
+      "name": "Azimuth API",
+      "curseforge_id": 1466331,
+      "version_id": "9058513",
+      "version": "Azimuth 1.4.10 NeoForge 1.21.1"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-11-06T04:43:24.810Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+1",
+      "changes": [
+        "+ Azimuth API"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Azimuth API",
+            "lista": "mods",
+            "clave": "c:1466331"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-11-06T04:42:52.619Z",
       "version": "1.0.0",
