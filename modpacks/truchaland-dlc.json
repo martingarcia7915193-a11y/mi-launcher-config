@@ -733,9 +733,213 @@
       "curseforge_id": 1494004,
       "version_id": "8926887",
       "version": "petrochem-neoforge-1.21.1-1.3.3.jar"
+    },
+    {
+      "name": "Corpse",
+      "curseforge_id": 316582,
+      "version_id": "9289316",
+      "version": "[NEOFORGE][1.21.1] Corpse 1.21.1-1.1.22"
+    },
+    {
+      "name": "Corpse x Curios API Compat",
+      "curseforge_id": 1138130,
+      "version_id": "9137867",
+      "version": "corpsecurioscompat-1.21.1-NeoForge-4.2.0.jar"
+    },
+    {
+      "name": "BaguetteLib",
+      "curseforge_id": 1264423
+    },
+    {
+      "name": "Corpse x Cosmetic Armor Reworked Compat",
+      "curseforge_id": 1208436,
+      "version_id": "7891804",
+      "version": "cosmeticcorpsecompat-1.21.1-NeoForge-4.0.1.jar"
+    },
+    {
+      "name": "Cosmetic Armor Reworked",
+      "curseforge_id": 237307
+    },
+    {
+      "name": "Polymorph",
+      "curseforge_id": 388800,
+      "version_id": "8849478",
+      "version": "polymorph-neoforge-1.2.0+1.21.1.jar"
+    },
+    {
+      "name": "Applied Energistics 2",
+      "curseforge_id": 223794,
+      "version_id": "8992605",
+      "version": "AE2 19.2.18 [NEOFORGE]"
+    },
+    {
+      "name": "GuideME",
+      "curseforge_id": 1173950
+    },
+    {
+      "name": "Polymorphic Energistics",
+      "curseforge_id": 941096,
+      "version_id": "5545923",
+      "version": "0.4.1 (NeoForge 1.21)"
+    },
+    {
+      "name": "Create Stock Bridge",
+      "curseforge_id": 1256341,
+      "version_id": "8044769",
+      "version": "[NeoForge] Create Stock Bridge 1.21.1-0.2.0"
+    },
+    {
+      "name": "MineColonies",
+      "curseforge_id": 245506,
+      "version_id": "9058295",
+      "version": "minecolonies-1.1.1403-1.21.1.jar"
+    },
+    {
+      "name": "Domum Ornamentum",
+      "curseforge_id": 527361,
+      "version_id": "7789217",
+      "version": "domum-ornamentum - 1.0.231 - release"
+    },
+    {
+      "name": "Structurize",
+      "curseforge_id": 298744,
+      "version_id": "8610535",
+      "version": "structurize-1.0.832-1.21.1.jar"
+    },
+    {
+      "name": "TownTalk",
+      "curseforge_id": 900364,
+      "version_id": "5653504",
+      "version": "TownTalk 1.21 1.2.0"
+    },
+    {
+      "name": "Multi-Piston",
+      "curseforge_id": 303278,
+      "version_id": "7097877",
+      "version": "multipiston-1.2.58-1.21.1.jar"
+    },
+    {
+      "name": "BlockUI",
+      "curseforge_id": 522992,
+      "version_id": "7541336",
+      "version": "blockui-1.0.209-1.21.1.jar"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-11-06T05:27:31.452Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+16",
+      "changes": [
+        "+ Corpse",
+        "+ Corpse x Curios API Compat",
+        "+ BaguetteLib",
+        "+ Corpse x Cosmetic Armor Reworked Compat",
+        "+ Cosmetic Armor Reworked",
+        "+ Polymorph",
+        "+ Applied Energistics 2",
+        "+ GuideME",
+        "+ Polymorphic Energistics",
+        "+ Create Stock Bridge",
+        "+ MineColonies",
+        "+ Domum Ornamentum",
+        "+ Structurize",
+        "+ TownTalk",
+        "+ Multi-Piston",
+        "+ BlockUI"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Corpse",
+            "lista": "mods",
+            "clave": "c:316582"
+          },
+          {
+            "nombre": "Corpse x Curios API Compat",
+            "lista": "mods",
+            "clave": "c:1138130"
+          },
+          {
+            "nombre": "BaguetteLib",
+            "lista": "mods",
+            "clave": "c:1264423"
+          },
+          {
+            "nombre": "Corpse x Cosmetic Armor Reworked Compat",
+            "lista": "mods",
+            "clave": "c:1208436"
+          },
+          {
+            "nombre": "Cosmetic Armor Reworked",
+            "lista": "mods",
+            "clave": "c:237307"
+          },
+          {
+            "nombre": "Polymorph",
+            "lista": "mods",
+            "clave": "c:388800"
+          },
+          {
+            "nombre": "Applied Energistics 2",
+            "lista": "mods",
+            "clave": "c:223794"
+          },
+          {
+            "nombre": "GuideME",
+            "lista": "mods",
+            "clave": "c:1173950"
+          },
+          {
+            "nombre": "Polymorphic Energistics",
+            "lista": "mods",
+            "clave": "c:941096"
+          },
+          {
+            "nombre": "Create Stock Bridge",
+            "lista": "mods",
+            "clave": "c:1256341"
+          },
+          {
+            "nombre": "MineColonies",
+            "lista": "mods",
+            "clave": "c:245506"
+          },
+          {
+            "nombre": "Domum Ornamentum",
+            "lista": "mods",
+            "clave": "c:527361"
+          },
+          {
+            "nombre": "Structurize",
+            "lista": "mods",
+            "clave": "c:298744"
+          },
+          {
+            "nombre": "TownTalk",
+            "lista": "mods",
+            "clave": "c:900364"
+          },
+          {
+            "nombre": "Multi-Piston",
+            "lista": "mods",
+            "clave": "c:303278"
+          },
+          {
+            "nombre": "BlockUI",
+            "lista": "mods",
+            "clave": "c:522992"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 16,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-11-06T05:11:18.139Z",
       "version": "1.0.0",
