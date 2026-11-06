@@ -397,9 +397,343 @@
       "curseforge_id": 869316,
       "version_id": "8542167",
       "version": "createdieselgenerators-1.21.1-1.3.15.jar"
+    },
+    {
+      "name": "Create: Coasters Simulated",
+      "curseforge_id": 1601871,
+      "version_id": "8655742",
+      "version": "Create: Coasters Simulated 0.1.5"
+    },
+    {
+      "name": "Create: Linear Bearing",
+      "curseforge_id": 1556708,
+      "version_id": "8181069",
+      "version": "linearbearing-1.2.6.jar"
+    },
+    {
+      "name": "Create: Trading Floor",
+      "curseforge_id": 1102591,
+      "version_id": "7625579",
+      "version": "Create: Trading Floor 3.0.16 Neoforge 1.21.1"
+    },
+    {
+      "name": "Create: Escalated",
+      "curseforge_id": 1260145,
+      "version_id": "8679269",
+      "version": "Create: Escalated v1.3.2 for NeoForge 1.21.1, Create v6.0.7+"
+    },
+    {
+      "name": "Create: Metallurgy",
+      "curseforge_id": 1007404,
+      "version_id": "8128243",
+      "version": "Create Metallurgy 1.0.3-1.21.1 for Create 6.0.10"
+    },
+    {
+      "name": "Create: Bits 'n' Bobs",
+      "curseforge_id": 1398383,
+      "version_id": "8886545",
+      "version": "Create Bits 'n' Bobs 2.3.5 NeoForge 1.21.1"
+    },
+    {
+      "name": "Create: Transmission!",
+      "curseforge_id": 1354280,
+      "version_id": "8646664",
+      "version": "createtransmission-1.2.2+neoforge-create6-1.21.1.jar"
+    },
+    {
+      "name": "Create: Vibrant Vaults",
+      "curseforge_id": 1251719,
+      "version_id": "6463890",
+      "version": "Create: Vibrant Vaults 0.3.2"
+    },
+    {
+      "name": "Create: Mobile Packages",
+      "curseforge_id": 1232978,
+      "version_id": "8502329",
+      "version": "Create: Mobile Packages 1.21.1-0.7.7"
+    },
+    {
+      "name": "Create: Aeroworks",
+      "curseforge_id": 1522473,
+      "version_id": "8743051",
+      "version": "1.5.0+mc1.21.1"
+    },
+    {
+      "name": "Create Train Parts",
+      "curseforge_id": 1294279,
+      "version_id": "8482079",
+      "version": "create_train_parts-0.5.2-1.21.1-6.0.10-281.jar"
+    },
+    {
+      "name": "Create: Lift n' Load |  Simulated/Aeronautics Addon",
+      "curseforge_id": 1517465,
+      "version_id": "8872270",
+      "version": "Lift-n-Load-1.21.1-1.1 Snapshot B"
+    },
+    {
+      "name": "Farmer's Delight",
+      "curseforge_id": 398521,
+      "version_id": "8765184",
+      "version": "Farmer's Delight 1.3.4 - 1.21.1"
+    },
+    {
+      "name": "Dramatic Doors",
+      "curseforge_id": 380617,
+      "version_id": "6479044",
+      "version": "DramaticDoors-NeoQuiFab-1.21.1-3.3.2.jar"
+    },
+    {
+      "name": "Create More: Vertical Belts",
+      "curseforge_id": 1455587
+    },
+    {
+      "name": "Create More: Parallel Pipes",
+      "curseforge_id": 1283321
+    },
+    {
+      "name": "Create: FluidLogistics",
+      "curseforge_id": 1475079,
+      "version_id": "9018465",
+      "version": "Create: FluidLogistic 1.3.1"
+    },
+    {
+      "name": "Create: Rock & Stone",
+      "curseforge_id": 1370563,
+      "version_id": "8729955",
+      "version": "create_rns-1.3.1-1.21.1-6.jar"
+    },
+    {
+      "name": "Create Propulsion: Simulated",
+      "curseforge_id": 1522736,
+      "version_id": "8496246",
+      "version": "1.1.5"
+    },
+    {
+      "name": "Create Stuff 'N Additions x Sable & Aeronautics Compat",
+      "curseforge_id": 1541139,
+      "version_id": "9000433",
+      "version": "SableStuffAdditionsCompat v1.0.4-1.21.1"
+    },
+    {
+      "name": "Kaleidoscope Tavern",
+      "curseforge_id": 1475175,
+      "version_id": "8350856",
+      "version": "kaleidoscopetavern-1.2.0-neoforge+mc1.21.1.jar"
+    },
+    {
+      "name": "Create: Gears and Tavern",
+      "curseforge_id": 1504275,
+      "version_id": "9025518",
+      "version": "Gears and Tavern-1.1.9-1.21.1.jar"
+    },
+    {
+      "name": "Trade Uses",
+      "curseforge_id": 902314
+    },
+    {
+      "name": "Just Enough Mekanism Multiblocks",
+      "curseforge_id": 898746,
+      "version_id": "9068212",
+      "version": "1.21.1-7.23"
+    },
+    {
+      "name": "MekaGenJei (Mekanism Generator addon)",
+      "curseforge_id": 1347827,
+      "version_id": "7224975",
+      "version": "1.2"
+    },
+    {
+      "name": "Fuel Goes Here",
+      "curseforge_id": 659090,
+      "version_id": "6003423",
+      "version": "fuelgoeshere-1.21.1-1.2.0.jar"
+    },
+    {
+      "name": "Let it Walk!",
+      "curseforge_id": 1780503
     }
   ],
   "changelog": [
+    {
+      "date": "2026-11-06T04:42:52.619Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+27",
+      "changes": [
+        "+ Create: Coasters Simulated",
+        "+ Create: Linear Bearing",
+        "+ Create: Trading Floor",
+        "+ Create: Escalated",
+        "+ Create: Metallurgy",
+        "+ Create: Bits 'n' Bobs",
+        "+ Create: Transmission!",
+        "+ Create: Vibrant Vaults",
+        "+ Create: Mobile Packages",
+        "+ Create: Aeroworks",
+        "+ Create Train Parts",
+        "+ Create: Lift n' Load |  Simulated/Aeronautics Addon",
+        "+ Farmer's Delight",
+        "+ Dramatic Doors",
+        "+ Create More: Vertical Belts",
+        "+ Create More: Parallel Pipes",
+        "+ Create: FluidLogistics",
+        "+ Create: Rock & Stone",
+        "+ Create Propulsion: Simulated",
+        "+ Create Stuff 'N Additions x Sable & Aeronautics Compat",
+        "+ Kaleidoscope Tavern",
+        "+ Create: Gears and Tavern",
+        "+ Trade Uses",
+        "+ Just Enough Mekanism Multiblocks",
+        "+ MekaGenJei (Mekanism Generator addon)",
+        "+ Fuel Goes Here",
+        "+ Let it Walk!"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Create: Coasters Simulated",
+            "lista": "mods",
+            "clave": "c:1601871"
+          },
+          {
+            "nombre": "Create: Linear Bearing",
+            "lista": "mods",
+            "clave": "c:1556708"
+          },
+          {
+            "nombre": "Create: Trading Floor",
+            "lista": "mods",
+            "clave": "c:1102591"
+          },
+          {
+            "nombre": "Create: Escalated",
+            "lista": "mods",
+            "clave": "c:1260145"
+          },
+          {
+            "nombre": "Create: Metallurgy",
+            "lista": "mods",
+            "clave": "c:1007404"
+          },
+          {
+            "nombre": "Create: Bits 'n' Bobs",
+            "lista": "mods",
+            "clave": "c:1398383"
+          },
+          {
+            "nombre": "Create: Transmission!",
+            "lista": "mods",
+            "clave": "c:1354280"
+          },
+          {
+            "nombre": "Create: Vibrant Vaults",
+            "lista": "mods",
+            "clave": "c:1251719"
+          },
+          {
+            "nombre": "Create: Mobile Packages",
+            "lista": "mods",
+            "clave": "c:1232978"
+          },
+          {
+            "nombre": "Create: Aeroworks",
+            "lista": "mods",
+            "clave": "c:1522473"
+          },
+          {
+            "nombre": "Create Train Parts",
+            "lista": "mods",
+            "clave": "c:1294279"
+          },
+          {
+            "nombre": "Create: Lift n' Load |  Simulated/Aeronautics Addon",
+            "lista": "mods",
+            "clave": "c:1517465"
+          },
+          {
+            "nombre": "Farmer's Delight",
+            "lista": "mods",
+            "clave": "c:398521"
+          },
+          {
+            "nombre": "Dramatic Doors",
+            "lista": "mods",
+            "clave": "c:380617"
+          },
+          {
+            "nombre": "Create More: Vertical Belts",
+            "lista": "mods",
+            "clave": "c:1455587"
+          },
+          {
+            "nombre": "Create More: Parallel Pipes",
+            "lista": "mods",
+            "clave": "c:1283321"
+          },
+          {
+            "nombre": "Create: FluidLogistics",
+            "lista": "mods",
+            "clave": "c:1475079"
+          },
+          {
+            "nombre": "Create: Rock & Stone",
+            "lista": "mods",
+            "clave": "c:1370563"
+          },
+          {
+            "nombre": "Create Propulsion: Simulated",
+            "lista": "mods",
+            "clave": "c:1522736"
+          },
+          {
+            "nombre": "Create Stuff 'N Additions x Sable & Aeronautics Compat",
+            "lista": "mods",
+            "clave": "c:1541139"
+          },
+          {
+            "nombre": "Kaleidoscope Tavern",
+            "lista": "mods",
+            "clave": "c:1475175"
+          },
+          {
+            "nombre": "Create: Gears and Tavern",
+            "lista": "mods",
+            "clave": "c:1504275"
+          },
+          {
+            "nombre": "Trade Uses",
+            "lista": "mods",
+            "clave": "c:902314"
+          },
+          {
+            "nombre": "Just Enough Mekanism Multiblocks",
+            "lista": "mods",
+            "clave": "c:898746"
+          },
+          {
+            "nombre": "MekaGenJei (Mekanism Generator addon)",
+            "lista": "mods",
+            "clave": "c:1347827"
+          },
+          {
+            "nombre": "Fuel Goes Here",
+            "lista": "mods",
+            "clave": "c:659090"
+          },
+          {
+            "nombre": "Let it Walk!",
+            "lista": "mods",
+            "clave": "c:1780503"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 27,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-11-06T04:38:36.456Z",
       "version": "1.0.0",
