@@ -939,9 +939,59 @@
       "curseforge_id": 1528435,
       "version_id": "8381166",
       "version": "kaleidoscope_bloodwine-1.1.0-neoforge1.21.1.jar"
+    },
+    {
+      "name": "Enchantment Descriptions",
+      "curseforge_id": 250419,
+      "version_id": "8693034",
+      "version": "enchdesc-neoforge-1.21.1-21.1.11.jar"
+    },
+    {
+      "name": "Bookshelf",
+      "curseforge_id": 228525
+    },
+    {
+      "name": "Prickle",
+      "curseforge_id": 1023259
     }
   ],
   "changelog": [
+    {
+      "date": "2026-11-11T03:20:53.098Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+3",
+      "changes": [
+        "+ Enchantment Descriptions",
+        "+ Bookshelf",
+        "+ Prickle"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Enchantment Descriptions",
+            "lista": "mods",
+            "clave": "c:250419"
+          },
+          {
+            "nombre": "Bookshelf",
+            "lista": "mods",
+            "clave": "c:228525"
+          },
+          {
+            "nombre": "Prickle",
+            "lista": "mods",
+            "clave": "c:1023259"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 3,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-11-11T01:41:47.009Z",
       "version": "1.0.0",
@@ -1862,30 +1912,6 @@
             "nombre": "Strut Your Stuff (Struts)",
             "lista": "mods",
             "clave": "c:1486746"
-          }
-        ],
-        "quitados": [],
-        "actualizados": [],
-        "campos": [],
-        "extras": null,
-        "cuantos": 1,
-        "hayCambios": true
-      }
-    },
-    {
-      "date": "2026-11-06T04:43:24.810Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "+1",
-      "changes": [
-        "+ Azimuth API"
-      ],
-      "cambios": {
-        "agregados": [
-          {
-            "nombre": "Azimuth API",
-            "lista": "mods",
-            "clave": "c:1466331"
           }
         ],
         "quitados": [],
