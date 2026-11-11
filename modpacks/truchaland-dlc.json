@@ -877,9 +877,109 @@
       "curseforge_id": 997634,
       "version_id": "9318519",
       "version": "Platform-neoforge-1.21.1-1.4.2.jar"
+    },
+    {
+      "name": "Handcrafted",
+      "curseforge_id": 538214,
+      "version_id": "6330030",
+      "version": "[NeoForge] Handcrafted 4.0.3"
+    },
+    {
+      "name": "MrCrayfish's Furniture Mod: Refurbished",
+      "curseforge_id": 897116,
+      "version_id": "7473565",
+      "version": "\nMrCrayfish's Furniture Mod: Refurbished 1.0.22"
+    },
+    {
+      "name": "Framework",
+      "curseforge_id": 549225
+    },
+    {
+      "name": "Create Mobile Packages addons",
+      "curseforge_id": 1589524,
+      "version_id": "8327939",
+      "version": "neoforge-1.21.1-1.0.0.jar"
+    },
+    {
+      "name": "Create: Bits 'n' Tracks",
+      "curseforge_id": 1569156,
+      "version_id": "8285379",
+      "version": "bits_n_tracks-1.0.3.1-release.jar"
+    },
+    {
+      "name": "Concurrent Chunk Management Engine",
+      "curseforge_id": 533097,
+      "version_id": "9344813",
+      "version": "0.4.0-alpha.0.124 backport devbuild for 1.21.1"
+    },
+    {
+      "name": "ScalableLux",
+      "curseforge_id": 1055925,
+      "version_id": "8662561",
+      "version": "0.3.0-alpha.0.8 devbuild for neoforge 1.21.1"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-11-11T00:54:16.216Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+7",
+      "changes": [
+        "+ Handcrafted",
+        "+ MrCrayfish's Furniture Mod: Refurbished",
+        "+ Framework",
+        "+ Create Mobile Packages addons",
+        "+ Create: Bits 'n' Tracks",
+        "+ Concurrent Chunk Management Engine",
+        "+ ScalableLux"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Handcrafted",
+            "lista": "mods",
+            "clave": "c:538214"
+          },
+          {
+            "nombre": "MrCrayfish's Furniture Mod: Refurbished",
+            "lista": "mods",
+            "clave": "c:897116"
+          },
+          {
+            "nombre": "Framework",
+            "lista": "mods",
+            "clave": "c:549225"
+          },
+          {
+            "nombre": "Create Mobile Packages addons",
+            "lista": "mods",
+            "clave": "c:1589524"
+          },
+          {
+            "nombre": "Create: Bits 'n' Tracks",
+            "lista": "mods",
+            "clave": "c:1569156"
+          },
+          {
+            "nombre": "Concurrent Chunk Management Engine",
+            "lista": "mods",
+            "clave": "c:533097"
+          },
+          {
+            "nombre": "ScalableLux",
+            "lista": "mods",
+            "clave": "c:1055925"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 7,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-11-06T05:50:16.682Z",
       "version": "1.0.0",
