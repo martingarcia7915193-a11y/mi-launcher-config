@@ -911,15 +911,33 @@
       "curseforge_id": 583228,
       "version_id": "7965880",
       "version": "SimpleBackups-1.21-4.0.30.jar"
-    },
-    {
-      "name": "Create: The Factory Must Grow",
-      "curseforge_id": 693815,
-      "version_id": "8205648",
-      "version": "tfmg-1.2.2-1.21.1"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-11-11T01:08:35.627Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "−1",
+      "changes": [
+        "− Create: The Factory Must Grow"
+      ],
+      "cambios": {
+        "agregados": [],
+        "quitados": [
+          {
+            "nombre": "Create: The Factory Must Grow",
+            "lista": "mods",
+            "clave": "c:693815"
+          }
+        ],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-11-11T01:05:43.563Z",
       "version": "1.0.0",
