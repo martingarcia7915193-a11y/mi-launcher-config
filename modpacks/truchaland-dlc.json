@@ -905,9 +905,63 @@
       "curseforge_id": 533097,
       "version_id": "9344813",
       "version": "0.4.0-alpha.0.124 backport devbuild for 1.21.1"
+    },
+    {
+      "name": "Simple Backups",
+      "curseforge_id": 583228,
+      "version_id": "7965880",
+      "version": "SimpleBackups-1.21-4.0.30.jar"
+    },
+    {
+      "name": "Create: The Factory Must Grow",
+      "curseforge_id": 693815,
+      "version_id": "8205648",
+      "version": "tfmg-1.2.2-1.21.1"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-11-11T01:05:43.563Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+4",
+      "changes": [
+        "+ Simple Backups",
+        "+ Create: The Factory Must Grow",
+        "+ Tom's Create Style",
+        "+ Tom's Create Style Recipes"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Simple Backups",
+            "lista": "mods",
+            "clave": "c:583228"
+          },
+          {
+            "nombre": "Create: The Factory Must Grow",
+            "lista": "mods",
+            "clave": "c:693815"
+          },
+          {
+            "nombre": "Tom's Create Style",
+            "lista": "resourcepacks",
+            "clave": "c:1265683"
+          },
+          {
+            "nombre": "Tom's Create Style Recipes",
+            "lista": "datapacks",
+            "clave": "c:1266888"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 4,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-11-11T00:56:13.630Z",
       "version": "1.0.0",
@@ -2302,6 +2356,20 @@
       "curseforge_id": 1455778,
       "version_id": "7586038",
       "version": "no_dnd_diamond_1.21.zip"
+    },
+    {
+      "name": "Tom's Create Style Recipes",
+      "curseforge_id": 1266888,
+      "version_id": "6852972",
+      "version": "Tom's Create Style Recipes 1.0 - 1.21.zip"
+    }
+  ],
+  "resourcepacks": [
+    {
+      "name": "Tom's Create Style",
+      "curseforge_id": 1265683,
+      "version_id": "6605498",
+      "version": "Tom's Create Style 1.2 - 1.21.zip"
     }
   ]
 }
