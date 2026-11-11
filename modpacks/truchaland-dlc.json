@@ -911,9 +911,49 @@
       "curseforge_id": 583228,
       "version_id": "7965880",
       "version": "SimpleBackups-1.21-4.0.30.jar"
+    },
+    {
+      "name": "Paxi",
+      "modrinth_id": "CU0PAyzb",
+      "version_id": "CLZfFbCx",
+      "version": "1.21.1-NeoForge-5.1.3"
+    },
+    {
+      "name": "YUNG's API",
+      "modrinth_id": "Ua7DFN59"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-11-11T01:18:50.041Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+2",
+      "changes": [
+        "+ Paxi",
+        "+ YUNG's API"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Paxi",
+            "lista": "mods",
+            "clave": "m:CU0PAyzb"
+          },
+          {
+            "nombre": "YUNG's API",
+            "lista": "mods",
+            "clave": "m:Ua7DFN59"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 2,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-11-11T01:08:35.627Z",
       "version": "1.0.0",
