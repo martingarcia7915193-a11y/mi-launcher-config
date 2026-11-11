@@ -921,15 +921,33 @@
       "curseforge_id": 531834,
       "version_id": "8063074",
       "version": "create-confectionery1.21.1_v1.1.3b.jar"
-    },
-    {
-      "name": "Create: Central Kitchen",
-      "curseforge_id": 820977,
-      "version_id": "9104646",
-      "version": "Create: Central Kitchen 2.6.2b for Create 1.21.1-6.0.10"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-11-11T01:40:54.458Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "−1",
+      "changes": [
+        "− Create: Central Kitchen"
+      ],
+      "cambios": {
+        "agregados": [],
+        "quitados": [
+          {
+            "nombre": "Create: Central Kitchen",
+            "lista": "mods",
+            "clave": "c:820977"
+          }
+        ],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-11-11T01:39:41.890Z",
       "version": "1.0.0",
@@ -2001,120 +2019,6 @@
         "campos": [],
         "extras": null,
         "cuantos": 27,
-        "hayCambios": true
-      }
-    },
-    {
-      "date": "2026-11-06T04:38:36.456Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "+16",
-      "changes": [
-        "+ Create Crafts & Additions",
-        "+ Create: Copycats+",
-        "+ Create Stuff 'N Additions",
-        "+ Arkadia: Tank Curios",
-        "+ Rechiseled: Create",
-        "+ Rechiseled",
-        "+ Fusion (Connected Textures)",
-        "+ Chipped",
-        "+ Resourceful Lib",
-        "+ Athena",
-        "+ Rechiseled: Chipped",
-        "+ Create: Hypertubes",
-        "+ Create: Connected",
-        "+ OpenBlocks Elevator",
-        "+ Create: Interiors",
-        "+ Create: Diesel Generators"
-      ],
-      "cambios": {
-        "agregados": [
-          {
-            "nombre": "Create Crafts & Additions",
-            "lista": "mods",
-            "clave": "c:439890"
-          },
-          {
-            "nombre": "Create: Copycats+",
-            "lista": "mods",
-            "clave": "c:968398"
-          },
-          {
-            "nombre": "Create Stuff 'N Additions",
-            "lista": "mods",
-            "clave": "c:466792"
-          },
-          {
-            "nombre": "Arkadia: Tank Curios",
-            "lista": "mods",
-            "clave": "a:arkadia_tanques"
-          },
-          {
-            "nombre": "Rechiseled: Create",
-            "lista": "mods",
-            "clave": "c:888624"
-          },
-          {
-            "nombre": "Rechiseled",
-            "lista": "mods",
-            "clave": "c:558998"
-          },
-          {
-            "nombre": "Fusion (Connected Textures)",
-            "lista": "mods",
-            "clave": "c:854949"
-          },
-          {
-            "nombre": "Chipped",
-            "lista": "mods",
-            "clave": "c:456956"
-          },
-          {
-            "nombre": "Resourceful Lib",
-            "lista": "mods",
-            "clave": "c:570073"
-          },
-          {
-            "nombre": "Athena",
-            "lista": "mods",
-            "clave": "c:841890"
-          },
-          {
-            "nombre": "Rechiseled: Chipped",
-            "lista": "mods",
-            "clave": "c:1007578"
-          },
-          {
-            "nombre": "Create: Hypertubes",
-            "lista": "mods",
-            "clave": "c:1281336"
-          },
-          {
-            "nombre": "Create: Connected",
-            "lista": "mods",
-            "clave": "c:947914"
-          },
-          {
-            "nombre": "OpenBlocks Elevator",
-            "lista": "mods",
-            "clave": "c:250832"
-          },
-          {
-            "nombre": "Create: Interiors",
-            "lista": "mods",
-            "clave": "c:906239"
-          },
-          {
-            "nombre": "Create: Diesel Generators",
-            "lista": "mods",
-            "clave": "c:869316"
-          }
-        ],
-        "quitados": [],
-        "actualizados": [],
-        "campos": [],
-        "extras": null,
-        "cuantos": 16,
         "hayCambios": true
       }
     }
