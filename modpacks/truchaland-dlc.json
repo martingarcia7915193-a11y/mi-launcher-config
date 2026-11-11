@@ -911,15 +911,33 @@
       "curseforge_id": 533097,
       "version_id": "9344813",
       "version": "0.4.0-alpha.0.124 backport devbuild for 1.21.1"
-    },
-    {
-      "name": "ScalableLux",
-      "curseforge_id": 1055925,
-      "version_id": "8662561",
-      "version": "0.3.0-alpha.0.8 devbuild for neoforge 1.21.1"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-11-11T00:55:22.945Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "−1",
+      "changes": [
+        "− ScalableLux"
+      ],
+      "cambios": {
+        "agregados": [],
+        "quitados": [
+          {
+            "nombre": "ScalableLux",
+            "lista": "mods",
+            "clave": "c:1055925"
+          }
+        ],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-11-11T00:54:16.216Z",
       "version": "1.0.0",
