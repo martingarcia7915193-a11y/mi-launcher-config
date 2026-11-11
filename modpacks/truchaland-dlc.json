@@ -965,9 +965,63 @@
       "curseforge_id": 1466643,
       "version_id": "8878545",
       "version": "create_colony_logistics-1.3.3.jar"
+    },
+    {
+      "name": "Explorify – Dungeons & Structures",
+      "curseforge_id": 698309,
+      "version_id": "9509145",
+      "version": "v1.6.6"
+    },
+    {
+      "name": "When Dungeons Arise - Forge!",
+      "curseforge_id": 442508,
+      "version_id": "7150870",
+      "version": "DungeonsArise-1.21.1-2.1.68-release.jar"
+    },
+    {
+      "name": "Dungeon Crawl",
+      "curseforge_id": 324973,
+      "version_id": "7887320",
+      "version": "mc1.21.1-2.3.17"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-11-11T03:50:21.374Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+3",
+      "changes": [
+        "+ Explorify – Dungeons & Structures",
+        "+ When Dungeons Arise - Forge!",
+        "+ Dungeon Crawl"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Explorify – Dungeons & Structures",
+            "lista": "mods",
+            "clave": "c:698309"
+          },
+          {
+            "nombre": "When Dungeons Arise - Forge!",
+            "lista": "mods",
+            "clave": "c:442508"
+          },
+          {
+            "nombre": "Dungeon Crawl",
+            "lista": "mods",
+            "clave": "c:324973"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 3,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-11-11T03:30:51.285Z",
       "version": "1.0.0",
@@ -1702,241 +1756,6 @@
         "campos": [],
         "extras": null,
         "cuantos": 2,
-        "hayCambios": true
-      }
-    },
-    {
-      "date": "2026-11-06T05:09:19.116Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "+35 · −1",
-      "changes": [
-        "+ Create: Smither",
-        "+ Paragliders",
-        "+ Elytra Trims",
-        "+ Kotlin for Forge",
-        "+ Elytra Slot",
-        "+ Caelus API",
-        "+ Functional Armor Trim",
-        "+ Create: Bells & Whistles",
-        "+ Create: Aquatic Ambitions",
-        "+ Create: Design n' Decor",
-        "+ Create: Pattern Schematics",
-        "+ Create: Dreams n' Desires",
-        "+ Create: Oxidized",
-        "+ Create Contraption Terminals",
-        "+ Tom's Simple Storage Mod",
-        "+ Create Stock Bridge",
-        "+ Applied Energistics 2",
-        "+ GuideME",
-        "+ Joy of Painting",
-        "+ Immersive Paintings",
-        "+ Fzzy Config",
-        "+ Sons Of Sins",
-        "+ Create Nuclear",
-        "+ Petrol's Parts (Create add-on)",
-        "+ Petrolpark Library",
-        "+ Create: Extra Gauges",
-        "+ Create: Deployer API",
-        "+ Create: Fishery Industry",
-        "+ Create Aeronautics: Transmission & Linkage",
-        "+ Create Aeronautics: Kinetic Grip",
-        "+ Create Aeronautics: Mekanism Compatibility",
-        "+ Create: Drill Drain",
-        "+ Copycats+ aeronautics weight",
-        "+ Create: Petrochem",
-        "+ Create: Create: Dreams n' Desires - No Diamond Recipes",
-        "− Create: Diesel Generators"
-      ],
-      "cambios": {
-        "agregados": [
-          {
-            "nombre": "Create: Smither",
-            "lista": "mods",
-            "clave": "c:1731525"
-          },
-          {
-            "nombre": "Paragliders",
-            "lista": "mods",
-            "clave": "c:289240"
-          },
-          {
-            "nombre": "Elytra Trims",
-            "lista": "mods",
-            "clave": "c:876199"
-          },
-          {
-            "nombre": "Kotlin for Forge",
-            "lista": "mods",
-            "clave": "c:351264"
-          },
-          {
-            "nombre": "Elytra Slot",
-            "lista": "mods",
-            "clave": "c:317716"
-          },
-          {
-            "nombre": "Caelus API",
-            "lista": "mods",
-            "clave": "c:308989"
-          },
-          {
-            "nombre": "Functional Armor Trim",
-            "lista": "mods",
-            "clave": "c:838212"
-          },
-          {
-            "nombre": "Create: Bells & Whistles",
-            "lista": "mods",
-            "clave": "c:905040"
-          },
-          {
-            "nombre": "Create: Aquatic Ambitions",
-            "lista": "mods",
-            "clave": "c:1005676"
-          },
-          {
-            "nombre": "Create: Design n' Decor",
-            "lista": "mods",
-            "clave": "c:923238"
-          },
-          {
-            "nombre": "Create: Pattern Schematics",
-            "lista": "mods",
-            "clave": "c:1072349"
-          },
-          {
-            "nombre": "Create: Dreams n' Desires",
-            "lista": "mods",
-            "clave": "c:864781"
-          },
-          {
-            "nombre": "Create: Oxidized",
-            "lista": "mods",
-            "clave": "c:953729"
-          },
-          {
-            "nombre": "Create Contraption Terminals",
-            "lista": "mods",
-            "clave": "c:1059879"
-          },
-          {
-            "nombre": "Tom's Simple Storage Mod",
-            "lista": "mods",
-            "clave": "c:378609"
-          },
-          {
-            "nombre": "Create Stock Bridge",
-            "lista": "mods",
-            "clave": "c:1256341"
-          },
-          {
-            "nombre": "Applied Energistics 2",
-            "lista": "mods",
-            "clave": "c:223794"
-          },
-          {
-            "nombre": "GuideME",
-            "lista": "mods",
-            "clave": "c:1173950"
-          },
-          {
-            "nombre": "Joy of Painting",
-            "lista": "mods",
-            "clave": "c:350727"
-          },
-          {
-            "nombre": "Immersive Paintings",
-            "lista": "mods",
-            "clave": "c:639584"
-          },
-          {
-            "nombre": "Fzzy Config",
-            "lista": "mods",
-            "clave": "c:1005914"
-          },
-          {
-            "nombre": "Sons Of Sins",
-            "lista": "mods",
-            "clave": "c:538529"
-          },
-          {
-            "nombre": "Create Nuclear",
-            "lista": "mods",
-            "clave": "c:989797"
-          },
-          {
-            "nombre": "Petrol's Parts (Create add-on)",
-            "lista": "mods",
-            "clave": "c:1093607"
-          },
-          {
-            "nombre": "Petrolpark Library",
-            "lista": "mods",
-            "clave": "c:1093595"
-          },
-          {
-            "nombre": "Create: Extra Gauges",
-            "lista": "mods",
-            "clave": "c:1263228"
-          },
-          {
-            "nombre": "Create: Deployer API",
-            "lista": "mods",
-            "clave": "c:1516421"
-          },
-          {
-            "nombre": "Create: Fishery Industry",
-            "lista": "mods",
-            "clave": "c:1245539"
-          },
-          {
-            "nombre": "Create Aeronautics: Transmission & Linkage",
-            "lista": "mods",
-            "clave": "c:1548056"
-          },
-          {
-            "nombre": "Create Aeronautics: Kinetic Grip",
-            "lista": "mods",
-            "clave": "c:1523676"
-          },
-          {
-            "nombre": "Create Aeronautics: Mekanism Compatibility",
-            "lista": "mods",
-            "clave": "c:1536749"
-          },
-          {
-            "nombre": "Create: Drill Drain",
-            "lista": "mods",
-            "clave": "c:1281927"
-          },
-          {
-            "nombre": "Copycats+ aeronautics weight",
-            "lista": "mods",
-            "clave": "c:1520961"
-          },
-          {
-            "nombre": "Create: Petrochem",
-            "lista": "mods",
-            "clave": "c:1494004"
-          },
-          {
-            "nombre": "Create: Create: Dreams n' Desires - No Diamond Recipes",
-            "lista": "datapacks",
-            "clave": "c:1455778"
-          }
-        ],
-        "quitados": [
-          {
-            "nombre": "Create: Diesel Generators",
-            "lista": "mods",
-            "clave": "c:869316"
-          }
-        ],
-        "actualizados": [],
-        "campos": [],
-        "extras": null,
-        "cuantos": 36,
         "hayCambios": true
       }
     }
