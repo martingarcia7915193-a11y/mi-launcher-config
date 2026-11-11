@@ -915,9 +915,51 @@
     {
       "name": "YUNG's API",
       "modrinth_id": "Ua7DFN59"
+    },
+    {
+      "name": "Create Confectionery",
+      "curseforge_id": 531834,
+      "version_id": "8063074",
+      "version": "create-confectionery1.21.1_v1.1.3b.jar"
+    },
+    {
+      "name": "Create: Central Kitchen",
+      "curseforge_id": 820977,
+      "version_id": "9104646",
+      "version": "Create: Central Kitchen 2.6.2b for Create 1.21.1-6.0.10"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-11-11T01:39:41.890Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+2",
+      "changes": [
+        "+ Create Confectionery",
+        "+ Create: Central Kitchen"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Create Confectionery",
+            "lista": "mods",
+            "clave": "c:531834"
+          },
+          {
+            "nombre": "Create: Central Kitchen",
+            "lista": "mods",
+            "clave": "c:820977"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 2,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-11-11T01:25:38.474Z",
       "version": "1.0.0",
@@ -2073,354 +2115,6 @@
         "campos": [],
         "extras": null,
         "cuantos": 16,
-        "hayCambios": true
-      }
-    },
-    {
-      "date": "2026-11-06T04:30:14.063Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "+55",
-      "changes": [
-        "+ Sodium",
-        "+ (Sodium) Chloride",
-        "+ Just Enough Items (JEI)",
-        "+ MezzConfig",
-        "+ Controlling",
-        "+ Searchables",
-        "+ Configured",
-        "+ AppleSkin",
-        "+ Mouse Tweaks",
-        "+ Clumps",
-        "+ Xaero's World Map",
-        "+ Xaero's Minimap",
-        "+ Jade 🔍",
-        "+ Nature's Compass",
-        "+ Create",
-        "+ Create Aeronautics",
-        "+ Sable",
-        "+ MCA Reborn [Fabric/Forge]",
-        "+ Connectivity",
-        "+ Cupboard",
-        "+ Trade Cycling",
-        "+ Lithium (Fabric/NeoForge)",
-        "+ FTB Library (NeoForge)",
-        "+ Architectury API",
-        "+ FTB Quests (NeoForge)",
-        "+ FTB Teams (NeoForge)",
-        "+ FTB Essentials (Forge & Fabric)",
-        "+ Mekanism",
-        "+ Mekanism Generators",
-        "+ Mekanism Tools",
-        "+ Sophisticated Backpacks",
-        "+ Sophisticated Core",
-        "+ Sophisticated Storage",
-        "+ Sophisticated Storage Create Integration",
-        "+ Sophisticated Backpacks Create Integration",
-        "+ Sophisticated JEI Index",
-        "+ Trash Cans",
-        "+ SuperMartijn642's Config Lib",
-        "+ SuperMartijn642's Core Lib",
-        "+ FramedBlocks",
-        "+ Steam 'n' Rails Neoforge",
-        "+ Mod Name Tooltip",
-        "+ Terralith",
-        "+ Lithostitched",
-        "+ Forbidden and Arcanus",
-        "+ Valhelsia Core",
-        "+ Jade Addons (Neo/Forge)",
-        "+ Relics",
-        "+ ShatterLib | OctoLib",
-        "+ Curios API",
-        "+ Artifacts",
-        "+ Reliquified Artifacts",
-        "+ Create: Enchantment Industry",
-        "+ Create: Dragons Plus",
-        "+ Construction Wands Revived"
-      ],
-      "cambios": {
-        "agregados": [
-          {
-            "nombre": "Sodium",
-            "lista": "mods",
-            "clave": "c:394468"
-          },
-          {
-            "nombre": "(Sodium) Chloride",
-            "lista": "mods",
-            "clave": "c:931925"
-          },
-          {
-            "nombre": "Just Enough Items (JEI)",
-            "lista": "mods",
-            "clave": "c:238222"
-          },
-          {
-            "nombre": "MezzConfig",
-            "lista": "mods",
-            "clave": "c:1689768"
-          },
-          {
-            "nombre": "Controlling",
-            "lista": "mods",
-            "clave": "c:250398"
-          },
-          {
-            "nombre": "Searchables",
-            "lista": "mods",
-            "clave": "c:858542"
-          },
-          {
-            "nombre": "Configured",
-            "lista": "mods",
-            "clave": "c:457570"
-          },
-          {
-            "nombre": "AppleSkin",
-            "lista": "mods",
-            "clave": "c:248787"
-          },
-          {
-            "nombre": "Mouse Tweaks",
-            "lista": "mods",
-            "clave": "c:60089"
-          },
-          {
-            "nombre": "Clumps",
-            "lista": "mods",
-            "clave": "c:256717"
-          },
-          {
-            "nombre": "Xaero's World Map",
-            "lista": "mods",
-            "clave": "c:317780"
-          },
-          {
-            "nombre": "Xaero's Minimap",
-            "lista": "mods",
-            "clave": "c:263420"
-          },
-          {
-            "nombre": "Jade 🔍",
-            "lista": "mods",
-            "clave": "c:324717"
-          },
-          {
-            "nombre": "Nature's Compass",
-            "lista": "mods",
-            "clave": "c:252848"
-          },
-          {
-            "nombre": "Create",
-            "lista": "mods",
-            "clave": "c:328085"
-          },
-          {
-            "nombre": "Create Aeronautics",
-            "lista": "mods",
-            "clave": "c:676721"
-          },
-          {
-            "nombre": "Sable",
-            "lista": "mods",
-            "clave": "c:1312371"
-          },
-          {
-            "nombre": "MCA Reborn [Fabric/Forge]",
-            "lista": "mods",
-            "clave": "c:535291"
-          },
-          {
-            "nombre": "Connectivity",
-            "lista": "mods",
-            "clave": "c:470193"
-          },
-          {
-            "nombre": "Cupboard",
-            "lista": "mods",
-            "clave": "c:326652"
-          },
-          {
-            "nombre": "Trade Cycling",
-            "lista": "mods",
-            "clave": "c:570431"
-          },
-          {
-            "nombre": "Lithium (Fabric/NeoForge)",
-            "lista": "mods",
-            "clave": "c:360438"
-          },
-          {
-            "nombre": "FTB Library (NeoForge)",
-            "lista": "mods",
-            "clave": "c:404465"
-          },
-          {
-            "nombre": "Architectury API",
-            "lista": "mods",
-            "clave": "c:419699"
-          },
-          {
-            "nombre": "FTB Quests (NeoForge)",
-            "lista": "mods",
-            "clave": "c:289412"
-          },
-          {
-            "nombre": "FTB Teams (NeoForge)",
-            "lista": "mods",
-            "clave": "c:404468"
-          },
-          {
-            "nombre": "FTB Essentials (Forge & Fabric)",
-            "lista": "mods",
-            "clave": "c:410811"
-          },
-          {
-            "nombre": "Mekanism",
-            "lista": "mods",
-            "clave": "c:268560"
-          },
-          {
-            "nombre": "Mekanism Generators",
-            "lista": "mods",
-            "clave": "c:268566"
-          },
-          {
-            "nombre": "Mekanism Tools",
-            "lista": "mods",
-            "clave": "c:268567"
-          },
-          {
-            "nombre": "Sophisticated Backpacks",
-            "lista": "mods",
-            "clave": "c:422301"
-          },
-          {
-            "nombre": "Sophisticated Core",
-            "lista": "mods",
-            "clave": "c:618298"
-          },
-          {
-            "nombre": "Sophisticated Storage",
-            "lista": "mods",
-            "clave": "c:619320"
-          },
-          {
-            "nombre": "Sophisticated Storage Create Integration",
-            "lista": "mods",
-            "clave": "c:1226755"
-          },
-          {
-            "nombre": "Sophisticated Backpacks Create Integration",
-            "lista": "mods",
-            "clave": "c:1238567"
-          },
-          {
-            "nombre": "Sophisticated JEI Index",
-            "lista": "mods",
-            "clave": "c:1482785"
-          },
-          {
-            "nombre": "Trash Cans",
-            "lista": "mods",
-            "clave": "c:394535"
-          },
-          {
-            "nombre": "SuperMartijn642's Config Lib",
-            "lista": "mods",
-            "clave": "c:438332"
-          },
-          {
-            "nombre": "SuperMartijn642's Core Lib",
-            "lista": "mods",
-            "clave": "c:454372"
-          },
-          {
-            "nombre": "FramedBlocks",
-            "lista": "mods",
-            "clave": "c:441647"
-          },
-          {
-            "nombre": "Steam 'n' Rails Neoforge",
-            "lista": "mods",
-            "clave": "c:1414670"
-          },
-          {
-            "nombre": "Mod Name Tooltip",
-            "lista": "mods",
-            "clave": "c:238747"
-          },
-          {
-            "nombre": "Terralith",
-            "lista": "mods",
-            "clave": "c:513688"
-          },
-          {
-            "nombre": "Lithostitched",
-            "lista": "mods",
-            "clave": "c:936015"
-          },
-          {
-            "nombre": "Forbidden and Arcanus",
-            "lista": "mods",
-            "clave": "c:309858"
-          },
-          {
-            "nombre": "Valhelsia Core",
-            "lista": "mods",
-            "clave": "c:416935"
-          },
-          {
-            "nombre": "Jade Addons (Neo/Forge)",
-            "lista": "mods",
-            "clave": "c:583345"
-          },
-          {
-            "nombre": "Relics",
-            "lista": "mods",
-            "clave": "c:445274"
-          },
-          {
-            "nombre": "ShatterLib | OctoLib",
-            "lista": "mods",
-            "clave": "c:916747"
-          },
-          {
-            "nombre": "Curios API",
-            "lista": "mods",
-            "clave": "c:309927"
-          },
-          {
-            "nombre": "Artifacts",
-            "lista": "mods",
-            "clave": "c:312353"
-          },
-          {
-            "nombre": "Reliquified Artifacts",
-            "lista": "mods",
-            "clave": "c:1100379"
-          },
-          {
-            "nombre": "Create: Enchantment Industry",
-            "lista": "mods",
-            "clave": "c:688768"
-          },
-          {
-            "nombre": "Create: Dragons Plus",
-            "lista": "mods",
-            "clave": "c:1216624"
-          },
-          {
-            "nombre": "Construction Wands Revived",
-            "lista": "mods",
-            "clave": "c:1395288"
-          }
-        ],
-        "quitados": [],
-        "actualizados": [],
-        "campos": [],
-        "extras": null,
-        "cuantos": 55,
         "hayCambios": true
       }
     }
