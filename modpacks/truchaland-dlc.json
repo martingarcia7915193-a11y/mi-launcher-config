@@ -901,12 +901,6 @@
       "version": "neoforge-1.21.1-1.0.0.jar"
     },
     {
-      "name": "Create: Bits 'n' Tracks",
-      "curseforge_id": 1569156,
-      "version_id": "8285379",
-      "version": "bits_n_tracks-1.0.3.1-release.jar"
-    },
-    {
       "name": "Concurrent Chunk Management Engine",
       "curseforge_id": 533097,
       "version_id": "9344813",
@@ -914,6 +908,30 @@
     }
   ],
   "changelog": [
+    {
+      "date": "2026-11-11T00:56:13.630Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "−1",
+      "changes": [
+        "− Create: Bits 'n' Tracks"
+      ],
+      "cambios": {
+        "agregados": [],
+        "quitados": [
+          {
+            "nombre": "Create: Bits 'n' Tracks",
+            "lista": "mods",
+            "clave": "c:1569156"
+          }
+        ],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-11-11T00:55:22.945Z",
       "version": "1.0.0",
