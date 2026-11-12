@@ -1057,9 +1057,39 @@
       "curseforge_id": 361276,
       "version_id": "8968561",
       "version": "lootr-neoforge-1.21.1-1.11.38.127"
+    },
+    {
+      "name": "Comforts",
+      "curseforge_id": 276951,
+      "version_id": "7515858",
+      "version": "comforts-neoforge-9.0.5+1.21.1.jar"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-11-12T05:06:16.682Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+1",
+      "changes": [
+        "+ Comforts"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Comforts",
+            "lista": "mods",
+            "clave": "c:276951"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-11-12T04:38:56.670Z",
       "version": "1.0.0",
@@ -1978,30 +2008,6 @@
           }
         ],
         "quitados": [],
-        "actualizados": [],
-        "campos": [],
-        "extras": null,
-        "cuantos": 1,
-        "hayCambios": true
-      }
-    },
-    {
-      "date": "2026-11-06T05:41:14.524Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "−1",
-      "changes": [
-        "− Van Backport Compat"
-      ],
-      "cambios": {
-        "agregados": [],
-        "quitados": [
-          {
-            "nombre": "Van Backport Compat",
-            "lista": "mods",
-            "clave": "c:1388531"
-          }
-        ],
         "actualizados": [],
         "campos": [],
         "extras": null,
