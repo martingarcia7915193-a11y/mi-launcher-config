@@ -983,9 +983,39 @@
       "curseforge_id": 324973,
       "version_id": "7887320",
       "version": "mc1.21.1-2.3.17"
+    },
+    {
+      "name": "Create: Loconautics",
+      "curseforge_id": 1793084,
+      "version_id": "9545733",
+      "version": "loconautics-0.1.1BETA.jar"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-11-12T01:43:26.399Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+1",
+      "changes": [
+        "+ Create: Loconautics"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Create: Loconautics",
+            "lista": "mods",
+            "clave": "c:1793084"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-11-11T03:50:21.374Z",
       "version": "1.0.0",
@@ -1723,36 +1753,6 @@
             "aId": "8829744"
           }
         ],
-        "campos": [],
-        "extras": null,
-        "cuantos": 2,
-        "hayCambios": true
-      }
-    },
-    {
-      "date": "2026-11-06T05:09:37.419Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "−2",
-      "changes": [
-        "− Applied Energistics 2",
-        "− GuideME"
-      ],
-      "cambios": {
-        "agregados": [],
-        "quitados": [
-          {
-            "nombre": "Applied Energistics 2",
-            "lista": "mods",
-            "clave": "c:223794"
-          },
-          {
-            "nombre": "GuideME",
-            "lista": "mods",
-            "clave": "c:1173950"
-          }
-        ],
-        "actualizados": [],
         "campos": [],
         "extras": null,
         "cuantos": 2,
