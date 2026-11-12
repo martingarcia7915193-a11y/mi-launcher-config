@@ -27,7 +27,9 @@
     },
     {
       "name": "MezzConfig",
-      "curseforge_id": 1689768
+      "curseforge_id": 1689768,
+      "version_id": "9527937",
+      "version": "MezzConfig 0.7.1 for NeoForge 1.21.1"
     },
     {
       "name": "Controlling",
@@ -37,7 +39,9 @@
     },
     {
       "name": "Searchables",
-      "curseforge_id": 858542
+      "curseforge_id": 858542,
+      "version_id": "5831692",
+      "version": "Searchables-neoforge-1.21.1-1.0.2.jar"
     },
     {
       "name": "Configured",
@@ -101,7 +105,9 @@
     },
     {
       "name": "Sable",
-      "curseforge_id": 1312371
+      "curseforge_id": 1312371,
+      "version_id": "9043865",
+      "version": "Sable NeoForge 2.0.6 for mc1.21.1"
     },
     {
       "name": "MCA Reborn [Fabric/Forge]",
@@ -117,7 +123,9 @@
     },
     {
       "name": "Cupboard",
-      "curseforge_id": 326652
+      "curseforge_id": 326652,
+      "version_id": "8889050",
+      "version": "cupboard-1.21.1-4.2.jar"
     },
     {
       "name": "Trade Cycling",
@@ -138,7 +146,9 @@
     },
     {
       "name": "Architectury API",
-      "curseforge_id": 419699
+      "curseforge_id": 419699,
+      "version_id": "8492726",
+      "version": "[NeoForge 1.21] v13.0.11"
     },
     {
       "name": "FTB Quests (NeoForge)",
@@ -148,7 +158,9 @@
     },
     {
       "name": "FTB Teams (NeoForge)",
-      "curseforge_id": 404468
+      "curseforge_id": 404468,
+      "version_id": "9434081",
+      "version": "[NEOFORGE][1.21.1] FTB Teams 2101.1.12"
     },
     {
       "name": "FTB Essentials (Forge & Fabric)",
@@ -175,7 +187,9 @@
     },
     {
       "name": "Sophisticated Core",
-      "curseforge_id": 618298
+      "curseforge_id": 618298,
+      "version_id": "9555037",
+      "version": "sophisticatedcore-1.21.1-1.5.33.2470.jar"
     },
     {
       "name": "Sophisticated Storage",
@@ -209,11 +223,15 @@
     },
     {
       "name": "SuperMartijn642's Config Lib",
-      "curseforge_id": 438332
+      "curseforge_id": 438332,
+      "version_id": "5546996",
+      "version": "SuperMartijn642's Config Library 1.1.8 for NeoForge 1.21"
     },
     {
       "name": "SuperMartijn642's Core Lib",
-      "curseforge_id": 454372
+      "curseforge_id": 454372,
+      "version_id": "9447150",
+      "version": "SuperMartijn642's Core Lib 1.1.26a for NeoForge 1.21"
     },
     {
       "name": "FramedBlocks",
@@ -241,7 +259,9 @@
     },
     {
       "name": "Valhelsia Core",
-      "curseforge_id": 416935
+      "curseforge_id": 416935,
+      "version_id": "6296775",
+      "version": "[NeoForge] Valhelsia Core - 1.1.5"
     },
     {
       "name": "Jade Addons (Neo/Forge)",
@@ -257,11 +277,15 @@
     },
     {
       "name": "ShatterLib | OctoLib",
-      "curseforge_id": 916747
+      "curseforge_id": 916747,
+      "version_id": "9478818",
+      "version": "OctoLib-NEOFORGE-0.6.3+1.21.jar"
     },
     {
       "name": "Curios API",
-      "curseforge_id": 309927
+      "curseforge_id": 309927,
+      "version_id": "6529130",
+      "version": "curios-neoforge-9.5.1+1.21.1.jar"
     },
     {
       "name": "Artifacts",
@@ -283,7 +307,9 @@
     },
     {
       "name": "Create: Dragons Plus",
-      "curseforge_id": 1216624
+      "curseforge_id": 1216624,
+      "version_id": "8900055",
+      "version": "Create: Dragons Plus 1.11.9 for Create 1.21.1-6.0.10"
     },
     {
       "name": "Construction Wands Revived",
@@ -327,11 +353,15 @@
     },
     {
       "name": "Rechiseled",
-      "curseforge_id": 558998
+      "curseforge_id": 558998,
+      "version_id": "8875899",
+      "version": "Rechiseled 1.2.6 for NeoForge 1.21"
     },
     {
       "name": "Fusion (Connected Textures)",
-      "curseforge_id": 854949
+      "curseforge_id": 854949,
+      "version_id": "9070353",
+      "version": "Fusion 1.3.16 for NeoForge 1.21.1"
     },
     {
       "name": "Chipped",
@@ -340,11 +370,15 @@
     },
     {
       "name": "Resourceful Lib",
-      "curseforge_id": 570073
+      "curseforge_id": 570073,
+      "version_id": "5973188",
+      "version": "[NeoForge] Resourceful Lib 3.0.12"
     },
     {
       "name": "Athena",
-      "curseforge_id": 841890
+      "curseforge_id": 841890,
+      "version_id": "8061947",
+      "version": "[NeoForge] Athena 4.0.6"
     },
     {
       "name": "Rechiseled: Chipped",
@@ -462,11 +496,15 @@
     },
     {
       "name": "Create More: Vertical Belts",
-      "curseforge_id": 1455587
+      "curseforge_id": 1455587,
+      "version_id": "7584940",
+      "version": "cmverticaladditions-neoforge-1.0.0.jar"
     },
     {
       "name": "Create More: Parallel Pipes",
-      "curseforge_id": 1283321
+      "curseforge_id": 1283321,
+      "version_id": "7377910",
+      "version": "cmparallelpipes-neoforge-2.0.2.jar"
     },
     {
       "name": "Create: FluidLogistics",
@@ -506,7 +544,9 @@
     },
     {
       "name": "Trade Uses",
-      "curseforge_id": 902314
+      "curseforge_id": 902314,
+      "version_id": "5489783",
+      "version": "[NeoForge] Trade Uses 1.2.5 - 1.21"
     },
     {
       "name": "Just Enough Mekanism Multiblocks",
@@ -528,7 +568,9 @@
     },
     {
       "name": "Let it Walk!",
-      "curseforge_id": 1780503
+      "curseforge_id": 1780503,
+      "version_id": "9540966",
+      "version": "let_it_walk-0.1.5.jar"
     },
     {
       "name": "Azimuth API",
@@ -562,7 +604,9 @@
     },
     {
       "name": "Kotlin for Forge",
-      "curseforge_id": 351264
+      "curseforge_id": 351264,
+      "version_id": "8335665",
+      "version": "Kotlin for Forge 5.12.0"
     },
     {
       "name": "Elytra Slot",
@@ -572,7 +616,9 @@
     },
     {
       "name": "Caelus API",
-      "curseforge_id": 308989
+      "curseforge_id": 308989,
+      "version_id": "5694215",
+      "version": "caelus-neoforge-7.0.1+1.21.1.jar"
     },
     {
       "name": "Functional Armor Trim",
@@ -642,7 +688,9 @@
     },
     {
       "name": "Fzzy Config",
-      "curseforge_id": 1005914
+      "curseforge_id": 1005914,
+      "version_id": "9326327",
+      "version": "fzzy_config-0.7.7+fix1+1.21+neoforge"
     },
     {
       "name": "Sons Of Sins",
@@ -664,7 +712,9 @@
     },
     {
       "name": "Petrolpark Library",
-      "curseforge_id": 1093595
+      "curseforge_id": 1093595,
+      "version_id": "9259866",
+      "version": "Petrolpark's Library 1.5.12"
     },
     {
       "name": "Create: Extra Gauges",
@@ -674,7 +724,9 @@
     },
     {
       "name": "Create: Deployer API",
-      "curseforge_id": 1516421
+      "curseforge_id": 1516421,
+      "version_id": "8803341",
+      "version": "Deployer [0.1.3]"
     },
     {
       "name": "Create: Fishery Industry",
@@ -732,7 +784,9 @@
     },
     {
       "name": "BaguetteLib",
-      "curseforge_id": 1264423
+      "curseforge_id": 1264423,
+      "version_id": "8887463",
+      "version": "baguettelib-1.21.1-NeoForge-2.0.7.jar"
     },
     {
       "name": "Corpse x Cosmetic Armor Reworked Compat",
@@ -742,7 +796,9 @@
     },
     {
       "name": "Cosmetic Armor Reworked",
-      "curseforge_id": 237307
+      "curseforge_id": 237307,
+      "version_id": "5610814",
+      "version": "cosmeticarmorreworked-1.21.1-v1-neoforge.jar"
     },
     {
       "name": "Polymorph",
@@ -758,7 +814,9 @@
     },
     {
       "name": "GuideME",
-      "curseforge_id": 1173950
+      "curseforge_id": 1173950,
+      "version_id": "9366366",
+      "version": "GuideME 21.1.22"
     },
     {
       "name": "Polymorphic Energistics",
@@ -816,7 +874,9 @@
     },
     {
       "name": "YUNG's API (NeoForge) [1.20.4-1.21.1 ONLY]",
-      "curseforge_id": 1015100
+      "curseforge_id": 1015100,
+      "version_id": "8894736",
+      "version": "[1.21.1] YUNG's API v5.1.9 (NeoForge)"
     },
     {
       "name": "YUNG's Better Mineshafts (NeoForge) [1.20.4 - 1.21.1 ONLY]",
@@ -886,7 +946,9 @@
     },
     {
       "name": "Framework",
-      "curseforge_id": 549225
+      "curseforge_id": 549225,
+      "version_id": "7530361",
+      "version": "Framework 0.13.11"
     },
     {
       "name": "Create Mobile Packages addons",
@@ -905,16 +967,6 @@
       "curseforge_id": 583228,
       "version_id": "7965880",
       "version": "SimpleBackups-1.21-4.0.30.jar"
-    },
-    {
-      "name": "Paxi",
-      "modrinth_id": "CU0PAyzb",
-      "version_id": "CLZfFbCx",
-      "version": "1.21.1-NeoForge-5.1.3"
-    },
-    {
-      "name": "YUNG's API",
-      "modrinth_id": "Ua7DFN59"
     },
     {
       "name": "Create Confectionery",
@@ -948,11 +1000,15 @@
     },
     {
       "name": "Bookshelf",
-      "curseforge_id": 228525
+      "curseforge_id": 228525,
+      "version_id": "7606240",
+      "version": "bookshelf-neoforge-1.21.1-21.1.81.jar"
     },
     {
       "name": "Prickle",
-      "curseforge_id": 1023259
+      "curseforge_id": 1023259,
+      "version_id": "6961457",
+      "version": "prickle-neoforge-1.21.1-21.1.11.jar"
     },
     {
       "name": "Stylecolonies",
@@ -989,9 +1045,383 @@
       "curseforge_id": 1793084,
       "version_id": "9545733",
       "version": "loconautics-0.1.1BETA.jar"
+    },
+    {
+      "name": "Paxi (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+      "curseforge_id": 1015157,
+      "version_id": "6485740",
+      "version": "[1.21.1] Paxi v5.1.3 (NeoForge)"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-11-12T04:38:39.933Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+1 · −2 · 33 actualizados",
+      "changes": [
+        "+ Paxi (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+        "− Paxi",
+        "− YUNG's API",
+        "~ MezzConfig (la más nueva → MezzConfig 0.7.1 for NeoForge 1.21.1)",
+        "~ Searchables (la más nueva → Searchables-neoforge-1.21.1-1.0.2.jar)",
+        "~ Sable (la más nueva → Sable NeoForge 2.0.6 for mc1.21.1)",
+        "~ Cupboard (la más nueva → cupboard-1.21.1-4.2.jar)",
+        "~ Architectury API (la más nueva → [NeoForge 1.21] v13.0.11)",
+        "~ FTB Teams (NeoForge) (la más nueva → [NEOFORGE][1.21.1] FTB Teams 2101.1.12)",
+        "~ Sophisticated Core (la más nueva → sophisticatedcore-1.21.1-1.5.33.2470.jar)",
+        "~ SuperMartijn642's Config Lib (la más nueva → SuperMartijn642's Config Library 1.1.8 for NeoForge 1.21)",
+        "~ SuperMartijn642's Core Lib (la más nueva → SuperMartijn642's Core Lib 1.1.26a for NeoForge 1.21)",
+        "~ Valhelsia Core (la más nueva → [NeoForge] Valhelsia Core - 1.1.5)",
+        "~ ShatterLib | OctoLib (la más nueva → OctoLib-NEOFORGE-0.6.3+1.21.jar)",
+        "~ Curios API (la más nueva → curios-neoforge-9.5.1+1.21.1.jar)",
+        "~ Create: Dragons Plus (la más nueva → Create: Dragons Plus 1.11.9 for Create 1.21.1-6.0.10)",
+        "~ Rechiseled (la más nueva → Rechiseled 1.2.6 for NeoForge 1.21)",
+        "~ Fusion (Connected Textures) (la más nueva → Fusion 1.3.16 for NeoForge 1.21.1)",
+        "~ Resourceful Lib (la más nueva → [NeoForge] Resourceful Lib 3.0.12)",
+        "~ Athena (la más nueva → [NeoForge] Athena 4.0.6)",
+        "~ Create More: Vertical Belts (la más nueva → cmverticaladditions-neoforge-1.0.0.jar)",
+        "~ Create More: Parallel Pipes (la más nueva → cmparallelpipes-neoforge-2.0.2.jar)",
+        "~ Trade Uses (la más nueva → [NeoForge] Trade Uses 1.2.5 - 1.21)",
+        "~ Let it Walk! (la más nueva → let_it_walk-0.1.5.jar)",
+        "~ Kotlin for Forge (la más nueva → Kotlin for Forge 5.12.0)",
+        "~ Caelus API (la más nueva → caelus-neoforge-7.0.1+1.21.1.jar)",
+        "~ Fzzy Config (la más nueva → fzzy_config-0.7.7+fix1+1.21+neoforge)",
+        "~ Petrolpark Library (la más nueva → Petrolpark's Library 1.5.12)",
+        "~ Create: Deployer API (la más nueva → Deployer [0.1.3])",
+        "~ BaguetteLib (la más nueva → baguettelib-1.21.1-NeoForge-2.0.7.jar)",
+        "~ Cosmetic Armor Reworked (la más nueva → cosmeticarmorreworked-1.21.1-v1-neoforge.jar)",
+        "~ GuideME (la más nueva → GuideME 21.1.22)",
+        "~ YUNG's API (NeoForge) [1.20.4-1.21.1 ONLY] (la más nueva → [1.21.1] YUNG's API v5.1.9 (NeoForge))",
+        "~ Framework (la más nueva → Framework 0.13.11)",
+        "~ Bookshelf (la más nueva → bookshelf-neoforge-1.21.1-21.1.81.jar)",
+        "~ Prickle (la más nueva → prickle-neoforge-1.21.1-21.1.11.jar)"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Paxi (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+            "lista": "mods",
+            "clave": "c:1015157"
+          }
+        ],
+        "quitados": [
+          {
+            "nombre": "Paxi",
+            "lista": "mods",
+            "clave": "m:CU0PAyzb"
+          },
+          {
+            "nombre": "YUNG's API",
+            "lista": "mods",
+            "clave": "m:Ua7DFN59"
+          }
+        ],
+        "actualizados": [
+          {
+            "nombre": "MezzConfig",
+            "lista": "mods",
+            "clave": "c:1689768",
+            "de": "la más nueva",
+            "a": "MezzConfig 0.7.1 for NeoForge 1.21.1",
+            "deId": "la más nueva",
+            "aId": "9527937"
+          },
+          {
+            "nombre": "Searchables",
+            "lista": "mods",
+            "clave": "c:858542",
+            "de": "la más nueva",
+            "a": "Searchables-neoforge-1.21.1-1.0.2.jar",
+            "deId": "la más nueva",
+            "aId": "5831692"
+          },
+          {
+            "nombre": "Sable",
+            "lista": "mods",
+            "clave": "c:1312371",
+            "de": "la más nueva",
+            "a": "Sable NeoForge 2.0.6 for mc1.21.1",
+            "deId": "la más nueva",
+            "aId": "9043865"
+          },
+          {
+            "nombre": "Cupboard",
+            "lista": "mods",
+            "clave": "c:326652",
+            "de": "la más nueva",
+            "a": "cupboard-1.21.1-4.2.jar",
+            "deId": "la más nueva",
+            "aId": "8889050"
+          },
+          {
+            "nombre": "Architectury API",
+            "lista": "mods",
+            "clave": "c:419699",
+            "de": "la más nueva",
+            "a": "[NeoForge 1.21] v13.0.11",
+            "deId": "la más nueva",
+            "aId": "8492726"
+          },
+          {
+            "nombre": "FTB Teams (NeoForge)",
+            "lista": "mods",
+            "clave": "c:404468",
+            "de": "la más nueva",
+            "a": "[NEOFORGE][1.21.1] FTB Teams 2101.1.12",
+            "deId": "la más nueva",
+            "aId": "9434081"
+          },
+          {
+            "nombre": "Sophisticated Core",
+            "lista": "mods",
+            "clave": "c:618298",
+            "de": "la más nueva",
+            "a": "sophisticatedcore-1.21.1-1.5.33.2470.jar",
+            "deId": "la más nueva",
+            "aId": "9555037"
+          },
+          {
+            "nombre": "SuperMartijn642's Config Lib",
+            "lista": "mods",
+            "clave": "c:438332",
+            "de": "la más nueva",
+            "a": "SuperMartijn642's Config Library 1.1.8 for NeoForge 1.21",
+            "deId": "la más nueva",
+            "aId": "5546996"
+          },
+          {
+            "nombre": "SuperMartijn642's Core Lib",
+            "lista": "mods",
+            "clave": "c:454372",
+            "de": "la más nueva",
+            "a": "SuperMartijn642's Core Lib 1.1.26a for NeoForge 1.21",
+            "deId": "la más nueva",
+            "aId": "9447150"
+          },
+          {
+            "nombre": "Valhelsia Core",
+            "lista": "mods",
+            "clave": "c:416935",
+            "de": "la más nueva",
+            "a": "[NeoForge] Valhelsia Core - 1.1.5",
+            "deId": "la más nueva",
+            "aId": "6296775"
+          },
+          {
+            "nombre": "ShatterLib | OctoLib",
+            "lista": "mods",
+            "clave": "c:916747",
+            "de": "la más nueva",
+            "a": "OctoLib-NEOFORGE-0.6.3+1.21.jar",
+            "deId": "la más nueva",
+            "aId": "9478818"
+          },
+          {
+            "nombre": "Curios API",
+            "lista": "mods",
+            "clave": "c:309927",
+            "de": "la más nueva",
+            "a": "curios-neoforge-9.5.1+1.21.1.jar",
+            "deId": "la más nueva",
+            "aId": "6529130"
+          },
+          {
+            "nombre": "Create: Dragons Plus",
+            "lista": "mods",
+            "clave": "c:1216624",
+            "de": "la más nueva",
+            "a": "Create: Dragons Plus 1.11.9 for Create 1.21.1-6.0.10",
+            "deId": "la más nueva",
+            "aId": "8900055"
+          },
+          {
+            "nombre": "Rechiseled",
+            "lista": "mods",
+            "clave": "c:558998",
+            "de": "la más nueva",
+            "a": "Rechiseled 1.2.6 for NeoForge 1.21",
+            "deId": "la más nueva",
+            "aId": "8875899"
+          },
+          {
+            "nombre": "Fusion (Connected Textures)",
+            "lista": "mods",
+            "clave": "c:854949",
+            "de": "la más nueva",
+            "a": "Fusion 1.3.16 for NeoForge 1.21.1",
+            "deId": "la más nueva",
+            "aId": "9070353"
+          },
+          {
+            "nombre": "Resourceful Lib",
+            "lista": "mods",
+            "clave": "c:570073",
+            "de": "la más nueva",
+            "a": "[NeoForge] Resourceful Lib 3.0.12",
+            "deId": "la más nueva",
+            "aId": "5973188"
+          },
+          {
+            "nombre": "Athena",
+            "lista": "mods",
+            "clave": "c:841890",
+            "de": "la más nueva",
+            "a": "[NeoForge] Athena 4.0.6",
+            "deId": "la más nueva",
+            "aId": "8061947"
+          },
+          {
+            "nombre": "Create More: Vertical Belts",
+            "lista": "mods",
+            "clave": "c:1455587",
+            "de": "la más nueva",
+            "a": "cmverticaladditions-neoforge-1.0.0.jar",
+            "deId": "la más nueva",
+            "aId": "7584940"
+          },
+          {
+            "nombre": "Create More: Parallel Pipes",
+            "lista": "mods",
+            "clave": "c:1283321",
+            "de": "la más nueva",
+            "a": "cmparallelpipes-neoforge-2.0.2.jar",
+            "deId": "la más nueva",
+            "aId": "7377910"
+          },
+          {
+            "nombre": "Trade Uses",
+            "lista": "mods",
+            "clave": "c:902314",
+            "de": "la más nueva",
+            "a": "[NeoForge] Trade Uses 1.2.5 - 1.21",
+            "deId": "la más nueva",
+            "aId": "5489783"
+          },
+          {
+            "nombre": "Let it Walk!",
+            "lista": "mods",
+            "clave": "c:1780503",
+            "de": "la más nueva",
+            "a": "let_it_walk-0.1.5.jar",
+            "deId": "la más nueva",
+            "aId": "9540966"
+          },
+          {
+            "nombre": "Kotlin for Forge",
+            "lista": "mods",
+            "clave": "c:351264",
+            "de": "la más nueva",
+            "a": "Kotlin for Forge 5.12.0",
+            "deId": "la más nueva",
+            "aId": "8335665"
+          },
+          {
+            "nombre": "Caelus API",
+            "lista": "mods",
+            "clave": "c:308989",
+            "de": "la más nueva",
+            "a": "caelus-neoforge-7.0.1+1.21.1.jar",
+            "deId": "la más nueva",
+            "aId": "5694215"
+          },
+          {
+            "nombre": "Fzzy Config",
+            "lista": "mods",
+            "clave": "c:1005914",
+            "de": "la más nueva",
+            "a": "fzzy_config-0.7.7+fix1+1.21+neoforge",
+            "deId": "la más nueva",
+            "aId": "9326327"
+          },
+          {
+            "nombre": "Petrolpark Library",
+            "lista": "mods",
+            "clave": "c:1093595",
+            "de": "la más nueva",
+            "a": "Petrolpark's Library 1.5.12",
+            "deId": "la más nueva",
+            "aId": "9259866"
+          },
+          {
+            "nombre": "Create: Deployer API",
+            "lista": "mods",
+            "clave": "c:1516421",
+            "de": "la más nueva",
+            "a": "Deployer [0.1.3]",
+            "deId": "la más nueva",
+            "aId": "8803341"
+          },
+          {
+            "nombre": "BaguetteLib",
+            "lista": "mods",
+            "clave": "c:1264423",
+            "de": "la más nueva",
+            "a": "baguettelib-1.21.1-NeoForge-2.0.7.jar",
+            "deId": "la más nueva",
+            "aId": "8887463"
+          },
+          {
+            "nombre": "Cosmetic Armor Reworked",
+            "lista": "mods",
+            "clave": "c:237307",
+            "de": "la más nueva",
+            "a": "cosmeticarmorreworked-1.21.1-v1-neoforge.jar",
+            "deId": "la más nueva",
+            "aId": "5610814"
+          },
+          {
+            "nombre": "GuideME",
+            "lista": "mods",
+            "clave": "c:1173950",
+            "de": "la más nueva",
+            "a": "GuideME 21.1.22",
+            "deId": "la más nueva",
+            "aId": "9366366"
+          },
+          {
+            "nombre": "YUNG's API (NeoForge) [1.20.4-1.21.1 ONLY]",
+            "lista": "mods",
+            "clave": "c:1015100",
+            "de": "la más nueva",
+            "a": "[1.21.1] YUNG's API v5.1.9 (NeoForge)",
+            "deId": "la más nueva",
+            "aId": "8894736"
+          },
+          {
+            "nombre": "Framework",
+            "lista": "mods",
+            "clave": "c:549225",
+            "de": "la más nueva",
+            "a": "Framework 0.13.11",
+            "deId": "la más nueva",
+            "aId": "7530361"
+          },
+          {
+            "nombre": "Bookshelf",
+            "lista": "mods",
+            "clave": "c:228525",
+            "de": "la más nueva",
+            "a": "bookshelf-neoforge-1.21.1-21.1.81.jar",
+            "deId": "la más nueva",
+            "aId": "7606240"
+          },
+          {
+            "nombre": "Prickle",
+            "lista": "mods",
+            "clave": "c:1023259",
+            "de": "la más nueva",
+            "a": "prickle-neoforge-1.21.1-21.1.11.jar",
+            "deId": "la más nueva",
+            "aId": "6961457"
+          }
+        ],
+        "campos": [],
+        "extras": null,
+        "cuantos": 36,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-11-12T04:13:15.135Z",
       "version": "1.0.0",
@@ -1636,120 +2066,6 @@
         "campos": [],
         "extras": null,
         "cuantos": 12,
-        "hayCambios": true
-      }
-    },
-    {
-      "date": "2026-11-06T05:27:31.452Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "+16",
-      "changes": [
-        "+ Corpse",
-        "+ Corpse x Curios API Compat",
-        "+ BaguetteLib",
-        "+ Corpse x Cosmetic Armor Reworked Compat",
-        "+ Cosmetic Armor Reworked",
-        "+ Polymorph",
-        "+ Applied Energistics 2",
-        "+ GuideME",
-        "+ Polymorphic Energistics",
-        "+ Create Stock Bridge",
-        "+ MineColonies",
-        "+ Domum Ornamentum",
-        "+ Structurize",
-        "+ TownTalk",
-        "+ Multi-Piston",
-        "+ BlockUI"
-      ],
-      "cambios": {
-        "agregados": [
-          {
-            "nombre": "Corpse",
-            "lista": "mods",
-            "clave": "c:316582"
-          },
-          {
-            "nombre": "Corpse x Curios API Compat",
-            "lista": "mods",
-            "clave": "c:1138130"
-          },
-          {
-            "nombre": "BaguetteLib",
-            "lista": "mods",
-            "clave": "c:1264423"
-          },
-          {
-            "nombre": "Corpse x Cosmetic Armor Reworked Compat",
-            "lista": "mods",
-            "clave": "c:1208436"
-          },
-          {
-            "nombre": "Cosmetic Armor Reworked",
-            "lista": "mods",
-            "clave": "c:237307"
-          },
-          {
-            "nombre": "Polymorph",
-            "lista": "mods",
-            "clave": "c:388800"
-          },
-          {
-            "nombre": "Applied Energistics 2",
-            "lista": "mods",
-            "clave": "c:223794"
-          },
-          {
-            "nombre": "GuideME",
-            "lista": "mods",
-            "clave": "c:1173950"
-          },
-          {
-            "nombre": "Polymorphic Energistics",
-            "lista": "mods",
-            "clave": "c:941096"
-          },
-          {
-            "nombre": "Create Stock Bridge",
-            "lista": "mods",
-            "clave": "c:1256341"
-          },
-          {
-            "nombre": "MineColonies",
-            "lista": "mods",
-            "clave": "c:245506"
-          },
-          {
-            "nombre": "Domum Ornamentum",
-            "lista": "mods",
-            "clave": "c:527361"
-          },
-          {
-            "nombre": "Structurize",
-            "lista": "mods",
-            "clave": "c:298744"
-          },
-          {
-            "nombre": "TownTalk",
-            "lista": "mods",
-            "clave": "c:900364"
-          },
-          {
-            "nombre": "Multi-Piston",
-            "lista": "mods",
-            "clave": "c:303278"
-          },
-          {
-            "nombre": "BlockUI",
-            "lista": "mods",
-            "clave": "c:522992"
-          }
-        ],
-        "quitados": [],
-        "actualizados": [],
-        "campos": [],
-        "extras": null,
-        "cuantos": 16,
         "hayCambios": true
       }
     }
