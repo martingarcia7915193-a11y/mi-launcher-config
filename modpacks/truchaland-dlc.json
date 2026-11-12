@@ -1069,9 +1069,75 @@
       "curseforge_id": 230976,
       "version_id": "5849090",
       "version": "FastLeafDecay-35.jar"
+    },
+    {
+      "name": "RightClickHarvest",
+      "curseforge_id": 452834,
+      "version_id": "7508749",
+      "version": "V4.6.1+1.21.1 (NeoForge 1.21.1)"
+    },
+    {
+      "name": "JamLib",
+      "curseforge_id": 623764,
+      "version_id": "7766752",
+      "version": "V1.3.6+1.21.1 (NeoForge 1.21.1)"
+    },
+    {
+      "name": "Double Doors",
+      "curseforge_id": 348831,
+      "version_id": "9255519",
+      "version": "[Fabric/Forge/Neo] 1.21.1-7.5 | Double Doors"
+    },
+    {
+      "name": "Collective",
+      "curseforge_id": 342584,
+      "version_id": "9548438",
+      "version": "[Fabric/Forge/Neo] 1.21.1-8.86 | Collective"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-11-12T06:30:02.663Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+4",
+      "changes": [
+        "+ RightClickHarvest",
+        "+ JamLib",
+        "+ Double Doors",
+        "+ Collective"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "RightClickHarvest",
+            "lista": "mods",
+            "clave": "c:452834"
+          },
+          {
+            "nombre": "JamLib",
+            "lista": "mods",
+            "clave": "c:623764"
+          },
+          {
+            "nombre": "Double Doors",
+            "lista": "mods",
+            "clave": "c:348831"
+          },
+          {
+            "nombre": "Collective",
+            "lista": "mods",
+            "clave": "c:342584"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 4,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-11-12T05:12:06.224Z",
       "version": "1.0.0",
@@ -1982,42 +2048,6 @@
         "campos": [],
         "extras": null,
         "cuantos": 7,
-        "hayCambios": true
-      }
-    },
-    {
-      "date": "2026-11-06T05:50:16.682Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "−3",
-      "changes": [
-        "− Terralith",
-        "− Lithostitched",
-        "− Vanilla Backport Compat"
-      ],
-      "cambios": {
-        "agregados": [],
-        "quitados": [
-          {
-            "nombre": "Terralith",
-            "lista": "mods",
-            "clave": "c:513688"
-          },
-          {
-            "nombre": "Lithostitched",
-            "lista": "mods",
-            "clave": "c:936015"
-          },
-          {
-            "nombre": "Vanilla Backport Compat",
-            "lista": "datapacks",
-            "clave": "m:jcYHXHwz"
-          }
-        ],
-        "actualizados": [],
-        "campos": [],
-        "extras": null,
-        "cuantos": 3,
         "hayCambios": true
       }
     }
