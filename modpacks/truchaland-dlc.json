@@ -1051,9 +1051,39 @@
       "curseforge_id": 1015157,
       "version_id": "6485740",
       "version": "[1.21.1] Paxi v5.1.3 (NeoForge)"
+    },
+    {
+      "name": "Lootr (Forge & NeoForge)",
+      "curseforge_id": 361276,
+      "version_id": "8968561",
+      "version": "lootr-neoforge-1.21.1-1.11.38.127"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-11-12T04:38:56.670Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+1",
+      "changes": [
+        "+ Lootr (Forge & NeoForge)"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Lootr (Forge & NeoForge)",
+            "lista": "mods",
+            "clave": "c:361276"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-11-12T04:38:39.933Z",
       "version": "1.0.0",
@@ -1976,96 +2006,6 @@
         "campos": [],
         "extras": null,
         "cuantos": 1,
-        "hayCambios": true
-      }
-    },
-    {
-      "date": "2026-11-06T05:31:49.683Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "+12",
-      "changes": [
-        "+ YUNG's Better Strongholds (NeoForge) [1.20.4 - 1.21.1 ONLY]",
-        "+ YUNG's API (NeoForge) [1.20.4-1.21.1 ONLY]",
-        "+ YUNG's Better Mineshafts (NeoForge) [1.20.4 - 1.21.1 ONLY]",
-        "+ YUNG's Better Dungeons (NeoForge) [1.20.4 - 1.21.1 ONLY]",
-        "+ YUNG's Better Nether Fortresses (NeoForge) [1.20.4 - 1.21.1 ONLY]",
-        "+ YUNG's Better Jungle Temples (NeoForge) [1.20.4 - 1.21.1 ONLY]",
-        "+ YUNG's Better Ocean Monuments (NeoForge) [1.20.4 - 1.21.1 ONLY]",
-        "+ YUNG's Better Witch Huts (NeoForge) [1.20.4 - 1.21.1 ONLY]",
-        "+ YUNG's Better Desert Temples (NeoForge) [1.20.4 - 1.21.1 ONLY]",
-        "+ Van Backport Compat",
-        "+ Vanilla Backport",
-        "+ Platform"
-      ],
-      "cambios": {
-        "agregados": [
-          {
-            "nombre": "YUNG's Better Strongholds (NeoForge) [1.20.4 - 1.21.1 ONLY]",
-            "lista": "mods",
-            "clave": "c:1015105"
-          },
-          {
-            "nombre": "YUNG's API (NeoForge) [1.20.4-1.21.1 ONLY]",
-            "lista": "mods",
-            "clave": "c:1015100"
-          },
-          {
-            "nombre": "YUNG's Better Mineshafts (NeoForge) [1.20.4 - 1.21.1 ONLY]",
-            "lista": "mods",
-            "clave": "c:1015096"
-          },
-          {
-            "nombre": "YUNG's Better Dungeons (NeoForge) [1.20.4 - 1.21.1 ONLY]",
-            "lista": "mods",
-            "clave": "c:1015112"
-          },
-          {
-            "nombre": "YUNG's Better Nether Fortresses (NeoForge) [1.20.4 - 1.21.1 ONLY]",
-            "lista": "mods",
-            "clave": "c:1015118"
-          },
-          {
-            "nombre": "YUNG's Better Jungle Temples (NeoForge) [1.20.4 - 1.21.1 ONLY]",
-            "lista": "mods",
-            "clave": "c:1015123"
-          },
-          {
-            "nombre": "YUNG's Better Ocean Monuments (NeoForge) [1.20.4 - 1.21.1 ONLY]",
-            "lista": "mods",
-            "clave": "c:1015115"
-          },
-          {
-            "nombre": "YUNG's Better Witch Huts (NeoForge) [1.20.4 - 1.21.1 ONLY]",
-            "lista": "mods",
-            "clave": "c:1015144"
-          },
-          {
-            "nombre": "YUNG's Better Desert Temples (NeoForge) [1.20.4 - 1.21.1 ONLY]",
-            "lista": "mods",
-            "clave": "c:1015114"
-          },
-          {
-            "nombre": "Van Backport Compat",
-            "lista": "mods",
-            "clave": "c:1388531"
-          },
-          {
-            "nombre": "Vanilla Backport",
-            "lista": "mods",
-            "clave": "c:417430"
-          },
-          {
-            "nombre": "Platform",
-            "lista": "mods",
-            "clave": "c:997634"
-          }
-        ],
-        "quitados": [],
-        "actualizados": [],
-        "campos": [],
-        "extras": null,
-        "cuantos": 12,
         "hayCambios": true
       }
     }
