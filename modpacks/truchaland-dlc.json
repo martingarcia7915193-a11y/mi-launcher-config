@@ -1063,9 +1063,39 @@
       "curseforge_id": 276951,
       "version_id": "7515858",
       "version": "comforts-neoforge-9.0.5+1.21.1.jar"
+    },
+    {
+      "name": "Fast Leaf Decay",
+      "curseforge_id": 230976,
+      "version_id": "5849090",
+      "version": "FastLeafDecay-35.jar"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-11-12T05:12:06.224Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+1",
+      "changes": [
+        "+ Fast Leaf Decay"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Fast Leaf Decay",
+            "lista": "mods",
+            "clave": "c:230976"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-11-12T05:06:16.682Z",
       "version": "1.0.0",
@@ -1988,30 +2018,6 @@
         "campos": [],
         "extras": null,
         "cuantos": 3,
-        "hayCambios": true
-      }
-    },
-    {
-      "date": "2026-11-06T05:42:05.196Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "+1",
-      "changes": [
-        "+ Vanilla Backport Compat"
-      ],
-      "cambios": {
-        "agregados": [
-          {
-            "nombre": "Vanilla Backport Compat",
-            "lista": "datapacks",
-            "clave": "m:jcYHXHwz"
-          }
-        ],
-        "quitados": [],
-        "actualizados": [],
-        "campos": [],
-        "extras": null,
-        "cuantos": 1,
         "hayCambios": true
       }
     }
