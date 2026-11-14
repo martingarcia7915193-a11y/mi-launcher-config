@@ -1093,9 +1093,51 @@
       "curseforge_id": 342584,
       "version_id": "9548438",
       "version": "[Fabric/Forge/Neo] 1.21.1-8.86 | Collective"
+    },
+    {
+      "name": "Create: Pocket Sized",
+      "curseforge_id": 1672138,
+      "version_id": "9389224",
+      "version": "pocket-0.24.1.jar"
+    },
+    {
+      "name": "Pehkui",
+      "curseforge_id": 319596,
+      "version_id": "5446174",
+      "version": "[1.21] [NeoForge] Pehkui 3.8.3"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-11-14T05:52:03.968Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+2",
+      "changes": [
+        "+ Create: Pocket Sized",
+        "+ Pehkui"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Create: Pocket Sized",
+            "lista": "mods",
+            "clave": "c:1672138"
+          },
+          {
+            "nombre": "Pehkui",
+            "lista": "mods",
+            "clave": "c:319596"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 2,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-11-12T06:30:02.663Z",
       "version": "1.0.0",
@@ -1988,66 +2030,6 @@
         "campos": [],
         "extras": null,
         "cuantos": 1,
-        "hayCambios": true
-      }
-    },
-    {
-      "date": "2026-11-11T00:54:16.216Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "+7",
-      "changes": [
-        "+ Handcrafted",
-        "+ MrCrayfish's Furniture Mod: Refurbished",
-        "+ Framework",
-        "+ Create Mobile Packages addons",
-        "+ Create: Bits 'n' Tracks",
-        "+ Concurrent Chunk Management Engine",
-        "+ ScalableLux"
-      ],
-      "cambios": {
-        "agregados": [
-          {
-            "nombre": "Handcrafted",
-            "lista": "mods",
-            "clave": "c:538214"
-          },
-          {
-            "nombre": "MrCrayfish's Furniture Mod: Refurbished",
-            "lista": "mods",
-            "clave": "c:897116"
-          },
-          {
-            "nombre": "Framework",
-            "lista": "mods",
-            "clave": "c:549225"
-          },
-          {
-            "nombre": "Create Mobile Packages addons",
-            "lista": "mods",
-            "clave": "c:1589524"
-          },
-          {
-            "nombre": "Create: Bits 'n' Tracks",
-            "lista": "mods",
-            "clave": "c:1569156"
-          },
-          {
-            "nombre": "Concurrent Chunk Management Engine",
-            "lista": "mods",
-            "clave": "c:533097"
-          },
-          {
-            "nombre": "ScalableLux",
-            "lista": "mods",
-            "clave": "c:1055925"
-          }
-        ],
-        "quitados": [],
-        "actualizados": [],
-        "campos": [],
-        "extras": null,
-        "cuantos": 7,
         "hayCambios": true
       }
     }
