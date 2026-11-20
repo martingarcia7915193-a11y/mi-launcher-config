@@ -1105,9 +1105,39 @@
       "curseforge_id": 319596,
       "version_id": "5446174",
       "version": "[1.21] [NeoForge] Pehkui 3.8.3"
+    },
+    {
+      "name": "FTB Chunks (NeoForge)",
+      "curseforge_id": 314906,
+      "version_id": "9594476",
+      "version": "[NEOFORGE][1.21.1] FTB Chunks 2101.1.24"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-11-20T07:00:29.466Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+1",
+      "changes": [
+        "+ FTB Chunks (NeoForge)"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "FTB Chunks (NeoForge)",
+            "lista": "mods",
+            "clave": "c:314906"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-11-14T05:52:03.968Z",
       "version": "1.0.0",
@@ -2000,30 +2030,6 @@
             "nombre": "Create: Bits 'n' Tracks",
             "lista": "mods",
             "clave": "c:1569156"
-          }
-        ],
-        "actualizados": [],
-        "campos": [],
-        "extras": null,
-        "cuantos": 1,
-        "hayCambios": true
-      }
-    },
-    {
-      "date": "2026-11-11T00:55:22.945Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "−1",
-      "changes": [
-        "− ScalableLux"
-      ],
-      "cambios": {
-        "agregados": [],
-        "quitados": [
-          {
-            "nombre": "ScalableLux",
-            "lista": "mods",
-            "clave": "c:1055925"
           }
         ],
         "actualizados": [],
