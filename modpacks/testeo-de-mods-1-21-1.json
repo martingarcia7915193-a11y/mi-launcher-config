@@ -1,0 +1,10 @@
+{
+  "id": "testeo-de-mods-1-21-1",
+  "name": "Testeo de Mods 1.21.1",
+  "version": "1.0.0",
+  "minecraft_version": "1.21.1",
+  "modloader": "neoforge",
+  "category": "oficiales",
+  "modloader_version": "21.1.267",
+  "description": "Aca quiero probar mods :v"
+}
