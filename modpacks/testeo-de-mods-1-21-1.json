@@ -115,9 +115,39 @@
       "curseforge_id": 419699,
       "version_id": "9608861",
       "version": "[NeoForge 1.21] v13.0.12"
+    },
+    {
+      "name": "Concurrent Chunk Management Engine",
+      "curseforge_id": 533097,
+      "version_id": "9344813",
+      "version": "0.4.0-alpha.0.124 backport devbuild for 1.21.1"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-11-22T02:46:13.918Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+1",
+      "changes": [
+        "+ Concurrent Chunk Management Engine"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Concurrent Chunk Management Engine",
+            "lista": "mods",
+            "clave": "c:533097"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-11-22T02:45:15.608Z",
       "version": "1.0.0",
