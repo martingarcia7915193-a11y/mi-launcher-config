@@ -1123,9 +1123,51 @@
       "curseforge_id": 790626,
       "version_id": "9309399",
       "version": "modernfix-neoforge-5.27.27+mc1.21.1.jar"
+    },
+    {
+      "name": "Spice of Life: Carrot Edition",
+      "curseforge_id": 277616,
+      "version_id": "7374098",
+      "version": "solcarrot-1.21.1-1.16.6.jar"
+    },
+    {
+      "name": "Inventory Sorter",
+      "curseforge_id": 240633,
+      "version_id": "7188660",
+      "version": "inventorysorter 24.0.24"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-11-22T03:39:07.962Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+2",
+      "changes": [
+        "+ Spice of Life: Carrot Edition",
+        "+ Inventory Sorter"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Spice of Life: Carrot Edition",
+            "lista": "mods",
+            "clave": "c:277616"
+          },
+          {
+            "nombre": "Inventory Sorter",
+            "lista": "mods",
+            "clave": "c:240633"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 2,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-11-22T02:59:38.736Z",
       "version": "1.0.0",
@@ -2016,30 +2058,6 @@
         "campos": [],
         "extras": null,
         "cuantos": 2,
-        "hayCambios": true
-      }
-    },
-    {
-      "date": "2026-11-11T01:08:35.627Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "−1",
-      "changes": [
-        "− Create: The Factory Must Grow"
-      ],
-      "cambios": {
-        "agregados": [],
-        "quitados": [
-          {
-            "nombre": "Create: The Factory Must Grow",
-            "lista": "mods",
-            "clave": "c:693815"
-          }
-        ],
-        "actualizados": [],
-        "campos": [],
-        "extras": null,
-        "cuantos": 1,
         "hayCambios": true
       }
     }
