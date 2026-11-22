@@ -1111,9 +1111,51 @@
       "curseforge_id": 314906,
       "version_id": "9594476",
       "version": "[NEOFORGE][1.21.1] FTB Chunks 2101.1.24"
+    },
+    {
+      "name": "FerriteCore ((Neo)Forge)",
+      "curseforge_id": 429235,
+      "version_id": "7524151",
+      "version": "ferritecore-7.0.3-neoforge"
+    },
+    {
+      "name": "ModernFix",
+      "curseforge_id": 790626,
+      "version_id": "9309399",
+      "version": "modernfix-neoforge-5.27.27+mc1.21.1.jar"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-11-22T02:59:38.736Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+2",
+      "changes": [
+        "+ FerriteCore ((Neo)Forge)",
+        "+ ModernFix"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "FerriteCore ((Neo)Forge)",
+            "lista": "mods",
+            "clave": "c:429235"
+          },
+          {
+            "nombre": "ModernFix",
+            "lista": "mods",
+            "clave": "c:790626"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 2,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-11-21T02:59:28.874Z",
       "version": "1.0.0",
@@ -1998,48 +2040,6 @@
         "campos": [],
         "extras": null,
         "cuantos": 1,
-        "hayCambios": true
-      }
-    },
-    {
-      "date": "2026-11-11T01:05:43.563Z",
-      "version": "1.0.0",
-      "author": "Martion000",
-      "resumen": "+4",
-      "changes": [
-        "+ Simple Backups",
-        "+ Create: The Factory Must Grow",
-        "+ Tom's Create Style",
-        "+ Tom's Create Style Recipes"
-      ],
-      "cambios": {
-        "agregados": [
-          {
-            "nombre": "Simple Backups",
-            "lista": "mods",
-            "clave": "c:583228"
-          },
-          {
-            "nombre": "Create: The Factory Must Grow",
-            "lista": "mods",
-            "clave": "c:693815"
-          },
-          {
-            "nombre": "Tom's Create Style",
-            "lista": "resourcepacks",
-            "clave": "c:1265683"
-          },
-          {
-            "nombre": "Tom's Create Style Recipes",
-            "lista": "datapacks",
-            "clave": "c:1266888"
-          }
-        ],
-        "quitados": [],
-        "actualizados": [],
-        "campos": [],
-        "extras": null,
-        "cuantos": 4,
         "hayCambios": true
       }
     }
