@@ -121,9 +121,39 @@
       "curseforge_id": 533097,
       "version_id": "9344813",
       "version": "0.4.0-alpha.0.124 backport devbuild for 1.21.1"
+    },
+    {
+      "name": "Create: Copycats+",
+      "curseforge_id": 968398,
+      "version_id": "9504789",
+      "version": "copycats-3.0.11+mc.1.21.1-neoforge"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-11-23T23:55:52.460Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "+1",
+      "changes": [
+        "+ Create: Copycats+"
+      ],
+      "cambios": {
+        "agregados": [
+          {
+            "nombre": "Create: Copycats+",
+            "lista": "mods",
+            "clave": "c:968398"
+          }
+        ],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": null,
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-11-22T02:46:13.918Z",
       "version": "1.0.0",
