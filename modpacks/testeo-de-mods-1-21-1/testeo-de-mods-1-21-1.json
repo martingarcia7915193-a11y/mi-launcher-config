@@ -27,6 +27,12 @@
       "version": "xaerominimap-neoforge-1.21.1-26.6.0.jar"
     },
     {
+      "name": "MezzConfig",
+      "curseforge_id": 1689768,
+      "version_id": "9527937",
+      "version": "MezzConfig 0.7.1 for NeoForge 1.21.1"
+    },
+    {
       "name": "Create Aeronautics",
       "curseforge_id": 676721,
       "version_id": "9711672",
@@ -43,12 +49,6 @@
       "curseforge_id": 238222,
       "version_id": "9717805",
       "version": "19.71.0.475 for NeoForge 1.21.1"
-    },
-    {
-      "name": "MezzConfig",
-      "curseforge_id": 1689768,
-      "version_id": "9527937",
-      "version": "MezzConfig 0.7.1 for NeoForge 1.21.1"
     },
     {
       "name": "Create: Loconautics",
@@ -130,6 +130,28 @@
     }
   ],
   "changelog": [
+    {
+      "date": "2026-11-23T23:57:38.359Z",
+      "version": "1.0.0",
+      "author": "Martion000",
+      "resumen": "configs",
+      "changes": [
+        "~ Configs actualizados"
+      ],
+      "cambios": {
+        "agregados": [],
+        "quitados": [],
+        "actualizados": [],
+        "campos": [],
+        "extras": {
+          "de": null,
+          "a": 1,
+          "primeraVez": true
+        },
+        "cuantos": 1,
+        "hayCambios": true
+      }
+    },
     {
       "date": "2026-11-23T23:55:52.460Z",
       "version": "1.0.0",
@@ -322,5 +344,13 @@
         "hayCambios": true
       }
     }
-  ]
+  ],
+  "extras_files": [
+    {
+      "path": "options.txt",
+      "sha": "f2217ee587d34e608dcff7e48e19ca7466e6e744",
+      "size": 6181
+    }
+  ],
+  "extras_version": 1
 }
